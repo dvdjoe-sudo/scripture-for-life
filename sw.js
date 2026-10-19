@@ -1,12 +1,19 @@
 /* Scripture for Life offline support for the WEB build.
    Capacitor Android carries its web assets inside the application. */
-const VERSION = 'scripture-for-life-shell-v11';
+const VERSION = 'scripture-for-life-shell-v12';
 const CORE = [
   './', './index.html', './app.js', './styles.css', './genesis.js',
   './genesis.css', './psalm-walk.js', './psalm-walk.css', './psalm46.js', './data.js', './content.js', './icon.svg',
   './assets/psalm23/verse-1-watercolor.webp', './assets/psalm23/verse-2-watercolor.webp',
   './assets/psalm23/verse-3-watercolor.webp', './assets/psalm23/verse-4-watercolor.webp',
   './assets/psalm23/verse-5-watercolor.webp', './assets/psalm23/verse-6-watercolor.webp',
+  './psalm-verse-study.js', './psalm-verse-study.css', './psalm1.js',
+  './assets/psalm1/verse-1-watercolor.webp',
+  './assets/psalm1/verse-2-watercolor.webp',
+  './assets/psalm1/verse-3-watercolor.webp',
+  './assets/psalm1/verse-4-watercolor.webp',
+  './assets/psalm1/verse-5-watercolor.webp',
+  './assets/psalm1/verse-6-watercolor.webp',
   './psalms-content.js', './psalms-book.js', './psalms-book.css',
   './assets/psalms/tree-watercolor.webp',
   './assets/psalms/night-watercolor.webp',
