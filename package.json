@@ -5,7 +5,7 @@
   "description": "Original Scripture for Life website plus Android Capacitor starter",
   "scripts": {
     "build": "node scripts/build-web.mjs && node scripts/verify-web.mjs",
-    "check": "npm run build && node --check app.js && node --check genesis.js && node --check psalm46.js && node --check study-trail.js && node --check psalm-navigation.js && node --check www/app.js && node --check www/genesis.js && node --check www/psalm46.js && node scripts/verify-psalm46.mjs && node scripts/verify-study-trail.mjs",
+    "check": "npm run build && node --check app.js && node --check genesis.js && node --check psalm46.js && node --check psalm-art.js && node --check psalm-navigation.js && node --check www/app.js && node --check www/genesis.js && node --check www/psalm46.js && node scripts/verify-psalm46.mjs && node scripts/verify-psalm-art.mjs",
     "android:add": "npx cap add android",
     "android:sync": "npm run build && npx cap sync android",
     "android:open": "npx cap open android",

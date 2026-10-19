@@ -10,7 +10,7 @@ const webDir = path.join(root, 'www');
 const entries = [
   'index.html', 'app.js', 'styles.css', 'genesis.js', 'genesis.css',
   'psalm-walk.js', 'psalm-walk.css', 'psalm46.js',
-  'study-trail.js', 'study-trail.css', 'psalm-navigation.js',
+  'psalm-art.js', 'psalm-art.css', 'psalm-navigation.js',
   'data.js', 'content.js', 'icon.svg', 'manifest.webmanifest', 'sw.js',
   'assets', 'data'
 ];

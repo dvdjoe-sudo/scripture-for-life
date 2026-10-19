@@ -6,7 +6,7 @@ import {fileURLToPath} from 'node:url';
 
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const context={window:{},document:{addEventListener(){}},localStorage:{getItem(){return null},setItem(){}},location:{hash:'#/study/46/1'}};
-for(const file of ['data.js','content.js','psalm46.js','study-trail.js','psalm-navigation.js'])vm.runInNewContext(fs.readFileSync(path.join(root,file),'utf8'),context,{filename:file});
+for(const file of ['data.js','content.js','psalm46.js','psalm-art.js','psalm-navigation.js'])vm.runInNewContext(fs.readFileSync(path.join(root,file),'utf8'),context,{filename:file});
 const study=context.window.SFL_PSALM46;
 const bible=JSON.parse(fs.readFileSync(path.join(root,'data/bible.json'),'utf8')).books;
 const chapter=Object.fromEntries(bible[18].chapters[45]);

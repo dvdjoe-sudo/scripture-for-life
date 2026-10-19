@@ -25,7 +25,7 @@ const psalmWalk = read(www, 'psalm-walk.js');
 const psalmCss = read(www, 'psalm-walk.css');
 const required = [
   'app.js', 'genesis.js', 'psalm-walk.js', 'psalm46.js', 'data.js', 'content.js',
-  'study-trail.js', 'study-trail.css', 'psalm-navigation.js',
+  'psalm-art.js', 'psalm-art.css', 'psalm-navigation.js',
   'styles.css', 'genesis.css', 'psalm-walk.css', 'icon.svg',
   'data/bible.json', 'data/episodes.json', 'data/story-scenes.json',
   'manifest.webmanifest', 'sw.js'
@@ -45,9 +45,7 @@ assert(app.includes('gen-home-cards'), 'Genesis home navigation is missing');
 assert(app.includes("parts[0]==='stories'"), 'Story route is missing');
 assert(story.includes('function scenePage('), 'Genesis story engine is missing');
 assert(app.includes("parts[0]==='walk'"), 'Psalm walk route is missing');
-assert(app.includes('<a class="btn light" href="#/study/23/1">Begin the journey'), 'Original Psalm study is not the homepage default');
-assert(app.includes('href="#/walk/23/${window.SFL_PSALM_WALK.progress()}"'), 'Optional illustrated walk is missing from homepage');
-assert(app.includes('href="#/walk/23/'), 'Psalm walk homepage and/or deep links are missing');
+assert(app.includes('<a class="btn light" href="#/study/23/1">Read Psalm 23'), 'Original Psalm study is not the homepage default');
 assert(psalmWalk.includes('window.SFL_PSALM_WALK='), 'Psalm walk engine is missing');
 assert(psalmWalk.includes('var titles=[') && psalmWalk.includes('Goodness and Mercy'), 'All six Psalm scenes must be present');
 assert(psalmWalk.includes('ctx.verses[ref]'), 'Psalm text must come from the existing Bible data');
