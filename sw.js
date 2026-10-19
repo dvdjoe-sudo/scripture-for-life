@@ -1,1 +1,47 @@
-const CACHE='scripture-life-v4';const ASSETS=['./','./index.html','./assets/app.js','./assets/style.css','./data/episodes.json','./data/story-scenes.json','./data/journey.json','./data/bible.json'];self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting())));self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));self.addEventListener('fetch',e=>{if(e.request.method!=='GET')return;e.respondWith(caches.match(e.request).then(a=>a||fetch(e.request).then(r=>{if(r.ok&&new URL(e.request.url).origin===self.location.origin)caches.open(CACHE).then(c=>c.put(e.request,r.clone()));return r})))})
+/* Scripture for Life offline support for the WEB build.
+   Capacitor Android carries its web assets inside the application. */
+const VERSION = 'scripture-for-life-shell-v5';
+const CORE = [
+  './', './index.html', './app.js', './styles.css', './genesis.js',
+  './genesis.css', './data.js', './content.js', './icon.svg',
+  './manifest.webmanifest', './data/bible.json',
+  './data/episodes.json', './data/story-scenes.json'
+];
+self.addEventListener('install', event => {
+  event.waitUntil(
+    caches.open(VERSION)
+      .then(cache => cache.addAll(CORE))
+      .then(() => self.skipWaiting())
+  );
+});
+self.addEventListener('activate', event => {
+  event.waitUntil(
+    caches.keys()
+      .then(keys => Promise.all(keys.filter(k => k.startsWith('scripture-for-life-') && k !== VERSION).map(k => caches.delete(k))))
+      .then(() => self.clients.claim())
+  );
+});
+self.addEventListener('fetch', event => {
+  const request = event.request;
+  const url = new URL(request.url);
+  if (request.method !== 'GET' || url.origin !== self.location.origin) return;
+  // Online first prevents a stale cached homepage from hiding new Genesis updates.
+  event.respondWith((async () => {
+    try {
+      const response = await fetch(request);
+      if (response.ok) {
+        const copy = response.clone();
+        event.waitUntil(caches.open(VERSION).then(cache => cache.put(request, copy)));
+      }
+      return response;
+    } catch {
+      const cached = await caches.match(request);
+      if (cached) return cached;
+      if (request.mode === 'navigate') {
+        const page = await caches.match(new URL('./index.html', self.registration.scope));
+        if (page) return page;
+      }
+      return Response.error();
+    }
+  })());
+});

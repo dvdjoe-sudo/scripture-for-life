@@ -1,0 +1,35 @@
+name: Verify website and Android assets
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+      - 'fix/**'
+      - 'feature/**'
+jobs:
+  web-and-capacitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verify website and bundled assets
+        run: npm run check
+      - name: Install Capacitor
+        run: npm install --no-audit --no-fund
+      - name: Install headless Chromium
+        run: npx playwright install --with-deps chromium
+      - name: Smoke-test source website and packaged Android webview
+        run: npm run smoke:web
+      - name: Create Android project from the same web bundle
+        run: |
+          npx cap add android
+          npx cap sync android
+          test -s android/app/src/main/assets/public/index.html
+          test -s android/app/src/main/assets/public/app.js
+          test -s android/app/src/main/assets/public/styles.css
+          test -s android/app/src/main/assets/public/genesis.js
+          test -s android/app/src/main/assets/public/genesis.css
+          test -s android/app/src/main/assets/public/data/bible.json

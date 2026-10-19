@@ -1,15 +1,16 @@
 {
   "name": "Scripture for Life",
   "short_name": "Scripture",
-  "description": "Find help in God's Word and explore interactive Bible stories.",
-  "start_url": "./index.html#/home",
+  "description": "A quiet place to find God's Word and explore illustrated Bible stories.",
+  "id": "./",
+  "start_url": "./#/",
   "scope": "./",
   "display": "standalone",
   "background_color": "#faf9f5",
-  "theme_color": "#203e34",
+  "theme_color": "#214d43",
   "icons": [
     {
-      "src": "assets/icon.svg",
+      "src": "./icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"

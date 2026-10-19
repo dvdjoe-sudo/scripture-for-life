@@ -1,6 +1,5 @@
 {
-  "appId": "com.example.scriptureforlife",
+  "appId": "com.scriptureforlife.bible",
   "appName": "Scripture for Life",
-  "webDir": "www",
-  "bundledWebRuntime": false
+  "webDir": "www"
 }
