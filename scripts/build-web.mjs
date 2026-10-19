@@ -1,0 +1,1 @@
+import fs from 'node:fs';const d='www';fs.rmSync(d,{recursive:true,force:true});fs.mkdirSync(d,{recursive:true});for(const s of ['index.html','assets','data','manifest.webmanifest','sw.js'])fs.cpSync(s,d+'/'+s,{recursive:true});

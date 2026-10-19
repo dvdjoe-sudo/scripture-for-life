@@ -1,0 +1,3 @@
+# Original Scripture for Life Design
+
+Approved by the project owner: warm ivory, forest-green serif typography, sage and pastel landscape illustrations, spacious mobile-first layout and calm devotional voice. Genesis Episodes 1–2 reuse the existing GitHub artwork composition, recolored in the approved palette; the Psalm 23 pastoral asset is a newly authored symbolic illustration inspired by screenshots, not the exact hosted original. Do not represent any artwork as a historic location. Full narrative paragraphs are preserved. This branch is for review; no live deploy or Google Play release yet.

@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.scriptureforlife",
+  "appName": "Scripture for Life",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
