@@ -38,6 +38,8 @@ try {
     }
     await visit('#/','.hero-art .landscape');
     assert.match(await page.locator('h1').first().innerText(),/Find help in/);
+    assert.equal(await page.locator('.featured .btn.light[href="#/study/23/1"]').count(),1,'Original Psalm study is the homepage primary journey');
+    assert.equal(await page.locator('.featured a[href^="#/walk/23/"]').count(),1,'Illustrated Psalm walk remains optional');
     assert.equal(await page.locator('.gen-home-card').count(),3,'Three Genesis cards on homepage');
     await visit('#/stories','.gen-episode-tile');
     assert.equal(await page.locator('.gen-episode-tile').count(),12,'All twelve Genesis episodes');
@@ -57,6 +59,7 @@ try {
     await visit('#/journey','.gen-books');
     assert.equal(await page.locator('.gen-book').count(),66,'All 66 books present');
     await visit('#/study/23/1','.study-landscape .landscape');
+    assert.equal(await page.locator('.study-explainer [role="tab"]').count(),4,'Original four-tab Psalm study preserved');
     assert.equal(await page.locator('a[href="#/walk/23/1"]').count()>0,true,'Original Psalm study connects to the new walk');
     await visit('#/walk/23/1','.pw-scripture .pw-verse');
     assert.match(await page.locator('.pw-scripture').innerText(),/Psalm 23:1/);
@@ -72,6 +75,8 @@ try {
     assert.equal(await page.locator('[data-note-ref="Psalm 23:1"]').inputValue(),'A quiet reflection','Reflection stays saved on this device');
     await visit('#/walk/23/6','.pw-scripture .pw-verse');
     assert.equal(await page.locator('.pw-finish').count(),1,'Final scene has a completion message');
+    await visit('#/read/19/23','.reader-verse');
+    assert.equal(await page.locator('a[href="#/study/23/1"]').count()>0,true,'Psalm 23 Bible reader links to original study');
     await visit('#/read/1/1','.reader-verse');
     assert.ok(await page.locator('.reader-verse').count()>=20,'Genesis chapter 1 verses rendered');
     assert.deepEqual(errors,[],loc.label+' unhandled browser exceptions');

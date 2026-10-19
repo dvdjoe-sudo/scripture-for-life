@@ -11,8 +11,8 @@ GitHub Pages can be configured under **Settings → Pages** to publish the `main
 ## What works today
 
 - Find Bible passages for real-life circumstances, with links to original Scripture.
-- Read the public-domain Berean Standard Bible (BSB), including Psalm 23's original visual devotional study.
-- Optionally walk through Psalm 23 in six illustrated scenes at `#/walk/23/1`, with Scripture first, narration, contextual interpretation, meaningful imagery, optional private reflections, progress on this device, suggested prayers, and links to David and the original Psalm study. The original `#/study/23/1` experience remains available.
+- Read the public-domain Berean Standard Bible (BSB), including Psalm 23's **primary original visual devotional study** at `#/study/23/1` with Meaning, Context, Explore, and Reflect tabs.
+- An **alternative** six-scene illustrated Psalm 23 journey remains available at `#/walk/23/1`, with Scripture first, narration, contextual interpretation, imagery, optional private reflections, progress on this device, suggested prayers, and David links. The homepage, Bible reader, David profile, and contextual verse links prioritize the original study.
 - Explore Genesis Episodes 1–12, 92 illustrated story scenes, narration and reflections.
 - Browse all 66 books in the Bible Journey.
 - Save verses and personal notes locally in the current browser.
