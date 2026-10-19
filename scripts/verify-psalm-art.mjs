@@ -12,7 +12,7 @@ for(let n=1;n<=6;n++){
   assert.equal((html.match(/href=/g)||[]).length,6,'All verses remain freely accessible');
   assert(!/complete|trail|finish/.test(html),'No completion or guided trail UI');
   assert.equal(art.progress(),n);
-  assert(art.render(n).includes('role="img" aria-label="Psalm 23:'+n));
+  assert(art.render(n).includes('alt="Psalm 23:'+n));
 }
 assert.equal(values.get('scripture-for-life.notes'),'keep this reflection');
 ctx.localStorage.getItem=()=>{throw Error('blocked');};
@@ -22,3 +22,9 @@ assert.doesNotThrow(()=>art.verseNav(3));
 assert.throws(()=>art.render(7));
 for(const name of ['psalm-art.js','psalm-art.css','psalm-navigation.js'])assert.equal(fs.readFileSync(name,'utf8'),fs.readFileSync('www/'+name,'utf8'));
 console.log('PASS — Six verse illustrations, freely accessible verses, migrated place, preserved reflections, blocked storage, and matching Android assets.');
+
+for(let n=1;n<=6;n++){
+  const name='assets/psalm23/verse-'+n+'-watercolor.webp';
+  assert(fs.readFileSync(name).equals(fs.readFileSync('www/'+name)),name+' matches Android bundle');
+  assert(fs.readFileSync('sw.js','utf8').includes(name),'Watercolor available offline');
+}

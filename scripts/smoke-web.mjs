@@ -69,7 +69,8 @@ try {
     for(let n=1;n<=6;n++){
       await visit('#/study/23/'+n,'.psalm-verse-art');
       assert.equal(await page.locator('.psalm-verse-art').getAttribute('data-psalm-art'),'23-'+n);
-      art.push(await page.locator('.psalm-verse-art').innerHTML());
+      await page.waitForFunction(()=>{const img=document.querySelector('.study-landscape .psalm-verse-art');return img?.complete&&img.naturalWidth>0;});
+      art.push(await page.locator('.study-landscape .psalm-verse-art').getAttribute('src'));
     }
     assert.equal(new Set(art).size,6,'Each verse has different imagery');
     await page.locator('[data-psalm-switch]').selectOption('46');await page.locator('.ps46-page').waitFor();
