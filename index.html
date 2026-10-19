@@ -4,36 +4,40 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="theme-color" content="#253b36" />
+  <meta name="application-name" content="Scripture for Life" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  
+  
   <meta name="description" content="Find comfort and strength in the Word of God, explore Bible stories, and read the public-domain Berean Standard Bible." />
   <title>Scripture for Life | God's Word for everyday life</title>
   
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="assets/style.css" />
   
-</head>
+<link rel="manifest" href="manifest.webmanifest" /><link rel="icon" href="assets/icon.svg" type="image/svg+xml" /></head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header">
     <div class="shell topbar">
-      <a class="brand" href="#/home" aria-label="Scripture for Life, home"><span class="brand-icon">✦</span><span class="brand-words">Scripture<span>FOR LIFE</span></span></a>
+      <a class="brand" href="#/home" aria-label="Scripture for Life, home"><span class="brand-icon" aria-hidden="true"><svg viewBox="0 0 48 50" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linejoin="round"><path d="M24 13C17 7 8 6 3 9v32c8-3 15-1 21 4c6-5 13-7 21-4V9c-6-3-15-2-21 4zM24 13v32"/><path d="M24 0v6M7 1l3 6M41 1l-3 6"/></svg></span><span class="brand-words">Scripture<span>FOR LIFE</span></span></a>
       <nav class="desktop-nav" aria-label="Main navigation">
         <a href="#/home" data-tab="home">Home</a>
         <a href="#/help" data-tab="help">Find help</a>
-        <a href="#/stories" data-tab="stories">People &amp; stories</a>
+        <a href="#/stories" data-tab="stories">Stories</a><a href="#/journey" data-tab="journey">Bible journey</a>
         <a href="#/read" data-tab="read">Read the Bible</a>
         <a href="#/saved" data-tab="saved">Saved <span id="saved-count" class="saved-count">0</span></a>
       </nav>
       <button class="menu-toggle" id="menu-toggle" aria-expanded="false" aria-controls="mobile-nav" aria-label="Toggle menu">☰</button>
     </div>
     <nav id="mobile-nav" class="mobile-nav shell" aria-label="Mobile navigation" hidden>
-      <a href="#/home">Home</a><a href="#/help">Find help</a><a href="#/stories">People &amp; stories</a><a href="#/read">Read the Bible</a><a href="#/saved">Saved</a>
+      <a href="#/home">Home</a><a href="#/help">Find help</a><a href="#/stories">Stories</a><a href="#/journey">Bible journey</a><a href="#/read">Read the Bible</a><a href="#/saved">Saved</a>
     </nav>
   </header>
   <main id="main" class="main shell" tabindex="-1">
     <div class="loading"><div class="spinner"></div><p>Opening God's Word…</p></div>
   </main>
+  <nav class="bottom-nav" aria-label="Quick navigation"><a href="#/home"><span aria-hidden="true">⌂</span>Home</a><a href="#/help"><span aria-hidden="true">♡</span>Help</a><a href="#/stories"><span aria-hidden="true">✦</span>Stories</a><a href="#/read"><span aria-hidden="true">▤</span>Bible</a><a href="#/journey"><span aria-hidden="true">◫</span>Journey</a></nav>
   <footer class="site-footer"><div class="shell footer-content"><div><strong>Scripture for Life</strong><div>A quiet place to meet God's Word.</div></div><div>Berean Standard Bible · Public domain · <a href="#/about">Sources &amp; approach</a></div></div></footer>
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
-  <div class="speech-panel" id="speech-panel" hidden>Reading aloud <button id="stop-speech" type="button">Stop</button></div>
-<script src="app.js"></script>
-</body>
-</html>
+  <aside class="speech-panel" id="speech-panel" aria-label="Narration controls" hidden><div class="speech-status">▶ Reading aloud</div><label class="speech-voice">Voice <select id="voice-select" aria-label="Narration voice"><option value="">Device default</option></select></label><label class="speech-rate">Speed <select id="speech-rate" aria-label="Narration speed"><option value="0.75">0.75×</option><option value="0.92" selected>0.92×</option><option value="1">1×</option><option value="1.15">1.15×</option><option value="1.35">1.35×</option></select></label><div class="speech-buttons"><button id="pause-speech" type="button">Pause</button><button id="stop-speech" type="button">Stop</button></div></aside>
+<script defer src="assets/app.js"></script>
+</body></html>
