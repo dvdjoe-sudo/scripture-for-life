@@ -21,9 +21,11 @@ const css = read(www, 'styles.css');
 const storyCss = read(www, 'genesis.css');
 const app = read(www, 'app.js');
 const story = read(www, 'genesis.js');
+const psalmWalk = read(www, 'psalm-walk.js');
+const psalmCss = read(www, 'psalm-walk.css');
 const required = [
-  'app.js', 'genesis.js', 'data.js', 'content.js',
-  'styles.css', 'genesis.css', 'icon.svg',
+  'app.js', 'genesis.js', 'psalm-walk.js', 'data.js', 'content.js',
+  'styles.css', 'genesis.css', 'psalm-walk.css', 'icon.svg',
   'data/bible.json', 'data/episodes.json', 'data/story-scenes.json',
   'manifest.webmanifest', 'sw.js'
 ];
@@ -41,6 +43,14 @@ assert(app.includes("scene(0,'home')"), 'Original Psalm 23 art was altered/remov
 assert(app.includes('gen-home-cards'), 'Genesis home navigation is missing');
 assert(app.includes("parts[0]==='stories'"), 'Story route is missing');
 assert(story.includes('function scenePage('), 'Genesis story engine is missing');
+assert(app.includes("parts[0]==='walk'"), 'Psalm walk route is missing');
+assert(app.includes('href="#/walk/23/'), 'Psalm walk homepage and/or deep links are missing');
+assert(psalmWalk.includes('window.SFL_PSALM_WALK='), 'Psalm walk engine is missing');
+assert(psalmWalk.includes('var titles=[') && psalmWalk.includes('Goodness and Mercy'), 'All six Psalm scenes must be present');
+assert(psalmWalk.includes('ctx.verses[ref]'), 'Psalm text must come from the existing Bible data');
+assert(psalmWalk.includes('EDITORIAL EXPLANATION'), 'Scripture/commentary separation is missing');
+assert(psalmCss.includes('.pw-landscape'), 'Psalm walkthrough styles are missing');
+assert(html.includes('src="psalm-walk.js"') && html.includes('href="psalm-walk.css"'), 'Psalm walkthrough assets are not loaded');
 assert(css.includes('.hero-art'), 'Original home artwork styles missing');
 assert(storyCss.includes('.gen-home-cards'), 'Genesis card layout styles missing');
 
