@@ -12,10 +12,11 @@ GitHub Pages can be configured under **Settings → Pages** to publish the `main
 
 - Find Bible passages for real-life circumstances, with links to original Scripture.
 - Read the public-domain Berean Standard Bible (BSB), including Psalm 23's original visual devotional study.
+- Optionally walk through Psalm 23 in six illustrated scenes at `#/walk/23/1`, with Scripture first, narration, contextual interpretation, meaningful imagery, optional private reflections, progress on this device, suggested prayers, and links to David and the original Psalm study. The original `#/study/23/1` experience remains available.
 - Explore Genesis Episodes 1–12, 92 illustrated story scenes, narration and reflections.
 - Browse all 66 books in the Bible Journey.
 - Save verses and personal notes locally in the current browser.
-- The current homepage and Psalm 23 landscape art are restored from original Git history; newer Genesis story scenes use the same SVG landscape generator.
+- The current homepage and Psalm 23 landscape art are restored from original Git history; newer Genesis story scenes use the same SVG landscape generator. The separate Psalm walk adds six symbolic overlays in the same approved editorial palette; these are not historical reconstructions.
 - Episode manuscripts 4–12 are preserved verbatim in `stories/`; CI checks every paragraph against the corresponding reader episode. Scene titles, reference links, and reflection questions are editorial additions displayed separately from Scripture. On the hosted site, a service worker precaches the essential reading files so previously loaded content can be used offline. The first visit and successful installation require an internet connection. Not all images or third-party assets are guaranteed available offline.
 
 ## Run the website
