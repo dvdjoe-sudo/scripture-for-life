@@ -67,3 +67,5 @@ All 12 episodes now cover Genesis 1–50, from Creation through the death of Jos
 
 - All 150 Psalms now have chapter pages at `#/psalms/N`, with one main watercolor, exact complete BSB text, individual chapter introductions, literary context, reading prompts, reflections, and character connections when names occur in the chapter. The collection supports number/text search, theme and book filters, last-place resume, and chapter/verse navigation.
 - Related chapters share suitable images from a consistent 24-scene watercolor library. The detailed Psalm 23 and Psalm 46 studies remain available. Future psalms artwork follows `assets/psalms/STYLE.md`. All images are bundled for offline reading and Android.
+
+- Psalm 1 now follows the original Psalm 23 verse-by-verse format at `#/study/1/1`: six individual watercolors, exact Scripture, unique Meaning/Context/Explore/Reflect content, verse-specific private notes, freely accessible verse links, and local last-place resume. The Psalm 1 collection card opens the detailed view; the complete chapter remains available at `#/psalms/1`. The reusable renderer is `psalm-verse-study.js`, with Psalm 1 content in `psalm1.js`.

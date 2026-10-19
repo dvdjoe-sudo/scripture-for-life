@@ -12,6 +12,7 @@ const entries = [
   'psalm-walk.js', 'psalm-walk.css', 'psalm46.js',
   'psalm-art.js', 'psalm-art.css', 'psalm-navigation.js',
   'psalms-content.js', 'psalms-book.js', 'psalms-book.css',
+  'psalm-verse-study.js', 'psalm-verse-study.css', 'psalm1.js',
   'data.js', 'content.js', 'icon.svg', 'manifest.webmanifest', 'sw.js',
   'assets', 'data'
 ];

@@ -163,6 +163,42 @@ try {
     }
     await page.locator('[data-psalm-switch]').selectOption('2');await page.locator('[data-psalm-chapter="2"]').waitFor();
     await page.locator('.psalm-chapter-pager').first().locator('a[href="#/psalms/3"]').click();await page.locator('[data-psalm-chapter="3"]').waitFor();
+    await visit('#/psalms','.psalms-study-card');
+    await page.locator('[data-psalms-search]').fill('1');
+    await page.locator('.psalms-study-card:visible a.btn').click();
+    await page.locator('[data-verse-study="1"]').waitFor();
+    const psalm1=Object.fromEntries(JSON.parse(fs.readFileSync(path.join(root,'data/bible.json'),'utf8')).books[18].chapters[0]);
+    const meanings=[],images=[];
+    for(let n=1;n<=6;n++){
+      await visit('#/study/1/'+n,'[data-verse-study="1"]');
+      await page.waitForFunction(()=>{const i=document.querySelector('[data-verse-study-art]');return i?.complete&&i.naturalWidth>0;});
+      assert.equal(await page.locator('.study-verse [data-speakref]').innerText(),psalm1[n]);
+      assert.equal(await page.locator('.psalm-verse-nav a').count(),6);
+      assert.equal(await page.locator('.psalm-verse-nav [aria-current]').getAttribute('href'),'#/study/1/'+n);
+      images.push(await page.locator('[data-verse-study-art]').getAttribute('src'));
+      meanings.push(await page.locator('#verse-study-panel').innerText());
+      for(const label of ['Context','Explore','Reflect','Meaning']){
+        await page.getByRole('tab',{name:label,exact:true}).click();
+        assert.ok((await page.locator('#verse-study-panel').innerText()).length>100);
+      }
+    }
+    assert.equal(new Set(images).size,6);assert.equal(new Set(meanings).size,6);
+    await visit('#/study/1/3','[data-verse-study="1"]');
+    await page.getByRole('tab',{name:'Reflect',exact:true}).click();
+    await page.locator('[data-note-ref="Psalm 1:3"]').fill('Steady roots and patient growth.');
+    await page.locator('#verse-study-panel [data-action="save-note"]').click();
+    await page.reload();await page.locator('[data-verse-study="1"]').waitFor();
+    await page.getByRole('tab',{name:'Reflect',exact:true}).click();
+    assert.equal(await page.locator('[data-note-ref="Psalm 1:3"]').inputValue(),'Steady roots and patient growth.');
+    await page.locator('[data-psalm-switch]').selectOption('23');await page.locator('.study-landscape').waitFor();
+    await page.locator('[data-psalm-switch]').selectOption('1');await page.locator('[data-verse-study="1"]').waitFor();
+    assert.ok(page.url().endsWith('#/study/1/3'),'Resume is independent of Psalm 23');
+    await page.locator('.study-bottom a[href="#/study/1/4"]').click();await page.locator('[data-current-verse="4"]').waitFor();
+    await page.locator('.study-bottom a[href="#/study/1/3"]').click();await page.locator('[data-current-verse="3"]').waitFor();
+    assert.equal(await page.locator('.study-context a[href="#/people/jesus"]').count(),1);
+    assert.equal(await page.locator('.study-context a[href="#/people/ruth"]').count(),1);
+    await visit('#/study/1/6','[data-verse-study="1"]');
+    assert.equal(await page.locator('.study-bottom a[href="#/psalms/2"]').count(),1);
     assert.deepEqual(errors,[],loc.label+' unhandled browser exceptions');
     await context.close();
     console.log('PASS '+loc.label+' on 390px viewport — home, Genesis, Psalm 23, Psalm 46, character/help links, reflections, Bible journey, full reader.');
