@@ -29,3 +29,7 @@ Next sequential chapter: **Psalm 7**. Continue in order, keeping the completed P
 The renderer and collection use the registered studies, so future batches should not require lists of hard-coded psalm numbers. Keep offline asset packaging and mobile payload size under review as the illustrated collection grows.
 
 User reaffirmed authorization on October 19, 2026 to continue all Psalms. Continue sequential tested batches without requesting approval for each chapter. Report only chapters actually completed; the collection goal remains in progress.
+
+## Unpublished editorial drafts
+
+Psalms 7 and 8 have content-only drafts and individual illustration prompts under `drafts/psalms/`. Psalm 7 remains the next unfinished chapter. No new study is registered and the completed table above is unchanged. Artwork generation, bundled-source validation, website/Android packaging, mobile testing, and publication remain pending because the project execution environment was unavailable during draft preparation.

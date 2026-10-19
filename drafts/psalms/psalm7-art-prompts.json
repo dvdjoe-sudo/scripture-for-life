@@ -1,0 +1,76 @@
+{
+  "status": "PROMPTS_ONLY",
+  "tool": "built-in image_gen planned",
+  "reference": "assets/psalm23/verse-2-watercolor.webp",
+  "common": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Use assets/psalm23/verse-2-watercolor.webp as the visual style reference after inspecting it. Match its fine translucent watercolor washes, warm ivory paper, naturally detailed foliage, sage and forest greens, restrained gold light, and soft blue atmospheric distance. Mature peaceful devotional watercolor realism, with sober tones where the verse calls for them. Keep important subjects inside the central 80%. Ancient clothing and simple objects where appropriate. Imagined symbolic illustration, not a historical reconstruction. No text, captions, watermark, halos, modern objects, visible God, divine face, or literal divine hands. Generate and inspect one individual painting for each verse. Scene: ",
+  "verses": [
+    {
+      "verse": 1,
+      "scene": "An anonymous ancient traveler pauses under a broad rocky overhang at the edge of an olive valley, small distant figures far down a winding path, sober early light, shelter amid pursuit without a confrontation."
+    },
+    {
+      "verse": 2,
+      "scene": "A distant lion silhouetted on a rocky ridge across a wide olive valley, an anonymous traveler sheltered in the foreground, a clear sense of separation and vulnerability, no pursuit or attack, no blood."
+    },
+    {
+      "verse": 3,
+      "scene": "An anonymous ancient traveler sits beside a clear shallow stream beneath olive branches, open empty hands held thoughtfully over the water, reflective morning light, no washing ritual or claim of historical reconstruction."
+    },
+    {
+      "verse": 4,
+      "scene": "Two anonymous ancient travelers pass at a respectful distance on a narrow olive hillside path, a modest pack of goods beside a low wall, hands unthreatening, sober respectful mood, no theft depicted."
+    },
+    {
+      "verse": 5,
+      "scene": "A simple travel cloak fallen onto a dusty ancient path beside an upright walking staff and olive roots, restrained quiet light, symbolic loss of honor, no body, injury or trampling."
+    },
+    {
+      "verse": 6,
+      "scene": "A broad empty ancient stone gathering place beneath heavy clouds opening to clear light, a small anonymous petitioner at the edge, solemn expectation of justice, no divine figure or face-shaped clouds."
+    },
+    {
+      "verse": 7,
+      "scene": "Small groups of anonymous ancient people gather in a wide natural stone amphitheater among olive hills, immense open luminous sky, solemn public hearing suggested, no throne, divine person or identifiable historical event."
+    },
+    {
+      "verse": 8,
+      "scene": "An anonymous ancient petitioner stands with open hands in a simple quiet stone courtyard, attentive figures far behind, level morning light, dignified hope for a fair hearing, no literal divine judge."
+    },
+    {
+      "verse": 9,
+      "scene": "A clear still pool reflecting olive branches and an open sky, an anonymous ancient traveler quietly considering the reflection from a nearby rock, contemplative honest mood, no literal exposed heart or anatomy."
+    },
+    {
+      "verse": 10,
+      "scene": "A worn simple round shield rests beside an anonymous ancient traveler under a broad olive tree, quiet valley and restrained morning light, protective trust without triumphant display or visible divinity."
+    },
+    {
+      "verse": 11,
+      "scene": "An old simple stone gate beneath a sober storm-lit sky, clear unblocked path through the gate toward olive hills, restrained solemn light, righteous judgment suggested symbolically, no divine face or punitive spectacle."
+    },
+    {
+      "verse": 12,
+      "scene": "A simple ancient sword beside a whetstone and a strung wooden bow resting on a stone ledge, sober cool olive-hill background, no wielder, aimed weapon, blood, injury or divine figure."
+    },
+    {
+      "verse": 13,
+      "scene": "An ancient quiver and several unhandled arrows on a stone surface beside a small controlled brazier, solemn restrained light, symbolic warning of judgment, no targets, attack, injury, bodies or divine figure."
+    },
+    {
+      "verse": 14,
+      "scene": "Tangled thorny vines growing around an abandoned simple workbench and unfinished wooden framework on an olive hillside, a clear path beyond, symbolic harmful plans growing into trouble, no pregnancy, infants or bodily imagery."
+    },
+    {
+      "verse": 15,
+      "scene": "An empty freshly dug pit beside an ancient rocky path, abandoned wooden-handled digging tools, loosened soil, sober olive-grove setting, no trapped person, injury or body."
+    },
+    {
+      "verse": 16,
+      "scene": "A collapsed wooden snare tangled in its own cord beside an ancient olive hillside path, clearing sky, sober image of a harmful device failing, no animal, person, injury or triumphant mockery."
+    },
+    {
+      "verse": 17,
+      "scene": "An anonymous ancient musician with a simple lyre beneath an olive tree, wide valley in restrained warm evening light, thoughtful gratitude with signs of a long journey, no crown, labels, portrait claim or visible divinity."
+    }
+  ]
+}

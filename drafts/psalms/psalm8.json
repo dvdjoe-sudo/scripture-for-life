@@ -1,0 +1,270 @@
+{
+  "number": 8,
+  "status": "DRAFT_CONTENT_ONLY",
+  "coverVerse": 3,
+  "title": "Small beneath the stars. Held in God’s care.",
+  "intro": "Nine verses frame wonder at the heavens with praise, asking how small human beings can be remembered, honored, and entrusted with the care of living things.",
+  "context": "The heading identifies a Psalm of David for the choirmaster, according to Gittith. The chapter does not explain that musical term or name a particular occasion. The same praise frames verses 1 and 9. Between them, children’s voices, the night sky, human dignity, and living creatures form a meditation on God’s majesty and the responsibility of human beings. Read the later use of its words in Matthew 21 and Hebrews 2 as later biblical connections.",
+  "peopleNote": "David is named in the heading. Jesus is a later related connection: Matthew 21:16 places Psalm 8’s language on His lips, and Hebrews 2:6–9 quotes the psalm before speaking explicitly about Jesus. Keep those passages distinct from the psalm’s own voice. Genesis 1 provides a related creation account; no particular night in David’s life is identified.",
+  "people": [
+    {
+      "id": "david",
+      "name": "David",
+      "ref": "Psalm 8:1"
+    },
+    {
+      "id": "jesus",
+      "name": "Jesus · later biblical connection",
+      "ref": "Hebrews 2:9"
+    }
+  ],
+  "verses": [
+    {
+      "title": "Majesty across the earth",
+      "heading": "Praise opens the poem’s wide field of view",
+      "meaning": "The speaker addresses the LORD as the community’s Lord and praises the majesty of His name throughout the earth. God’s glory reaches above the heavens, so the opening holds earth and sky together in worship. The same central praise will return at the end. The verse invites attention beyond the narrow demands of a day: look at the world around you and let wonder become a form of prayer. The poem’s broad view will soon include the small voices of children and the place of human beings.",
+      "contextTitle": "The opening and closing form a frame",
+      "context": "The musical heading and attribution to David must remain as carried in the bundled BSB source. Gittith should be preserved without an invented explanation. Verse 9 repeats the central praise, framing the meditation that comes between.",
+      "explore": [
+        [
+          "Our Lord",
+          "The shared address lets praise speak beyond one individual. The poem opens with belonging as well as reverence."
+        ],
+        [
+          "In all the earth",
+          "The wide scope gives the landscape painting its fitting scale. The art will suggest creation’s breadth without depicting a visible Creator."
+        ]
+      ],
+      "reflect": "What around you has drawn your attention toward wonder recently? How could you give that moment a little space today?",
+      "related": [
+        "Psalm 8:9",
+        "Psalm 8:3",
+        "Genesis 1:1"
+      ],
+      "alt": "A broad olive valley opens beneath a luminous sky, with tiny anonymous travelers giving the landscape its scale.",
+      "scene": "A sweeping olive valley beneath a vast luminous sky, tiny anonymous ancient travelers on a ridge for scale, natural greens and restrained gold light, expansive wonder, no visible Creator or literal glory figure.",
+      "verse": 1
+    },
+    {
+      "title": "Praise from small voices",
+      "heading": "Children and infants have a place in the poem’s praise",
+      "meaning": "The verse places praise in the mouths of children and infants and describes it answering the enemy and avenger. Small and vulnerable voices matter within the poem’s account of God’s majesty. The contrast challenges an assumption that only the impressive or powerful can have a meaningful part. Matthew 21:16 later uses this language when Jesus responds to objections about children’s praise. That later scene is a connection to explore, while the psalm itself gives no named children or narrated encounter.",
+      "contextTitle": "A later quotation has its own setting",
+      "context": "Matthew 21:15–16 describes children praising in the temple courts and Jesus answering with the psalm’s words. Read that passage as a later use of the verse. Keep the exact BSB wording here; the translation’s footnote discusses the language of strength and praise.",
+      "explore": [
+        [
+          "Children and infants",
+          "The poem includes voices easily overlooked. It does not require children to perform faith or praise on an adult’s timetable."
+        ],
+        [
+          "To silence the enemy",
+          "The contrast gives small voices unexpected weight. The planned art focuses on gentle participation, without staging a hostile encounter."
+        ]
+      ],
+      "reflect": "Whose voice do you tend to overlook? How could you listen to a child or someone with less influence with greater attention?",
+      "related": [
+        "Matthew 21:15",
+        "Matthew 21:16",
+        "Psalm 8:1"
+      ],
+      "alt": "Children and a caregiver with an infant sit beneath an olive tree in a simple ancient courtyard, sharing a gentle moment of praise.",
+      "scene": "Two children and a caregiver holding an infant in a simple ancient courtyard beneath an olive tree, relaxed gentle expressions suggesting praise and belonging, no forced performance, adversary caricature, text or identifiable biblical portraits.",
+      "verse": 2
+    },
+    {
+      "title": "Moon and stars",
+      "heading": "Looking upward prepares the poem’s question",
+      "meaning": "The speaker considers the heavens as the work of God’s fingers and attends to the moon and stars set in place. The image combines immense scale with the delicacy of finger-work. This line leads directly into the question about human beings in verse 4, so its wonder is not complete until that question is heard. The verse invites a slow act of attention: notice what is larger than you, then consider what it means to be remembered within that vastness.",
+      "contextTitle": "Read verses 3 and 4 as one movement",
+      "context": "The thought begun with beholding the heavens continues into the question about humanity. Genesis 1:16–18 offers a related account of the lights in the sky. Neither passage supplies the psalm’s date or a named location for this act of looking.",
+      "explore": [
+        [
+          "The work of Your fingers",
+          "The intimate image describes creation’s work without requiring a visible hand to be painted in the sky."
+        ],
+        [
+          "The moon and the stars",
+          "The objects are directly named in the verse. The planned night landscape will let them carry the painting rather than adding a divine figure."
+        ]
+      ],
+      "reflect": "Could you spend a quiet moment looking at the sky today or tonight? What question or gratitude does its scale bring to mind?",
+      "related": [
+        "Psalm 8:4",
+        "Genesis 1:16",
+        "Genesis 1:17"
+      ],
+      "alt": "An anonymous ancient traveler looks over an olive valley beneath a clear moon and a wide field of stars.",
+      "scene": "A quiet olive valley under a clear moon and many naturally spaced stars, small anonymous ancient traveler seated on a ridge looking upward, deep soft blues and muted silver-green foliage, no literal hands, cosmic faces or fantasy planets.",
+      "verse": 3
+    },
+    {
+      "title": "Remembered in the vastness",
+      "heading": "The question is filled with wonder at human care",
+      "meaning": "After looking at the heavens, the speaker asks why human beings are remembered and cared for by God. The scale of the sky leads toward a question about human significance rather than erasing it. In the poem’s movement, human smallness and received care stand together. The wording about man and the son of man belongs first to that question about humanity. Hebrews 2 later quotes it in a passage that goes on to speak of Jesus; reading both settings helps preserve each passage’s voice.",
+      "contextTitle": "The question leads toward honor and responsibility",
+      "context": "Verse 4 answers the sight of the heavens with a question, and verses 5–8 unfold humanity’s honored place and charge. Hebrews 2:6 quotes this question before continuing through the psalm’s language and then naming Jesus in verse 9.",
+      "explore": [
+        [
+          "Mindful of him",
+          "The question attends to being remembered. It lets care become a source of wonder."
+        ],
+        [
+          "The son of man",
+          "Here the phrase belongs to the psalm’s question about human beings. The later use in Hebrews should be identified as a later biblical connection."
+        ]
+      ],
+      "reflect": "When do you feel small or easily forgotten? What act of care have you received, or could you offer someone else, today?",
+      "related": [
+        "Psalm 8:3",
+        "Psalm 8:5",
+        "Hebrews 2:6"
+      ],
+      "alt": "Two small anonymous human figures stand beneath a great night sky, with warm light from a nearby home suggesting ordinary care.",
+      "scene": "Two small anonymous ancient human figures beneath an immense night sky over olive hills, a modest home's warm lamplight nearby suggesting ordinary care, quiet dignity, no halos or literal divine presence.",
+      "verse": 4
+    },
+    {
+      "title": "Crowned with glory and honor",
+      "heading": "Human dignity is described as received",
+      "meaning": "The BSB speaks of humanity made a little lower than the angels and crowned with glory and honor. The verse answers the preceding question with an honored place that is given by God. It invites reverence for human dignity without turning that honor into superiority over other people. The translation’s footnote records alternatives to the word rendered angels, and Hebrews 2 uses the verse in its own argument about Jesus. Preserve the chosen BSB text while making those reading connections clearly separate.",
+      "contextTitle": "A translation note and a later quotation need clear labels",
+      "context": "Read verse 5 between the question about being cared for and the responsibility described in verse 6. The BSB footnote gives other renderings for the comparison. Hebrews 2:7 quotes the honor language, and Hebrews 2:9 explicitly relates glory and honor to Jesus.",
+      "explore": [
+        [
+          "Glory and honor",
+          "The crowning image gives dignity a visible form. It describes humanity’s received place in the psalm’s meditation."
+        ],
+        [
+          "A little lower than the angels",
+          "Keep this BSB wording unchanged. Alternative translations belong in a labeled note, rather than silently replacing the Scripture."
+        ]
+      ],
+      "reflect": "How could recognizing another person’s dignity change a small interaction today? Is there someone you need to treat with more care?",
+      "related": [
+        "Psalm 8:4",
+        "Psalm 8:6",
+        "Hebrews 2:9"
+      ],
+      "alt": "Anonymous adults of different ages stand together on an olive hillside in gentle morning light, with no royal crowns or halos.",
+      "scene": "Anonymous ancient adults of different ages standing together on an olive hillside in gentle morning light, quiet equal dignity and ordinary clothing, no royal crowns, halos, angels, hierarchy or identifiable biblical portraits.",
+      "verse": 5
+    },
+    {
+      "title": "Responsibility within creation",
+      "heading": "The honored place comes with a charge",
+      "meaning": "The speaker describes humanity given rule over the works of God’s hands, with everything placed under human feet. The next two verses make the scope concrete through animals, birds, and fish. The authority in this poem is received within God’s creation, rather than self-created ownership. Read alongside Genesis 1:26–28, it invites reflection on how power is exercised. A caring response can treat responsibility as a charge to use influence wisely and attend to the lives affected by our choices.",
+      "contextTitle": "The following list explains the broad statement",
+      "context": "Verses 7–8 name creatures after the statement about rule. Genesis 1:26–28 provides related language about humanity and living things. Hebrews 2:8 quotes the line about subjection and also observes that everything is not yet seen subject; preserve that later passage’s own development.",
+      "explore": [
+        [
+          "The works of Your hands",
+          "The creation remains God’s work within the speaker’s praise. Human authority is given within that relationship."
+        ],
+        [
+          "Under his feet",
+          "The image conveys authority. The planned painting will show attentive care rather than feet trampling living creatures."
+        ]
+      ],
+      "reflect": "Where have you been given influence or responsibility? What would careful stewardship look like in one choice this week?",
+      "related": [
+        "Genesis 1:26",
+        "Genesis 1:28",
+        "Hebrews 2:8"
+      ],
+      "alt": "An anonymous ancient caretaker checks a low pasture wall and water trough while animals rest nearby.",
+      "scene": "An anonymous ancient caretaker checking a low pasture wall and a simple water trough, sheep resting nearby in green olive hills, attentive responsible care, no domination, trampling, weapons or literal world beneath feet.",
+      "verse": 6
+    },
+    {
+      "title": "Flocks and wild creatures",
+      "heading": "The poem begins its list of living things",
+      "meaning": "Sheep, oxen, and beasts of the field bring the broad statement about creation into a world of recognizable animals. Both familiar livestock and creatures beyond the household belong in view. The list helps the reader notice what responsibility actually touches. The verse is not a license to treat living things as disposable. As an editorial response to the poem’s account of received authority, it invites gratitude for the creatures around us and care for the places and practices that affect their lives.",
+      "contextTitle": "This list continues into the next verse",
+      "context": "Verse 7 follows the statement about rule in verse 6, and verse 8 extends the list to air and sea. Genesis 1:24–26 offers a related account of land creatures. The psalm names groups without giving an exhaustive catalog or a particular farm setting.",
+      "explore": [
+        [
+          "Sheep and oxen",
+          "The familiar animals make the meditation concrete. The watercolor can represent them directly without adding a named shepherd."
+        ],
+        [
+          "Beasts of the field",
+          "The scope extends beyond domesticated animals. A distant wild creature can suggest that wider view without staging a hunt."
+        ]
+      ],
+      "reflect": "What animal or natural place has become so familiar that you rarely notice it? What small act of care could follow renewed attention?",
+      "related": [
+        "Psalm 8:6",
+        "Psalm 8:8",
+        "Genesis 1:24"
+      ],
+      "alt": "Sheep and an ox rest in an open pasture while a small wild deer stands at the edge of distant trees.",
+      "scene": "Sheep and an ox resting in a natural green pasture among olive hills, a small wild deer at the distant woodland edge, finely observed animals in gentle light, no hunting, anthropomorphic faces or named shepherd.",
+      "verse": 7
+    },
+    {
+      "title": "Air and sea",
+      "heading": "The list reaches beyond the land",
+      "meaning": "Birds, fish, and the creatures moving through the sea extend the poem’s gaze beyond the field. The range of living things gives breadth to the responsibility described in verse 6. The phrase about paths through the sea is poetic language within that list, without a claim that the verse provides a modern scientific map. It invites attention to forms of life a person may seldom see and to the reach of human choices beyond what is immediately visible.",
+      "contextTitle": "The creature list closes before the final refrain",
+      "context": "Verse 8 completes the list begun with sheep and oxen. Verse 9 then returns to the praise that opened the psalm. Genesis 1:20–22 provides a related creation passage about waters, birds, and living creatures, to be read as a separate account.",
+      "explore": [
+        [
+          "Birds … and fish",
+          "The verse names creatures in different habitats, widening the field of attention."
+        ],
+        [
+          "Paths of the seas",
+          "Movement through the sea gives the line its imagery. The planned shoreline watercolor suggests visible life above and below the water without becoming an exact scientific diagram."
+        ]
+      ],
+      "reflect": "What part of the living world would you like to notice more carefully? How could one everyday choice reflect greater care for it?",
+      "related": [
+        "Psalm 8:7",
+        "Psalm 8:9",
+        "Genesis 1:20"
+      ],
+      "alt": "Birds cross a quiet coastal sky above clear shallow water where a few fish move near rocks.",
+      "scene": "A quiet natural coastline, birds crossing a soft blue sky and a few fish visible through clear shallow water near foreground rocks, olive-green shore and restrained light, single coherent watercolor landscape, not a labeled diagram or fantasy underwater cutaway.",
+      "verse": 8
+    },
+    {
+      "title": "Return to the opening praise",
+      "heading": "Wonder becomes a repeated act of worship",
+      "meaning": "The psalm closes with the same central praise that began it: the majesty of the LORD’s name throughout the earth. Between the two statements, the speaker has considered small voices, a vast sky, human care, honor, and responsibility for living things. Returning to the opening lets those details enrich the praise. The ending invites a reader to carry wonder into an ordinary day, allowing gratitude and responsible care to grow from what has been noticed.",
+      "contextTitle": "The repeated line holds the whole poem together",
+      "context": "Verse 9 repeats the opening praise of verse 1 without the additional statement about glory above the heavens. Read the two ends together, then return to the middle question about human beings to see what the poem has included within its frame.",
+      "explore": [
+        [
+          "O LORD, our Lord",
+          "The shared address returns. Praise can include the community as well as the individual looking at the sky."
+        ],
+        [
+          "How majestic is Your name",
+          "Repetition allows the words to gather meaning from the intervening verses. The closing landscape will echo the opening with a distinct composition rather than reuse its image."
+        ]
+      ],
+      "reflect": "What part of this psalm would you like to carry into your day: wonder, remembered care, dignity, or responsibility? What simple action could express it?",
+      "related": [
+        "Psalm 8:1",
+        "Psalm 8:4",
+        "Psalm 8:6"
+      ],
+      "alt": "A broad river valley and distant coast lie beneath a brightening sky, with birds and tiny travelers gathered in the landscape.",
+      "scene": "A broad river valley opening toward a distant coast under a brightening morning sky, birds and tiny anonymous ancient travelers within the landscape, a distinct closing composition of grateful wonder, muted greens and restrained gold, no literal divine figure.",
+      "verse": 9
+    }
+  ],
+  "sources": [
+    "https://biblehub.com/bsb/psalms/8.htm",
+    "https://biblehub.com/bsb/genesis/1.htm",
+    "https://biblehub.com/bsb/matthew/21.htm",
+    "https://biblehub.com/bsb/hebrews/2.htm"
+  ],
+  "productionStatus": {
+    "scripture": "Not duplicated here. Load exact bundled BSB verse rows when integrating, preserving headings and Selah.",
+    "artwork": "Prompts only; no images generated for this draft.",
+    "registration": "Not registered in the app.",
+    "sourceBundleVerification": "Pending workspace recovery.",
+    "mobileAndAndroidVerification": "Pending workspace recovery."
+  }
+}
