@@ -13,6 +13,7 @@ GitHub Pages can be configured under **Settings → Pages** to publish the `main
 - Find Bible passages for real-life circumstances, with links to original Scripture.
 - Read the public-domain Berean Standard Bible (BSB), including Psalm 23's **primary original visual devotional study** at `#/study/23/1` with Meaning, Context, Explore, and Reflect tabs.
 - An **alternative** six-scene illustrated Psalm 23 journey remains available at `#/walk/23/1`, with Scripture first, narration, contextual interpretation, imagery, optional private reflections, progress on this device, suggested prayers, and David links. The homepage, Bible reader, David profile, and contextual verse links prioritize the original study.
+- Psalm 46 now uses the same original four-tab devotional design at `#/study/46/1`. Its six sections cover all eleven BSB verses without changing the Bible text. Read/listen, Meaning, Context, Explore, and optional Reflect tools connect directly with the fear and strength topics, the full reader, and new profiles of Jacob and the sons of Korah. The latter is a group named in the psalm heading, not an invented individual author. Jacob’s profile also links to the existing Genesis Episode 8.
 - Explore Genesis Episodes 1–12, 92 illustrated story scenes, narration and reflections.
 - Browse all 66 books in the Bible Journey.
 - Save verses and personal notes locally in the current browser.

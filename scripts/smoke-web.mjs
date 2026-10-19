@@ -1,5 +1,6 @@
 /* Check the actual running website and the Capacitor web bundle at phone width. */
 import assert from 'node:assert/strict';
+import fs from 'node:fs';
 import path from 'node:path';
 import { spawn } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
@@ -8,6 +9,8 @@ import { chromium } from 'playwright';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const locations=[{folder:root,port:8870,label:'Website source'},{folder:path.join(root,'www'),port:8871,label:'Android web bundle'}];
 const servers=[];
+const psalm46=Object.fromEntries(JSON.parse(fs.readFileSync(path.join(root,'data/bible.json'),'utf8')).books[18].chapters[45]);
+const psalm46Sections=[[1],[2,3],[4,5],[6,7],[8,9],[10,11]];
 async function waitForServer(url){
   for(let attempt=0;attempt<35;attempt++){
     try{const res=await fetch(url);if(res.ok)return;}catch{}
@@ -41,6 +44,7 @@ try {
     assert.equal(await page.locator('.featured .btn.light[href="#/study/23/1"]').count(),1,'Original Psalm study is the homepage primary journey');
     assert.equal(await page.locator('.featured a[href^="#/walk/23/"]').count(),1,'Illustrated Psalm walk remains optional');
     assert.equal(await page.locator('.gen-home-card').count(),3,'Three Genesis cards on homepage');
+    assert.equal(await page.locator('.ps46-card a[href="#/study/46/1"]').count(),1,'Psalm 46 is discoverable without replacing Psalm 23');
     await visit('#/stories','.gen-episode-tile');
     assert.equal(await page.locator('.gen-episode-tile').count(),12,'All twelve Genesis episodes');
     await visit('#/stories/1/1','#gen-narrative p');
@@ -77,11 +81,57 @@ try {
     assert.equal(await page.locator('.pw-finish').count(),1,'Final scene has a completion message');
     await visit('#/read/19/23','.reader-verse');
     assert.equal(await page.locator('a[href="#/study/23/1"]').count()>0,true,'Psalm 23 Bible reader links to original study');
+    await visit('#/help/fear','.side-note');
+    assert.equal(await page.locator('.side-note a[href="#/study/46/1"]').count(),1);
+    assert.equal(await page.locator('.side-note a[href="#/people/jacob"]').count(),1);
+    await visit('#/help/strength','.verse-card');
+    assert.equal(await page.locator('.verse-card a[href="#/study/46/1"]').count(),1,'Refuge verse opens the new study');
+    assert.equal(await page.locator('.side-note a[href="#/people/sons-of-korah"]').count(),1);
+    await visit('#/read/19/46','.reader-verse');
+    assert.equal(await page.locator('a[href="#/study/46/1"]').count(),1);
+    await page.locator('#verse-11 .icon-btn').click();
+    await page.locator('#verse-dialog').waitFor({state:'visible'});
+    await page.locator('#verse-dialog a[href="#/study/46/6"]').click();
+    await page.locator('.ps46-page').waitFor();
+    for(let step=1;step<=6;step++){
+      await visit('#/study/46/'+step,'.ps46-page .verse-text');
+      assert.equal(await page.locator('.study-explainer [role="tab"]').count(),4);
+      assert.equal(await page.locator('.journey-step.active').count(),1);
+      const expected=psalm46Sections[step-1];
+      assert.equal(await page.locator('.ps46-passage').count(),expected.length);
+      for(const verse of expected)assert.equal(await page.locator('[data-speakref="Psalm 46:'+verse+'"]').innerText(),psalm46[verse]);
+      assert.equal(await page.locator('.ps46-people a[href="#/people/jacob"]').count(),1);
+      assert.equal(await page.locator('.ps46-people a[href="#/people/sons-of-korah"]').count(),1);
+      for(const name of ['Context','Explore','Reflect','Meaning']){
+        await page.getByRole('tab',{name,exact:true}).click();
+        assert.equal(await page.getByRole('tab',{name,exact:true}).getAttribute('aria-selected'),'true');
+        assert.ok((await page.locator('#study-panel').innerText()).length>25);
+      }
+    }
+    await visit('#/study/46/6','.ps46-page');
+    await page.getByRole('tab',{name:'Reflect',exact:true}).click();
+    await page.locator('[data-note-ref="Psalm 46:10"]').fill('Help me respond with wisdom.');
+    await page.locator('#study-panel [data-action="save-note"]').click();
+    await visit('#/saved','.saved-list');
+    assert.match(await page.locator('.saved-list').innerText(),/Help me respond with wisdom\./);
+    await visit('#/study/46/6','.ps46-page');
+    await page.getByRole('tab',{name:'Reflect',exact:true}).click();
+    assert.equal(await page.locator('[data-note-ref="Psalm 46:10"]').inputValue(),'Help me respond with wisdom.');
+    await page.locator('[data-action="save"][data-ref="Psalm 46:11"]').click();
+    await visit('#/saved','.saved-list');
+    assert.equal(await page.locator('.saved-list a.verse-ref[href="#/read/19/46/11"]').count(),1);
+    for(const person of ['sons-of-korah','jacob']){
+      await visit('#/people/'+person,'.story-step');
+      assert.equal(await page.locator('.side-note a[href="#/study/46/1"]').count(),1,'Character profile returns to the Psalm');
+    }
+    assert.equal(await page.locator('.side-note a[href="#/stories/8/1"]').count(),1,'Jacob profile connects to the Genesis story');
+    await page.locator('.side-note a[href="#/stories/8/1"]').click();
+    await page.locator('#gen-narrative p').first().waitFor();
     await visit('#/read/1/1','.reader-verse');
     assert.ok(await page.locator('.reader-verse').count()>=20,'Genesis chapter 1 verses rendered');
     assert.deepEqual(errors,[],loc.label+' unhandled browser exceptions');
     await context.close();
-    console.log('PASS '+loc.label+' on 390px viewport — home, Genesis, story navigation, Psalm 23, Bible journey, full reader.');
+    console.log('PASS '+loc.label+' on 390px viewport — home, Genesis, Psalm 23, Psalm 46, character/help links, reflections, Bible journey, full reader.');
   }
 }finally{
   if(browser)await browser.close();

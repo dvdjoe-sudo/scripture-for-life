@@ -13,6 +13,36 @@ window.PEOPLE = [
  {id:'peter',name:'Peter',icon:'waves',tag:'Following, stumbling, and being restored',intro:'The Gospels and Acts portray Peter as a follower of Jesus who shows both boldness and weakness. His story includes a call, a painful denial, and a renewed commission.',reflection:'What do you notice about the relationship between failure, love, and responsibility in Peter’s story?',relatedTopic:'forgiveness',steps:[['Called beside the water','Luke describes a remarkable catch of fish, Simon Peter’s response, and Jesus calling him into a new kind of work.','Luke 5:1'],['A painful denial','During Jesus’ arrest and trial, Peter denies knowing Him three times. Luke records Peter remembering Jesus’ words and weeping.','Luke 22:54'],['A conversation about love','After the resurrection, Jesus asks Peter about his love and repeatedly tells him to care for His sheep. Christian readers commonly understand this scene as restoration and renewed responsibility.','John 21:15'],['Speaking with courage','At Pentecost, Peter stands with the Eleven and addresses the crowd. His speech points to Jesus’ death and resurrection and calls the hearers to respond.','Acts 2:14']]},
  {id:'esther',name:'Esther',icon:'crown',tag:'Courage and responsibility',intro:'Explore Esther’s decisions within a story of danger to her people, royal power, and a carefully timed appeal. Read the narrative in its own setting before drawing a personal lesson.',reflection:'What makes speaking up difficult? Who could help you act wisely when others need your support?',relatedTopic:'direction',steps:[['Life in the royal court','Esther, who has been raised by Mordecai, is brought into the king’s household and eventually becomes queen.','Esther 2:5'],['A threat to her people','Haman seeks the destruction of the Jews throughout the kingdom. The decree creates the crisis that drives the rest of the story.','Esther 3:5'],['Deciding to act','Mordecai urges Esther to speak to the king. She asks for a period of fasting and resolves to approach him despite the danger.','Esther 4:1'],['Making her appeal','At the banquet, Esther identifies herself with the people under threat and names Haman as their adversary. Read on through chapters 8–9 to follow the outcome.','Esther 7:1']]}
 ];
+// People explicitly connected with Psalm 46, with applications kept separate
+// from the accounts and without assigning an unrecorded occasion to the song.
+window.PEOPLE.push(
+  {
+    id:'sons-of-korah',name:'Sons of Korah',icon:'people',
+    tag:'Worship, belonging, and refuge',relatedTopic:'strength',psalm46:true,
+    intro:'The heading of Psalm 46 names the sons of Korah. Explore the biblical accounts of this family line and its service in worship. These passages help us understand the group, while leaving the exact occasion and individual writer of Psalm 46 open.',
+    reflection:'When trouble rises, what might it mean to seek encouragement, worship, or practical support alongside other people?',
+    steps:[
+      ['A family line that continued','Numbers records Korah’s rebellion, then states that his line did not die out. Keep that distinction in view when reading later accounts of the Korahites.','Numbers 26:11'],
+      ['Serving at the sanctuary','Chronicles describes Korahites assigned to guard the thresholds of the Tent. Their family connection is part of this account of service.','1 Chronicles 9:19'],
+      ['Joining a community in praise','During the account of Jehoshaphat and Judah facing a threat, Kohathite and Korahite Levites stand to praise God. This illustrates their worshiping role; it does not prove that Psalm 46 was written for that event.','2 Chronicles 20:19'],
+      ['A song of refuge','Psalm 46’s heading names the sons of Korah. The song moves through upheaval, the city of God, and the ending of war, repeatedly returning to God’s presence as a fortress.','Psalm 46:1']
+    ]
+  },
+  {
+    id:'jacob',name:'Jacob',icon:'compass',
+    tag:'Fear, family, and learning to trust',relatedTopic:'fear',psalm46:true,
+    storyRoute:'#/stories/8/1',storyLabel:'Jacob Runs, Dreams, and Wrestles',
+    intro:'Psalm 46 calls God “the God of Jacob.” Follow selected moments in Jacob’s account: a divided family, a journey away from home, fear before meeting his brother, and a night of wrestling. His story gives that familiar name a human setting.',
+    reflection:'Where do fear and responsibility meet in your life? What honest prayer or practical step could you take today?',
+    steps:[
+      ['A divided household','Genesis describes Jacob and Esau, their parents’ differing loyalties, and the sale of Esau’s birthright. Continue into chapter 27 to follow the deception over Isaac’s blessing and the resulting family conflict.','Genesis 25:19'],
+      ['A promise away from home','On his journey toward Haran, Jacob dreams of a stairway and hears God’s promise of presence. Read the promise within Jacob’s own account before considering how it relates to the refrain in Psalm 46.','Genesis 28:10'],
+      ['Fear before meeting Esau','Jacob hears that Esau is approaching with four hundred men. The text describes Jacob’s fear and distress, his preparations, and his prayer asking for deliverance.','Genesis 32:6'],
+      ['The night beside the Jabbok','Left alone, Jacob wrestles through the night and receives the name Israel. The account ends with a blessing and an enduring limp. These details invite careful reading, not a promise that every struggle ends without lasting pain.','Genesis 32:22'],
+      ['Meeting his brother','Jacob goes ahead to meet Esau. Esau runs to embrace him, and both brothers weep. Read their encounter alongside the fear and preparations in the preceding chapter.','Genesis 33:1']
+    ]
+  }
+);
 window.TOPIC_CONTEXT = {
  fear:'These passages include poetry, a promise addressed to Israel, and letters to Christian communities. Open each chapter to see who is speaking and how the passage fits. Finding courage can coexist with asking someone you trust for help.',
  strength:'These readings bring together God’s care, Jesus’ invitation, and Paul’s account of weakness. Their original settings differ. Read the surrounding verses before turning a line into a personal promise.',
