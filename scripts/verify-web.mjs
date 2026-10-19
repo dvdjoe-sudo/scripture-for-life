@@ -44,6 +44,8 @@ assert(app.includes('gen-home-cards'), 'Genesis home navigation is missing');
 assert(app.includes("parts[0]==='stories'"), 'Story route is missing');
 assert(story.includes('function scenePage('), 'Genesis story engine is missing');
 assert(app.includes("parts[0]==='walk'"), 'Psalm walk route is missing');
+assert(app.includes('<a class="btn light" href="#/study/23/1">Begin the journey'), 'Original Psalm study is not the homepage default');
+assert(app.includes('href="#/walk/23/${window.SFL_PSALM_WALK.progress()}"'), 'Optional illustrated walk is missing from homepage');
 assert(app.includes('href="#/walk/23/'), 'Psalm walk homepage and/or deep links are missing');
 assert(psalmWalk.includes('window.SFL_PSALM_WALK='), 'Psalm walk engine is missing');
 assert(psalmWalk.includes('var titles=[') && psalmWalk.includes('Goodness and Mercy'), 'All six Psalm scenes must be present');
