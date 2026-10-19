@@ -12,12 +12,12 @@ GitHub Pages can be configured under **Settings → Pages** to publish the `main
 
 - Find Bible passages for real-life circumstances, with links to original Scripture.
 - Read the public-domain Berean Standard Bible (BSB), including Psalm 23's **primary original visual devotional study** at `#/study/23/1` with Meaning, Context, Explore, and Reflect tabs.
-- Psalms 23 and 46 retain a collection and switcher. Psalm 23 has six verse-specific symbolic illustrations, plain verse links, and no trail or completion steps. Old walk links open the matching original verse study.
+- Psalms 23 and 46 retain a collection and switcher. Psalm 23 has six verse-specific watercolor illustrations, plain verse links, and no trail or completion steps. Old walk links open the matching original verse study.
 - Psalm 46 now uses the same original four-tab devotional design at `#/study/46/1`. Its six sections cover all eleven BSB verses without changing the Bible text. Read/listen, Meaning, Context, Explore, and optional Reflect tools connect directly with the fear and strength topics, the full reader, and new profiles of Jacob and the sons of Korah. The latter is a group named in the psalm heading, not an invented individual author. Jacob’s profile also links to the existing Genesis Episode 8.
 - Explore Genesis Episodes 1–12, 92 illustrated story scenes, narration and reflections.
 - Browse all 66 books in the Bible Journey.
 - Save verses and personal notes locally in the current browser.
-- The current homepage and Psalm 23 landscape art are restored from original Git history; newer Genesis story scenes use the same SVG landscape generator. Psalm 23 verse illustrations use the same original SVG palette; these are symbolic, not historical reconstructions.
+- The current homepage and Psalm 23 landscape art are restored from original Git history; newer Genesis story scenes use the same SVG landscape generator. Psalm 23 uses a consistent set of watercolor scenes based on the approved quiet-water preview. The six WebP images are bundled for Android and offline access. They are symbolic, not historical reconstructions. See `assets/psalm23/README.md` for artwork sources and prompts.
 - Episode manuscripts 4–12 are preserved verbatim in `stories/`; CI checks every paragraph against the corresponding reader episode. Scene titles, reference links, and reflection questions are editorial additions displayed separately from Scripture. On the hosted site, a service worker precaches the essential reading files so previously loaded content can be used offline. The first visit and successful installation require an internet connection. Not all images or third-party assets are guaranteed available offline.
 
 ## Run the website
