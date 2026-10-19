@@ -1,0 +1,43 @@
+{
+  "tool": "built-in image_gen",
+  "reference": "assets/psalm23/verse-2-watercolor.webp",
+  "common": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Use assets/psalm23/verse-2-watercolor.webp as the visual style reference after inspecting it. Match its fine translucent watercolor washes, warm ivory paper, naturally detailed foliage, sage and forest greens, restrained gold light, and soft blue atmospheric distance. Mature peaceful devotional watercolor realism, with sober tones where the verse calls for them. Keep important subjects inside the central 80%. Ancient clothing and simple objects where appropriate. Imagined symbolic illustration, not a historical reconstruction. No text, captions, watermark, halos, modern objects, visible God, divine face, or literal divine hands. Generate and inspect one individual painting for each verse. Scene: ",
+  "verses": [
+    {
+      "verse": 1,
+      "scene": "A sweeping olive valley beneath a vast luminous sky, tiny anonymous ancient travelers on a ridge for scale, natural greens and restrained gold light, expansive wonder, no visible Creator or literal glory figure."
+    },
+    {
+      "verse": 2,
+      "scene": "Two children and a caregiver holding an infant in a simple ancient courtyard beneath an olive tree, relaxed gentle expressions suggesting praise and belonging, no forced performance, adversary caricature, text or identifiable biblical portraits."
+    },
+    {
+      "verse": 3,
+      "scene": "A quiet olive valley under a clear moon and many naturally spaced stars, small anonymous ancient traveler seated on a ridge looking upward, deep soft blues and muted silver-green foliage, no literal hands, cosmic faces or fantasy planets."
+    },
+    {
+      "verse": 4,
+      "scene": "Two small anonymous ancient human figures beneath an immense night sky over olive hills, a modest home's warm lamplight nearby suggesting ordinary care, quiet dignity, no halos or literal divine presence."
+    },
+    {
+      "verse": 5,
+      "scene": "Anonymous ancient adults of different ages standing together on an olive hillside in gentle morning light, quiet equal dignity and ordinary clothing, no royal crowns, halos, angels, hierarchy or identifiable biblical portraits."
+    },
+    {
+      "verse": 6,
+      "scene": "An anonymous ancient caretaker checking a low pasture wall and a simple water trough, sheep resting nearby in green olive hills, attentive responsible care, no domination, trampling, weapons or literal world beneath feet."
+    },
+    {
+      "verse": 7,
+      "scene": "Sheep and an ox resting in a natural green pasture among olive hills, a small wild deer at the distant woodland edge, finely observed animals in gentle light, no hunting, anthropomorphic faces or named shepherd."
+    },
+    {
+      "verse": 8,
+      "scene": "A quiet natural coastline, birds crossing a soft blue sky and a few fish visible through clear shallow water near foreground rocks, olive-green shore and restrained light, single coherent watercolor landscape, not a labeled diagram or fantasy underwater cutaway."
+    },
+    {
+      "verse": 9,
+      "scene": "A broad river valley opening toward a distant coast under a brightening morning sky, birds and tiny anonymous ancient travelers within the landscape, a distinct closing composition of grateful wonder, muted greens and restrained gold, no literal divine figure."
+    }
+  ]
+}

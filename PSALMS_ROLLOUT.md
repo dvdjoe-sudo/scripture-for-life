@@ -12,11 +12,13 @@ Approved goal: extend the Psalm 1 / original Psalm 23 format across all 150 Psal
 | 4 | 8 | `#/study/4/1` |
 | 5 | 12 | `#/study/5/1` |
 | 6 | 10 | `#/study/6/1` |
+| 7 | 17 | `#/study/7/1` |
+| 8 | 9 | `#/study/8/1` |
 | 23 | 6 | `#/study/23/1` |
 
 Psalm 46 has a six-section study covering all eleven verses; it still needs conversion to individual verse pages to meet the new goal. All other Psalms retain their full chapter pages and chapter introductions, rather than being labeled finished verse studies.
 
-Next sequential chapter: **Psalm 7**. Continue in order, keeping the completed Psalm 23 study and arranging Psalm 46's conversion when reached. No new approval is needed for each chapter within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique verse art, or imply that work continues in the background after a session ends.
+Next sequential chapter: **Psalm 9**. Continue in order, keeping the completed Psalm 23 study and arranging Psalm 46's conversion when reached. No new approval is needed for each chapter within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique verse art, or imply that work continues in the background after a session ends.
 
 ## Completion gate for each batch
 
