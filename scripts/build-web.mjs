@@ -9,6 +9,7 @@ const webDir = path.join(root, 'www');
 // Capacitor must receive those exact files, not a legacy assets/app.js copy.
 const entries = [
   'index.html', 'app.js', 'styles.css', 'genesis.js', 'genesis.css',
+  'psalm-walk.js', 'psalm-walk.css',
   'data.js', 'content.js', 'icon.svg', 'manifest.webmanifest', 'sw.js',
   'assets', 'data'
 ];
