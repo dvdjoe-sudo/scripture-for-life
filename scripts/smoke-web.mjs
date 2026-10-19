@@ -117,7 +117,7 @@ try {
     await visit('#/study/46/6','.ps46-page');
     await page.getByRole('tab',{name:'Reflect',exact:true}).click();
     assert.equal(await page.locator('[data-note-ref="Psalm 46:10"]').inputValue(),'Help me respond with wisdom.');
-    await page.locator('[data-action="save"][data-ref="Psalm 46:11"]').click();
+    await page.locator('.ps46-page [data-action="save"][data-ref="Psalm 46:11"]').click();
     await visit('#/saved','.saved-list');
     assert.equal(await page.locator('.saved-list a.verse-ref[href="#/read/19/46/11"]').count(),1);
     for(const person of ['sons-of-korah','jacob']){
