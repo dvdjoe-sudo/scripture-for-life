@@ -27,7 +27,7 @@ const required = [
   'app.js', 'genesis.js', 'psalm-walk.js', 'psalm46.js', 'data.js', 'content.js',
   'psalm-art.js', 'psalm-art.css', 'psalm-navigation.js',
   'psalms-content.js', 'psalms-book.js', 'psalms-book.css',
-  'psalm-verse-study.js', 'psalm-verse-study.css', 'psalm1.js', 'psalms-2-3.js',
+  'psalm-verse-study.js', 'psalm-verse-study.css', 'psalm1.js', 'psalms-2-3.js', 'psalm4.js',
   'styles.css', 'genesis.css', 'psalm-walk.css', 'icon.svg',
   'data/bible.json', 'data/episodes.json', 'data/story-scenes.json',
   'manifest.webmanifest', 'sw.js'
