@@ -25,6 +25,7 @@ const psalmWalk = read(www, 'psalm-walk.js');
 const psalmCss = read(www, 'psalm-walk.css');
 const required = [
   'app.js', 'genesis.js', 'psalm-walk.js', 'psalm46.js', 'data.js', 'content.js',
+  'study-trail.js', 'study-trail.css', 'psalm-navigation.js',
   'styles.css', 'genesis.css', 'psalm-walk.css', 'icon.svg',
   'data/bible.json', 'data/episodes.json', 'data/story-scenes.json',
   'manifest.webmanifest', 'sw.js'
