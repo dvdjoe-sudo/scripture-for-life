@@ -201,7 +201,7 @@ try {
     await visit('#/study/1/6','[data-verse-study="1"]');
     assert.equal(await page.locator('.study-bottom a[href="#/study/2/1"]').count(),1);
     const fullPsalms=JSON.parse(fs.readFileSync(path.join(root,'data/bible.json'),'utf8')).books[18].chapters;
-    for(const number of [2,3]){
+    for(const number of [2,3,4]){
       const verses=Object.fromEntries(fullPsalms[number-1]),images=[],meanings=[];
       for(let n=1;n<=Object.keys(verses).length;n++){
         await visit('#/study/'+number+'/'+n,'[data-verse-study="'+number+'"]');
@@ -230,6 +230,13 @@ try {
     assert.ok(page.url().endsWith('#/study/2/3'),'Each psalm retains its own verse');
     await visit('#/study/2/12','[data-verse-study="2"]');
     await page.locator('.study-bottom a[href="#/study/3/1"]').click();await page.locator('[data-current-verse="1"][data-verse-study="3"]').waitFor();
+    await visit('#/study/3/8','[data-verse-study="3"]');
+    await page.locator('.study-bottom a[href="#/study/4/1"]').click();await page.locator('[data-current-verse="1"][data-verse-study="4"]').waitFor();
+    assert.equal(await page.locator('.study-context a[href="#/people/david"]').count(),1);
+    await visit('#/study/4/8','[data-verse-study="4"]');
+    await page.locator('.study-bottom a[href="#/psalms/5"]').click();await page.locator('[data-psalm-chapter="5"]').waitFor();
+    await page.locator('[data-psalm-switch]').selectOption('4');await page.locator('[data-verse-study="4"]').waitFor();
+    assert.ok(page.url().endsWith('#/study/4/8'),'Psalm 4 resumes independently');
     assert.deepEqual(errors,[],loc.label+' unhandled browser exceptions');
     await context.close();
     console.log('PASS '+loc.label+' on 390px viewport — home, Genesis, Psalm 23, Psalm 46, character/help links, reflections, Bible journey, full reader.');

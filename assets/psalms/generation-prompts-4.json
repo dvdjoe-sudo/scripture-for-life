@@ -1,0 +1,39 @@
+{
+  "tool": "built-in image_gen",
+  "reference": "Approved Psalm 23:2 watercolor",
+  "common": "Use case: illustration-story. Asset type: individual Bible verse illustration, landscape 3:2, no text. Match the approved watercolor reference's fine transparent washes, textured ivory paper, natural detail, layered olive hills, sage and forest greens, muted gold and soft blue distance. Peaceful, beautiful, painterly devotional realism, not cartoon, not vector, not glossy photo. Biblical-era clothing and simple objects. Art is imaginative and symbolic, not a claim to historical reconstruction. No halos, captions, writing, watermark, modern items, or literal depiction of God. Scene: ",
+  "verses": [
+    {
+      "verse": 1,
+      "scene": "Psalm 4:1, prayer for relief: an anonymous ancient traveler kneels at the opening of a narrow rocky passage that opens into a spacious sunlit valley, open hands, olive trees, expressing distress giving way to room to breathe."
+    },
+    {
+      "verse": 2,
+      "scene": "Psalm 4:2, honor maligned and pursuit of lies: an anonymous solitary traveler pauses on a village lane while three distant figures turn away talking, long uncertain evening shadows, a clear path leading out toward olive hills; no pointing or cruel caricatures."
+    },
+    {
+      "verse": 3,
+      "scene": "Psalm 4:3, belonging and being heard: an anonymous ancient traveler sits quietly beside a broad olive tree, a small oil lamp on a stone, the protective canopy opens toward a calm luminous sky and valley, no literal depiction of God."
+    },
+    {
+      "verse": 4,
+      "scene": "Psalm 4:4, searching the heart and being still: an anonymous ancient traveler sits awake on the edge of a woven bed in a simple stone room, hands resting open, an oil lamp and a small window onto blue evening hills, reflective and still."
+    },
+    {
+      "verse": 5,
+      "scene": "Psalm 4:5, sincere worship and trust: a modest ancient outdoor stone altar with a faint wisp of smoke and a traveler standing quietly at a respectful distance, green olive hills, no animal or gore; imagined symbolic setting rather than archaeological reconstruction."
+    },
+    {
+      "verse": 6,
+      "scene": "Psalm 4:6, asking for the light of God's face: a small group of anonymous travelers in a shadowed valley look toward warm sunlight breaking through clouds above a ridge, the landscape brightening, no face, divine figure or face-shaped cloud."
+    },
+    {
+      "verse": 7,
+      "scene": "Psalm 4:7, joy beyond abundant harvest: an anonymous traveler with a hand over the heart stands in a golden grain field beside a modest basket of grapes and a clay jar, evening sunshine, olive hills; gratitude rather than luxurious excess."
+    },
+    {
+      "verse": 8,
+      "scene": "Psalm 4:8, peaceful sleep and safety: an anonymous ancient traveler sleeps on a simple woven bed inside a stone home, folded cloak, small lamp, open window showing a still moonlit olive grove, gentle warm interior and blue night outdoors."
+    }
+  ]
+}
