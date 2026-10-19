@@ -78,7 +78,7 @@ try {
     assert.ok(page.url().endsWith('#/study/23/6'),'Psalm switcher retains place');
     await page.locator('.psalm-navigation a[href="#/psalms"]').click();
     await page.locator('.psalms-study-card').first().waitFor();
-    assert.equal(await page.locator('.psalms-study-card').count(),2);
+    assert.equal(await page.locator('.psalms-study-card').count(),150);
     await visit('#/walk/23/4','.psalm-verse-art');
     assert.ok(page.url().endsWith('#/study/23/4'),'Old walk links open the verse illustration');
     await page.getByRole('tab',{name:'Reflect',exact:true}).click();
@@ -105,6 +105,7 @@ try {
       await visit('#/study/46/'+step,'.ps46-page .verse-text');
       assert.equal(await page.locator('.study-explainer [role="tab"]').count(),4);
       assert.equal(await page.locator('.journey-step.active').count(),1);
+      await page.waitForFunction(()=>{const i=document.querySelector('.ps46-watercolor');return i?.complete&&i.naturalWidth>0;});
       const expected=psalm46Sections[step-1];
       assert.equal(await page.locator('.ps46-passage').count(),expected.length);
       for(const verse of expected)assert.equal(await page.locator('[data-speakref="Psalm 46:'+verse+'"]').innerText(),psalm46[verse]);
@@ -137,6 +138,31 @@ try {
     await page.locator('#gen-narrative p').first().waitFor();
     await visit('#/read/1/1','.reader-verse');
     assert.ok(await page.locator('.reader-verse').count()>=20,'Genesis chapter 1 verses rendered');
+    await visit('#/psalms','.psalms-study-card');
+    await page.locator('[data-psalms-search]').fill('119');
+    assert.equal(await page.locator('.psalms-study-card:visible').count(),1);
+    await page.locator('.psalms-study-card:visible a.btn').click();
+    await page.locator('[data-psalm-chapter="119"]').waitFor();
+    assert.equal(await page.locator('.psalm-chapter-verse').count(),176);
+    await page.locator('[data-psalm-verse-jump]').selectOption('105');
+    await page.locator('#psalm-line-105.selected').waitFor();
+    for(const label of ['Context','Explore','Reflect','Meaning']){
+      await page.getByRole('tab',{name:label,exact:true}).click();
+      assert.ok((await page.locator('#chapter-panel').innerText()).length>50);
+    }
+    await page.getByRole('tab',{name:'Reflect',exact:true}).click();
+    await page.locator('#chapter-panel textarea').fill('Light for the next step.');
+    await page.locator('#chapter-panel [data-action="save-note"]').click();
+    await page.reload();await page.locator('.psalm-chapter').waitFor();
+    await page.getByRole('tab',{name:'Reflect',exact:true}).click();
+    assert.equal(await page.locator('#chapter-panel textarea').inputValue(),'Light for the next step.');
+    for(const n of [1,42,46,88,91,137,150]){
+      await visit('#/psalms/'+n,'.psalm-chapter-art');
+      await page.waitForFunction(()=>{const i=document.querySelector('.psalm-chapter-figure img');return i?.complete&&i.naturalWidth>0;});
+      assert.ok(await page.locator('.psalm-chapter-verse').count()>0);
+    }
+    await page.locator('[data-psalm-switch]').selectOption('2');await page.locator('[data-psalm-chapter="2"]').waitFor();
+    await page.locator('.psalm-chapter-pager').first().locator('a[href="#/psalms/3"]').click();await page.locator('[data-psalm-chapter="3"]').waitFor();
     assert.deepEqual(errors,[],loc.label+' unhandled browser exceptions');
     await context.close();
     console.log('PASS '+loc.label+' on 390px viewport — home, Genesis, Psalm 23, Psalm 46, character/help links, reflections, Bible journey, full reader.');
