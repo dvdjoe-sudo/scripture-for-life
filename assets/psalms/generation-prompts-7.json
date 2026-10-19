@@ -1,6 +1,5 @@
 {
-  "status": "PROMPTS_ONLY",
-  "tool": "built-in image_gen planned",
+  "tool": "built-in image_gen",
   "reference": "assets/psalm23/verse-2-watercolor.webp",
   "common": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Use assets/psalm23/verse-2-watercolor.webp as the visual style reference after inspecting it. Match its fine translucent watercolor washes, warm ivory paper, naturally detailed foliage, sage and forest greens, restrained gold light, and soft blue atmospheric distance. Mature peaceful devotional watercolor realism, with sober tones where the verse calls for them. Keep important subjects inside the central 80%. Ancient clothing and simple objects where appropriate. Imagined symbolic illustration, not a historical reconstruction. No text, captions, watermark, halos, modern objects, visible God, divine face, or literal divine hands. Generate and inspect one individual painting for each verse. Scene: ",
   "verses": [

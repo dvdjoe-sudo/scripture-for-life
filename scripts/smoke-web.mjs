@@ -201,7 +201,7 @@ try {
     await visit('#/study/1/6','[data-verse-study="1"]');
     assert.equal(await page.locator('.study-bottom a[href="#/study/2/1"]').count(),1);
     const fullPsalms=JSON.parse(fs.readFileSync(path.join(root,'data/bible.json'),'utf8')).books[18].chapters;
-    for(const number of [2,3,4,5,6]){
+    for(const number of [2,3,4,5,6,7,8]){
       const verses=Object.fromEntries(fullPsalms[number-1]),images=[],meanings=[];
       for(let n=1;n<=Object.keys(verses).length;n++){
         await visit('#/study/'+number+'/'+n,'[data-verse-study="'+number+'"]');
@@ -239,13 +239,56 @@ try {
     await visit('#/study/5/12','[data-verse-study="5"]');
     await page.locator('.study-bottom a[href="#/study/6/1"]').click();await page.locator('[data-current-verse="1"][data-verse-study="6"]').waitFor();
     await visit('#/study/6/10','[data-verse-study="6"]');
-    await page.locator('.study-bottom a[href="#/psalms/7"]').click();await page.locator('[data-psalm-chapter="7"]').waitFor();
+    await page.locator('.study-bottom a[href="#/study/7/1"]').click();await page.locator('[data-verse-study="7"]').waitFor();
+    await visit('#/study/7/17','[data-verse-study="7"]');
+    await page.locator('.study-bottom a[href="#/study/8/1"]').click();await page.locator('[data-verse-study="8"]').waitFor();
+    assert.equal(await page.locator('.study-context a[href="#/people/jesus"]').count(),1);
+    await visit('#/study/8/9','[data-verse-study="8"]');
+    await page.locator('.study-bottom a[href="#/psalms/9"]').click();await page.locator('[data-psalm-chapter="9"]').waitFor();
+    await page.locator('[data-psalm-switch]').selectOption('8');await page.locator('[data-verse-study="8"]').waitFor();
+    assert.ok(page.url().endsWith('#/study/8/9'),'Psalm 8 resumes independently');
+    await page.locator('[data-psalm-switch]').selectOption('7');await page.locator('[data-verse-study="7"]').waitFor();
+    assert.ok(page.url().endsWith('#/study/7/17'),'Psalm 7 resumes independently');
     await page.locator('[data-psalm-switch]').selectOption('6');await page.locator('[data-verse-study="6"]').waitFor();
     assert.ok(page.url().endsWith('#/study/6/10'),'Psalm 6 resumes independently');
     await page.locator('[data-psalm-switch]').selectOption('5');await page.locator('[data-verse-study="5"]').waitFor();
     assert.ok(page.url().endsWith('#/study/5/12'),'Psalm 5 resumes independently');
     await page.locator('[data-psalm-switch]').selectOption('4');await page.locator('[data-verse-study="4"]').waitFor();
     assert.ok(page.url().endsWith('#/study/4/8'),'Psalm 4 resumes independently');
+    await visit('#/stories','.gen-episode-tile');
+    await page.locator('a[href="#/exodus"]').first().click();
+    await page.locator('[data-story-book="exodus"] .gen-episode-tile').first().waitFor();
+    assert.equal(await page.locator('.gen-episode-tile').count(),3,'Three Exodus episodes');
+    const exodusEpisodes=JSON.parse(fs.readFileSync(path.join(root,'data/exodus-episodes.json'),'utf8'));
+    const exodusScenes=JSON.parse(fs.readFileSync(path.join(root,'data/exodus-scenes.json'),'utf8'));
+    for(const episode of exodusEpisodes){
+      for(const [i,scene] of exodusScenes[episode.id].entries()){
+        await visit('#/exodus/'+episode.id+'/'+(i+1),'#exo-narrative p');
+        assert.deepEqual(await page.locator('#exo-narrative p').allTextContents(),episode.paragraphs.slice(scene.start,scene.end+1));
+        assert.equal(await page.locator('.gen-progress [aria-current]').count(),1);
+        assert.ok(await page.locator('.gen-scripture a[href^="#/read/2/"]').count()>0);
+        assert.equal(await page.locator('.gen-scene-art .landscape').count(),1);
+      }
+      await visit('#/exodus/'+episode.id+'/full','.gen-full');
+      assert.deepEqual(await page.locator('.gen-full .gen-narrative p').allTextContents(),episode.paragraphs);
+    }
+    await visit('#/exodus/1/1','#exo-narrative');
+    await page.locator('.gen-next a[href="#/exodus/1/2"]').click();await page.locator('h1').filter({hasText:'The midwives'}).waitFor();
+    await page.locator('#exo-note').fill('Exodus reflection kept apart from Genesis.');
+    await page.locator('[data-exod="save"]').click();await page.reload();await page.locator('#exo-note').waitFor();
+    assert.equal(await page.locator('#exo-note').inputValue(),'Exodus reflection kept apart from Genesis.');
+    await visit('#/stories/1/3','#gen-narrative');
+    await visit('#/exodus','.gen-episode-tile');
+    assert.equal(await page.locator('.gen-episode-tile').first().getAttribute('href'),'#/exodus/1/2');
+    await page.locator('.gen-episode-tile').first().click();await page.locator('#exo-narrative').waitFor();
+    await page.locator('.gen-scripture a[href="#/read/2/1/17"]').click();await page.locator('#verse-17.selected').waitFor();
+    for(const [id,last,next] of [['1',10,'#/exodus/2/1'],['2',12,'#/exodus/3/1'],['3',11,'#/journey']]){
+      await visit('#/exodus/'+id+'/'+last,'.gen-next');assert.equal(await page.locator('.gen-next a[href="'+next+'"]').count(),1);
+    }
+    assert.equal(await page.locator('a[href="#/read/2/16"]').count(),1,'Continue past the supplied manuscripts in the Bible');
+    for(const person of ['moses','aaron','miriam','zipporah','midwives']){
+      await visit('#/people/'+person,'.story-step');assert.equal(await page.locator('.side-note a[href^="#/exodus/"]').count(),1);
+    }
     assert.deepEqual(errors,[],loc.label+' unhandled browser exceptions');
     await context.close();
     console.log('PASS '+loc.label+' on 390px viewport — home, Genesis, Psalm 23, Psalm 46, character/help links, reflections, Bible journey, full reader.');
