@@ -9,6 +9,7 @@
   <meta property="og:description" content="A quiet place to find Scripture for what you're facing, understand its context, and explore its stories.">
   <title>Scripture for Life</title>
   <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="genesis.css">
   <script src="data.js" defer></script>
@@ -33,5 +34,14 @@
   <div id="audio-bar" class="audio-bar" hidden><span class="audio-dot"></span><span id="audio-status">Reading Scripture</span><button data-action="stop-audio" aria-label="Stop narration">Stop listening <span aria-hidden="true">×</span></button></div>
   <dialog id="verse-dialog" aria-labelledby="dialog-title"><button class="dialog-close" data-action="close-dialog" aria-label="Close verse details">×</button><div id="dialog-content"></div></dialog>
   <noscript><p class="empty">Please enable JavaScript to explore the Bible. You can also <a href="https://bereanbible.com/bsb.txt">download the public-domain BSB text</a>.</p></noscript>
+  <script>
+    // The Android app bundles local assets; this offline cache is for HTTPS websites.
+    if ('serviceWorker' in navigator && location.protocol === 'https:' && location.hostname !== 'localhost') {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js')
+          .catch(error => console.warn('Offline reading unavailable:', error));
+      });
+    }
+  </script>
 </body>
 </html>

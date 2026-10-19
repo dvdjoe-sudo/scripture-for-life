@@ -1,10 +1,60 @@
-# Scripture for Life — Original Home Screen Restored
+# Scripture for Life
 
-This review branch restores the **actual first-release home screen, original Psalm 23 scene() vector artwork, original Psalm 23 study, navigation, and original CSS** directly from historical commit `adb60cfbc4823ee424492e8a179ebde3cfbb761b` (not an imitation). The only changes in original styling are small-screen overflow fixes and a new, matching Genesis-story stylesheet. Three full Genesis episodes and their 20 scene interpretations are retained using `data/episodes.json` and `data/story-scenes.json`.
+A peaceful Bible companion that places God's Word first. This repository's **main** branch contains the approved original warm-ivory, forest-green design and Psalm 23 illustration, alongside newer interactive Genesis storytelling.
 
-Run with `python3 -m http.server 8000`, then view `http://localhost:8000`. Click People & stories → Explore Genesis stories. The Bible reader uses the existing public-domain BSB `data/bible.json`.
+## Live website
 
-## Source of visuals
-Home and Psalm 23 artwork: original SVG `scene()` generator in `app.js` from Git history. All Genesis artwork in the revised reader is rendered by that same original landscape function, using different original palettes. The old v4 scene assets remain in the repo for future decisions and are not used on the restored homepage.
+https://dvdjoe-sudo.github.io/scripture-for-life/
 
-This is a **draft-review branch only**. Not merged into `main`, not a published website, and not a finished Google Play release.
+GitHub Pages can be configured under **Settings → Pages** to publish the `main` branch from `/(root)`. If Pages still publishes another branch, switching to `main` is a separate repository-setting change; merging alone doesn't change the Pages publishing source.
+
+## What works today
+
+- Find Bible passages for real-life circumstances, with links to original Scripture.
+- Read the public-domain Berean Standard Bible (BSB), including Psalm 23's original visual devotional study.
+- Explore Genesis Episodes 1–3, 20 illustrated story scenes, narration and reflections.
+- Browse all 66 books in the Bible Journey.
+- Save verses and personal notes locally in the current browser.
+- The current homepage and Psalm 23 landscape art are restored from original Git history; newer Genesis story scenes use the same SVG landscape generator.
+- On the hosted site, a service worker precaches the essential reading files so previously loaded content can be used offline. The first visit and successful installation require an internet connection. Not all images or third-party assets are guaranteed available offline.
+
+## Run the website
+
+At the project root, run:
+
+```sh
+python3 -m http.server 8000
+```
+
+Visit http://localhost:8000. Web routes use the location hash (e.g., `#/stories`).
+
+## Build the same site for Android
+
+Node.js 22 or later and Android Studio are recommended.
+
+```sh
+npm install
+npm run check
+npx cap add android       # first time only
+npm run android:sync
+npm run android:open
+```
+
+`npm run build` generates `www/` containing **the exact root HTML/CSS/JS files the live website uses**, together with `assets/`, `data/`, the icon and manifest. Capacitor uses that `www/` directory. `www/`, `android/` and `node_modules/` are generated and should not be committed by default. The Android build still requires native compilation and physical-device testing.
+
+The package ID `com.scriptureforlife.bible` is a **provisional candidate**; confirm it is suitable/available before the first Google Play release, and do not publish or sign a production app with it until approved. This repo is not yet a tested, signed Google Play app.
+
+### Icons and offline
+
+- The manifest now correctly references `icon.svg` at the repository root and opens `#/.`? No: the actual home route is `#/`.
+- The website registers `sw.js` on HTTPS hosted pages. Service-worker caching is a web/PWA feature; Android's bundled static assets don't depend on it.
+- SVG is available now, but the eventual Play Store submission needs properly rendered Android launcher/adaptive icons and store artwork (including PNG assets).
+- For future releases, check the current Google Play target API level, privacy/data-safety disclosures and testing requirements before submission.
+
+### Legacy files
+
+`standalone.html` and `assets/app.js`, `assets/style.css` are historical alternative builds. The website does **not** load them, and the Android build copies the root scripts instead. Keep them for now; remove only after confirming no references or backup needs.
+
+### Attribution
+
+Bible text is the public-domain Berean Standard Bible. Original retellings and contextual notes remain distinguished from Scripture, and scene illustrations are symbolic rather than historical images.
