@@ -53,7 +53,7 @@ assert(!config.appId.startsWith('com.example.'), 'Replace example Android app ID
 
 const episodes = JSON.parse(read(www, 'data/episodes.json'));
 const scenes = JSON.parse(read(www, 'data/story-scenes.json'));
-assert(episodes.length === 3, 'Expected Genesis Episodes 1–3');
+assert(episodes.length === 12, 'Expected Genesis Episodes 1–12');
 let sceneCount = 0;
 for (const ep of episodes) {
   const group = scenes[String(ep.id)];
@@ -66,8 +66,15 @@ for (const ep of episodes) {
     sceneCount++;
   }
   assert(nextParagraph === ep.paragraphs.length, 'Missing story paragraphs: ' + ep.title);
+  // The uploaded episode manuscript is archived unchanged; every narrative paragraph must match.
+  if (Number(ep.id) >= 4) {
+    const source = read(root, 'stories/genesis-episode-' + ep.id + '.md').replace(/\r\n/g, '\n').trimEnd();
+    const paragraphText = source.split('\n').slice(2).join('\n').trim().split(/\n\s*\n/).map(p => p.trim());
+    assert(JSON.stringify(paragraphText) === JSON.stringify(ep.paragraphs),
+      'Story narrative differs from original uploaded manuscript: ' + ep.title);
+  }
 }
-assert(sceneCount === 20, 'Expected 20 Genesis scenes');
+assert(sceneCount === 92, 'Expected 92 Genesis scenes');
 const offline = read(www, 'sw.js');
 for (const pathName of required.filter(v=>!['manifest.webmanifest','sw.js'].includes(v))) {
   // Offline shell covers essential functional files, even if other illustrations load on demand.
@@ -75,4 +82,4 @@ for (const pathName of required.filter(v=>!['manifest.webmanifest','sw.js'].incl
     assert(offline.includes(pathName), 'Offline shell does not precache ' + pathName);
   }
 }
-console.log('PASS — Web and Android assets agree; 3 Genesis episodes, ' + sceneCount + ' scenes, original home art, icon, manifest and offline shell.');
+console.log('PASS — Web and Android assets agree; 12 Genesis episodes, ' + sceneCount + ' scenes, original home art, icon, manifest and offline shell.');

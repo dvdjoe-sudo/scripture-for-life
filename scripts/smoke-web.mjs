@@ -40,7 +40,7 @@ try {
     assert.match(await page.locator('h1').first().innerText(),/Find help in/);
     assert.equal(await page.locator('.gen-home-card').count(),3,'Three Genesis cards on homepage');
     await visit('#/stories','.gen-episode-tile');
-    assert.equal(await page.locator('.gen-episode-tile').count(),3,'Three Genesis episodes');
+    assert.equal(await page.locator('.gen-episode-tile').count(),12,'All twelve Genesis episodes');
     await visit('#/stories/1/1','#gen-narrative p');
     assert.match(await page.locator('h1').first().innerText(),/First Light/);
     await visit('#/stories/1/6','.gen-next');
@@ -48,6 +48,11 @@ try {
     await visit('#/stories/2/6','.gen-next');
     assert.equal(await page.locator('.gen-next a[href="#/stories/3/1"]').count(),1);
     await visit('#/stories/3/8','.gen-next');
+    assert.equal(await page.locator('.gen-next a[href="#/stories/4/1"]').count(),1);
+    await visit('#/stories/4/1','#gen-narrative p');
+    await visit('#/stories/11/8','.gen-next');
+    assert.equal(await page.locator('.gen-next a[href="#/stories/12/1"]').count(),1);
+    await visit('#/stories/12/9','.gen-next');
     assert.equal(await page.locator('.gen-next a[href="#/journey"]').count(),1);
     await visit('#/journey','.gen-books');
     assert.equal(await page.locator('.gen-book').count(),66,'All 66 books present');

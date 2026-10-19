@@ -12,11 +12,11 @@ GitHub Pages can be configured under **Settings → Pages** to publish the `main
 
 - Find Bible passages for real-life circumstances, with links to original Scripture.
 - Read the public-domain Berean Standard Bible (BSB), including Psalm 23's original visual devotional study.
-- Explore Genesis Episodes 1–3, 20 illustrated story scenes, narration and reflections.
+- Explore Genesis Episodes 1–12, 92 illustrated story scenes, narration and reflections.
 - Browse all 66 books in the Bible Journey.
 - Save verses and personal notes locally in the current browser.
 - The current homepage and Psalm 23 landscape art are restored from original Git history; newer Genesis story scenes use the same SVG landscape generator.
-- On the hosted site, a service worker precaches the essential reading files so previously loaded content can be used offline. The first visit and successful installation require an internet connection. Not all images or third-party assets are guaranteed available offline.
+- Episode manuscripts 4–12 are preserved verbatim in `stories/`; CI checks every paragraph against the corresponding reader episode. Scene titles, reference links, and reflection questions are editorial additions displayed separately from Scripture. On the hosted site, a service worker precaches the essential reading files so previously loaded content can be used offline. The first visit and successful installation require an internet connection. Not all images or third-party assets are guaranteed available offline.
 
 ## Run the website
 
@@ -58,3 +58,7 @@ The package ID `com.scriptureforlife.bible` is a **provisional candidate**; conf
 ### Attribution
 
 Bible text is the public-domain Berean Standard Bible. Original retellings and contextual notes remain distinguished from Scripture, and scene illustrations are symbolic rather than historical images.
+
+## Genesis complete collection
+
+All 12 episodes now cover Genesis 1–50, from Creation through the death of Joseph. There are 92 illustrated reading scenes. Each uses the original Scripture for Life muted landscape SVG generator; no AI-generated historical portraits. Original narrated paragraphs for Episodes 4–12 are archived in `stories/genesis-episode-N.md` and tested against the app data. Scene interpretations remain clearly separated from biblical quotations and the original retelling. Episode navigation continues from one story to the next; Episode 12 concludes with the 66-book Bible Journey.
