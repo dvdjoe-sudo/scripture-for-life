@@ -161,7 +161,8 @@ try {
       await page.waitForFunction(()=>{const i=document.querySelector('.psalm-chapter-figure img');return i?.complete&&i.naturalWidth>0;});
       assert.ok(await page.locator('.psalm-chapter-verse').count()>0);
     }
-    await page.locator('[data-psalm-switch]').selectOption('2');await page.locator('[data-psalm-chapter="2"]').waitFor();
+    await page.locator('[data-psalm-switch]').selectOption('2');await page.locator('[data-verse-study="2"]').waitFor();
+    await visit('#/psalms/2','[data-psalm-chapter="2"]');
     await page.locator('.psalm-chapter-pager').first().locator('a[href="#/psalms/3"]').click();await page.locator('[data-psalm-chapter="3"]').waitFor();
     await visit('#/psalms','.psalms-study-card');
     await page.locator('[data-psalms-search]').fill('1');
@@ -198,7 +199,37 @@ try {
     assert.equal(await page.locator('.study-context a[href="#/people/jesus"]').count(),1);
     assert.equal(await page.locator('.study-context a[href="#/people/ruth"]').count(),1);
     await visit('#/study/1/6','[data-verse-study="1"]');
-    assert.equal(await page.locator('.study-bottom a[href="#/psalms/2"]').count(),1);
+    assert.equal(await page.locator('.study-bottom a[href="#/study/2/1"]').count(),1);
+    const fullPsalms=JSON.parse(fs.readFileSync(path.join(root,'data/bible.json'),'utf8')).books[18].chapters;
+    for(const number of [2,3]){
+      const verses=Object.fromEntries(fullPsalms[number-1]),images=[],meanings=[];
+      for(let n=1;n<=Object.keys(verses).length;n++){
+        await visit('#/study/'+number+'/'+n,'[data-verse-study="'+number+'"]');
+        await page.waitForFunction(()=>{const i=document.querySelector('[data-verse-study-art]');return i?.complete&&i.naturalWidth>0;});
+        assert.equal(await page.locator('.study-verse [data-speakref]').innerText(),verses[n]);
+        assert.equal(await page.locator('.psalm-verse-nav a').count(),Object.keys(verses).length);
+        assert.equal(await page.locator('.psalm-verse-nav [aria-current]').getAttribute('href'),'#/study/'+number+'/'+n);
+        images.push(await page.locator('[data-verse-study-art]').getAttribute('src'));
+        meanings.push(await page.locator('#verse-study-panel').innerText());
+        for(const label of ['Context','Explore','Reflect','Meaning']){
+          await page.getByRole('tab',{name:label,exact:true}).click();
+          assert.ok((await page.locator('#verse-study-panel').innerText()).length>80);
+        }
+      }
+      assert.equal(new Set(images).size,Object.keys(verses).length);
+      assert.equal(new Set(meanings).size,Object.keys(verses).length);
+      await visit('#/study/'+number+'/3','[data-verse-study="'+number+'"]');
+      await page.getByRole('tab',{name:'Reflect',exact:true}).click();
+      await page.locator('#verse-study-panel textarea').fill('Reflection for Psalm '+number);
+      await page.locator('#verse-study-panel [data-action="save-note"]').click();
+      await page.reload();await page.locator('[data-verse-study="'+number+'"]').waitFor();
+      await page.getByRole('tab',{name:'Reflect',exact:true}).click();
+      assert.equal(await page.locator('#verse-study-panel textarea').inputValue(),'Reflection for Psalm '+number);
+    }
+    await page.locator('[data-psalm-switch]').selectOption('2');await page.locator('[data-verse-study="2"]').waitFor();
+    assert.ok(page.url().endsWith('#/study/2/3'),'Each psalm retains its own verse');
+    await visit('#/study/2/12','[data-verse-study="2"]');
+    await page.locator('.study-bottom a[href="#/study/3/1"]').click();await page.locator('[data-current-verse="1"][data-verse-study="3"]').waitFor();
     assert.deepEqual(errors,[],loc.label+' unhandled browser exceptions');
     await context.close();
     console.log('PASS '+loc.label+' on 390px viewport — home, Genesis, Psalm 23, Psalm 46, character/help links, reflections, Bible journey, full reader.');
