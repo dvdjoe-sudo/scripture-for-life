@@ -1,12 +1,31 @@
 /* Scripture for Life offline support for the WEB build.
    Capacitor Android carries its web assets inside the application. */
-const VERSION = 'scripture-for-life-shell-v10';
+const VERSION = 'scripture-for-life-shell-v11';
 const CORE = [
   './', './index.html', './app.js', './styles.css', './genesis.js',
   './genesis.css', './psalm-walk.js', './psalm-walk.css', './psalm46.js', './data.js', './content.js', './icon.svg',
   './assets/psalm23/verse-1-watercolor.webp', './assets/psalm23/verse-2-watercolor.webp',
   './assets/psalm23/verse-3-watercolor.webp', './assets/psalm23/verse-4-watercolor.webp',
   './assets/psalm23/verse-5-watercolor.webp', './assets/psalm23/verse-6-watercolor.webp',
+  './psalms-content.js', './psalms-book.js', './psalms-book.css',
+  './assets/psalms/tree-watercolor.webp',
+  './assets/psalms/night-watercolor.webp',
+  './assets/psalms/music-watercolor.webp',
+  './assets/psalms/prayer-watercolor.webp',
+  './assets/psalms/deer-watercolor.webp',
+  './assets/psalms/word-watercolor.webp',
+  './assets/psalms/renewal-watercolor.webp',
+  './assets/psalms/wilderness-watercolor.webp',
+  './assets/psalms/harvest-watercolor.webp',
+  './assets/psalms/exile-watercolor.webp',
+  './assets/psalms/wings-watercolor.webp',
+  './assets/psalms/praise-watercolor.webp',
+  './assets/psalm46/section-1-watercolor.webp',
+  './assets/psalm46/section-2-watercolor.webp',
+  './assets/psalm46/section-3-watercolor.webp',
+  './assets/psalm46/section-4-watercolor.webp',
+  './assets/psalm46/section-5-watercolor.webp',
+  './assets/psalm46/section-6-watercolor.webp',
   './psalm-art.js', './psalm-art.css', './psalm-navigation.js',
   './manifest.webmanifest', './data/bible.json',
   './data/episodes.json', './data/story-scenes.json'

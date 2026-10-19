@@ -1,0 +1,86 @@
+{
+  "reference": "Approved Psalm 23:2 soft watercolor preview",
+  "tool": "Built-in image generation",
+  "psalm46": {
+    "common": "Create ONE illustration for Psalm 46 in a Bible encouragement app, visually consistent with the attached chosen watercolor. Reference is STYLE ONLY: finely observed naturalistic watercolor, translucent color washes, paper texture, delicate foliage, warm ivory and soft natural gold, sage and forest greens, atmospheric depth, convincing landscape forms. Beautiful detailed picture-book art for adults, never childish or flat vector. Use the DIFFERENT scene described below, not sheep or a meadow unless specifically requested. Wide 3:2 composition; primary subjects within central 80%, legible on a phone. No writing, symbols as icons, frames, labels, text, UI or watermark. Symbolic interpretation of poetic imagery, no historical reconstruction claim, no portrait of God or Jesus, no halos. ",
+    "specs": [
+      [
+        1,
+        "Psalm 46:1 — God is our refuge and strength, present help in trouble. A strong ancient stone refuge built into a rocky hillside, its solid doorway warm and welcoming; sheltered olive trees and a winding approach path contrast with a distant storm over the hills. Morning light gently illuminates the shelter. Strong sense of protection and available help within a troubled world, warm and reassuring, no battle."
+      ],
+      [
+        2,
+        "Psalm 46:2–3 — earth giving way, mountains falling into the sea, roaring waters. A dramatic but beautifully painted rocky coastline: mighty slate-green mountains with crumbling stone edges meeting turbulent blue-green water, white foam, clouds parting toward a gentle golden light. Poetic elemental upheaval, respectful of its gravity, no people or casualties, no apocalyptic fantasy, no giant supernatural figure. Convey power and uncertainty while keeping the selected watercolor style."
+      ],
+      [
+        3,
+        "Psalm 46:4–5 — a river makes glad the city of God; God is within her, help at dawn. A peaceful river flows toward an ancient stone city with modest flat-roofed buildings and walls in the middle distance, olive and cypress trees along its banks. First warm dawn light falls on the city, soft mist over the water. A quiet joyful sense of community and presence. Imagined symbolic city, no modern skyline, no identifiable landmark, no visible divine figure."
+      ],
+      [
+        4,
+        "Psalm 46:6–7 — nations rage, kingdoms totter; the LORD is with us, God of Jacob our fortress. A steadfast ancient stone fortress on a rocky rise, seen from a quiet sheltered foreground of olive trees, under a dramatic moving cloudscape. Far away indistinct small city walls lie below turbulent skies; the fortress remains clearly visible in warm light. The contrast is turmoil around a place of refuge. No fighting, people, explosions, supernatural figure, flags, or present-day political imagery."
+      ],
+      [
+        5,
+        "Psalm 46:8–9 — wars cease; bow and spear broken. A quiet landscape after conflict, two broken wooden bows with loose strings, one snapped spear and a battered ancient wooden shield lying unused on earth in the near foreground, new green plants among the stones. Beyond, peaceful green hills emerge beneath clearing clouds and gentle light. Equipment is clearly unusable and abandoned, not displayed as a trophy; no blood, injured people, battle, text, crosses, flames or modern weapons. A meditative scene of violence ending."
+      ],
+      [
+        6,
+        "Psalm 46:10–11 — be still, know God, exalted among nations, with us and our fortress. A spacious still river valley at first light, calm reflective water, olive trees and reeds, ancient stone refuge small but clearly present on a rocky hill in the middle distance. Warm light spreads across far-reaching hills under a generous quiet sky. Contemplative wide view suggesting stillness within a larger world and the refuge refrain. No people, sheep, divine figures, icons, modern architecture or lettering."
+      ]
+    ]
+  },
+  "thematic": {
+    "base": "One landscape watercolor illustration for an adult Bible Psalms app. Match attached style reference ONLY: refined naturalistic watercolor, delicate translucent washes, subtle ivory paper texture, finely observed natural forms, soft atmospheric distance, muted sage and forest greens, gentle gold light. Sophisticated hand-painted detail, warm reverent atmosphere, legible composition on phone. Use the distinct scene specified, not the reference's sheep scene. Wide 3:2 image with central subjects uncropped. No lettering, writing, UI, labels, borders, watermark, icons, halo or divine figure. Symbolic poetic scene, not historical reconstruction. ",
+    "specs": [
+      [
+        "tree",
+        "A flourishing leafy tree rooted beside a clear flowing stream in a quiet green landscape; healthy roots and fruit suggest a deeply rooted life, distant dry chaff-like grass in wind only at the far edge. Psalm 1 imagery."
+      ],
+      [
+        "night",
+        "A breathtaking moonlit sky filled with stars above gentle ancient hills and a still lake, the crescent moon reflected on the water, tiny landscape below vast luminous heavens. Psalm 8 imagery. Deep blue-green night and ivory starlight, genuine watercolor texture."
+      ],
+      [
+        "music",
+        "A beautifully observed ancient wooden lyre and simple hand drum resting beside an olive tree on a stone terrace, sunlight across the strings, soft green hills beyond. A warm invitation to praise, no modern musical instruments."
+      ],
+      [
+        "prayer",
+        "An intimate quiet stone room with a small earthenware oil lamp lit in a niche, an open doorway revealing predawn hills, an empty woven mat near the warm light. Honest sorrow and prayer, subdued green shadows and gentle gold. No figure, no lettering."
+      ],
+      [
+        "deer",
+        "A graceful anatomically believable deer lowering its head beside a clear woodland stream, delicate reeds, moss, quiet reflections and warm filtered light among olive-toned trees. Psalm 42 imagery of thirst and longing."
+      ],
+      [
+        "word",
+        "An open ancient parchment scroll without any marks or writing on a simple stone ledge beside a glowing earthenware oil lamp, a path through olive trees visible beyond. Psalm 119 lamp-and-path metaphor, tactile paper, clear focus on lamplight and scroll."
+      ],
+      [
+        "renewal",
+        "A clear spring pours gently over smooth stones into a quiet basin near a newly leafing branch, morning light and fresh droplets, a sense of cleansing, mercy and a new beginning. No human hands, no words or symbols."
+      ],
+      [
+        "wilderness",
+        "A spring of clear water and a small flourishing palm grove in an otherwise dry rocky wilderness, mountains beyond, a quiet path approaching the water. Faithful provision in a difficult landscape, not a tropical beach."
+      ],
+      [
+        "harvest",
+        "A richly detailed pastoral field of ripe golden grain, olive trees and vines on surrounding hills, a small stone village in the distance, generous gentle rainclouds parting into warm sunshine. Gratitude for the earth's provision, no modern machinery."
+      ],
+      [
+        "exile",
+        "An ancient wooden lyre hangs silently from a willow branch beside a broad river far from home, reeds at the bank, a distant unfamiliar stone city in mist. Tender sorrow and memory, beautiful restrained watercolor, no people, chains, violence or lettering. Psalm 137 river imagery."
+      ],
+      [
+        "wings",
+        "A small family of anatomically believable birds shelters under an adult bird's open wing on a protected olive branch during a gentle rain, warm light in the foliage, a poetic image of refuge and care. No humanoid or angel wings."
+      ],
+      [
+        "praise",
+        "A small mixed-age community in simple ancient earth-toned clothing seen mostly from behind, joyfully gathering on a sunlit stone terrace overlooking green hills, a few modest lyres and hand drums. Dignified shared celebration, believable small figures and warm watercolor detail. No modern attire, no text, no divine figure."
+      ]
+    ]
+  }
+}

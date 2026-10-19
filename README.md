@@ -64,3 +64,6 @@ Bible text is the public-domain Berean Standard Bible. Original retellings and c
 ## Genesis complete collection
 
 All 12 episodes now cover Genesis 1–50, from Creation through the death of Joseph. There are 92 illustrated reading scenes. Each uses the original Scripture for Life muted landscape SVG generator; no AI-generated historical portraits. Original narrated paragraphs for Episodes 4–12 are archived in `stories/genesis-episode-N.md` and tested against the app data. Scene interpretations remain clearly separated from biblical quotations and the original retelling. Episode navigation continues from one story to the next; Episode 12 concludes with the 66-book Bible Journey.
+
+- All 150 Psalms now have chapter pages at `#/psalms/N`, with one main watercolor, exact complete BSB text, individual chapter introductions, literary context, reading prompts, reflections, and character connections when names occur in the chapter. The collection supports number/text search, theme and book filters, last-place resume, and chapter/verse navigation.
+- Related chapters share suitable images from a consistent 24-scene watercolor library. The detailed Psalm 23 and Psalm 46 studies remain available. Future psalms artwork follows `assets/psalms/STYLE.md`. All images are bundled for offline reading and Android.
