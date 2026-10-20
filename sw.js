@@ -1,7 +1,19 @@
 /* Scripture for Life offline support for the WEB build.
    Capacitor Android carries its web assets inside the application. */
-const VERSION = 'scripture-for-life-shell-v22-restore-psalms13-15';
+const VERSION = 'scripture-for-life-shell-v23-psalm16';
 const CORE = [
+  './psalm16.js',
+  './assets/psalm16/verse-1-watercolor.webp',
+  './assets/psalm16/verse-2-watercolor.webp',
+  './assets/psalm16/verse-3-watercolor.webp',
+  './assets/psalm16/verse-4-watercolor.webp',
+  './assets/psalm16/verse-5-watercolor.webp',
+  './assets/psalm16/verse-6-watercolor.webp',
+  './assets/psalm16/verse-7-watercolor.webp',
+  './assets/psalm16/verse-8-watercolor.webp',
+  './assets/psalm16/verse-9-watercolor.webp',
+  './assets/psalm16/verse-10-watercolor.webp',
+  './assets/psalm16/verse-11-watercolor.webp',
   './', './index.html', './app.js', './styles.css', './genesis.js', './exodus.js', './exodus-people.js', './leviticus.js', './numbers.js', './data/exodus-episodes.json', './data/exodus-scenes.json', './data/leviticus-episodes.json', './data/leviticus-scenes.json', './data/numbers-episodes.json', './data/numbers-scenes.json',
   './genesis.css', './psalm-walk.js', './psalm-walk.css', './psalm46.js', './data.js', './content.js', './icon.svg',
   './assets/psalm23/verse-1-watercolor.webp', './assets/psalm23/verse-2-watercolor.webp',
