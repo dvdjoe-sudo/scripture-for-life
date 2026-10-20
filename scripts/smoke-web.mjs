@@ -233,7 +233,7 @@ try {
     await visit('#/study/1/6','[data-verse-study="1"]');
     assert.equal(await page.locator('.study-bottom a[href="#/study/2/1"]').count(),1);
     const fullPsalms=JSON.parse(fs.readFileSync(path.join(root,'data/bible.json'),'utf8')).books[18].chapters;
-    for(const number of [2,3,4,5,6,7,8,9,10]){
+    for(const number of [2,3,4,5,6,7,8,9,10,11,12]){
       const verses=Object.fromEntries(fullPsalms[number-1]),images=[],meanings=[];
       for(let n=1;n<=Object.keys(verses).length;n++){
         await visit('#/study/'+number+'/'+n,'[data-verse-study="'+number+'"]');
@@ -284,7 +284,21 @@ try {
     await page.locator('.study-bottom a[href="#/study/10/1"]').click();
     await page.locator('[data-verse-study="10"][data-current-verse="1"]').waitFor();
     await visit('#/study/10/18','[data-verse-study="10"]');
-    assert.equal(await page.locator('.study-bottom a[href="#/psalms/11"]').count(),1,'Psalm 10 continues to full Psalm 11');
+    await page.locator('.study-bottom a[href="#/study/11/1"]').click();
+    await page.locator('[data-verse-study="11"]').waitFor();
+    await visit('#/study/11/7','[data-verse-study="11"]');
+    await page.locator('.study-bottom a[href="#/study/12/1"]').click();
+    await page.locator('[data-verse-study="12"]').waitFor();
+    await visit('#/study/12/8','[data-verse-study="12"]');
+    assert.equal(await page.locator('.study-bottom a[href="#/psalms/13"]').count(),1);
+    await page.locator('[data-psalm-switch]').selectOption('11');
+    await page.locator('[data-verse-study="11"][data-current-verse="7"]').waitFor();
+    await page.locator('[data-psalm-switch]').selectOption('12');
+    await page.locator('[data-verse-study="12"][data-current-verse="8"]').waitFor();
+    await visit('#/help/strength','[data-topic-connections]');
+    await page.locator('[data-topic-connections] a[href="#/study/12/5"]').click();
+    await page.locator('[data-verse-study="12"][data-current-verse="5"]').waitFor();
+    assert.equal(await page.locator('[data-related-needs] a[href="#/help/strength"]').count(),1);
     await visit('#/help/alone','[data-topic-connections]');
     await page.locator('[data-topic-connections] a[href="#/study/10/1"]').click();
     await page.locator('[data-verse-study="10"]').waitFor();
