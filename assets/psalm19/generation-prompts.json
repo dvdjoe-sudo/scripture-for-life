@@ -1,0 +1,105 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "status": "fourteen generated and visually inspected originals; production packaging and completion checks pending",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not subject or layout to copy. Refined naturalistic adult devotional watercolor; translucent washes, delicately observed forms, ivory paper grain, sage and forest greens, muted earth tones, restrained gold, atmospheric depth. Full-bleed landscape; key subjects in central 80%. Symbolic visual response to Psalm19, not an identified event, historical reconstruction, portrait of David or divine body. No text, lettering, writing on scrolls, labels, borders, logos, halos, gods, faces in sky or stone, divine hands, modern objects, gore or cartoons. Scene: Immense pale-gold and blue sky over layered olive hills, high clouds lit at their edges and small limestone foreground. Awe at the sky's spaciousness; no person or hand forming it, no architectural heaven or supernatural face.",
+      "generatedOriginal": "exec-86926490-6021-4d61-b24b-34266eeaea7f.png",
+      "production": "assets/psalm19/verse-1-watercolor.webp",
+      "status": "generated and visually inspected"
+    },
+    {
+      "verse": 2,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not subject or layout to copy. Refined naturalistic adult devotional watercolor; translucent washes, delicately observed forms, ivory paper grain, sage and forest greens, muted earth tones, restrained gold, atmospheric depth. Full-bleed landscape; key subjects in central 80%. Symbolic visual response to Psalm19, not an identified event, historical reconstruction, portrait of David or divine body. No text, lettering, writing on scrolls, labels, borders, logos, halos, gods, faces in sky or stone, divine hands, modern objects, gore or cartoons. Scene: A quiet broad valley at blue hour: the last gold light fades along one distant ridge while a few first stars and a pale moon appear above the deepening blue sky. One unified natural landscape, no split panels, duplicated suns or diagram. Suggest the recurring transition from day to night.",
+      "generatedOriginal": "exec-e6b3e12a-e8e0-4372-bc02-7ad3eb324c5c.png",
+      "production": "assets/psalm19/verse-2-watercolor.webp",
+      "status": "generated and visually inspected"
+    },
+    {
+      "verse": 3,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not subject or layout to copy. Refined naturalistic adult devotional watercolor; translucent washes, delicately observed forms, ivory paper grain, sage and forest greens, muted earth tones, restrained gold, atmospheric depth. Full-bleed landscape; key subjects in central 80%. Symbolic visual response to Psalm19, not an identified event, historical reconstruction, portrait of David or divine body. No text, lettering, writing on scrolls, labels, borders, logos, halos, gods, faces in sky or stone, divine hands, modern objects, gore or cartoons. Scene: A still uninhabited rocky shore under a spacious dark starry sky, smooth silent water and sparse reeds in the foreground. Contemplative quiet, no instruments, visible words or person speaking. Do not copy reference sheep or winding stream.",
+      "generatedOriginal": "exec-8c3608f2-12ee-4c42-80e9-09984a9b28de.png",
+      "production": "assets/psalm19/verse-3-watercolor.webp",
+      "status": "generated and visually inspected"
+    },
+    {
+      "verse": 4,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not subject or layout to copy. Refined naturalistic adult devotional watercolor; translucent washes, delicately observed forms, ivory paper grain, sage and forest greens, muted earth tones, restrained gold, atmospheric depth. Full-bleed landscape; key subjects in central 80%. Symbolic visual response to Psalm19, not an identified event, historical reconstruction, portrait of David or divine body. No text, lettering, writing on scrolls, labels, borders, logos, halos, gods, faces in sky or stone, divine hands, modern objects, gore or cartoons. Scene: A small plain undyed linen tent stands on an empty ridge as the first sun rises far beyond the horizon behind it. The tent is separate and tiny beneath the immense sky: an artistic comparison only, not a physical home containing the sun or a historical camp.",
+      "generatedOriginal": "exec-f18d1858-22d0-4111-abb6-e9845f6ef092.png",
+      "production": "assets/psalm19/verse-4-watercolor.webp",
+      "status": "generated and visually inspected"
+    },
+    {
+      "verse": 5,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not subject or layout to copy. Refined naturalistic adult devotional watercolor; translucent washes, delicately observed forms, ivory paper grain, sage and forest greens, muted earth tones, restrained gold, atmospheric depth. Full-bleed landscape; key subjects in central 80%. Symbolic visual response to Psalm19, not an identified event, historical reconstruction, portrait of David or divine body. No text, lettering, writing on scrolls, labels, borders, logos, halos, gods, faces in sky or stone, divine hands, modern objects, gore or cartoons. Scene: An anonymous adult in simple pale ancient tunic begins a joyful steady run along an open hillside track in clear early light. Whole body visible, natural anatomy, no race crowd, trophy, crown, armor or bride. A human illustration of the champion comparison, not a personified sun deity.",
+      "generatedOriginal": "exec-a3f39708-08c1-40ad-8612-ceffe370b2ae.png",
+      "production": "assets/psalm19/verse-5-watercolor.webp",
+      "status": "generated and visually inspected"
+    },
+    {
+      "verse": 6,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not subject or layout to copy. Refined naturalistic adult devotional watercolor; translucent washes, delicately observed forms, ivory paper grain, sage and forest greens, muted earth tones, restrained gold, atmospheric depth. Full-bleed landscape; key subjects in central 80%. Symbolic visual response to Psalm19, not an identified event, historical reconstruction, portrait of David or divine body. No text, lettering, writing on scrolls, labels, borders, logos, halos, gods, faces in sky or stone, divine hands, modern objects, gore or cartoons. Scene: Sunlight floods a broad landscape from high open sky, warming limestone, fields and olive trees across a long uninterrupted horizon. No drawn arrows, solar trail, celestial diagram, human sun or burning people. Focus on reaching warmth, distinct high-noon composition.",
+      "generatedOriginal": "exec-f16237f2-5632-40b8-96bb-27066f466ccf.png",
+      "production": "assets/psalm19/verse-6-watercolor.webp",
+      "status": "generated and visually inspected"
+    },
+    {
+      "verse": 7,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not subject or layout to copy. Refined naturalistic adult devotional watercolor; translucent washes, delicately observed forms, ivory paper grain, sage and forest greens, muted earth tones, restrained gold, atmospheric depth. Full-bleed landscape; key subjects in central 80%. Symbolic visual response to Psalm19, not an identified event, historical reconstruction, portrait of David or divine body. No text, lettering, writing on scrolls, labels, borders, logos, halos, gods, faces in sky or stone, divine hands, modern objects, gore or cartoons. Scene: A plain unmarked parchment scroll lies open on a low stone bench beside a vigorous young olive shoot; an anonymous plainly dressed adult sits nearby attentively reading the blank symbolic page. Gentle morning light. No legible or invented writing, teacher figure or named historical scene.",
+      "generatedOriginal": "exec-8cceda98-a805-489b-980e-ab86a7d0fdde.png",
+      "production": "assets/psalm19/verse-7-watercolor.webp",
+      "status": "generated and visually inspected"
+    },
+    {
+      "verse": 8,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not subject or layout to copy. Refined naturalistic adult devotional watercolor; translucent washes, delicately observed forms, ivory paper grain, sage and forest greens, muted earth tones, restrained gold, atmospheric depth. Full-bleed landscape; key subjects in central 80%. Symbolic visual response to Psalm19, not an identified event, historical reconstruction, portrait of David or divine body. No text, lettering, writing on scrolls, labels, borders, logos, halos, gods, faces in sky or stone, divine hands, modern objects, gore or cartoons. Scene: An open hillside path receives radiant angled sunlight between olive branches; a small anonymous traveler pauses with an upright hopeful posture, face not a portrait. Light suggests direction and joy without magic rays entering eyes or curing disability.",
+      "generatedOriginal": "exec-a78aa883-377c-458d-9625-6777ed1b551f.png",
+      "production": "assets/psalm19/verse-8-watercolor.webp",
+      "status": "generated and visually inspected"
+    },
+    {
+      "verse": 9,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not subject or layout to copy. Refined naturalistic adult devotional watercolor; translucent washes, delicately observed forms, ivory paper grain, sage and forest greens, muted earth tones, restrained gold, atmospheric depth. Full-bleed landscape; key subjects in central 80%. Symbolic visual response to Psalm19, not an identified event, historical reconstruction, portrait of David or divine body. No text, lettering, writing on scrolls, labels, borders, logos, halos, gods, faces in sky or stone, divine hands, modern objects, gore or cartoons. Scene: An ancient plain level balance stands on broad enduring limestone beside a clean spring-fed pool and an old rooted olive tree. Restrained symbolism of true judgment, purity and endurance, no divine judge, throne, ritual or lettering.",
+      "generatedOriginal": "exec-2a739307-5cb6-458a-9c12-a4e40283aa64.png",
+      "production": "assets/psalm19/verse-9-watercolor.webp",
+      "status": "generated and visually inspected"
+    },
+    {
+      "verse": 10,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not subject or layout to copy. Refined naturalistic adult devotional watercolor; translucent washes, delicately observed forms, ivory paper grain, sage and forest greens, muted earth tones, restrained gold, atmospheric depth. Full-bleed landscape; key subjects in central 80%. Symbolic visual response to Psalm19, not an identified event, historical reconstruction, portrait of David or divine body. No text, lettering, writing on scrolls, labels, borders, logos, halos, gods, faces in sky or stone, divine hands, modern objects, gore or cartoons. Scene: A small clay bowl of golden honey and one naturally shaped piece of honeycomb rest on limestone beside a few modest rough gold pieces. Olive shade, tactile natural watercolor, not an extravagant hoard or luxury advertising. No coins with faces, text or people.",
+      "generatedOriginal": "exec-b512a708-a082-4133-954e-9a377aa6b69b.png",
+      "production": "assets/psalm19/verse-10-watercolor.webp",
+      "status": "generated and visually inspected"
+    },
+    {
+      "verse": 11,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not subject or layout to copy. Refined naturalistic adult devotional watercolor; translucent washes, delicately observed forms, ivory paper grain, sage and forest greens, muted earth tones, restrained gold, atmospheric depth. Full-bleed landscape; key subjects in central 80%. Symbolic visual response to Psalm19, not an identified event, historical reconstruction, portrait of David or divine body. No text, lettering, writing on scrolls, labels, borders, logos, halos, gods, faces in sky or stone, divine hands, modern objects, gore or cartoons. Scene: A small anonymous traveler in plain ancient clothes pauses carefully before an uneven broken edge on a mountain path, choosing the secure continuing path. Non-dangerous stance, no imminent fall. Symbolic attentiveness to warning, not a specific journey.",
+      "generatedOriginal": "exec-01ec4b0d-d3d8-4003-a2fd-58063436d259.png",
+      "production": "assets/psalm19/verse-11-watercolor.webp",
+      "status": "generated and visually inspected"
+    },
+    {
+      "verse": 12,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not subject or layout to copy. Refined naturalistic adult devotional watercolor; translucent washes, delicately observed forms, ivory paper grain, sage and forest greens, muted earth tones, restrained gold, atmospheric depth. Full-bleed landscape; key subjects in central 80%. Symbolic visual response to Psalm19, not an identified event, historical reconstruction, portrait of David or divine body. No text, lettering, writing on scrolls, labels, borders, logos, halos, gods, faces in sky or stone, divine hands, modern objects, gore or cartoons. Scene: A plainly dressed anonymous adult sits quietly beside a clear shallow basin, open empty hands resting naturally in the lap, reflected daylight revealing tiny dust flecks on nearby stone. Introspective humility, not a cleansing ritual or a claim of visible moral stains. No divine hands.",
+      "generatedOriginal": "exec-959102e8-f55c-4db2-8ce2-eb94e194ac44.png",
+      "production": "assets/psalm19/verse-12-watercolor.webp",
+      "status": "generated and visually inspected"
+    },
+    {
+      "verse": 13,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not subject or layout to copy. Refined naturalistic adult devotional watercolor; translucent washes, delicately observed forms, ivory paper grain, sage and forest greens, muted earth tones, restrained gold, atmospheric depth. Full-bleed landscape; key subjects in central 80%. Symbolic visual response to Psalm19, not an identified event, historical reconstruction, portrait of David or divine body. No text, lettering, writing on scrolls, labels, borders, logos, halos, gods, faces in sky or stone, divine hands, modern objects, gore or cartoons. Scene: A loose abandoned length of plain cord lies beside a fork in a gentle olive path; an anonymous adult deliberately takes the clear open route away from the tangled cord. No bound person, chains, magical release, warrior or named biblical event. Symbol of refusing domination by wrongdoing.",
+      "generatedOriginal": "exec-cee8f78f-132d-42ac-8dab-b693c2e420ad.png",
+      "production": "assets/psalm19/verse-13-watercolor.webp",
+      "status": "generated and visually inspected"
+    },
+    {
+      "verse": 14,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not subject or layout to copy. Refined naturalistic adult devotional watercolor; translucent washes, delicately observed forms, ivory paper grain, sage and forest greens, muted earth tones, restrained gold, atmospheric depth. Full-bleed landscape; key subjects in central 80%. Symbolic visual response to Psalm19, not an identified event, historical reconstruction, portrait of David or divine body. No text, lettering, writing on scrolls, labels, borders, logos, halos, gods, faces in sky or stone, divine hands, modern objects, gore or cartoons. Scene: An anonymous adult sits thoughtfully beneath an olive tree beside a broad stable limestone outcrop at dawn, hands resting together loosely and gaze toward an open valley. Quiet speech and inner thought held in one calm scene. No visible God, divine face, halo or text.",
+      "generatedOriginal": "exec-4d37dc4c-27fc-4c25-9ea3-3dcae8e4e6e5.png",
+      "production": "assets/psalm19/verse-14-watercolor.webp",
+      "status": "generated and visually inspected"
+    }
+  ]
+}
