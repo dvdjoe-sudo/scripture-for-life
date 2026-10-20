@@ -1,7 +1,7 @@
 {
   "tool": "built-in image_gen.imagegen",
   "styleReference": "assets/psalm23/verse-2-watercolor.webp",
-  "status": "unpublished partial draft; twenty-seven individually generated and inspected paintings for verses 1–27; verses 28–50 unfinished",
+  "status": "unpublished partial draft; thirty-four individually generated and inspected paintings for verses 1–34; verses 35–50 unfinished",
   "paintings": [
     {
       "verse": 1,
@@ -193,6 +193,55 @@
       "status": "generated and visually inspected",
       "generatedOriginal": "exec-8f7553cc-b7a2-40b1-9537-c16becd82e03.png",
       "production": "assets/psalm18/verse-27-watercolor.webp"
+    },
+    {
+      "verse": 28,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse watercolor for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places are symbolic, not a historical reconstruction or named portrait. Never portray God as a human, face, bodily form, giant figure, hand, or figure in clouds. No supernatural people, halos, letters, readable text, labels, panels, frame, watermark, modern objects, graphic harm or graphic violence. Natural human anatomy.\nScene: Psalm 18:28, the LORD lights my lamp and my darkness. Close view of a simple ancient clay oil lamp burning on a stone windowsill at deep blue evening. Its small warm flame lights nearby rough stone and an open doorway into darkness; faint olive silhouettes and hills outside. No person or hand lighting it, no supernatural face, no sun or crowded props. The lamp is a symbolic response, not a named room or historical event. Warm light against deep muted blue, gentle hopeful intimacy.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-4dae39f1-fcc1-40da-9645-e7a4c109fb95.png",
+      "production": "assets/psalm18/verse-28-watercolor.webp"
+    },
+    {
+      "verse": 29,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse watercolor for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places are symbolic, not a historical reconstruction or named portrait. Never portray God as a human, face, bodily form, giant figure, hand, or figure in clouds. No supernatural people, halos, letters, readable text, labels, panels, frame, watermark, modern objects, graphic harm or graphic violence. Natural human anatomy.\nScene: Psalm 18:29, with God's help facing an army and scaling a wall. An anonymous ordinary ancient traveler in a plain knee-length linen tunic and sandals climbs a short rugged dry-stone terrace wall using natural secure handholds and footholds, full figure visible in respectful side view. A higher ridge beyond, olive landscape at morning. No actual army, enemy, weapon, battle, crown or divine helper. Select the wall-climbing image as a symbol of received strength, not a named battle reconstruction. Anatomically natural, no impossible limb positions.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-54334790-367b-4e06-9033-0beb5d31d1b9.png",
+      "production": "assets/psalm18/verse-29-watercolor.webp"
+    },
+    {
+      "verse": 30,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse watercolor for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places are symbolic, not a historical reconstruction or named portrait. Never portray God as a human, face, bodily form, giant figure, hand, or figure in clouds. No supernatural people, halos, letters, readable text, labels, panels, frame, watermark, modern objects, graphic harm or graphic violence. Natural human anatomy.\nScene: Psalm 18:30, God's perfect way, flawless word, shield for those taking refuge. A worn plain round ancient shield rests firmly beside a sheltered limestone recess; a clear empty path leads outward through an olive grove. Soft rain is visible beyond shelter while gentle light falls on the shield's edge. No scroll, written words, magical markings, people, divine body, battle or weapons raised. Choose refuge and shield as symbolic images, distinct close shelter composition rather than the earlier distant fortress landscape.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-80f48055-feae-419f-ba8f-9afea64a6876.png",
+      "production": "assets/psalm18/verse-30-watercolor.webp"
+    },
+    {
+      "verse": 31,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse watercolor for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places are symbolic, not a historical reconstruction or named portrait. Never portray God as a human, face, bodily form, giant figure, hand, or figure in clouds. No supernatural people, halos, letters, readable text, labels, panels, frame, watermark, modern objects, graphic harm or graphic violence. Natural human anatomy.\nScene: Psalm 18:31, who is God besides the LORD, who is the Rock except our God. A vast single limestone rock outcrop stands firm above a spacious empty olive valley under a clear dawn sky. Strong natural layered stone texture, small resilient plants in crevices, horizon wide and serene. No shield, fortress, human figure, face in rock, carved idols, throne or supernatural form. The rock is a poetic comparison, not the physical appearance of God. Distinct low viewpoint emphasizing stability and open sky.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-c0be6497-ff05-4ec2-89eb-bd4624b9e715.png",
+      "production": "assets/psalm18/verse-31-watercolor.webp"
+    },
+    {
+      "verse": 32,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse watercolor for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places are symbolic, not a historical reconstruction or named portrait. Never portray God as a human, face, bodily form, giant figure, hand, or figure in clouds. No supernatural people, halos, letters, readable text, labels, panels, frame, watermark, modern objects, graphic harm or graphic violence. Natural human anatomy.\nScene: Psalm 18:32, God arms me with strength and makes my way clear. A small anonymous ancient traveler fastens a plain cloth belt at the waist before continuing on a clearly visible hillside path, olive trees and sunlit foothills beyond. Full figure in a calm preparatory stance, not a warrior pose. No weapon, armor, actual army, visible divine helper, crown or named portrait. A symbolic image of readiness and received strength, distinct from a person already climbing a wall. Finely observed linen and secure stone path, soft morning light.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-058a658b-4321-4563-b5d4-868eb8461fa9.png",
+      "production": "assets/psalm18/verse-32-watercolor.webp"
+    },
+    {
+      "verse": 33,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse watercolor for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places are symbolic, not a historical reconstruction or named portrait. Never portray God as a human, face, bodily form, giant figure, hand, or figure in clouds. No supernatural people, halos, letters, readable text, labels, panels, frame, watermark, modern objects, graphic harm or graphic violence. Natural human anatomy.\nScene: Psalm 18:33, feet like a deer and stationed on the heights. A graceful natural doe stands sure-footed on a broad safe rocky mountain ledge, all four anatomically correct legs visible, with olive-green slopes and pale distant peaks beyond. No human-deer hybrid, human feet, antlered fantasy creature, perilous leap or hunted prey. Quiet steadiness, natural animal anatomy, beautifully detailed coat and stones, morning haze. One deer only; distinct from sheep by a stream.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-ac8d6974-a9a0-4a08-81f5-50233090ac48.png",
+      "production": "assets/psalm18/verse-33-watercolor.webp"
+    },
+    {
+      "verse": 34,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse watercolor for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places are symbolic, not a historical reconstruction or named portrait. Never portray God as a human, face, bodily form, giant figure, hand, or figure in clouds. No supernatural people, halos, letters, readable text, labels, panels, frame, watermark, modern objects, graphic harm or graphic violence. Natural human anatomy.\nScene: Psalm 18:34, hands trained for battle and arms bending a bow of bronze. An anonymous ancient archer in plain linen practices alone in an empty safe clearing beside an olive grove, side view full figure, holding a simple bronze-colored ancient bow at controlled partial draw toward an unoccupied earthen embankment. No people or animals downrange, no battle, injured bodies, crowns, divine trainer or modern equipment. The strong bow is the verse's selected symbolic image; no claim about exact weapon manufacture or a named training session. Natural human arms and credible bowstring/arrow geometry, quiet discipline rather than aggression.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-5adb7212-730d-49ca-a71a-27a8ca5be346.png",
+      "production": "assets/psalm18/verse-34-watercolor.webp"
     }
   ]
 }
