@@ -1,6 +1,6 @@
 {
   "chapter": 19,
-  "status": "unpublished complete first editorial draft; integration and checks pending",
+  "status": "whole-chapter editorial/art/browser/Capacitor gate passed in CI 39480159217 and 39480153842; publication follows tested PR #35 merge and deployment",
   "sourceReview": "Read all Psalm 19 and Psalm 8, Psalm 119:97–112 and Romans 10:14–21 in the bundled BSB before drafting; exact Scripture is separate in source.json.",
   "topicPlan": {
     "gratitude": [

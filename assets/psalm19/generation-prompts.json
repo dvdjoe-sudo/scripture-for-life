@@ -1,7 +1,7 @@
 {
   "tool": "built-in image_gen.imagegen",
   "styleReference": "assets/psalm23/verse-2-watercolor.webp",
-  "status": "fourteen generated and visually inspected originals; production packaging and completion checks pending",
+  "status": "fourteen distinct originals and production WebPs generated and visually inspected; whole-chapter completion gate passed in CI 39480159217 and 39480153842; publication follows tested PR merge and deployment",
   "paintings": [
     {
       "verse": 1,
