@@ -258,6 +258,27 @@ try {
       await page.getByRole('tab',{name:'Reflect',exact:true}).click();
       assert.equal(await page.locator('#verse-study-panel textarea').inputValue(),'Reflection for Psalm '+number);
     }
+    // The new chapter uses the same reflection store in study, dialog and Saved.
+    await visit('#/study/18/3','[data-verse-study="18"]');
+    await visit('#/saved','.saved-list');
+    assert.match(await page.locator('.saved-list').innerText(),/Reflection for Psalm 18/);
+    await page.locator('[data-action="open-verse"][data-ref="Psalm 18:3"]').click();
+    await page.locator('#verse-dialog[open]').waitFor();
+    assert.equal(await page.locator('#verse-dialog [data-note-ref="Psalm 18:3"]').inputValue(),'Reflection for Psalm 18');
+    await page.locator('#verse-dialog textarea').fill('One shared Psalm 18 reflection.');
+    await page.locator('#verse-dialog [data-action="save-note"]').click();
+    await page.locator('#verse-dialog').evaluate(d=>d.close());
+    await visit('#/study/18/3','[data-verse-study="18"]');
+    await page.getByRole('tab',{name:'Reflect',exact:true}).click();
+    assert.equal(await page.locator('#verse-study-panel textarea').inputValue(),'One shared Psalm 18 reflection.');
+    for(const [id,verse] of [['direction',28],['gratitude',49]]){
+      await visit('#/help/'+id,'[data-topic-connections="'+id+'"]');
+      await page.locator('[data-topic-connections] a[href="#/study/18/'+verse+'"]').click();
+      await page.locator('[data-verse-study="18"][data-current-verse="'+verse+'"]').waitFor();
+      await page.locator('[data-related-needs] a[href="#/help/'+id+'"]').click();
+      await page.locator('[data-topic-connections="'+id+'"]').waitFor();
+    }
+    await visit('#/study/18/3','[data-verse-study="18"]');
     await page.locator('[data-psalm-switch]').selectOption('2');await page.locator('[data-verse-study="2"]').waitFor();
     assert.ok(page.url().endsWith('#/study/2/3'),'Each psalm retains its own verse');
     await visit('#/study/2/12','[data-verse-study="2"]');
@@ -321,6 +342,7 @@ try {
     await page.locator('[data-verse-study="18"][data-current-verse="35"]').waitFor();
     await page.locator('[data-related-needs] a[href="#/help/strength"]').click();
     await page.locator('[data-topic-connections="strength"]').waitFor();
+    await visit('#/study/18/35','[data-verse-study="18"]');
     await page.locator('[data-psalm-switch]').selectOption('16');
     await page.locator('[data-verse-study="16"][data-current-verse="11"]').waitFor();
     await page.locator('[data-psalm-switch]').selectOption('17');
