@@ -1,22 +1,7 @@
 /* Scripture for Life offline support for the WEB build.
    Capacitor Android carries its web assets inside the application. */
-const VERSION = 'scripture-for-life-shell-v26-psalm19';
+const VERSION = 'scripture-for-life-shell-v25-psalm18';
 const CORE = [
-  './psalm19.js',
-  './assets/psalm19/verse-1-watercolor.webp',
-  './assets/psalm19/verse-2-watercolor.webp',
-  './assets/psalm19/verse-3-watercolor.webp',
-  './assets/psalm19/verse-4-watercolor.webp',
-  './assets/psalm19/verse-5-watercolor.webp',
-  './assets/psalm19/verse-6-watercolor.webp',
-  './assets/psalm19/verse-7-watercolor.webp',
-  './assets/psalm19/verse-8-watercolor.webp',
-  './assets/psalm19/verse-9-watercolor.webp',
-  './assets/psalm19/verse-10-watercolor.webp',
-  './assets/psalm19/verse-11-watercolor.webp',
-  './assets/psalm19/verse-12-watercolor.webp',
-  './assets/psalm19/verse-13-watercolor.webp',
-  './assets/psalm19/verse-14-watercolor.webp',
   './psalm18.js',
   './assets/psalm18/verse-1-watercolor.webp',
   './assets/psalm18/verse-2-watercolor.webp',
@@ -96,7 +81,7 @@ const CORE = [
   './assets/psalm16/verse-9-watercolor.webp',
   './assets/psalm16/verse-10-watercolor.webp',
   './assets/psalm16/verse-11-watercolor.webp',
-  './', './index.html', './app.js', './styles.css', './genesis.js', './exodus.js', './exodus-people.js', './leviticus.js', './numbers.js', './deuteronomy.js', './joshua.js', './data/exodus-episodes.json', './data/exodus-scenes.json', './data/leviticus-episodes.json', './data/leviticus-scenes.json', './data/numbers-episodes.json', './data/numbers-scenes.json', './data/deuteronomy-episodes.json', './data/deuteronomy-scenes.json', './data/joshua-episodes.json', './data/joshua-scenes.json',
+  './', './index.html', './app.js', './styles.css', './genesis.js', './exodus.js', './exodus-people.js', './leviticus.js', './numbers.js', './deuteronomy.js', './joshua.js', './judges.js', './data/exodus-episodes.json', './data/exodus-scenes.json', './data/leviticus-episodes.json', './data/leviticus-scenes.json', './data/numbers-episodes.json', './data/numbers-scenes.json', './data/deuteronomy-episodes.json', './data/deuteronomy-scenes.json', './data/joshua-episodes.json', './data/joshua-scenes.json', './data/judges-episodes.json', './data/judges-scenes.json',
   './genesis.css', './psalm-walk.js', './psalm-walk.css', './psalm46.js', './data.js', './content.js', './icon.svg',
   './assets/psalm23/verse-1-watercolor.webp', './assets/psalm23/verse-2-watercolor.webp',
   './assets/psalm23/verse-3-watercolor.webp', './assets/psalm23/verse-4-watercolor.webp',
