@@ -37,3 +37,11 @@ The renderer and collection use the registered studies, so future batches should
 User reaffirmed authorization on October 19, 2026 to continue all Psalms. Continue sequential tested batches without requesting approval for each chapter. Report only chapters actually completed; the collection goal remains in progress.
 
 Everyday-needs integration: “What are you facing today?” uses shared topic connections for Psalm passages, Genesis/Exodus scenes, and character profiles. Verse studies and mapped story scenes link back to those needs. New batches should add fitting source references to the existing topic selections, preserve shared verse notes and saved passages, and verify the connections in both website and Android builds. Connections are thematic, not claims that a story supplies a psalm’s historical setting.
+
+Joe reaffirmed continuous development on October 19, 2026. A recurring development task is configured to resume tested sequential batches. This is distinct from the read-only readiness watch; do not ask for routine chapter approval or claim work happened merely because a task is scheduled. Reconcile main and any open Psalms PR before starting another batch. Story content remains Joe’s separate workstream.
+
+## Prepared, unpublished batch: Psalms 13–15
+
+Branch: `feature/psalms13-15-verse-studies`. Eighteen verse studies and separate watercolors are prepared, with individual notes, David/Jacob connections, topic links, offline entries, and Android asset packaging. Do not move these chapters into the completed table until required CI and deployment pass.
+
+The starting main commit `a152d7d7708b690b1517f37de2b892e86169d916` fails `npm run check` before these changes: `index.html reference missing: leviticus.js` in the Android web bundle. The existing Exodus verifier also hardcodes three episodes and 33 scenes while main has eight episodes and 72 scenes. Story manuscripts and scene data are Joe’s workstream and remain unchanged here. Reconcile the shared build and its story checks, then rerun the full mobile and Android checks before merge; do not bypass or remove them.

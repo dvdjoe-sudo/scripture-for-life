@@ -1,0 +1,48 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life. Create ONE wide 3:2 refined naturalistic watercolor matching the attached Psalm 23:2 STYLE REFERENCE ONLY, without repeating its sheep or stream. Warm ivory paper grain, delicate natural foliage and stone, translucent washes, atmospheric hills, muted sage and forest greens, earth tones, restrained gold. Adult devotional tone, anonymous ancient Near Eastern people and imagined symbolic places, not biblical portraits or historical reconstructions. Main subjects within central 80%. No lettering, labels, frames, watermark, halos, cartoon or geometric placeholders, gore or graphic harm. Never portray God as a human, bodily part, eyes, or face in clouds. Scene: A powerful richly robed ancient person turns away dismissively from a needy neighbor at the edge of a stone courtyard. Symbolic inward arrogance expressed through corrupt conduct, no writing and no cartoon fool.",
+      "generatedOriginal": "exec-3b7658b0-d0ba-4671-962f-864f725d6dc6.png",
+      "production": "assets/psalm14/verse-1-watercolor.webp"
+    },
+    {
+      "verse": 2,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life. Create ONE wide 3:2 refined naturalistic watercolor matching the attached Psalm 23:2 STYLE REFERENCE ONLY, without repeating its sheep or stream. Warm ivory paper grain, delicate natural foliage and stone, translucent washes, atmospheric hills, muted sage and forest greens, earth tones, restrained gold. Adult devotional tone, anonymous ancient Near Eastern people and imagined symbolic places, not biblical portraits or historical reconstructions. Main subjects within central 80%. No lettering, labels, frames, watermark, halos, cartoon or geometric placeholders, gore or graphic harm. Never portray God as a human, bodily part, eyes, or face in clouds. Scene: A wide ancient valley with tiny human travelers and village courtyards seen from a high rocky overlook beneath a vast sky. Symbolic examination of humanity; no divine figure, eyes, hand, face in clouds or person in heaven.",
+      "generatedOriginal": "exec-d2152441-f056-4299-b2d1-489ef2193ee0.png",
+      "production": "assets/psalm14/verse-2-watercolor.webp"
+    },
+    {
+      "verse": 3,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life. Create ONE wide 3:2 refined naturalistic watercolor matching the attached Psalm 23:2 STYLE REFERENCE ONLY, without repeating its sheep or stream. Warm ivory paper grain, delicate natural foliage and stone, translucent washes, atmospheric hills, muted sage and forest greens, earth tones, restrained gold. Adult devotional tone, anonymous ancient Near Eastern people and imagined symbolic places, not biblical portraits or historical reconstructions. Main subjects within central 80%. No lettering, labels, frames, watermark, halos, cartoon or geometric placeholders, gore or graphic harm. Never portray God as a human, bodily part, eyes, or face in clouds. Scene: Several small anonymous robed travelers turn away from a neglected straight path in an olive landscape toward tangled stony ground, with no singled-out race or nation. A sober symbolic scene of shared moral failure.",
+      "generatedOriginal": "exec-a6d62b6f-da9d-4c54-81fa-81a33626dbc0.png",
+      "production": "assets/psalm14/verse-3-watercolor.webp"
+    },
+    {
+      "verse": 4,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life. Create ONE wide 3:2 refined naturalistic watercolor matching the attached Psalm 23:2 STYLE REFERENCE ONLY, without repeating its sheep or stream. Warm ivory paper grain, delicate natural foliage and stone, translucent washes, atmospheric hills, muted sage and forest greens, earth tones, restrained gold. Adult devotional tone, anonymous ancient Near Eastern people and imagined symbolic places, not biblical portraits or historical reconstructions. Main subjects within central 80%. No lettering, labels, frames, watermark, halos, cartoon or geometric placeholders, gore or graphic harm. Never portray God as a human, bodily part, eyes, or face in clouds. Scene: An arrogant ancient landowner takes a poor family's grain sack while others look away near a village granary. Symbolic exploitative power that consumes people's livelihood, no cannibalism or bodily harm.",
+      "generatedOriginal": "exec-a4e84181-3d01-40de-96c4-f0bb7e2b8108.png",
+      "production": "assets/psalm14/verse-4-watercolor.webp"
+    },
+    {
+      "verse": 5,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life. Create ONE wide 3:2 refined naturalistic watercolor matching the attached Psalm 23:2 STYLE REFERENCE ONLY, without repeating its sheep or stream. Warm ivory paper grain, delicate natural foliage and stone, translucent washes, atmospheric hills, muted sage and forest greens, earth tones, restrained gold. Adult devotional tone, anonymous ancient Near Eastern people and imagined symbolic places, not biblical portraits or historical reconstructions. Main subjects within central 80%. No lettering, labels, frames, watermark, halos, cartoon or geometric placeholders, gore or graphic harm. Never portray God as a human, bodily part, eyes, or face in clouds. Scene: A boastful group on a ridge stands suddenly uneasy in shadow while a small upright community gathers quietly below under warm light near olive trees. Symbolic dread and God’s care without depicting God or a supernatural event.",
+      "generatedOriginal": "exec-1ce1ad30-b484-457f-a20a-66dfbf96d5ba.png",
+      "production": "assets/psalm14/verse-5-watercolor.webp"
+    },
+    {
+      "verse": 6,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life. Create ONE wide 3:2 refined naturalistic watercolor matching the attached Psalm 23:2 STYLE REFERENCE ONLY, without repeating its sheep or stream. Warm ivory paper grain, delicate natural foliage and stone, translucent washes, atmospheric hills, muted sage and forest greens, earth tones, restrained gold. Adult devotional tone, anonymous ancient Near Eastern people and imagined symbolic places, not biblical portraits or historical reconstructions. Main subjects within central 80%. No lettering, labels, frames, watermark, halos, cartoon or geometric placeholders, gore or graphic harm. Never portray God as a human, bodily part, eyes, or face in clouds. Scene: A poor person gathers simple tools and a clay planning tablet beneath a sheltering stone arch, while a powerful passerby has scattered a few tools outside. Symbolic frustrated plans and refuge, no writing on the tablet, no violence.",
+      "generatedOriginal": "exec-5a1469cb-9888-4bf0-8468-ac90ba4ef94b.png",
+      "production": "assets/psalm14/verse-6-watercolor.webp"
+    },
+    {
+      "verse": 7,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life. Create ONE wide 3:2 refined naturalistic watercolor matching the attached Psalm 23:2 STYLE REFERENCE ONLY, without repeating its sheep or stream. Warm ivory paper grain, delicate natural foliage and stone, translucent washes, atmospheric hills, muted sage and forest greens, earth tones, restrained gold. Adult devotional tone, anonymous ancient Near Eastern people and imagined symbolic places, not biblical portraits or historical reconstructions. Main subjects within central 80%. No lettering, labels, frames, watermark, halos, cartoon or geometric placeholders, gore or graphic harm. Never portray God as a human, bodily part, eyes, or face in clouds. Scene: A small returning community in simple ancient robes approaches an imagined hilltop city gate with hopeful distant light and olive branches. Symbolic hope for Israel’s restoration, not a dated historical return, no modern flags.",
+      "generatedOriginal": "exec-c4b3ceef-d69c-447d-82fa-731ec0eddf68.png",
+      "production": "assets/psalm14/verse-7-watercolor.webp"
+    }
+  ]
+}
