@@ -22,13 +22,14 @@ Approved goal: extend the Psalm 1 / original Psalm 23 format across all 150 Psal
 | 14 | 7 | `#/study/14/1` |
 | 15 | 5 | `#/study/15/1` |
 | 16 | 11 | `#/study/16/1` |
+| 17 | 15 | `#/study/17/1` |
 | 23 | 6 | `#/study/23/1` |
 
 Psalm 46 has a six-section study covering all eleven verses; it still needs conversion to individual verse pages to meet the new goal. All other Psalms retain their full chapter pages and chapter introductions, rather than being labeled finished verse studies.
 
-Next sequential chapter: **Psalm 17**. Continue in order, keeping the completed Psalm 23 study and arranging Psalm 46's conversion when reached. No new approval is needed for each chapter within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique verse art, or imply that work continues in the background after a session ends.
+Next sequential chapter: **Psalm 18**. Continue in order, keeping the completed Psalm 23 study and arranging Psalm 46's conversion when reached. No new approval is needed for each chapter within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique verse art, or imply that work continues in the background after a session ends.
 
-In review: Psalm 17 on `feature/psalm-17-verse-study`, PR #29. Fifteen paintings and original verse notes are present. Finish its source, mobile, offline and Android checks and publication before starting Psalm 18. Psalm 18 is long; use clearly unpublished groups of verses if needed and mark it complete only when all fifty verses pass.
+Psalm 17 completed its source, phone-width website/packaged-webview, and Capacitor checks in PR #29. Fifteen individually generated, inspected paintings and verse-specific notes preserve the heading, sentence continuations, plural voice and BSB provision prayer. Publication follows the merge of PR #29; if it is still open, finish it first. Psalm 18 is long; use clearly unpublished groups of verses if needed and mark it complete only when all fifty verses pass. Android web-bundle/Capacitor checks do not constitute native APK or device testing.
 
 Psalm 16 completed its source, phone-width website/packaged-webview, and Capacitor checks in PR #28. All eleven individual watercolors and verse notes are present. The original heading is preserved; notes distinguish the psalm’s trust from its later use in Acts. Publication follows the merge of PR #28; if it is still open, finish that PR before starting Psalm 17. These checks do not constitute native APK or device testing.
 

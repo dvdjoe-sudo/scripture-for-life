@@ -1,7 +1,7 @@
 {
   "tool": "built-in image_gen.imagegen",
   "styleReference": "assets/psalm23/verse-2-watercolor.webp",
-  "status": "all fifteen paintings generated and visually inspected; unpublished study integration pending",
+  "status": "all fifteen individual paintings visually inspected; source, mobile-browser and Android web-bundle checks passed",
   "paintings": [
     {
       "verse": 1,
