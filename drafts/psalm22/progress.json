@@ -1,0 +1,41 @@
+{
+  "chapter": 22,
+  "status": "UNPUBLISHED verified checkpoint: verses 1–8 editorial/art; verses 9–31 pending",
+  "totalVerses": 31,
+  "completedChapter": false,
+  "nextVerse": 9,
+  "groups": [
+    {
+      "file": "verses-01-08.json",
+      "range": [
+        1,
+        8
+      ],
+      "status": "draft source/reference/art checks passed; originals and production WebPs visually inspected",
+      "productionBytes": 2359422
+    }
+  ],
+  "chapterPlan": {
+    "title": "From the cry to the assembly",
+    "intro": "A lament voices abandonment, public scorn and bodily distress before turning toward an answer, shared praise and hope reaching future generations.",
+    "context": "The heading names David and a musical tune without a particular occasion. Preserve all 31 bundled BSB verses, including the heading. Verses 1–21 move through distress and repeated appeals; the last words of verse 21 explicitly name an answer. Verses 22–31 widen praise through the assembly, the afflicted, nations and future generations. Read the mockers’ quotation in verses 7–8, the animal/body imagery, and sentence continuations carefully. The Gospels echo several lines in the Passion accounts, and Hebrews 2:12 uses verse 22; identify those later connections while retaining the psalm’s own movement and avoiding invented biographical scenes.",
+    "peoplePlan": [
+      {
+        "id": "david",
+        "ref": "Psalm 22:1",
+        "role": "Named in the heading, without a specified episode."
+      },
+      {
+        "id": "jesus",
+        "ref": "Matthew 27:46",
+        "role": "Later Gospel use of the opening lament, not a portrait or invented original setting."
+      },
+      {
+        "id": "jacob",
+        "ref": "Psalm 22:23",
+        "role": "Named ancestor in the call to praise; not a person present in the scene."
+      }
+    ]
+  },
+  "releaseGate": "All 31 verse notes, distinct generated/inspected production paintings, source/reference checks, offline/Android packaging, phone-width tabs/navigation/images/shared reflection/resume/needs tests, passing PR/main CI and deployment/live verification are required before publication. Do not register a partial chapter, alter story files or mark the rollout complete."
+}

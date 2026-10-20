@@ -1,0 +1,15 @@
+# Psalm 22 — unpublished verse-group checkpoint
+
+This branch prepares Psalm 22 in manageable groups. The live app still has its existing chapter reader; no partial verse study is registered or marked complete.
+
+Source: source.json preserves all 31 exact bundled BSB verses, including the complete verse 1 musical heading. Before drafting, read the full bundled Psalm 22, Psalm 13, Psalm 42, Matthew 27, Mark 15 and Hebrews 2. The Gospel connections are later narrative uses, not an invented original setting. Keep the mockers’ words (7–8) distinct from the speaker’s prayer; verse 21 explicitly turns to an answer, and 22–31 widen into communal praise.
+
+Current group: verses 1–8, with individual Meaning/Context/Explore/Reflect notes, contextual related references and distinct generated watercolors. Each original and production WebP must be visually inspected before its manifest status is complete. Full prompts and original names are in assets/psalm22/generation-prompts.json; missing verses 9–31 are explicitly listed as pending.
+
+Verify from repository root: node drafts/psalm22/verify-draft.mjs. This checks the exact whole source, contiguous drafted verses, unique editorial text, valid references, distinct artwork and the unpublished release guard. Also decode every production image and check its 1280×853 dimensions. Draft checks do not constitute phone-width UI, offline release, Capacitor, native APK or device testing of Psalm 22.
+
+Checkpoint verification passed: 8 individual notes and distinct inspected paintings, all related references valid, exact 31-verse BSB source and heading preserved, explicit partial-release guards. All eight 1280×853 WebPs decoded successfully and have different hashes; total production art is 2,359,422 bytes (2.25 MiB). Verse 7 was repackaged from its original after a failed decode, then decoded and visually rechecked. No source image was regenerated or reused.
+
+Resume the open draft PR/feature/psalm-22-verse-study branch before creating another. Next group begins at verse 9. Read each proposed cross-reference in its original context before adding it, keep exact BSB including sentence continuations, and generate/inspect one distinct painting per verse in the Psalm 23:2 style. Preserve the original Psalm 23 and all concurrent story files.
+
+Release only after all 31 notes/paintings are ready: compose psalm22.js from reviewed groups, add index/offline/Android packaging and fitting topic links, preserve shared reflections and independent resume, update the 21→22→23 transitions, run meaningful source/reference/art checks and phone-width website/packaged-browser tests, then require passing final PR/main CI, Pages deployment and live-file verification. Keep the original ivory/forest/sage UI. Do not merge this partial draft.

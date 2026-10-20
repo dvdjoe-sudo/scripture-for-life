@@ -1,0 +1,88 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "status": "UNPUBLISHED checkpoint: verses 1–8 have distinct generated and visually inspected originals and production WebPs; verses 9–31 remain pending",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Use case: illustration-story. Asset: individual symbolic Psalm22 verse watercolor for Scripture for Life, wide 3:2. Reference image: Psalm23:2 STYLE ONLY; retain refined adult naturalistic watercolor, translucent washes, ivory paper grain, forest and sage, limestone and subdued earth tones, atmospheric distance, carefully observed forms. Change its subject and composition entirely. Quiet restrained emotional tone, important subjects within central 80%. Anonymous ancient Near Eastern people and imagined symbolic places, no identified historical event or portrait of David or Jesus. Do not depict God as a person, limb, face, light-being or shape in the sky. No crosses, crucifixion, religious insignia, halos, literal writing, labels, logos, frame, gore, injuries, cartoon or modern objects. Scene: A solitary anonymous robed adult stands small on a bare limestone ridge above a deep misty ravine beneath a cool predawn sky. Open empty distance suggests the experience of unanswered lament, not a claim that God is absent. No visible rescuer or supernatural forms. Very restrained dawn glow.",
+      "production": "assets/psalm22/verse-1-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-745e2915-7219-4c11-86d7-c54c371083ce.png"
+    },
+    {
+      "verse": 2,
+      "prompt": "Use case: illustration-story. Asset: individual symbolic Psalm22 verse watercolor for Scripture for Life, wide 3:2. Reference image: Psalm23:2 STYLE ONLY; retain refined adult naturalistic watercolor, translucent washes, ivory paper grain, forest and sage, limestone and subdued earth tones, atmospheric distance, carefully observed forms. Change its subject and composition entirely. Quiet restrained emotional tone, important subjects within central 80%. Anonymous ancient Near Eastern people and imagined symbolic places, no identified historical event or portrait of David or Jesus. Do not depict God as a person, limb, face, light-being or shape in the sky. No crosses, crucifixion, religious insignia, halos, literal writing, labels, logos, frame, gore, injuries, cartoon or modern objects. Scene: A humble empty stone room with a low clay oil lamp still burning near a window; the last pale moon is fading as first light enters from a cool dawn sky. Worn linen lies on a low bench. One continuous natural scene suggests a restless night of prayer; no text or human figure.",
+      "production": "assets/psalm22/verse-2-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-a12e7cc8-1648-4996-a4f2-2c1c9d82d4e1.png"
+    },
+    {
+      "verse": 3,
+      "prompt": "Use case: illustration-story. Asset: individual symbolic Psalm22 verse watercolor for Scripture for Life, wide 3:2. Reference image: Psalm23:2 STYLE ONLY; retain refined adult naturalistic watercolor, translucent washes, ivory paper grain, forest and sage, limestone and subdued earth tones, atmospheric distance, carefully observed forms. Change its subject and composition entirely. Quiet restrained emotional tone, important subjects within central 80%. Anonymous ancient Near Eastern people and imagined symbolic places, no identified historical event or portrait of David or Jesus. Do not depict God as a person, limb, face, light-being or shape in the sky. No crosses, crucifixion, religious insignia, halos, literal writing, labels, logos, frame, gore, injuries, cartoon or modern objects. Scene: An anonymous small assembly of five ordinary adults stands in quiet worship across a modest open hilltop courtyard with olive trees and pale sky. No enthroned person, throne, temple reconstruction or divine light. Wide distant composition, restrained sage and limestone.",
+      "production": "assets/psalm22/verse-3-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-761ad5e9-2e5b-4231-b64b-9ac0ccaf84d6.png"
+    },
+    {
+      "verse": 4,
+      "prompt": "Use case: illustration-story. Asset: individual symbolic Psalm22 verse watercolor for Scripture for Life, wide 3:2. Reference image: Psalm23:2 STYLE ONLY; retain refined adult naturalistic watercolor, translucent washes, ivory paper grain, forest and sage, limestone and subdued earth tones, atmospheric distance, carefully observed forms. Change its subject and composition entirely. Quiet restrained emotional tone, important subjects within central 80%. Anonymous ancient Near Eastern people and imagined symbolic places, no identified historical event or portrait of David or Jesus. Do not depict God as a person, limb, face, light-being or shape in the sky. No crosses, crucifixion, religious insignia, halos, literal writing, labels, logos, frame, gore, injuries, cartoon or modern objects. Scene: Three anonymous older travelers with simple walking staffs move together along an ancient hillside path through a rocky pass toward a sheltered olive valley. Symbolic remembered trust and deliverance, not an identified ancestral journey or Exodus event; no sea crossing or named landmarks.",
+      "production": "assets/psalm22/verse-4-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-6e8c1fe7-8e69-49c0-b348-a74ba608c4d2.png"
+    },
+    {
+      "verse": 5,
+      "prompt": "Use case: illustration-story. Asset: individual symbolic Psalm22 verse watercolor for Scripture for Life, wide 3:2. Reference image: Psalm23:2 STYLE ONLY; retain refined adult naturalistic watercolor, translucent washes, ivory paper grain, forest and sage, limestone and subdued earth tones, atmospheric distance, carefully observed forms. Change its subject and composition entirely. Quiet restrained emotional tone, important subjects within central 80%. Anonymous ancient Near Eastern people and imagined symbolic places, no identified historical event or portrait of David or Jesus. Do not depict God as a person, limb, face, light-being or shape in the sky. No crosses, crucifixion, religious insignia, halos, literal writing, labels, logos, frame, gore, injuries, cartoon or modern objects. Scene: Four anonymous ordinary adults emerge through a plain open stone gateway into a spacious quiet valley under gentle daylight, faces small. Symbolic remembered relief after distress, no named rescue, no leader, battle, deity, victory banners or guaranteed-outcome imagery.",
+      "production": "assets/psalm22/verse-5-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-8e1a89e2-108b-44e4-9550-c4466dd4d35f.png"
+    },
+    {
+      "verse": 6,
+      "prompt": "Use case: illustration-story. Asset: individual symbolic Psalm22 verse watercolor for Scripture for Life, wide 3:2. Reference image: Psalm23:2 STYLE ONLY; retain refined adult naturalistic watercolor, translucent washes, ivory paper grain, forest and sage, limestone and subdued earth tones, atmospheric distance, carefully observed forms. Change its subject and composition entirely. Quiet restrained emotional tone, important subjects within central 80%. Anonymous ancient Near Eastern people and imagined symbolic places, no identified historical event or portrait of David or Jesus. Do not depict God as a person, limb, face, light-being or shape in the sky. No crosses, crucifixion, religious insignia, halos, literal writing, labels, logos, frame, gore, injuries, cartoon or modern objects. Scene: One anonymous robed adult sits alone on a low stone outside a small imagined village, head lowered, hands resting naturally on knees. Distant doorways remain ordinary, not theatrical. Render the pain of being despised without showing an actual worm, deformity, injury or claim the person has no worth.",
+      "production": "assets/psalm22/verse-6-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-200f0964-824e-4ef1-b135-a0554e7f640a.png"
+    },
+    {
+      "verse": 7,
+      "prompt": "Use case: illustration-story. Asset: individual symbolic Psalm22 verse watercolor for Scripture for Life, wide 3:2. Reference image: Psalm23:2 STYLE ONLY; retain refined adult naturalistic watercolor, translucent washes, ivory paper grain, forest and sage, limestone and subdued earth tones, atmospheric distance, carefully observed forms. Change its subject and composition entirely. Quiet restrained emotional tone, important subjects within central 80%. Anonymous ancient Near Eastern people and imagined symbolic places, no identified historical event or portrait of David or Jesus. Do not depict God as a person, limb, face, light-being or shape in the sky. No crosses, crucifixion, religious insignia, halos, literal writing, labels, logos, frame, gore, injuries, cartoon or modern objects. Scene: One anonymous seated adult in foreground while three small distant anonymous robed people on an ordinary stone street turn away and gesture dismissively. Faces indistinct and individualized, no ethnic or religious caricature, no violent contact, no weapons. Symbolic social humiliation, not a historical Passion scene.",
+      "production": "assets/psalm22/verse-7-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-de8da59d-5648-4bc8-b5ff-1f5918bf71a9.png"
+    },
+    {
+      "verse": 8,
+      "prompt": "Use case: illustration-story. Asset: individual symbolic Psalm22 verse watercolor for Scripture for Life, wide 3:2. Reference image: Psalm23:2 STYLE ONLY; retain refined adult naturalistic watercolor, translucent washes, ivory paper grain, forest and sage, limestone and subdued earth tones, atmospheric distance, carefully observed forms. Change its subject and composition entirely. Quiet restrained emotional tone, important subjects within central 80%. Anonymous ancient Near Eastern people and imagined symbolic places, no identified historical event or portrait of David or Jesus. Do not depict God as a person, limb, face, light-being or shape in the sky. No crosses, crucifixion, religious insignia, halos, literal writing, labels, logos, frame, gore, injuries, cartoon or modern objects. Scene: An anonymous adult stands small below a closed plain wooden gate in a limestone wall, open palms held low; two distant anonymous people on a low side terrace gesture dismissively toward the person. Symbolic trust subjected to taunting, not proof of divine rejection. No cross, crown, Jesus portrait or group insignia.",
+      "production": "assets/psalm22/verse-8-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-f1d05f33-af1b-48ea-8e16-527ea8de0030.png"
+    }
+  ],
+  "pendingVerses": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ]
+}
