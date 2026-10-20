@@ -1,7 +1,7 @@
 {
   "tool": "built-in image_gen.imagegen",
   "styleReference": "assets/psalm23/verse-2-watercolor.webp",
-  "status": "unpublished partial draft; fifteen individually generated and inspected paintings for verses 1–15; verses 16–50 unfinished",
+  "status": "unpublished partial draft; twenty individually generated and inspected paintings for verses 1–20; verses 21–50 unfinished",
   "paintings": [
     {
       "verse": 1,
@@ -109,6 +109,41 @@
       "status": "generated and visually inspected",
       "generatedOriginal": "exec-66a63d8b-2041-4174-bec4-5baeb48e7bce.png",
       "production": "assets/psalm18/verse-15-watercolor.webp"
+    },
+    {
+      "verse": 16,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition, not the same sheep scene. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places are symbolic, not a historical reconstruction or named portrait. Never portray God as a human, face, eyes, nose, mouth, hand, feet, bodily form, giant figure, or figure in clouds. No supernatural hands, divine rider, letters, labels, panels, frame, watermark, modern objects, graphic harm, injured bodies or graphic violence.\nScene: Psalm 18:16, being drawn out of deep waters. An ordinary ancient-robed adult is safely seated on a high dry limestone ledge above a deep turbulent river, looking back quietly toward the water, damp lower robe and a clear path up toward olive trees. A respectful medium-wide view, danger receding, relief rather than triumph. No person drowning, no body in the water, no visible rescuer or rope invented as a literal rescue mechanism. Select the safe emergence from water as a symbolic response, no divine hand or arm.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-3ce6e6a8-046d-4b56-86c0-4032a202c248.png",
+      "production": "assets/psalm18/verse-16-watercolor.webp"
+    },
+    {
+      "verse": 17,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition, not the same sheep scene. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places are symbolic, not a historical reconstruction or named portrait. Never portray God as a human, face, eyes, nose, mouth, hand, feet, bodily form, giant figure, or figure in clouds. No supernatural hands, divine rider, letters, labels, panels, frame, watermark, modern objects, graphic harm, injured bodies or graphic violence.\nScene: Psalm 18:17, rescue from foes too mighty for the speaker. A small anonymous traveler in plain linen walks along a protected path emerging between massive dark rock walls into a sunlit landscape. The scale of the stone walls conveys being outmatched, but an unobstructed route is now visible. No actual enemies, pursuers, weapons or battle. Make the composition distinct from the river ledge: tall rock faces framing the small full figure and warm valley beyond. The scene is a symbolic image of escape, not a claim about a named historical mountain pass.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-360ebc5b-d599-4d6f-897e-6c20b109ab9c.png",
+      "production": "assets/psalm18/verse-17-watercolor.webp"
+    },
+    {
+      "verse": 18,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition, not the same sheep scene. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places are symbolic, not a historical reconstruction or named portrait. Never portray God as a human, face, eyes, nose, mouth, hand, feet, bodily form, giant figure, or figure in clouds. No supernatural hands, divine rider, letters, labels, panels, frame, watermark, modern objects, graphic harm, injured bodies or graphic violence.\nScene: Psalm 18:18, the LORD as support in the day of calamity. A weary ordinary adult in simple linen rests seated against a broad sturdy olive trunk on a quiet rocky hillside; both feet securely on firm ground, face gently lowered, hands resting naturally on knees. Distant storm clouds recede while near leaves catch soft light. The sturdy trunk and rooted ground are selected symbols of support, not a physical representation of God. No giant hand, supernatural helper, actual opponents or invented battle. Close intimate human scale, full figure visible, natural anatomy.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-bfac82b9-48b2-4de5-8264-6589faeac7c4.png",
+      "production": "assets/psalm18/verse-18-watercolor.webp"
+    },
+    {
+      "verse": 19,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition, not the same sheep scene. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places are symbolic, not a historical reconstruction or named portrait. Never portray God as a human, face, eyes, nose, mouth, hand, feet, bodily form, giant figure, or figure in clouds. No supernatural hands, divine rider, letters, labels, panels, frame, watermark, modern objects, graphic harm, injured bodies or graphic violence.\nScene: Psalm 18:19, brought out into the open. A small anonymous robed person stands freely in a wide sunlit meadow overlooking a broad olive valley, open relaxed posture, no raised victory fist. Spacious sweeping horizon, distant gentle hills, wildflowers and a few rocks in foreground. Warm ivory and sage, room to breathe after constriction, quiet delight and relief. No ropes, cage, river rescue or other figures; no divine figure. A distinct expansive panorama rather than a narrow path or rock shelter.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-525d7aac-034e-4ba2-98d9-37834c678fdb.png",
+      "production": "assets/psalm18/verse-19-watercolor.webp"
+    },
+    {
+      "verse": 20,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition, not the same sheep scene. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places are symbolic, not a historical reconstruction or named portrait. Never portray God as a human, face, eyes, nose, mouth, hand, feet, bodily form, giant figure, or figure in clouds. No supernatural hands, divine rider, letters, labels, panels, frame, watermark, modern objects, graphic harm, injured bodies or graphic violence.\nScene: Psalm 18:20, righteousness and cleanness of hands as an image of integrity. Close naturalistic view of an ordinary adult's two clean empty hands resting open above a simple unadorned linen-covered lap, sleeves visible, hands unmistakably belonging to this seated human person; softly focused olive courtyard and stone paving behind. No actual coins, payment, gold reward, crown, scales or washing basin. A symbolic meditation on human conduct, not literal ritual washing or the image of God. Anatomically natural hands with five fingers each, warm soft light, restrained reverence.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-ef9dc941-490c-4e64-bfa3-9cbb82dfdc52.png",
+      "production": "assets/psalm18/verse-20-watercolor.webp"
     }
   ]
 }
