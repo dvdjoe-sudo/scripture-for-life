@@ -25,11 +25,14 @@ Approved goal: extend the Psalm 1 / original Psalm 23 format across all 150 Psal
 | 17 | 15 | `#/study/17/1` |
 | 18 | 50 | `#/study/18/1` |
 | 19 | 14 | `#/study/19/1` |
+| 20 | 9 | `#/study/20/1` |
 | 23 | 6 | `#/study/23/1` |
 
 Psalm 46 has a six-section study covering all eleven verses; it still needs conversion to individual verse pages to meet the new goal. All other Psalms retain their full chapter pages and chapter introductions, rather than being labeled finished verse studies.
 
-Next sequential chapter: **Psalm 20**. Continue in order, keeping the completed Psalm 23 study and arranging Psalm 46's conversion when reached. No new approval is needed for each chapter within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique verse art, or imply that work continues in the background after a session ends.
+Next sequential chapter: **Psalm 21**. Continue in order, keeping the completed Psalm 23 study and arranging Psalm 46's conversion when reached. No new approval is needed for each chapter within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique verse art, or imply that work continues in the background after a session ends.
+
+Psalm 20 passed its whole-chapter gate in PR #40: nine exact BSB verses, individual original notes and distinct inspected paintings, Selah, royal and communal voices, David/Jacob links, shared saved reflections, independent resume and needs connections. CI 39491437968 and 39491431902 passed all source/reference/art checks, 390px website/packaged-webview tests and Capacitor creation/sync on the implementation after reconciling main’s people additions. The 19→20→21 transitions and all verse tabs/images passed. Publication follows the tested PR #40 merge and Pages deployment. The nine offline paintings add 2.77 MiB. Shared repairs restore Psalm 19 loading/offline entries and preserve all concurrently added story/people scripts with strict Android byte parity. Story manuscripts, scene data, app routes and renderers remain unchanged. Native APK/device testing is separate. If PR #40 remains open, finish it before starting Psalm 21.
 
 Psalm 19 passed its whole-chapter gate in PR #35: fourteen exact BSB verses and distinct inspected watercolors, original individual notes, heading and 3–4/5–6 sentence continuations, context-sensitive Romans 10 connection, David/needs links, shared reflections and isolated resume. CI 39480159217 and 39480153842 passed all source checks, 390px source website/packaged-webview tests and Capacitor creation/sync. Publication follows the tested merge of PR #35 and Pages deployment. The fourteen offline paintings add 4.47 MiB. Story manuscripts, scene data and renderers remain unchanged. Native APK/device testing is not covered. If PR #35 is still open, finish it before starting Psalm 20.
 

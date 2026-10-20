@@ -1,6 +1,6 @@
 {
   "chapter": 20,
-  "status": "unpublished complete editorial and art candidate; integration and checks pending",
+  "status": "whole-chapter editorial/art/browser/Capacitor gate passed in CI 39491437968 and 39491431902; publication follows tested PR #40 merge and deployment",
   "sourceReview": "Read all bundled BSB Psalm 20, Psalm 21, Psalm 33, Psalm 46, Psalm 121, 1 Samuel 7 and 2 Chronicles 20 before writing. Related connections are literary comparisons, not an invented historical setting.",
   "topicPlan": {
     "fear": [
