@@ -1,4 +1,12 @@
-# Psalm 18 — unpublished partial draft
+# Psalm 18 — completed study and editorial archive
+
+All fifty verses passed the completion gate in PR #30 on October 20, 2026. CI 39473490381 and 39473403966 passed source, reference, asset, 390px website/Android-webview browser and Capacitor checks. The final browser run covers every verse/image/tab, reflection reload, shared Saved/dialog edits, independent resume, topic links and 17→18→19 transitions. No native APK/device testing is claimed. Publish only via the tested PR merge and confirm Pages before reporting publication.
+
+Production: `psalm18.js`, `assets/psalm18/verse-1-watercolor.webp` through `verse-50-watercolor.webp`; full built-in image prompts and selected originals in `generation-prompts.json`. Fifty paintings total 16,791,546 bytes (about 16 MiB). Exact text and heading come unchanged from bundled BSB. Source provenance and original group notes remain below and in the group JSONs; their partial statuses/ranges are historical, not current completion flags. `node drafts/psalm18/verify.mjs` checks the archive and `npm run check` includes the integrated `scripts/verify-psalm18.mjs` gate.
+
+Main f5e21a19 was reconciled with story manuscripts, scene data and renderers unchanged. Minimal copy-list repairs preserve existing Deuteronomy/Joshua assets in Android. David’s available profile is linked; Saul is named as opponent in commentary, without a nonexistent profile link. Psalm 23/design are preserved. Next sequential chapter: Psalm 19.
+
+## Historical drafting log (statements below describe earlier checkpoints)
 
 ## Current integration candidate
 

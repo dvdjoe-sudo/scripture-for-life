@@ -3,7 +3,7 @@ import fs from 'node:fs';
 import vm from 'node:vm';
 import crypto from 'node:crypto';
 
-// Partial editorial/asset checkpoint only. This does not certify chapter publication.
+// Editorial/asset archive check. The integrated completion gate is scripts/verify-psalm18.mjs.
 const bible=JSON.parse(fs.readFileSync('data/bible.json','utf8')).books;
 const source=JSON.parse(fs.readFileSync('drafts/psalm18/source.json','utf8'));
 const draft=JSON.parse(fs.readFileSync('drafts/psalm18/verses-1-10.json','utf8'));
@@ -35,7 +35,7 @@ assert.equal(battle.verses.length,8);
 assert.equal(closing.status,'unpublished editorial draft; all verses drafted, integration pending');
 assert.deepEqual(closing.completedRange,[43,50]);assert.deepEqual(closing.remainingRange,[]);assert.equal(closing.verses.length,8);
 assert.equal(draft.verses.length,10);assert.equal(next.verses.length,5);assert.equal(rescue.verses.length,5);assert.equal(conduct.verses.length,7);assert.equal(strength.verses.length,7);assert.equal(prompts.paintings.length,50);
-assert(prompts.status.includes('verses 1–50')&&prompts.status.includes('completion gate pending'));
+assert(prompts.status.includes('verses 1–50')&&prompts.status.includes('completion gate passed'));
 assert(source.verses[24][1].endsWith(';')&&source.verses[25][1].startsWith('to the pure'),'Preserve the sentence across 25–26');
 assert(source.verses[45][1].endsWith('—')&&source.verses[46][1].startsWith('the God')&&source.verses[46][1].endsWith(',')&&source.verses[47][1].startsWith('who delivers'),'Preserve sentence 46–48');
 assert.equal(prompts.styleReference,'assets/psalm23/verse-2-watercolor.webp');
@@ -69,5 +69,5 @@ if(fs.existsSync('psalm18.js')){
  assert(!fs.readFileSync('index.html','utf8').includes('psalm18.js'));
  assert(!fs.readFileSync('sw.js','utf8').includes('assets/psalm18/'));
 }
-assert(!/^\|\s*18\s*\|/m.test(fs.readFileSync('PSALMS_ROLLOUT.md','utf8')),'Do not mark fifty-verse chapter complete');
-console.log('PASS — UNPUBLISHED Psalm 18 draft: exact 50-verse source snapshot; verses 1–50 individual notes, references and fifty inspected paintings. All verses are drafted; full integration/mobile/offline/Android completion remains pending.');
+assert(/^\|\s*18\s*\|\s*50\s*\|/m.test(fs.readFileSync('PSALMS_ROLLOUT.md','utf8')),'Completion record must match the integrated fifty-verse study');
+console.log('PASS — Psalm 18 editorial archive: exact 50-verse source snapshot; verses 1–50 individual notes, references and fifty inspected paintings. Integrated source/mobile/offline/Android web-bundle gate passed in CI; publication is separate.');

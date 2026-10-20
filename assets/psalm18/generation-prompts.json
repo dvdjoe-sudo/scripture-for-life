@@ -1,7 +1,7 @@
 {
   "tool": "built-in image_gen.imagegen",
   "styleReference": "assets/psalm23/verse-2-watercolor.webp",
-  "status": "unpublished editorial/art draft; fifty individually generated and inspected paintings for verses 1–50; integration and whole-chapter completion gate pending",
+  "status": "fifty individually generated and visually inspected paintings for verses 1–50; whole-chapter completion gate passed in PR 30 CI 39473490381 and 39473403966; publication follows tested merge",
   "paintings": [
     {
       "verse": 1,
