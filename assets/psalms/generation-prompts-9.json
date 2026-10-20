@@ -1,0 +1,87 @@
+{
+  "number": 9,
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "method": "Built-in image generation; separate original symbolic watercolor per verse.",
+  "prompts": [
+    {
+      "verse": 1,
+      "prompt": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Input image is style reference only: match its detailed translucent watercolor washes, warm ivory paper, sage and forest greens, restrained gold light and soft blue atmospheric distance. Mature devotional watercolor realism. Important subjects central 80%. Ancient simple clothing and objects. Imagined symbolic illustration, not a historical reconstruction. No text, letters, captions, watermark, halos, visible God, divine face, literal divine hands or modern objects. Scene: An anonymous ancient worshipper seated under an olive tree at sunrise, open hands and a small plain lyre nearby, looking across a richly varied valley with gratitude for remembered wonders."
+    },
+    {
+      "verse": 2,
+      "prompt": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Input image is style reference only: match its detailed translucent watercolor washes, warm ivory paper, sage and forest greens, restrained gold light and soft blue atmospheric distance. Mature devotional watercolor realism. Important subjects central 80%. Ancient simple clothing and objects. Imagined symbolic illustration, not a historical reconstruction. No text, letters, captions, watermark, halos, visible God, divine face, literal divine hands or modern objects. Scene: An anonymous singer standing on a grassy ridge with a simple lyre, joyful posture against a luminous wide morning sky, ancient linen robe, quiet olive groves below."
+    },
+    {
+      "verse": 3,
+      "prompt": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Input image is style reference only: match its detailed translucent watercolor washes, warm ivory paper, sage and forest greens, restrained gold light and soft blue atmospheric distance. Mature devotional watercolor realism. Important subjects central 80%. Ancient simple clothing and objects. Imagined symbolic illustration, not a historical reconstruction. No text, letters, captions, watermark, halos, visible God, divine face, literal divine hands or modern objects. Scene: Several distant anonymous armed pursuers retreat along a rough stony path away from a sheltered valley; one stumbles without injury, no combat, no bodies, sober atmosphere."
+    },
+    {
+      "verse": 4,
+      "prompt": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Input image is style reference only: match its detailed translucent watercolor washes, warm ivory paper, sage and forest greens, restrained gold light and soft blue atmospheric distance. Mature devotional watercolor realism. Important subjects central 80%. Ancient simple clothing and objects. Imagined symbolic illustration, not a historical reconstruction. No text, letters, captions, watermark, halos, visible God, divine face, literal divine hands or modern objects. Scene: An empty ancient stone judgment seat in a shaded open courtyard, level balanced scales on a nearby low stone table, morning light as a symbol of a just hearing; no divine figure."
+    },
+    {
+      "verse": 5,
+      "prompt": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Input image is style reference only: match its detailed translucent watercolor washes, warm ivory paper, sage and forest greens, restrained gold light and soft blue atmospheric distance. Mature devotional watercolor realism. Important subjects central 80%. Ancient simple clothing and objects. Imagined symbolic illustration, not a historical reconstruction. No text, letters, captions, watermark, halos, visible God, divine face, literal divine hands or modern objects. Scene: A fallen unmarked battle standard and broken unused weapons beside deserted ancient city walls, plants beginning to grow, restrained somber daylight, no bodies."
+    },
+    {
+      "verse": 6,
+      "prompt": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Input image is style reference only: match its detailed translucent watercolor washes, warm ivory paper, sage and forest greens, restrained gold light and soft blue atmospheric distance. Mature devotional watercolor realism. Important subjects central 80%. Ancient simple clothing and objects. Imagined symbolic illustration, not a historical reconstruction. No text, letters, captions, watermark, halos, visible God, divine face, literal divine hands or modern objects. Scene: Ancient ruined city foundations and uprooted masonry merging into a broad quiet landscape, grasses growing through abandoned streets, fading blue distant hills, no violence."
+    },
+    {
+      "verse": 7,
+      "prompt": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Input image is style reference only: match its detailed translucent watercolor washes, warm ivory paper, sage and forest greens, restrained gold light and soft blue atmospheric distance. Mature devotional watercolor realism. Important subjects central 80%. Ancient simple clothing and objects. Imagined symbolic illustration, not a historical reconstruction. No text, letters, captions, watermark, halos, visible God, divine face, literal divine hands or modern objects. Scene: A sturdy empty stone throne on a high terrace overlooking enduring mountains, delicate plants in foreground, steady dawn light, no occupant or divine figure."
+    },
+    {
+      "verse": 8,
+      "prompt": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Input image is style reference only: match its detailed translucent watercolor washes, warm ivory paper, sage and forest greens, restrained gold light and soft blue atmospheric distance. Mature devotional watercolor realism. Important subjects central 80%. Ancient simple clothing and objects. Imagined symbolic illustration, not a historical reconstruction. No text, letters, captions, watermark, halos, visible God, divine face, literal divine hands or modern objects. Scene: A wide ancient public courtyard with diverse anonymous travelers waiting peacefully together beside balanced scales on a stone table, equal shared light, no seated ruler."
+    },
+    {
+      "verse": 9,
+      "prompt": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Input image is style reference only: match its detailed translucent watercolor washes, warm ivory paper, sage and forest greens, restrained gold light and soft blue atmospheric distance. Mature devotional watercolor realism. Important subjects central 80%. Ancient simple clothing and objects. Imagined symbolic illustration, not a historical reconstruction. No text, letters, captions, watermark, halos, visible God, divine face, literal divine hands or modern objects. Scene: An anonymous weary adult and child approach a strong rock shelter above a stormy valley, olive branches at entrance, warm sheltered light and substantial stone, no soldiers."
+    },
+    {
+      "verse": 10,
+      "prompt": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Input image is style reference only: match its detailed translucent watercolor washes, warm ivory paper, sage and forest greens, restrained gold light and soft blue atmospheric distance. Mature devotional watercolor realism. Important subjects central 80%. Ancient simple clothing and objects. Imagined symbolic illustration, not a historical reconstruction. No text, letters, captions, watermark, halos, visible God, divine face, literal divine hands or modern objects. Scene: A solitary anonymous traveler follows a sunlit path toward an open ancient refuge gate, calm trust, olive grove and rolling green hills, no visible God."
+    },
+    {
+      "verse": 11,
+      "prompt": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Input image is style reference only: match its detailed translucent watercolor washes, warm ivory paper, sage and forest greens, restrained gold light and soft blue atmospheric distance. Mature devotional watercolor realism. Important subjects central 80%. Ancient simple clothing and objects. Imagined symbolic illustration, not a historical reconstruction. No text, letters, captions, watermark, halos, visible God, divine face, literal divine hands or modern objects. Scene: A small anonymous ancient community sings together with plain lyres at a hilltop city gate, distant landscape beyond suggesting nations, joyful natural posture."
+    },
+    {
+      "verse": 12,
+      "prompt": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Input image is style reference only: match its detailed translucent watercolor washes, warm ivory paper, sage and forest greens, restrained gold light and soft blue atmospheric distance. Mature devotional watercolor realism. Important subjects central 80%. Ancient simple clothing and objects. Imagined symbolic illustration, not a historical reconstruction. No text, letters, captions, watermark, halos, visible God, divine face, literal divine hands or modern objects. Scene: An anonymous grieving person sits beside a small stone memorial and olive tree as another person listens attentively nearby, quiet dignity, no blood or body, remembrance of the afflicted."
+    },
+    {
+      "verse": 13,
+      "prompt": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Input image is style reference only: match its detailed translucent watercolor washes, warm ivory paper, sage and forest greens, restrained gold light and soft blue atmospheric distance. Mature devotional watercolor realism. Important subjects central 80%. Ancient simple clothing and objects. Imagined symbolic illustration, not a historical reconstruction. No text, letters, captions, watermark, halos, visible God, divine face, literal divine hands or modern objects. Scene: An anonymous exhausted traveler reaching upward toward the light through a dark ancient stone gateway, companion offering practical help, symbolic rescue from danger, no injury."
+    },
+    {
+      "verse": 14,
+      "prompt": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Input image is style reference only: match its detailed translucent watercolor washes, warm ivory paper, sage and forest greens, restrained gold light and soft blue atmospheric distance. Mature devotional watercolor realism. Important subjects central 80%. Ancient simple clothing and objects. Imagined symbolic illustration, not a historical reconstruction. No text, letters, captions, watermark, halos, visible God, divine face, literal divine hands or modern objects. Scene: An anonymous rescued traveler enters an open hilltop city gate toward a small welcoming group with simple instruments, warmth and relief, ancient Zion imagined without claiming reconstruction."
+    },
+    {
+      "verse": 15,
+      "prompt": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Input image is style reference only: match its detailed translucent watercolor washes, warm ivory paper, sage and forest greens, restrained gold light and soft blue atmospheric distance. Mature devotional watercolor realism. Important subjects central 80%. Ancient simple clothing and objects. Imagined symbolic illustration, not a historical reconstruction. No text, letters, captions, watermark, halos, visible God, divine face, literal divine hands or modern objects. Scene: A shallow empty concealed pit beside a path with a torn abandoned net snagged on stones, human footprints ending at its edge; no trapped person or animal, symbolic self-defeating schemes."
+    },
+    {
+      "verse": 16,
+      "prompt": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Input image is style reference only: match its detailed translucent watercolor washes, warm ivory paper, sage and forest greens, restrained gold light and soft blue atmospheric distance. Mature devotional watercolor realism. Important subjects central 80%. Ancient simple clothing and objects. Imagined symbolic illustration, not a historical reconstruction. No text, letters, captions, watermark, halos, visible God, divine face, literal divine hands or modern objects. Scene: Close view of an abandoned woven snare tangled around its own wooden stakes beside a sunlit olive tree, broken trap rendered clearly, thoughtful stillness, no person harmed."
+    },
+    {
+      "verse": 17,
+      "prompt": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Input image is style reference only: match its detailed translucent watercolor washes, warm ivory paper, sage and forest greens, restrained gold light and soft blue atmospheric distance. Mature devotional watercolor realism. Important subjects central 80%. Ancient simple clothing and objects. Imagined symbolic illustration, not a historical reconstruction. No text, letters, captions, watermark, halos, visible God, divine face, literal divine hands or modern objects. Scene: A deserted downhill stone road disappears into a shadowy ravine at twilight, fading abandoned pennant at roadside, sober symbol of mortality and the grave, no underworld beings."
+    },
+    {
+      "verse": 18,
+      "prompt": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Input image is style reference only: match its detailed translucent watercolor washes, warm ivory paper, sage and forest greens, restrained gold light and soft blue atmospheric distance. Mature devotional watercolor realism. Important subjects central 80%. Ancient simple clothing and objects. Imagined symbolic illustration, not a historical reconstruction. No text, letters, captions, watermark, halos, visible God, divine face, literal divine hands or modern objects. Scene: An anonymous poor family receiving bread and water from neighbors at an olive-shaded village doorway, warm dignified human care, small green shoots growing between stones."
+    },
+    {
+      "verse": 19,
+      "prompt": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Input image is style reference only: match its detailed translucent watercolor washes, warm ivory paper, sage and forest greens, restrained gold light and soft blue atmospheric distance. Mature devotional watercolor realism. Important subjects central 80%. Ancient simple clothing and objects. Imagined symbolic illustration, not a historical reconstruction. No text, letters, captions, watermark, halos, visible God, divine face, literal divine hands or modern objects. Scene: An empty ancient judgment courtyard under a clearing storm, distant small unmarked national banners lowered along a path, solemn anticipation, no deity, no battle."
+    },
+    {
+      "verse": 20,
+      "prompt": "Use case: illustration-story. Asset type: individual Bible verse painting for Scripture for Life, landscape 3:2. Input image is style reference only: match its detailed translucent watercolor washes, warm ivory paper, sage and forest greens, restrained gold light and soft blue atmospheric distance. Mature devotional watercolor realism. Important subjects central 80%. Ancient simple clothing and objects. Imagined symbolic illustration, not a historical reconstruction. No text, letters, captions, watermark, halos, visible God, divine face, literal divine hands or modern objects. Scene: A small group of anonymous robed rulers without crowns stands humbled on a high ridge beneath a vast starlit sky, faces indistinct, mountain scale emphasizes human limits, solemn awe."
+    }
+  ]
+}
