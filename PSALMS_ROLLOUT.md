@@ -23,11 +23,14 @@ Approved goal: extend the Psalm 1 / original Psalm 23 format across all 150 Psal
 | 15 | 5 | `#/study/15/1` |
 | 16 | 11 | `#/study/16/1` |
 | 17 | 15 | `#/study/17/1` |
+| 18 | 50 | `#/study/18/1` |
 | 23 | 6 | `#/study/23/1` |
 
 Psalm 46 has a six-section study covering all eleven verses; it still needs conversion to individual verse pages to meet the new goal. All other Psalms retain their full chapter pages and chapter introductions, rather than being labeled finished verse studies.
 
-Next sequential chapter: **Psalm 18**. Continue in order, keeping the completed Psalm 23 study and arranging Psalm 46's conversion when reached. No new approval is needed for each chapter within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique verse art, or imply that work continues in the background after a session ends.
+Next sequential chapter: **Psalm 19**. Continue in order, keeping the completed Psalm 23 study and arranging Psalm 46's conversion when reached. No new approval is needed for each chapter within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique verse art, or imply that work continues in the background after a session ends.
+
+Psalm 18 passed its whole-chapter gate in PR #30: fifty exact source verses and individual notes/paintings, 390px website and packaged-webview tests for every verse/tab/image, shared reflections through reload/Saved/dialog, isolated resume, needs links and 17→18→19 transitions; Capacitor creation/sync also passed (CI 39473490381 and 39473403966). Publication follows PR #30’s tested merge and Pages deployment. Story manuscripts, data and renderers remain unchanged; the shared copy list includes the concurrently added Deuteronomy and Joshua renderers with byte-parity assertions. Production Psalm 18 paintings total about 16 MiB; all are offline-cached. Native APK/device testing remains separate.
 
 Psalm 17 completed its source, phone-width website/packaged-webview, and Capacitor checks in PR #29. Fifteen individually generated, inspected paintings and verse-specific notes preserve the heading, sentence continuations, plural voice and BSB provision prayer. Publication follows the merge of PR #29; if it is still open, finish it first. Psalm 18 is long; use clearly unpublished groups of verses if needed and mark it complete only when all fifty verses pass. Android web-bundle/Capacitor checks do not constitute native APK or device testing.
 

@@ -33,6 +33,10 @@ const required = [
   'manifest.webmanifest', 'sw.js'
 ];
 for (const item of required) localFile(www, item, 'Android web bundle');
+// Preserve the concurrently authored renderer and story data verbatim in packaging.
+for (const item of ['deuteronomy.js', 'data/deuteronomy-episodes.json', 'data/deuteronomy-scenes.json', 'joshua.js', 'data/joshua-episodes.json', 'data/joshua-scenes.json']) {
+  assert(read(root, item) === read(www, item), 'Story asset differs in Android bundle: ' + item);
+}
 
 // Verify actual index.html links (the old build copied different legacy filenames).
 for (const match of html.matchAll(/<(?:script|link)\b[^>]*(?:src|href)=["']([^"']+)["']/g)) {
