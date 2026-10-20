@@ -40,6 +40,16 @@ for (const match of html.matchAll(/<(?:script|link)\b[^>]*(?:src|href)=["']([^"'
   if (!uri || uri.startsWith('http:') || uri.startsWith('https:') || uri.startsWith('data:')) continue;
   localFile(www, uri, 'index.html reference');
 }
+// A later integration must not leave completed study data on disk but stop loading it.
+const scriptSources = Array.from(html.matchAll(/<script\b[^>]*src=["']([^"']+)["']/g), m => m[1].split(/[?#]/)[0]);
+for (const file of fs.readdirSync(root).filter(name => name.endsWith('.js'))) {
+  if (!read(root, file).includes('window.SFL_VERSE_STUDIES.register(')) continue;
+  const position = scriptSources.indexOf(file);
+  assert(position !== -1, 'Completed verse study is not loaded by index.html: ' + file);
+  assert(position > scriptSources.indexOf('psalm-verse-study.js') && position < scriptSources.indexOf('app.js'),
+    'Verse study must load after its engine and before the app: ' + file);
+  assert(read(root, file) === read(www, file), 'Verse study differs in Android bundle: ' + file);
+}
 assert(/rel=["']manifest["']/.test(html), 'Website must link to the app manifest');
 assert(/serviceWorker\.register/.test(html), 'Offline service worker is not registered');
 assert(app.includes("scene(0,'home')"), 'Original Psalm 23 art was altered/removed');
