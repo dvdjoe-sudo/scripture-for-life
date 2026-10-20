@@ -1,0 +1,506 @@
+{
+ "1": [
+  {
+   "id": 1,
+   "start": 0,
+   "end": 3,
+   "title": "The words Moses spoke",
+   "passage": "Deuteronomy 1:1–5",
+   "anchor": "Deuteronomy 1:3",
+   "context": "Deuteronomy is mostly speeches: Moses addresses Israel on the plains of Moab in the fortieth year after the exodus, shortly before his death. The listeners are mainly the second generation, whose parents died in the wilderness.",
+   "question": "What do you think it meant for this generation to hear its own history told by the man who had led their parents?"
+  },
+  {
+   "id": 2,
+   "start": 4,
+   "end": 9,
+   "title": "Eleven days, forty years, and the judges",
+   "passage": "Deuteronomy 1:6–17",
+   "anchor": "Deuteronomy 1:17",
+   "context": "Horeb is the mountain where the covenant was given. The journey to the border of the promised land should have taken eleven days; Moses begins by measuring how long the detour lasted and how the work of judging was shared.",
+   "question": "Why do you think Moses starts a farewell speech with distance and failure rather than with victories?"
+  },
+  {
+   "id": 3,
+   "start": 10,
+   "end": 17,
+   "title": "The spies, as the people proposed them",
+   "passage": "Deuteronomy 1:22–33",
+   "anchor": "Deuteronomy 1:31",
+   "context": "In Moses' telling here, the idea of sending spies came from the people, a detail stated differently than in the book of Numbers. Deuteronomy is Moses' own speech about his own history, and his angles are left standing as he gives them.",
+   "question": "What stays with you from the picture of God carrying Israel the way a man carries his son?"
+  },
+  {
+   "id": 4,
+   "start": 18,
+   "end": 23,
+   "title": "The sentence, and the warning ignored",
+   "passage": "Deuteronomy 1:34–46",
+   "anchor": "Deuteronomy 1:42",
+   "context": "The refusal at Kadesh brought the sentence of the wilderness years. Moses includes his own exclusion from the land in the same passage, stated as he states it, and the defeat that followed when the people attacked without God's presence.",
+   "question": "What does this scene show about trying to undo a refusal after the moment for obedience has passed?"
+  },
+  {
+   "id": 5,
+   "start": 24,
+   "end": 31,
+   "title": "Brother nations passed by, and the first victories",
+   "passage": "Deuteronomy 2:1–3:11",
+   "anchor": "Deuteronomy 2:7",
+   "context": "Israel was ordered not to seize the lands of Edom, Moab, and Ammon, relatives through Esau and Lot, to whom God said He had given their own inheritances. The victories over Sihon and Og, east of the Jordan, were the first lands Israel took.",
+   "question": "What do you notice about a conquest story that begins with lands Israel was forbidden to touch?"
+  },
+  {
+   "id": 6,
+   "start": 32,
+   "end": 37,
+   "title": "The plea God refused",
+   "passage": "Deuteronomy 3:23–29",
+   "anchor": "Deuteronomy 3:26",
+   "context": "Moses had interceded successfully for Israel many times, including after the golden calf. Here he describes pleading for himself and being refused, and being told to strengthen Joshua instead.",
+   "question": "How does Moses' obedience after a refused prayer strike you?"
+  },
+  {
+   "id": 7,
+   "start": 38,
+   "end": 43,
+   "title": "Guard yourselves and remember Horeb",
+   "passage": "Deuteronomy 4:1–24",
+   "anchor": "Deuteronomy 4:9",
+   "context": "Chapter 4 turns history into exhortation. Nothing is to be added to or taken from the commandments, and because Israel saw no form when God spoke at Horeb, the memory of that day guards them against images.",
+   "question": "What does it change that Israel's God was heard at Horeb but never seen in any form?"
+  },
+  {
+   "id": 8,
+   "start": 44,
+   "end": 48,
+   "title": "A consuming fire, and the way back from exile",
+   "passage": "Deuteronomy 4:25–31",
+   "anchor": "Deuteronomy 4:29",
+   "context": "Moses predicts corruption and exile in the land and, in the same breath, promises that exiles who seek God with all their heart will find Him, because He is merciful and will not forget the covenant with their fathers.",
+   "question": "Which half of this prophecy, the exile or the finding, do you think the first hearers held onto?"
+  },
+  {
+   "id": 9,
+   "start": 49,
+   "end": 53,
+   "title": "No other besides Him, and cities of refuge",
+   "passage": "Deuteronomy 4:32–49",
+   "anchor": "Deuteronomy 4:35",
+   "context": "The first address closes with the claim that Israel's experience is unlike any other nation's, then sets apart three cities of refuge east of the Jordan for a manslayer to flee to.",
+   "question": "What has this first address asked of its hearers so far: knowledge, memory, gratitude, or something else?"
+  }
+ ],
+ "2": [
+  {
+   "id": 1,
+   "start": 0,
+   "end": 2,
+   "title": "The covenant handed to the children",
+   "passage": "Deuteronomy 5:1–5",
+   "anchor": "Deuteronomy 5:3",
+   "context": "Moses opens the second address by insisting the covenant at Horeb was made with the generation now standing before him, not only with their fathers. The claim hands the children their parents' mountain as their own.",
+   "question": "What changes when a covenant is described as yours rather than your ancestors'?"
+  },
+  {
+   "id": 2,
+   "start": 3,
+   "end": 8,
+   "title": "The ten words again, and a new reason for the Sabbath",
+   "passage": "Deuteronomy 5:6–21",
+   "anchor": "Deuteronomy 5:15",
+   "context": "The Ten Commandments are repeated almost as in Exodus, with one catchable difference: in Exodus the Sabbath rests on God's rest at creation; here it rests on Israel's slavery in Egypt and rescue from it.",
+   "question": "Why might remembering slavery make rest a stronger command than remembering creation?"
+  },
+  {
+   "id": 3,
+   "start": 9,
+   "end": 10,
+   "title": "The plea at the fire, and God's wish",
+   "passage": "Deuteronomy 5:22–33",
+   "anchor": "Deuteronomy 5:29",
+   "context": "At Horeb the people begged not to hear God's voice directly again, and Moses mediated. God's response, as Moses reports it, is a wish that their reverence in that moment would last.",
+   "question": "What do you make of God answering fear with a wish rather than a rebuke?"
+  },
+  {
+   "id": 4,
+   "start": 11,
+   "end": 16,
+   "title": "The Shema and the teaching road",
+   "passage": "Deuteronomy 6:4–9",
+   "anchor": "Deuteronomy 6:5",
+   "context": "The Shema, named for its first word in Hebrew, Hear, became the central confession of Jewish faith, recited morning and evening. Its commands place the words at home, on the road, at lying down and rising.",
+   "question": "Where in an ordinary day would this kind of teaching actually happen?"
+  },
+  {
+   "id": 5,
+   "start": 17,
+   "end": 20,
+   "title": "Full houses and the forgetting warning",
+   "passage": "Deuteronomy 6:10–25",
+   "anchor": "Deuteronomy 6:12",
+   "context": "Moses warns that the danger will come with prosperity: houses, vineyards, and wells Israel did not build or dig. A child's future question about the laws is to be answered with the rescue story.",
+   "question": "Why is forgetting, in this speech, treated as a greater danger than hardship?"
+  },
+  {
+   "id": 6,
+   "start": 21,
+   "end": 25,
+   "title": "Chosen because loved",
+   "passage": "Deuteronomy 7:6–26",
+   "anchor": "Deuteronomy 7:9",
+   "context": "Moses states plainly that Israel was not chosen for its size, being the fewest of peoples, but because of God's love and His oath to their fathers. The same passage commands the destruction of the land's altars.",
+   "question": "How do love and smallness sit together in this explanation of being chosen?"
+  },
+  {
+   "id": 7,
+   "start": 26,
+   "end": 33,
+   "title": "The wilderness was a school",
+   "passage": "Deuteronomy 8:1–20",
+   "anchor": "Deuteronomy 8:3",
+   "context": "The forty years are described as a test and a discipline, like a father's discipline of a son. The manna taught dependence; the coming abundance will test whether Israel credits its own hands.",
+   "question": "What is the difference between wealth as a gift and wealth as an achievement, in this chapter's terms?"
+  },
+  {
+   "id": 8,
+   "start": 34,
+   "end": 38,
+   "title": "Not because of your righteousness",
+   "passage": "Deuteronomy 9:4–6",
+   "anchor": "Deuteronomy 9:6",
+   "context": "Moses repeats the point three ways in three verses: the land is given because of the wickedness of its nations and the oath to the fathers, not because of Israel's righteousness. He calls Israel stiff-necked to its face.",
+   "question": "What does it do to a people's story when its leader refuses to let it be the hero?"
+  },
+  {
+   "id": 9,
+   "start": 39,
+   "end": 47,
+   "title": "The calf retold, and Moses face down",
+   "passage": "Deuteronomy 9:9–29",
+   "anchor": "Deuteronomy 9:26",
+   "context": "Moses tells the golden calf from his side: forty days without bread or water on the mountain, the tablets broken before the people's eyes, a second forty days face down, and his prayer for Aaron and for the people.",
+   "question": "What stands out to you in the arguments Moses made to God on Israel's behalf?"
+  },
+  {
+   "id": 10,
+   "start": 48,
+   "end": 53,
+   "title": "Second tablets in an ark, and Aaron's death",
+   "passage": "Deuteronomy 10:1–11",
+   "anchor": "Deuteronomy 10:5",
+   "context": "The replacement tablets were placed in the ark Moses made, and Moses says they remained there. The retelling also carries Aaron's death and the setting apart of Levi in a few quick lines.",
+   "question": "What does it mean that the broken covenant's replacement was carried at the center of the camp?"
+  },
+  {
+   "id": 11,
+   "start": 54,
+   "end": 62,
+   "title": "What does the LORD ask of you",
+   "passage": "Deuteronomy 10:12–11:7",
+   "anchor": "Deuteronomy 10:12",
+   "context": "Moses sums up the whole demand in one question: fear, walk, love, serve, with all heart and soul, for Israel's own good. The passage grounds it in God's justice for the fatherless and widow and His love for the foreigner.",
+   "question": "Which part of the summary question feels heaviest to you, and why?"
+  },
+  {
+   "id": 12,
+   "start": 63,
+   "end": 69,
+   "title": "A land that drinks rain, and the blessing and curse",
+   "passage": "Deuteronomy 11:8–32",
+   "anchor": "Deuteronomy 11:26",
+   "context": "Unlike Egypt, watered by labor, the promised land drinks rain from heaven and lives under God's watch. The address closes by naming Mount Gerizim and Mount Ebal for the future ceremony of blessing and curse.",
+   "question": "How does a land dependent on rain shape the way its people think about obedience?"
+  }
+ ],
+ "3": [
+  {
+   "id": 1,
+   "start": 0,
+   "end": 4,
+   "title": "One place for worship",
+   "passage": "Deuteronomy 12:1–14",
+   "anchor": "Deuteronomy 12:5",
+   "context": "In the wilderness, sacrifice happened at one tent; in a settled land, the temptation would be many local shrines. Moses commands the opposite: the nations' altars destroyed, and Israel's offerings gathered to the one place God chooses.",
+   "question": "Why gather worship to one place rather than letting every town have its altar?"
+  },
+  {
+   "id": 2,
+   "start": 5,
+   "end": 7,
+   "title": "Meat at home, blood on the ground, and the curiosity trap",
+   "passage": "Deuteronomy 12:15–32",
+   "anchor": "Deuteronomy 12:23",
+   "context": "Ordinary meat could be eaten in any town, with one rule carried home: the blood, identified with the life, was poured out and never eaten. The chapter ends by warning against even asking how the nations served their gods.",
+   "question": "Where is the line, in this chapter, between curiosity about other religions and being ensnared by them?"
+  },
+  {
+   "id": 3,
+   "start": 8,
+   "end": 11,
+   "title": "The prophet, the whisperer, and the city",
+   "passage": "Deuteronomy 13:1–18",
+   "anchor": "Deuteronomy 13:3",
+   "context": "Chapter 13 tests loyalty at three distances: a prophet whose sign comes true, a beloved person whispering in secret, and a whole city led astray. The city's case requires thorough investigation before judgment.",
+   "question": "Why is a sign that comes true not enough, in this chapter, to make a prophet trustworthy?"
+  },
+  {
+   "id": 4,
+   "start": 12,
+   "end": 15,
+   "title": "Sons of the LORD: the table and the tithe feast",
+   "passage": "Deuteronomy 14:1–29",
+   "anchor": "Deuteronomy 14:2",
+   "context": "The food laws of Leviticus are repeated in brief, framed by Israel's identity as God's prized possession. The tithe here is remarkable: the family itself eats it at the chosen place, as a feast that teaches reverence.",
+   "question": "What does it do to a tax or offering when the giver's own family eats it before God?"
+  },
+  {
+   "id": 5,
+   "start": 16,
+   "end": 21,
+   "title": "The seventh year: debts released and the open hand",
+   "passage": "Deuteronomy 15:1–23",
+   "anchor": "Deuteronomy 15:11",
+   "context": "Every seventh year, debts to a brother were canceled and Hebrew servants went free, furnished generously. Moses states both that there will be no poor if Israel obeys, and that the poor will never cease from the land; the text leaves the two sentences standing together.",
+   "question": "How do you hold the two sentences about poverty in this chapter together?"
+  },
+  {
+   "id": 6,
+   "start": 22,
+   "end": 27,
+   "title": "Three feasts a year, and judges at the gate",
+   "passage": "Deuteronomy 16:1–22",
+   "anchor": "Deuteronomy 16:20",
+   "context": "The feast calendar is retold: Passover and Unleavened Bread, Weeks, and Tabernacles, with the Levite, foreigner, fatherless, and widow written into the rejoicing. The section ends by appointing judges and demanding justice without bribes.",
+   "question": "Which of the three feasts would you most want to have seen, and why?"
+  }
+ ],
+ "4": [
+  {
+   "id": 1,
+   "start": 0,
+   "end": 4,
+   "title": "Witnesses first, and the court above the towns",
+   "passage": "Deuteronomy 17:1–13",
+   "anchor": "Deuteronomy 17:6",
+   "context": "A capital charge required two or three witnesses, and the witnesses had to cast the first stones, putting their own hands behind their testimony. Cases too hard for local judges went up to the priests and the judge at the chosen place, whose verdict was final.",
+   "question": "What does requiring witnesses to act first do to the quality of testimony?"
+  },
+  {
+   "id": 2,
+   "start": 5,
+   "end": 7,
+   "title": "The king under the book",
+   "passage": "Deuteronomy 17:14–20",
+   "anchor": "Deuteronomy 17:19",
+   "context": "Centuries before Israel had a king, this law fenced the office: no multiplying horses, wives, or gold, and the king must handwrite his own copy of the law and read it daily. The stated aim is a heart not exalted above his countrymen.",
+   "question": "What kind of ruler is this law trying to produce?"
+  },
+  {
+   "id": 3,
+   "start": 8,
+   "end": 9,
+   "title": "The LORD is their inheritance, and the forbidden voices",
+   "passage": "Deuteronomy 18:1–14",
+   "anchor": "Deuteronomy 18:2",
+   "context": "Levi received no territory; the tribe lived from the offerings, and God names Himself as their inheritance. Against the priests' voice the chapter sets the barred practices of the nations, from divination to inquiring of the dead.",
+   "question": "What contrasts do you see between how Levi is provided for and how the forbidden practitioners earn their keep?"
+  },
+  {
+   "id": 4,
+   "start": 10,
+   "end": 12,
+   "title": "A prophet like Moses",
+   "passage": "Deuteronomy 18:15–22",
+   "anchor": "Deuteronomy 18:18",
+   "context": "At Horeb the people had asked for a mediator rather than God's unmediated voice. Moses promises God will keep raising up prophets from among their brothers, and gives a plain test for false ones: the word that does not come to pass was not spoken by the LORD.",
+   "question": "Why would a coming prophet need to be like Moses, specifically?"
+  },
+  {
+   "id": 5,
+   "start": 13,
+   "end": 17,
+   "title": "Refuge, the boundary stone, and the lying witness",
+   "passage": "Deuteronomy 19:1–21",
+   "anchor": "Deuteronomy 19:15",
+   "context": "The refuge cities protected the accidental killer, illustrated by an axe head flying off its handle, but not the man who lay in wait. A false witness was to receive the very penalty he had intended for his brother; the eye-for-eye measure stands in this witness setting.",
+   "question": "How does intent change the way this chapter treats two people who both caused a death?"
+  },
+  {
+   "id": 6,
+   "start": 18,
+   "end": 22,
+   "title": "The army that sends men home",
+   "passage": "Deuteronomy 20:1–20",
+   "anchor": "Deuteronomy 20:4",
+   "context": "Before battle, exemptions sent home men with a new house, a new vineyard, a coming marriage, or a fearful heart. Distant cities were offered peace first; the chapter also spares fruit trees in a siege, asking whether trees are human, to be besieged.",
+   "question": "Which of the exemptions surprises you most, and what does it protect?"
+  }
+ ],
+ "5": [
+  {
+   "id": 1,
+   "start": 0,
+   "end": 1,
+   "title": "The corpse in the field",
+   "passage": "Deuteronomy 21:1–9",
+   "anchor": "Deuteronomy 21:8",
+   "context": "For an unsolved murder, the town nearest the body took responsibility: a heifer's neck was broken in an unworked valley, and the elders washed their hands and declared their innocence before God. The ritual answered for bloodguilt no court could assign.",
+   "question": "Why should the nearest town, rather than no one, answer for a killing it did not commit?"
+  },
+  {
+   "id": 2,
+   "start": 2,
+   "end": 4,
+   "title": "The captive wife, the firstborn, and the rebellious son",
+   "passage": "Deuteronomy 21:10–23",
+   "anchor": "Deuteronomy 21:17",
+   "context": "These cases protect people with little power: a captive woman given a month to mourn and never to be sold, the unloved wife's firstborn keeping his double portion, and parents together bringing a rebellious son before the elders rather than acting alone.",
+   "question": "Which protection in these cases seems most ahead of its time to you?"
+  },
+  {
+   "id": 3,
+   "start": 5,
+   "end": 7,
+   "title": "You must not ignore it",
+   "passage": "Deuteronomy 22:1–30",
+   "anchor": "Deuteronomy 22:3",
+   "context": "Chapter 22 repeats one command in different forms: a straying or fallen animal, a lost cloak, anything of your brother's that you find is not to be ignored. The chapter also carries the bird's nest, the roof railing, and marriage cases weighed by evidence and setting.",
+   "question": "What everyday situations today run on the same you-must-not-ignore-it rule?"
+  },
+  {
+   "id": 4,
+   "start": 8,
+   "end": 9,
+   "title": "The assembly, the holy camp, and the slave who stays",
+   "passage": "Deuteronomy 23:1–25",
+   "anchor": "Deuteronomy 23:5",
+   "context": "The chapter bounds who may enter the assembly, keeps the war camp holy because God walks in it, protects an escaped slave from being returned, and bars interest on loans to a brother. Moab's exclusion itself remembers that God turned Balaam's curse into a blessing.",
+   "question": "What do you notice about a law code that protects a runaway slave from another nation?"
+  },
+  {
+   "id": 5,
+   "start": 10,
+   "end": 14,
+   "title": "The cloak by sunset and the wage before dark",
+   "passage": "Deuteronomy 24:1–22",
+   "anchor": "Deuteronomy 24:15",
+   "context": "A poor man's pledged cloak was to be returned by sunset so he could sleep in it, and a day laborer's wage paid the same day, because he depends on it. The chapter grounds these mercies in Israel's memory of slavery in Egypt.",
+   "question": "Which of these small mercies would change the most lives if it were kept today?"
+  },
+  {
+   "id": 6,
+   "start": 15,
+   "end": 19,
+   "title": "Forty lashes, a brother's name, honest weights, and Amalek",
+   "passage": "Deuteronomy 25:1–19",
+   "anchor": "Deuteronomy 25:19",
+   "context": "Flogging was capped at forty lashes so a brother would not be degraded. A dead brother's name was carried on through levirate marriage. Honest weights were demanded, and the section ends remembering Amalek's attack on the stragglers, with the command not to forget.",
+   "question": "Why end a long list of small laws with a command about memory?"
+  }
+ ],
+ "6": [
+  {
+   "id": 1,
+   "start": 0,
+   "end": 3,
+   "title": "The basket and the wandering Aramean",
+   "passage": "Deuteronomy 26:1–11",
+   "anchor": "Deuteronomy 26:5",
+   "context": "Every farmer bringing firstfruits was to recite the same short creed over his basket, from Jacob the wandering Aramean through Egypt, the cry, and the exodus, to the land and the harvest in his hands. The third-year tithe went to the Levite, foreigner, fatherless, and widow.",
+   "question": "What does it do to a farmer to say the whole national story over his own first harvest?"
+  },
+  {
+   "id": 2,
+   "start": 4,
+   "end": 5,
+   "title": "The tithe declared, and two proclamations",
+   "passage": "Deuteronomy 26:12–19",
+   "anchor": "Deuteronomy 26:18",
+   "context": "After giving the third-year tithe, the giver declared before God that the sacred portion had been fully given and no commandment transgressed or forgotten. The chapter closes with covenant proclamations in both directions between God and Israel.",
+   "question": "Why declare generosity aloud before God instead of simply doing it quietly?"
+  },
+  {
+   "id": 3,
+   "start": 6,
+   "end": 8,
+   "title": "Stones on Ebal and a nation answering Amen",
+   "passage": "Deuteronomy 27:1–26",
+   "anchor": "Deuteronomy 27:9",
+   "context": "On entering the land, Israel was to write the law on plastered stones on Mount Ebal, build an altar of uncut stones, and stand by tribes on Gerizim and Ebal while the Levites proclaimed curses, many of them for secret sins, answered by the whole people's Amen.",
+   "question": "Why are so many of the curses aimed at things done in secret?"
+  },
+  {
+   "id": 4,
+   "start": 9,
+   "end": 13,
+   "title": "Blessings and curses, mirror and descent",
+   "passage": "Deuteronomy 28:1–68",
+   "anchor": "Deuteronomy 28:2",
+   "context": "Chapter 28 runs far longer on curses than on blessings. The blessings and the first curses mirror each other item by item, then the curses descend through futility, siege, and exile, ending with Israel returned to Egypt in ships and finding no buyer.",
+   "question": "Which single blessing or curse in the chapter stays with you, and why?"
+  },
+  {
+   "id": 5,
+   "start": 14,
+   "end": 18,
+   "title": "The covenant renewed, and the root that blesses itself",
+   "passage": "Deuteronomy 29:1–29",
+   "anchor": "Deuteronomy 29:29",
+   "context": "The covenant in Moab is made not only with those standing present but with those not there that day. Moses warns against the person who hears the oath and privately exempts himself, and closes by dividing secret things, which are God's, from revealed things, which are Israel's to live by.",
+   "question": "What is the danger of a private exemption taken in the middle of a public promise?"
+  }
+ ],
+ "7": [
+  {
+   "id": 1,
+   "start": 0,
+   "end": 3,
+   "title": "The way back from exile, and choose life",
+   "passage": "Deuteronomy 30:1–20",
+   "anchor": "Deuteronomy 30:19",
+   "context": "Chapter 30 assumes the exile has happened and promises restoration to those who return, with God Himself circumcising hearts, a command He had earlier given Israel to perform. The choice is then set down in the speech's most famous sentence: choose life.",
+   "question": "What makes the word being in your mouth and in your heart different from it being far away?"
+  },
+  {
+   "id": 2,
+   "start": 4,
+   "end": 8,
+   "title": "Joshua charged, the law read aloud, and a song commanded",
+   "passage": "Deuteronomy 31:1–22",
+   "anchor": "Deuteronomy 31:8",
+   "context": "Moses, at 120, hands leadership to Joshua in front of all Israel, arranges for the law to be read publicly every seven years so unborn children will hear it, and at God's command writes a song to serve as a witness when the people later turn away.",
+   "question": "Why preserve a people's story in a song, of all forms?"
+  },
+  {
+   "id": 3,
+   "start": 9,
+   "end": 14,
+   "title": "The Song of Moses",
+   "passage": "Deuteronomy 31:23–32:47",
+   "anchor": "Deuteronomy 32:39",
+   "context": "The song recites the whole relationship in poetry: the Rock, the eagle carrying its young, Jeshurun growing fat and forgetting, judgment restrained for the sake of God's name among the nations, and the final declaration that there is no God besides the LORD.",
+   "question": "Which image in the song, the Rock, the eagle, or another, carries the most weight for you?"
+  },
+  {
+   "id": 4,
+   "start": 15,
+   "end": 16,
+   "title": "The climb commanded, and the tribes blessed",
+   "passage": "Deuteronomy 32:48–33:29",
+   "anchor": "Deuteronomy 33:27",
+   "context": "God tells Moses he will die on Mount Nebo after viewing the land, with the Meribah reason restated. Before climbing, Moses blesses the tribes one by one, as Jacob had; Simeon's name is not spoken in the chapter.",
+   "question": "What do you notice about the blessing Moses gives Levi, his own tribe, compared with the others?"
+  },
+  {
+   "id": 5,
+   "start": 17,
+   "end": 20,
+   "title": "Nebo, the unknown grave, and the epitaph",
+   "passage": "Deuteronomy 34:1–12",
+   "anchor": "Deuteronomy 34:10",
+   "context": "Moses views the land from Pisgah, dies at 120 with his eyes undimmed, and is buried by God in a grave no one knows. After thirty days of mourning, the book closes by saying no prophet has since risen in Israel like Moses, whom the LORD knew face to face.",
+   "question": "Why end the story of Moses with a grave no one can find?"
+  }
+ ]
+}

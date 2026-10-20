@@ -20,7 +20,7 @@ Full built-in image-generation prompts are in `assets/psalm18/generation-prompts
 
 Future integration: consider strength/refuge for verses 1–3, fear/distress for verses 4–6, and gratitude for the song’s opening and final praise. Read all proposed cross-references before linking them. Characters may include David and Saul because the heading names them; a profile link must distinguish the rescued singer from the opponent and must not invent a setting.
 
-Main was reviewed at f67d665dd8572854b4a4a8c1a5bbfbd95e371218 (including Joe’s new story wiring). This checkpoint changes only the Psalm 18 draft and assets; reconcile the current main before live integration so concurrent story work is preserved.
+Main was reviewed and merged at f67d665dd8572854b4a4a8c1a5bbfbd95e371218 (including Joe’s new story wiring). PR merge CI exposed `index.html reference missing: deuteronomy.js` because the shared build list omitted that existing renderer. The minimal packaging repair adds it to the web copy list and asserts byte parity for its renderer and two data files; story manuscripts, scene data and renderers are unchanged from main. Reconcile any newer main before live integration.
 
 Checkpoint validation on October 20, 2026: the partial verifier, `git diff --check`, and `npm run check` passed. All eight new production WebPs decode at 1280 × 853 and were individually inspected; source/`www` copies match byte for byte. The existing app checks are not Psalm 18 completion evidence. No new phone-width or native-device test is claimed for these unpublished pages. Resume verses 43–50, then reconcile main and perform the whole-chapter completion gate.
 
