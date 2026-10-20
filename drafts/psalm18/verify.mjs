@@ -9,7 +9,8 @@ const source=JSON.parse(fs.readFileSync('drafts/psalm18/source.json','utf8'));
 const draft=JSON.parse(fs.readFileSync('drafts/psalm18/verses-1-10.json','utf8'));
 const next=JSON.parse(fs.readFileSync('drafts/psalm18/verses-11-15.json','utf8'));
 const rescue=JSON.parse(fs.readFileSync('drafts/psalm18/verses-16-20.json','utf8'));
-const verses=[...draft.verses,...next.verses,...rescue.verses];
+const conduct=JSON.parse(fs.readFileSync('drafts/psalm18/verses-21-27.json','utf8'));
+const verses=[...draft.verses,...next.verses,...rescue.verses,...conduct.verses];
 const prompts=JSON.parse(fs.readFileSync('assets/psalm18/generation-prompts.json','utf8'));
 assert.equal(source.chapter,18);assert.equal(source.verses.length,50);
 assert.deepEqual(source.verses,bible[18].chapters[17],'Snapshot must exactly match all fifty bundled BSB verses');
@@ -21,8 +22,11 @@ assert.equal(next.status,'unpublished partial editorial draft');
 assert.deepEqual(next.completedRange,[11,15]);assert.deepEqual(next.remainingRange,[16,50]);
 assert.equal(rescue.status,'unpublished partial editorial draft');
 assert.deepEqual(rescue.completedRange,[16,20]);assert.deepEqual(rescue.remainingRange,[21,50]);
-assert.equal(draft.verses.length,10);assert.equal(next.verses.length,5);assert.equal(rescue.verses.length,5);assert.equal(prompts.paintings.length,20);
-assert(prompts.status.includes('verses 1–20')&&prompts.status.includes('verses 21–50 unfinished'));
+assert.equal(conduct.status,'unpublished partial editorial draft');
+assert.deepEqual(conduct.completedRange,[21,27]);assert.deepEqual(conduct.remainingRange,[28,50]);
+assert.equal(draft.verses.length,10);assert.equal(next.verses.length,5);assert.equal(rescue.verses.length,5);assert.equal(conduct.verses.length,7);assert.equal(prompts.paintings.length,27);
+assert(prompts.status.includes('verses 1–27')&&prompts.status.includes('verses 28–50 unfinished'));
+assert(source.verses[24][1].endsWith(';')&&source.verses[25][1].startsWith('to the pure'),'Preserve the sentence across 25–26');
 assert.equal(prompts.styleReference,'assets/psalm23/verse-2-watercolor.webp');
 const hashSet=new Set(),originals=new Set();
 const checkRef=ref=>{const m=/^(.+?) (\d+):(\d+)$/.exec(ref);assert(m,ref);assert(bible.find(b=>b.name===m[1])?.chapters[+m[2]-1]?.some(([n])=>n===+m[3]),ref);};
@@ -38,17 +42,17 @@ for(const [i,row] of verses.entries()){
  assert(prompt.prompt.length>500&&prompt.generatedOriginal.endsWith('.png'));
  originals.add(prompt.generatedOriginal);
 }
-assert.equal(hashSet.size,20,'Twenty distinct production paintings');assert.equal(originals.size,20,'Twenty separate selected generations');
-for(const key of ['title','heading','meaning','context','reflect','alt'])assert.equal(new Set(verses.map(v=>v[key])).size,20,'Individual '+key);
+assert.equal(hashSet.size,27,'Twenty-seven distinct production paintings');assert.equal(originals.size,27,'Twenty-seven separate selected generations');
+for(const key of ['title','heading','meaning','context','reflect','alt'])assert.equal(new Set(verses.map(v=>v[key])).size,27,'Individual '+key);
 for(const row of verses){
  assert(row.explore.every(x=>Array.isArray(x)&&x.length===2&&x[0].length>2&&x[1].length>50));
  assert(row.related.length>=3&&new Set(row.related).size===row.related.length);
 }
 const ctx={window:{}};for(const file of ['data.js','content.js','exodus-people.js'])vm.runInNewContext(fs.readFileSync(file,'utf8'),ctx);
 for(const p of draft.peoplePlan){checkRef(p.ref);assert(ctx.window.PEOPLE.some(x=>x.id===p.id));}
-for(const group of [draft,rescue])for(const [id,refs] of Object.entries(group.topicPlan)){assert(ctx.window.BIBLE_DATA.topics.some(t=>t.id===id));refs.forEach(checkRef);}
+for(const group of [draft,rescue,conduct])for(const [id,refs] of Object.entries(group.topicPlan)){assert(ctx.window.BIBLE_DATA.topics.some(t=>t.id===id));refs.forEach(checkRef);}
 assert(!fs.existsSync('psalm18.js'),'Partial draft must not become a live registered module');
 assert(!fs.readFileSync('index.html','utf8').includes('psalm18.js'));
 assert(!fs.readFileSync('sw.js','utf8').includes('assets/psalm18/'));
 assert(!/^\|\s*18\s*\|/m.test(fs.readFileSync('PSALMS_ROLLOUT.md','utf8')),'Do not mark fifty-verse chapter complete');
-console.log('PASS — UNPUBLISHED Psalm 18 draft: exact 50-verse source snapshot; verses 1–20 individual notes, references and twenty inspected paintings. Verses 21–50 and full integration/mobile/Android completion remain pending.');
+console.log('PASS — UNPUBLISHED Psalm 18 draft: exact 50-verse source snapshot; verses 1–27 individual notes, references and twenty-seven inspected paintings. Verses 28–50 and full integration/mobile/Android completion remain pending.');

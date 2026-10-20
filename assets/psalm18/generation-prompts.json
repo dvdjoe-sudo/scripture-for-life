@@ -1,7 +1,7 @@
 {
   "tool": "built-in image_gen.imagegen",
   "styleReference": "assets/psalm23/verse-2-watercolor.webp",
-  "status": "unpublished partial draft; twenty individually generated and inspected paintings for verses 1–20; verses 21–50 unfinished",
+  "status": "unpublished partial draft; twenty-seven individually generated and inspected paintings for verses 1–27; verses 28–50 unfinished",
   "paintings": [
     {
       "verse": 1,
@@ -144,6 +144,55 @@
       "status": "generated and visually inspected",
       "generatedOriginal": "exec-ef9dc941-490c-4e64-bfa3-9cbb82dfdc52.png",
       "production": "assets/psalm18/verse-20-watercolor.webp"
+    },
+    {
+      "verse": 21,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places are symbolic, not a historical reconstruction or named portrait. Never portray God as a human, face, bodily form, giant figure, hand, or figure in clouds. No supernatural people, halos, letters, readable text, labels, panels, frame, watermark, modern objects, graphic harm or graphic violence. Natural human anatomy.\nScene: Psalm 18:21, keeping the ways of the LORD rather than departing. A solitary ordinary adult in simple ancient linen walks steadily along a clear stony hillside path lined by low olive trees. A rough turning branches away into shadow but the person continues the well-lit path, not running or posing heroically. Ground-level side view with a curving path and gentle late-morning light. Symbolic faithful direction, no supernatural guide or claimed named road.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-02b42888-6b5e-4c06-a96f-3d5c9872050f.png",
+      "production": "assets/psalm18/verse-21-watercolor.webp"
+    },
+    {
+      "verse": 22,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places are symbolic, not a historical reconstruction or named portrait. Never portray God as a human, face, bodily form, giant figure, hand, or figure in clouds. No supernatural people, halos, letters, readable text, labels, panels, frame, watermark, modern objects, graphic harm or graphic violence. Natural human anatomy.\nScene: Psalm 18:22, ordinances kept before the singer and statutes not disregarded. An ordinary ancient-robed adult sits thoughtfully at a low stone bench with a simple open unmarked parchment scroll on the lap, quietly attentive. Nearby olive leaves and warm courtyard stones. The scroll is a symbolic reminder of instruction, not a reconstruction of a specific manuscript or ceremony. Paper has no legible writing, no invented Hebrew letters. No tablets, royal regalia or priestly ritual. Three-quarter respectful medium view, thoughtful practice rather than performance.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-83b7d7f1-7ab7-4c6c-bbf3-3aa4f02fb5f0.png",
+      "production": "assets/psalm18/verse-22-watercolor.webp"
+    },
+    {
+      "verse": 23,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places are symbolic, not a historical reconstruction or named portrait. Never portray God as a human, face, bodily form, giant figure, hand, or figure in clouds. No supernatural people, halos, letters, readable text, labels, panels, frame, watermark, modern objects, graphic harm or graphic violence. Natural human anatomy.\nScene: Psalm 18:23, keeping oneself from iniquity. An anonymous ordinary traveler in a plain robe carefully steps back from a crumbling uneven edge of a rocky footpath, choosing secure ground beside an olive root. Side view of a small full human figure and finely observed stones, gentle evening light. Symbolic restraint and care, not a literal incident, not a claim that sin is simply an accident or that the person is flawless. No precipice disaster, no fall, no evil figure, no halo.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-81efff0e-5915-464c-9078-26830c4cff2f.png",
+      "production": "assets/psalm18/verse-23-watercolor.webp"
+    },
+    {
+      "verse": 24,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places are symbolic, not a historical reconstruction or named portrait. Never portray God as a human, face, bodily form, giant figure, hand, or figure in clouds. No supernatural people, halos, letters, readable text, labels, panels, frame, watermark, modern objects, graphic harm or graphic violence. Natural human anatomy.\nScene: Psalm 18:24, the cleanness of the singer's hands in God's sight. An ordinary adult at a low courtyard workbench puts simple tools and a woven basket in careful order, two natural human hands visible doing honest ordinary work. Unadorned linen clothing, pale stones, olive shade, calm afternoon light. Symbolic integrity in conduct, not financial payment or a ritual cleansing scene. No coins, scales, crown, reward, washbasin or scroll. No visible watcher or eyes in the sky. Distinct from a close-up of empty hands: a wider human action scene.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-ae241c16-7dc3-4eb2-9590-4586351830ef.png",
+      "production": "assets/psalm18/verse-24-watercolor.webp"
+    },
+    {
+      "verse": 25,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places are symbolic, not a historical reconstruction or named portrait. Never portray God as a human, face, bodily form, giant figure, hand, or figure in clouds. No supernatural people, halos, letters, readable text, labels, panels, frame, watermark, modern objects, graphic harm or graphic violence. Natural human anatomy.\nScene: Psalm 18:25, faithfulness and blamelessness. Two ordinary adults in simple ancient clothing meet beside an olive terrace; one returns a plain woven basket to the other with a respectful open posture. Both naturally proportioned, equal in dignity, warm trust rather than commercial success. Quiet eye-level composition, full figures amid sage foliage and a low stone wall. The trustworthy human action is an imagined symbol of faithfulness, not an event reported in the psalm and neither person represents God. No text, handshake closeup or money.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-62fc1167-22b9-45b2-b5e0-74bf4553ecf2.png",
+      "production": "assets/psalm18/verse-25-watercolor.webp"
+    },
+    {
+      "verse": 26,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places are symbolic, not a historical reconstruction or named portrait. Never portray God as a human, face, bodily form, giant figure, hand, or figure in clouds. No supernatural people, halos, letters, readable text, labels, panels, frame, watermark, modern objects, graphic harm or graphic violence. Natural human anatomy.\nScene: Psalm 18:26, purity contrasted with crookedness and God's shrewd response. A symbolic still life in an olive grove: clear water in a simple shallow clay bowl reflects a bright patch of sky; beside it an irregular sharply twisting fallen branch lies on rough stones. Delicate leaf shadows, natural muted sage and ivory, close view of textures, no human figure. The clear water and crooked branch are selected visual comparisons, not a ritual prescription, not a magical object and not a literal representation of God. No face or eyes in reflections, no coins or scales.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-dcea161b-4fbd-45a9-899a-f3d688739fd3.png",
+      "production": "assets/psalm18/verse-26-watercolor.webp"
+    },
+    {
+      "verse": 27,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places are symbolic, not a historical reconstruction or named portrait. Never portray God as a human, face, bodily form, giant figure, hand, or figure in clouds. No supernatural people, halos, letters, readable text, labels, panels, frame, watermark, modern objects, graphic harm or graphic violence. Natural human anatomy.\nScene: Psalm 18:27, an afflicted people saved and haughty eyes humbled. A small group of weary ordinary people in plain linen gather with dignity in a sheltered low olive valley at dawn; one adult helps an older neighbor sit on a broad flat stone, another stands nearby. Far above, an empty high stone terrace is softened by mist, symbolically contrasting lowliness with pride, no palace grandeur. Their need is not a moral failure. No named event, no crowds bowing to a ruler, no God figure, no humiliation spectacle, no injured people. Wide but personal calm compassionate composition.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-8f7553cc-b7a2-40b1-9537-c16becd82e03.png",
+      "production": "assets/psalm18/verse-27-watercolor.webp"
     }
   ]
 }
