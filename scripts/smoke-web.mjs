@@ -233,7 +233,7 @@ try {
     await visit('#/study/1/6','[data-verse-study="1"]');
     assert.equal(await page.locator('.study-bottom a[href="#/study/2/1"]').count(),1);
     const fullPsalms=JSON.parse(fs.readFileSync(path.join(root,'data/bible.json'),'utf8')).books[18].chapters;
-    for(const number of [2,3,4,5,6,7,8,9]){
+    for(const number of [2,3,4,5,6,7,8,9,10]){
       const verses=Object.fromEntries(fullPsalms[number-1]),images=[],meanings=[];
       for(let n=1;n<=Object.keys(verses).length;n++){
         await visit('#/study/'+number+'/'+n,'[data-verse-study="'+number+'"]');
@@ -278,7 +278,17 @@ try {
     await visit('#/study/8/9','[data-verse-study="8"]');
     await page.locator('.study-bottom a[href="#/study/9/1"]').click();await page.locator('[data-verse-study="9"]').waitFor();
     await visit('#/study/9/20','[data-verse-study="9"]');
-    await page.locator('.study-bottom a[href="#/psalms/10"]').click();await page.locator('[data-psalm-chapter="10"]').waitFor();
+    await page.locator('[data-psalm-switch]').selectOption('10');await page.locator('[data-verse-study="10"]').waitFor();
+    assert.ok(page.url().endsWith('#/study/10/3'),'Psalm 10 resumes independently');
+    await visit('#/study/9/20','[data-verse-study="9"]');
+    await page.locator('.study-bottom a[href="#/study/10/1"]').click();
+    await page.locator('[data-verse-study="10"][data-current-verse="1"]').waitFor();
+    await visit('#/study/10/18','[data-verse-study="10"]');
+    assert.equal(await page.locator('.study-bottom a[href="#/psalms/11"]').count(),1,'Psalm 10 continues to full Psalm 11');
+    await visit('#/help/alone','[data-topic-connections]');
+    await page.locator('[data-topic-connections] a[href="#/study/10/1"]').click();
+    await page.locator('[data-verse-study="10"]').waitFor();
+    assert.equal(await page.locator('[data-related-needs] a[href="#/help/alone"]').count(),1);
     await page.locator('[data-psalm-switch]').selectOption('9');await page.locator('[data-verse-study="9"]').waitFor();
     assert.ok(page.url().endsWith('#/study/9/20'),'Psalm 9 resumes independently');
     await page.locator('[data-psalm-switch]').selectOption('8');await page.locator('[data-verse-study="8"]').waitFor();

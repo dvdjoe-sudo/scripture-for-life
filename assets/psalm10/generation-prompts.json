@@ -1,0 +1,115 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "sharedPrompt": "Use case: illustration-story. Asset: one individual verse painting for the Scripture for Life Bible app. Generate ONE wide 3:2 watercolor, matching the attached Psalm 23:2 STYLE REFERENCE ONLY (do not repeat its sheep or stream). Refined adult devotional watercolor, delicately observed natural forms, translucent washes, ivory paper grain, muted sage and deep forest greens, earth tones, restrained gold, atmospheric distance; naturalistic not cartoon. Anonymous ancient Near Eastern people and symbolic invented places, no identified biblical event or portrait. Subjects within central 80%. No lettering, frames, labels, watermark, divine figure, halo, modern objects, gore or graphic harm. Scene: ",
+  "paintings": [
+    {
+      "verse": 1,
+      "scenePrompt": "A solitary robed person stands on a rocky overlook beneath a heavy clouded sky, looking across a mist-filled empty valley. Express the felt distance of help without depicting God.",
+      "generatedOriginal": "exec-a1dbd32c-cca6-4dab-8bc1-40bd82ffd598.png",
+      "production": "assets/psalm10/verse-1-watercolor.webp"
+    },
+    {
+      "verse": 2,
+      "scenePrompt": "An arrogant distant pursuer follows a poor traveler along a dusty path; an abandoned woven snare lies beside the pursuer's own route. No violence shown.",
+      "generatedOriginal": "exec-5f94fefd-2266-46b9-8465-ede477d65f06.png",
+      "production": "assets/psalm10/verse-2-watercolor.webp"
+    },
+    {
+      "verse": 3,
+      "scenePrompt": "A richly dressed ancient trader boasts beside piled goods and coins while a plainly dressed needy person stands overlooked at the edge of the courtyard.",
+      "generatedOriginal": "exec-8cb70023-f24d-4957-9e99-d3c8bba97404.png",
+      "production": "assets/psalm10/verse-3-watercolor.webp"
+    },
+    {
+      "verse": 4,
+      "scenePrompt": "A proud ancient man turns his back on a quiet open path toward the hills, absorbed in small planning stones on a low table.",
+      "generatedOriginal": "exec-22a25da5-4473-4013-a179-a1be245b1642.png",
+      "production": "assets/psalm10/verse-4-watercolor.webp"
+    },
+    {
+      "verse": 5,
+      "scenePrompt": "A prosperous ancient landowner stands securely on a high terrace, looking dismissively past distant travelers, with imposing mountains far beyond.",
+      "generatedOriginal": "exec-f9e7ba13-4e35-409c-b187-ec56f0ea9885.png",
+      "production": "assets/psalm10/verse-5-watercolor.webp"
+    },
+    {
+      "verse": 6,
+      "scenePrompt": "A wealthy robed man stands confidently at the entrance of his substantial stone house, while gathering clouds beyond suggest the limits of his confidence.",
+      "generatedOriginal": "exec-154023e8-de13-43c4-8f6c-95967913c3cb.png",
+      "production": "assets/psalm10/verse-6-watercolor.webp"
+    },
+    {
+      "verse": 7,
+      "scenePrompt": "Two distant robed figures exchange harsh words at an ancient village gate while a weary traveler withdraws. Express harmful speech through posture, no visible letters.",
+      "generatedOriginal": "exec-7195806e-3f42-4551-8036-95051ad6d1f9.png",
+      "production": "assets/psalm10/verse-7-watercolor.webp"
+    },
+    {
+      "verse": 8,
+      "scenePrompt": "A shadowed watcher is concealed beside a village path, with an innocent traveler small in the distance; restrained non-graphic image of vulnerability, no assault.",
+      "generatedOriginal": "exec-3162e946-4a1c-4413-a4d3-1b898aedb491.png",
+      "production": "assets/psalm10/verse-8-watercolor.webp"
+    },
+    {
+      "verse": 9,
+      "scenePrompt": "A lion half concealed in thick sage-green brush watches an empty path, with a loose abandoned woven net in the foreground. Symbolic predatory power, no prey or attack.",
+      "generatedOriginal": "exec-1fd0fe2a-8041-40e5-84dd-7dbd684b7e91.png",
+      "production": "assets/psalm10/verse-9-watercolor.webp"
+    },
+    {
+      "verse": 10,
+      "scenePrompt": "An exhausted poor traveler sits bowed beside a heavy fallen pack on a stony road, a towering stone wall behind. Vulnerability and unequal power, no wounds.",
+      "generatedOriginal": "exec-46783536-3569-4f5d-afb1-16855d0980cd.png",
+      "production": "assets/psalm10/verse-10-watercolor.webp"
+    },
+    {
+      "verse": 11,
+      "scenePrompt": "An arrogant robed man stands under deep shade, turning away from a distressed traveler in sunlight beyond. Symbolic indifference and presumed unseen wrongdoing.",
+      "generatedOriginal": "exec-385d7fd5-6085-4237-8df6-77386afa95de.png",
+      "production": "assets/psalm10/verse-11-watercolor.webp"
+    },
+    {
+      "verse": 12,
+      "scenePrompt": "A person in plain ancient clothing lifts open hands in urgent prayer on a hillside, with a vulnerable family nearby under an olive tree. No divine figure or hand.",
+      "generatedOriginal": "exec-35b2daa9-322d-48af-9d70-a59370db78d9.png",
+      "production": "assets/psalm10/verse-12-watercolor.webp"
+    },
+    {
+      "verse": 13,
+      "scenePrompt": "A powerful ancient official walks past a simple empty judgment seat and neglected balanced scales, with a poor petitioner waiting at a distance.",
+      "generatedOriginal": "exec-315ccf27-f5a8-49e6-a5a1-5a3ad10d3fae.png",
+      "production": "assets/psalm10/verse-13-watercolor.webp"
+    },
+    {
+      "verse": 14,
+      "scenePrompt": "A grieving adult and a fatherless child sit beside an olive tree as a trusted human neighbor kneels to listen at their level. Symbolic care, not a depiction of God.",
+      "generatedOriginal": "exec-afd4cac7-f20a-44f7-b11c-c3323652e714.png",
+      "production": "assets/psalm10/verse-14-watercolor.webp"
+    },
+    {
+      "verse": 15,
+      "scenePrompt": "A broken wooden staff of domination and loosened rope lie on the ground beside an empty stone judgment seat. Symbol of ending abusive power, no injured limbs or violence.",
+      "generatedOriginal": "exec-db1b908e-5bb0-4a0c-8ec8-b8eeb85e63cc.png",
+      "production": "assets/psalm10/verse-15-watercolor.webp"
+    },
+    {
+      "verse": 16,
+      "scenePrompt": "A broad ancient landscape with an empty stone royal seat on a ridge, small abandoned standards below, olive valleys and an immense enduring sky. No human image of God.",
+      "generatedOriginal": "exec-a80b2c98-eead-4d2d-9342-6e4f35f09cf7.png",
+      "production": "assets/psalm10/verse-16-watercolor.webp"
+    },
+    {
+      "verse": 17,
+      "scenePrompt": "A humble weary person sits beneath an olive tree, posture gradually upright, while a compassionate neighbor listens closely. Quiet inward courage and being heard.",
+      "generatedOriginal": "exec-1db7671b-ff67-42dc-9000-8930d3d0b445.png",
+      "production": "assets/psalm10/verse-17-watercolor.webp"
+    },
+    {
+      "verse": 18,
+      "scenePrompt": "A child and a poor adult stand safely inside a sunlit open village gate with caring neighbors; a fallen threatening staff lies outside at a distance. Dignity and an end to terror.",
+      "generatedOriginal": "exec-ca58990d-9371-4657-86de-39538c46c025.png",
+      "production": "assets/psalm10/verse-18-watercolor.webp"
+    }
+  ]
+}
