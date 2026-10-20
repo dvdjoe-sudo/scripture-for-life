@@ -1,6 +1,6 @@
 {
   "chapter": 21,
-  "status": "UNPUBLISHED editorial candidate; art and tests pending",
+  "status": "whole-chapter gate passed in CI 39507086883 and 39507083938; publication follows tested PR #41 merge and Pages deployment",
   "sourceReview": "Read all bundled BSB Psalm 20,21,22,2,16,110, 2 Samuel 7 and Romans 12 before drafting. Related references are literary or later interpretive connections, not an invented historical occasion.",
   "topicPlan": {
     "gratitude": [
