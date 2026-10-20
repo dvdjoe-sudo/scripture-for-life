@@ -14,11 +14,12 @@ Approved goal: extend the Psalm 1 / original Psalm 23 format across all 150 Psal
 | 6 | 10 | `#/study/6/1` |
 | 7 | 17 | `#/study/7/1` |
 | 8 | 9 | `#/study/8/1` |
+| 9 | 20 | `#/study/9/1` |
 | 23 | 6 | `#/study/23/1` |
 
 Psalm 46 has a six-section study covering all eleven verses; it still needs conversion to individual verse pages to meet the new goal. All other Psalms retain their full chapter pages and chapter introductions, rather than being labeled finished verse studies.
 
-Next sequential chapter: **Psalm 9**. Continue in order, keeping the completed Psalm 23 study and arranging Psalm 46's conversion when reached. No new approval is needed for each chapter within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique verse art, or imply that work continues in the background after a session ends.
+Next sequential chapter: **Psalm 10**. Continue in order, keeping the completed Psalm 23 study and arranging Psalm 46's conversion when reached. No new approval is needed for each chapter within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique verse art, or imply that work continues in the background after a session ends.
 
 ## Completion gate for each batch
 
@@ -31,3 +32,5 @@ Next sequential chapter: **Psalm 9**. Continue in order, keeping the completed P
 The renderer and collection use the registered studies, so future batches should not require lists of hard-coded psalm numbers. Keep offline asset packaging and mobile payload size under review as the illustrated collection grows.
 
 User reaffirmed authorization on October 19, 2026 to continue all Psalms. Continue sequential tested batches without requesting approval for each chapter. Report only chapters actually completed; the collection goal remains in progress.
+
+Everyday-needs integration: “What are you facing today?” uses shared topic connections for Psalm passages, Genesis/Exodus scenes, and character profiles. Verse studies and mapped story scenes link back to those needs. New batches should add fitting source references to the existing topic selections, preserve shared verse notes and saved passages, and verify the connections in both website and Android builds. Connections are thematic, not claims that a story supplies a psalm’s historical setting.

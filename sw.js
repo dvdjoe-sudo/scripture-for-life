@@ -1,6 +1,6 @@
 /* Scripture for Life offline support for the WEB build.
    Capacitor Android carries its web assets inside the application. */
-const VERSION = 'scripture-for-life-shell-v17-psalms-exodus';
+const VERSION = 'scripture-for-life-shell-v18-psalm9-connections';
 const CORE = [
   './', './index.html', './app.js', './styles.css', './genesis.js', './exodus.js', './exodus-people.js', './data/exodus-episodes.json', './data/exodus-scenes.json',
   './genesis.css', './psalm-walk.js', './psalm-walk.css', './psalm46.js', './data.js', './content.js', './icon.svg',
@@ -8,7 +8,27 @@ const CORE = [
   './assets/psalm23/verse-3-watercolor.webp', './assets/psalm23/verse-4-watercolor.webp',
   './assets/psalm23/verse-5-watercolor.webp', './assets/psalm23/verse-6-watercolor.webp',
   './psalm-verse-study.js', './psalm-verse-study.css', './psalm1.js', './psalms-2-3.js',
-  './psalm4.js', './psalm5.js', './psalm6.js', './psalms-7-8.js',
+  './psalm4.js', './psalm5.js', './psalm6.js', './psalms-7-8.js', './psalm9.js', './topic-connections.js',
+  './assets/psalm9/verse-1-watercolor.webp',
+  './assets/psalm9/verse-2-watercolor.webp',
+  './assets/psalm9/verse-3-watercolor.webp',
+  './assets/psalm9/verse-4-watercolor.webp',
+  './assets/psalm9/verse-5-watercolor.webp',
+  './assets/psalm9/verse-6-watercolor.webp',
+  './assets/psalm9/verse-7-watercolor.webp',
+  './assets/psalm9/verse-8-watercolor.webp',
+  './assets/psalm9/verse-9-watercolor.webp',
+  './assets/psalm9/verse-10-watercolor.webp',
+  './assets/psalm9/verse-11-watercolor.webp',
+  './assets/psalm9/verse-12-watercolor.webp',
+  './assets/psalm9/verse-13-watercolor.webp',
+  './assets/psalm9/verse-14-watercolor.webp',
+  './assets/psalm9/verse-15-watercolor.webp',
+  './assets/psalm9/verse-16-watercolor.webp',
+  './assets/psalm9/verse-17-watercolor.webp',
+  './assets/psalm9/verse-18-watercolor.webp',
+  './assets/psalm9/verse-19-watercolor.webp',
+  './assets/psalm9/verse-20-watercolor.webp',
   './assets/psalm7/verse-1-watercolor.webp',
   './assets/psalm7/verse-2-watercolor.webp',
   './assets/psalm7/verse-3-watercolor.webp',
