@@ -27,6 +27,8 @@ Psalm 46 has a six-section study covering all eleven verses; it still needs conv
 
 Next sequential chapter: **Psalm 16**. Continue in order, keeping the completed Psalm 23 study and arranging Psalm 46's conversion when reached. No new approval is needed for each chapter within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique verse art, or imply that work continues in the background after a session ends.
 
+In review: Psalm 16 on `feature/psalm-16-verse-study`, PR #28. All eleven individual watercolors and verse notes are present; resume this PR and its checks before starting Psalm 17. The chapter remains unpublished until the completion gate passes and the PR is merged.
+
 ## Completion gate for each batch
 
 - Read the exact source verses and any named cross-references before drafting explanations.

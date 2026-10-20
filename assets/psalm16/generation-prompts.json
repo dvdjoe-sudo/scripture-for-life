@@ -1,7 +1,7 @@
 {
   "tool": "built-in image_gen.imagegen",
   "styleReference": "assets/psalm23/verse-2-watercolor.webp",
-  "status": "unpublished partial draft",
+  "status": "all eleven paintings visually inspected; study integration pending",
   "paintings": [
     {
       "verse": 1,
@@ -32,6 +32,42 @@
       "prompt": "Psalm 16:5, the LORD as portion and cup. An unadorned earthenware drinking cup stands securely on a broad level limestone ledge above a fertile valley. Soft light catches clear water in the cup. A single olive sprig rests nearby. Close still life, expansive landscape, calm solidity. No luxury metal, no people, no lot-casting game, no magic.\nUse case: illustration-story. Asset: Scripture for Life verse-specific symbolic watercolor. Input image is only the approved Psalm 23:2 style reference; create a new composition. Match its luminous, finely detailed naturalistic watercolor, layered transparent washes, subtle paper grain, warm ivory light, sage and deep forest greens, ochre stone. Wide landscape 3:2 fully painted to edges. One standalone painting, no text or letters, no borders or watermark, no modern objects, no portrayal of God or divine human body. Symbolic art, no claim to depict a historical event.",
       "generatedOriginal": "exec-e18c30f0-4b4b-48a1-a8aa-dda5ca566131.png",
       "production": "assets/psalm16/verse-5-watercolor.webp"
+    },
+    {
+      "verse": 6,
+      "prompt": "Psalm 16:6, pleasant boundary lines and a delightful inheritance. An elevated view across a modest patchwork of cultivated terraces and olive trees, with a low dry-stone boundary and a simple measuring cord between two small wooden stakes in the near foreground. A welcoming fertile valley, gentle afternoon sun. Gratitude for a received place, no palace, no luxury estate, no people.\nUse case: illustration-story. Asset: Scripture for Life verse-specific symbolic watercolor. Input image is only the approved Psalm 23:2 style reference; create a new composition. Match its luminous, finely detailed naturalistic watercolor, layered transparent washes, subtle paper grain, warm ivory light, sage and deep forest greens, ochre stone. Wide landscape 3:2 fully painted to edges. One standalone painting, no text or letters, no borders or watermark, no modern objects, no portrayal of God or divine human body. Symbolic art, no claim to depict a historical event.",
+      "generatedOriginal": "exec-c0c05bbe-a9ed-44c7-acb7-79c746d0f3eb.png",
+      "production": "assets/psalm16/verse-6-watercolor.webp"
+    },
+    {
+      "verse": 7,
+      "prompt": "Psalm 16:7, counsel and inward instruction even at night. A solitary ordinary adult in a plain ancient linen robe sits quietly on a low stone threshold beside a small warm oil lamp. Open night sky and distant dark olive hills beyond, cool sage moonlight balanced with lamp glow. Thoughtful posture, hands resting naturally, no visible writing, no apparition or voice figure, no magical effects.\nUse case: illustration-story. Asset: Scripture for Life verse-specific symbolic watercolor. Input image is only the approved Psalm 23:2 style reference; create a new composition. Match its luminous, finely detailed naturalistic watercolor, layered transparent washes, subtle paper grain, warm ivory light, sage and deep forest greens, ochre stone. Wide landscape 3:2 fully painted to edges. One standalone painting, no text or letters, no borders or watermark, no modern objects, no portrayal of God or divine human body. Symbolic art, no claim to depict a historical event.",
+      "generatedOriginal": "exec-1fecbd30-001a-4ec1-89d0-55b2c20b4bc8.png",
+      "production": "assets/psalm16/verse-7-watercolor.webp"
+    },
+    {
+      "verse": 8,
+      "prompt": "Psalm 16:8, steadiness through attending to the LORD. An old olive tree with deep exposed roots grips a solid limestone ridge, its leaves gently moving in a breeze, while beyond it a narrow path leads into clear morning light. Strong stable trunk is the central focus, no person or divine figure. Quiet rooted confidence rather than a storm spectacle.\nUse case: illustration-story. Asset: Scripture for Life verse-specific symbolic watercolor. Input image is only the approved Psalm 23:2 style reference; create a new composition. Match its luminous, finely detailed naturalistic watercolor, layered transparent washes, subtle paper grain, warm ivory light, sage and deep forest greens, ochre stone. Wide landscape 3:2 fully painted to edges. One standalone painting, no text or letters, no borders or watermark, no modern objects, no portrayal of God or divine human body. Symbolic art, no claim to depict a historical event.",
+      "generatedOriginal": "exec-c10f6e23-e01e-4f0f-ac67-2e8cff7131d2.png",
+      "production": "assets/psalm16/verse-8-watercolor.webp"
+    },
+    {
+      "verse": 9,
+      "prompt": "Psalm 16:9, glad heart and a body dwelling securely. An ordinary adult in simple ancient linen reclines peacefully beneath a vine-covered stone shelter at dusk, with a relaxed face and hands resting naturally, a restful garden and gentle amber horizon beyond. The whole person at rest, no wounds, no death scene, no halo. Subtle joy and embodied peace.\nUse case: illustration-story. Asset: Scripture for Life verse-specific symbolic watercolor. Input image is only the approved Psalm 23:2 style reference; create a new composition. Match its luminous, finely detailed naturalistic watercolor, layered transparent washes, subtle paper grain, warm ivory light, sage and deep forest greens, ochre stone. Wide landscape 3:2 fully painted to edges. One standalone painting, no text or letters, no borders or watermark, no modern objects, no portrayal of God or divine human body. Symbolic art, no claim to depict a historical event.",
+      "generatedOriginal": "exec-7a392f2b-e996-4808-8e67-7e141626b429.png",
+      "production": "assets/psalm16/verse-9-watercolor.webp"
+    },
+    {
+      "verse": 10,
+      "prompt": "Psalm 16:10, hope of not being abandoned to death. An empty shadowed limestone hollow in a hillside opens toward a bright green valley at first light; a tender living shoot grows beside its threshold. Quiet symbolic contrast between deep shade and living hope. No human body, no skeleton, no ghost, no resurrection reenactment, no rolled circular tomb stone, no cross, no divine form. Keep this as the psalm's poetic image rather than a named historical event.\nUse case: illustration-story. Asset: Scripture for Life verse-specific symbolic watercolor. Input image is only the approved Psalm 23:2 style reference; create a new composition. Match its luminous, finely detailed naturalistic watercolor, layered transparent washes, subtle paper grain, warm ivory light, sage and deep forest greens, ochre stone. Wide landscape 3:2 fully painted to edges. One standalone painting, no text or letters, no borders or watermark, no modern objects, no portrayal of God or divine human body. Symbolic art, no claim to depict a historical event.",
+      "generatedOriginal": "exec-3fa88f9c-04c3-4df8-bef9-d23d45b01b6a.png",
+      "production": "assets/psalm16/verse-10-watercolor.webp"
+    },
+    {
+      "verse": 11,
+      "prompt": "Psalm 16:11, the path of life and joy in God's presence. A clear winding footpath through flowering meadow grasses and ancient olive trees rises toward a sunlit opening between distant hills. Fresh spring colors, delicate flowers, luminous warm horizon, a sense of welcome and lasting joy. No people, no gate of heaven, no throne, no divine face or body; symbolic landscape rather than a literal map of the afterlife.\nUse case: illustration-story. Asset: Scripture for Life verse-specific symbolic watercolor. Input image is only the approved Psalm 23:2 style reference; create a new composition. Match its luminous, finely detailed naturalistic watercolor, layered transparent washes, subtle paper grain, warm ivory light, sage and deep forest greens, ochre stone. Wide landscape 3:2 fully painted to edges. One standalone painting, no text or letters, no borders or watermark, no modern objects, no portrayal of God or divine human body. Symbolic art, no claim to depict a historical event.",
+      "generatedOriginal": "exec-32e44e31-6778-40a9-b7dc-3da208014653.png",
+      "production": "assets/psalm16/verse-11-watercolor.webp"
     }
   ]
 }

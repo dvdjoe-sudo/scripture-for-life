@@ -233,7 +233,7 @@ try {
     await visit('#/study/1/6','[data-verse-study="1"]');
     assert.equal(await page.locator('.study-bottom a[href="#/study/2/1"]').count(),1);
     const fullPsalms=JSON.parse(fs.readFileSync(path.join(root,'data/bible.json'),'utf8')).books[18].chapters;
-    for(const number of [2,3,4,5,6,7,8,9,10,11,12,13,14,15]){
+    for(const number of [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16]){
       const verses=Object.fromEntries(fullPsalms[number-1]),images=[],meanings=[];
       for(let n=1;n<=Object.keys(verses).length;n++){
         await visit('#/study/'+number+'/'+n,'[data-verse-study="'+number+'"]');
@@ -298,7 +298,20 @@ try {
       await page.locator('[data-verse-study="'+next+'"]').waitFor();
     }
     await visit('#/study/15/5','[data-verse-study="15"]');
-    assert.equal(await page.locator('.study-bottom a[href="#/psalms/16"]').count(),1);
+    await page.locator('.study-bottom a[href="#/study/16/1"]').click();
+    await page.locator('[data-verse-study="16"][data-current-verse="1"]').waitFor();
+    await visit('#/study/16/11','[data-verse-study="16"]');
+    assert.equal(await page.locator('.study-bottom a[href="#/psalms/17"]').count(),1);
+    await page.locator('[data-psalm-switch]').selectOption('15');
+    await page.locator('[data-verse-study="15"][data-current-verse="5"]').waitFor();
+    await page.locator('[data-psalm-switch]').selectOption('16');
+    await page.locator('[data-verse-study="16"][data-current-verse="11"]').waitFor();
+    await visit('#/help/direction','[data-topic-connections="direction"]');
+    await page.locator('[data-topic-connections] a[href="#/study/16/7"]').click();
+    await page.locator('[data-verse-study="16"][data-current-verse="7"]').waitFor();
+    await page.locator('[data-related-needs] a[href="#/help/direction"]').click();
+    await page.locator('[data-topic-connections="direction"]').waitFor();
+    await visit('#/study/15/5','[data-verse-study="15"]');
     await page.locator('[data-psalm-switch]').selectOption('13');
     await page.locator('[data-verse-study="13"][data-current-verse="6"]').waitFor();
     await page.locator('[data-psalm-switch]').selectOption('14');
