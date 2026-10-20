@@ -233,7 +233,7 @@ try {
     await visit('#/study/1/6','[data-verse-study="1"]');
     assert.equal(await page.locator('.study-bottom a[href="#/study/2/1"]').count(),1);
     const fullPsalms=JSON.parse(fs.readFileSync(path.join(root,'data/bible.json'),'utf8')).books[18].chapters;
-    for(const number of [2,3,4,5,6,7,8,9,10,11,12]){
+    for(const number of [2,3,4,5,6,7,8,9,10,11,12,13,14,15]){
       const verses=Object.fromEntries(fullPsalms[number-1]),images=[],meanings=[];
       for(let n=1;n<=Object.keys(verses).length;n++){
         await visit('#/study/'+number+'/'+n,'[data-verse-study="'+number+'"]');
@@ -290,7 +290,25 @@ try {
     await page.locator('.study-bottom a[href="#/study/12/1"]').click();
     await page.locator('[data-verse-study="12"]').waitFor();
     await visit('#/study/12/8','[data-verse-study="12"]');
-    assert.equal(await page.locator('.study-bottom a[href="#/psalms/13"]').count(),1);
+    await page.locator('.study-bottom a[href="#/study/13/1"]').click();
+    await page.locator('[data-verse-study="13"]').waitFor();
+    for(const [number,last,next] of [[13,6,14],[14,7,15]]){
+      await visit('#/study/'+number+'/'+last,'[data-verse-study="'+number+'"]');
+      await page.locator('.study-bottom a[href="#/study/'+next+'/1"]').click();
+      await page.locator('[data-verse-study="'+next+'"]').waitFor();
+    }
+    await visit('#/study/15/5','[data-verse-study="15"]');
+    assert.equal(await page.locator('.study-bottom a[href="#/psalms/16"]').count(),1);
+    await page.locator('[data-psalm-switch]').selectOption('13');
+    await page.locator('[data-verse-study="13"][data-current-verse="6"]').waitFor();
+    await page.locator('[data-psalm-switch]').selectOption('14');
+    await page.locator('[data-verse-study="14"][data-current-verse="7"]').waitFor();
+    await page.locator('[data-psalm-switch]').selectOption('15');
+    await page.locator('[data-verse-study="15"][data-current-verse="5"]').waitFor();
+    await visit('#/help/direction','[data-topic-connections]');
+    await page.locator('[data-topic-connections] a[href="#/study/15/2"]').click();
+    await page.locator('[data-verse-study="15"][data-current-verse="2"]').waitFor();
+    assert.equal(await page.locator('[data-related-needs] a[href="#/help/direction"]').count(),1);
     await page.locator('[data-psalm-switch]').selectOption('11');
     await page.locator('[data-verse-study="11"][data-current-verse="7"]').waitFor();
     await page.locator('[data-psalm-switch]').selectOption('12');
@@ -318,7 +336,7 @@ try {
     await visit('#/stories','.gen-episode-tile');
     await page.locator('a[href="#/exodus"]').first().click();
     await page.locator('[data-story-book="exodus"] .gen-episode-tile').first().waitFor();
-    assert.equal(await page.locator('.gen-episode-tile').count(),3,'Three Exodus episodes');
+    assert.equal(await page.locator('.gen-episode-tile').count(),8,'All eight Exodus episodes');
     const exodusEpisodes=JSON.parse(fs.readFileSync(path.join(root,'data/exodus-episodes.json'),'utf8'));
     const exodusScenes=JSON.parse(fs.readFileSync(path.join(root,'data/exodus-scenes.json'),'utf8'));
     for(const episode of exodusEpisodes){
@@ -342,10 +360,14 @@ try {
     assert.equal(await page.locator('.gen-episode-tile').first().getAttribute('href'),'#/exodus/1/2');
     await page.locator('.gen-episode-tile').first().click();await page.locator('#exo-narrative').waitFor();
     await page.locator('.gen-scripture a[href="#/read/2/1/17"]').click();await page.locator('#verse-17.selected').waitFor();
-    for(const [id,last,next] of [['1',10,'#/exodus/2/1'],['2',12,'#/exodus/3/1'],['3',11,'#/journey']]){
-      await visit('#/exodus/'+id+'/'+last,'.gen-next');assert.equal(await page.locator('.gen-next a[href="'+next+'"]').count(),1);
+    for(const [i,episode] of exodusEpisodes.entries()){
+      const id=String(episode.id),last=exodusScenes[id].length;
+      const next=i+1<exodusEpisodes.length?'#/exodus/'+exodusEpisodes[i+1].id+'/1':'#/journey';
+      await visit('#/exodus/'+id+'/'+last,'.gen-next');
+      assert.equal(await page.locator('.gen-next a[href="'+next+'"]').count(),1);
     }
-    assert.equal(await page.locator('a[href="#/read/2/16"]').count(),1,'Continue past the supplied manuscripts in the Bible');
+    await visit('#/exodus/3/'+exodusScenes['3'].length,'.gen-next');
+    assert.equal(await page.locator('a[href="#/read/2/16"]').count(),1,'Existing Episode 3 link to Exodus 16 remains available');
     for(const person of ['moses','aaron','miriam','zipporah','midwives']){
       await visit('#/people/'+person,'.story-step');assert.equal(await page.locator('.side-note a[href^="#/exodus/"]').count(),1);
     }

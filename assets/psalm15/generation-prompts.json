@@ -1,0 +1,36 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life. Create ONE wide 3:2 refined naturalistic watercolor matching the attached Psalm 23:2 STYLE REFERENCE ONLY, without repeating its sheep or stream. Warm ivory paper grain, delicate natural foliage and stone, translucent washes, atmospheric hills, muted sage and forest greens, earth tones, restrained gold. Adult devotional tone, anonymous ancient Near Eastern people and imagined symbolic places, not biblical portraits or historical reconstructions. Main subjects within central 80%. No lettering, labels, frames, watermark, halos, cartoon or geometric placeholders, gore or graphic harm. Never portray God as a human, bodily part, eyes, or face in clouds. Scene: A humble robed pilgrim pauses at respectful distance from an open ancient cloth tent on a quiet hillside with a holy-mountain landscape beyond. Symbolic welcome and the question of dwelling with God, no divine figure or temple reconstruction.",
+      "generatedOriginal": "exec-905477d9-7f7c-4f47-809d-813dfdbb3a5c.png",
+      "production": "assets/psalm15/verse-1-watercolor.webp"
+    },
+    {
+      "verse": 2,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life. Create ONE wide 3:2 refined naturalistic watercolor matching the attached Psalm 23:2 STYLE REFERENCE ONLY, without repeating its sheep or stream. Warm ivory paper grain, delicate natural foliage and stone, translucent washes, atmospheric hills, muted sage and forest greens, earth tones, restrained gold. Adult devotional tone, anonymous ancient Near Eastern people and imagined symbolic places, not biblical portraits or historical reconstructions. Main subjects within central 80%. No lettering, labels, frames, watermark, halos, cartoon or geometric placeholders, gore or graphic harm. Never portray God as a human, bodily part, eyes, or face in clouds. Scene: Two ordinary ancient neighbors speak honestly face to face on a straight sunlit path through olive trees, with relaxed hands and open posture. Symbolic integrity in action and truthful speech, no written text.",
+      "generatedOriginal": "exec-18022b18-dd06-44d8-be1c-b4806d98d413.png",
+      "production": "assets/psalm15/verse-2-watercolor.webp"
+    },
+    {
+      "verse": 3,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life. Create ONE wide 3:2 refined naturalistic watercolor matching the attached Psalm 23:2 STYLE REFERENCE ONLY, without repeating its sheep or stream. Warm ivory paper grain, delicate natural foliage and stone, translucent washes, atmospheric hills, muted sage and forest greens, earth tones, restrained gold. Adult devotional tone, anonymous ancient Near Eastern people and imagined symbolic places, not biblical portraits or historical reconstructions. Main subjects within central 80%. No lettering, labels, frames, watermark, halos, cartoon or geometric placeholders, gore or graphic harm. Never portray God as a human, bodily part, eyes, or face in clouds. Scene: An ancient neighbor gently interrupts a whispering group and turns instead to help a tired friend lift a basket beside a village path. Symbolic refusal of slander and neighborly harm, no caricature or text.",
+      "generatedOriginal": "exec-eddbd714-5db9-4e6a-8604-bd0f73597bce.png",
+      "production": "assets/psalm15/verse-3-watercolor.webp"
+    },
+    {
+      "verse": 4,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life. Create ONE wide 3:2 refined naturalistic watercolor matching the attached Psalm 23:2 STYLE REFERENCE ONLY, without repeating its sheep or stream. Warm ivory paper grain, delicate natural foliage and stone, translucent washes, atmospheric hills, muted sage and forest greens, earth tones, restrained gold. Adult devotional tone, anonymous ancient Near Eastern people and imagined symbolic places, not biblical portraits or historical reconstructions. Main subjects within central 80%. No lettering, labels, frames, watermark, halos, cartoon or geometric placeholders, gore or graphic harm. Never portray God as a human, bodily part, eyes, or face in clouds. Scene: A plainly robed ancient person carries a heavy promised parcel up a difficult rocky path toward a waiting neighbor, showing costly faithfulness despite effort. Symbolic keeping a commitment, no written oath or injured body.",
+      "generatedOriginal": "exec-3914c5bf-0b23-474c-89f8-9ab78d9e6b8e.png",
+      "production": "assets/psalm15/verse-4-watercolor.webp"
+    },
+    {
+      "verse": 5,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life. Create ONE wide 3:2 refined naturalistic watercolor matching the attached Psalm 23:2 STYLE REFERENCE ONLY, without repeating its sheep or stream. Warm ivory paper grain, delicate natural foliage and stone, translucent washes, atmospheric hills, muted sage and forest greens, earth tones, restrained gold. Adult devotional tone, anonymous ancient Near Eastern people and imagined symbolic places, not biblical portraits or historical reconstructions. Main subjects within central 80%. No lettering, labels, frames, watermark, halos, cartoon or geometric placeholders, gore or graphic harm. Never portray God as a human, bodily part, eyes, or face in clouds. Scene: In an ancient village courtyard, an honest lender returns a small coin pouch to a needy neighbor while an empty judgment seat and a rejected extra coin pouch nearby symbolize refusal of bribery. Dignified practical justice, no text, modern money or scales floating in air.",
+      "generatedOriginal": "exec-a29409e7-9447-462e-b54b-6801d11bc7ff.png",
+      "production": "assets/psalm15/verse-5-watercolor.webp"
+    }
+  ]
+}

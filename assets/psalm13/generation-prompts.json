@@ -1,0 +1,42 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life. Create ONE wide 3:2 refined naturalistic watercolor matching the attached Psalm 23:2 STYLE REFERENCE ONLY, without repeating its sheep or stream. Warm ivory paper grain, delicate natural foliage and stone, translucent washes, atmospheric hills, muted sage and forest greens, earth tones, restrained gold. Adult devotional tone, anonymous ancient Near Eastern people and imagined symbolic places, not biblical portraits or historical reconstructions. Main subjects within central 80%. No lettering, labels, frames, watermark, halos, cartoon or geometric placeholders, gore or graphic harm. Never portray God as a human, bodily part, eyes, or face in clouds. Scene: A solitary anonymous robed person kneels beside an olive tree in an evening valley beneath a clouded sky with distant fading light. Felt abandonment and an unanswered question, no visible God.",
+      "generatedOriginal": "exec-03dfdc0f-19b1-4d20-be96-8bff710c0e87.png",
+      "production": "assets/psalm13/verse-1-watercolor.webp"
+    },
+    {
+      "verse": 2,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life. Create ONE wide 3:2 refined naturalistic watercolor matching the attached Psalm 23:2 STYLE REFERENCE ONLY, without repeating its sheep or stream. Warm ivory paper grain, delicate natural foliage and stone, translucent washes, atmospheric hills, muted sage and forest greens, earth tones, restrained gold. Adult devotional tone, anonymous ancient Near Eastern people and imagined symbolic places, not biblical portraits or historical reconstructions. Main subjects within central 80%. No lettering, labels, frames, watermark, halos, cartoon or geometric placeholders, gore or graphic harm. Never portray God as a human, bodily part, eyes, or face in clouds. Scene: A weary ancient traveler sits on a low stone bench in a sparse courtyard at dawn, head in hands, with a distant intimidating figure beyond the gate. Daily inward sorrow and outward pressure, no bodily injury.",
+      "generatedOriginal": "exec-a888d699-9dfe-487c-a45a-21c2beba51cb.png",
+      "production": "assets/psalm13/verse-2-watercolor.webp"
+    },
+    {
+      "verse": 3,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life. Create ONE wide 3:2 refined naturalistic watercolor matching the attached Psalm 23:2 STYLE REFERENCE ONLY, without repeating its sheep or stream. Warm ivory paper grain, delicate natural foliage and stone, translucent washes, atmospheric hills, muted sage and forest greens, earth tones, restrained gold. Adult devotional tone, anonymous ancient Near Eastern people and imagined symbolic places, not biblical portraits or historical reconstructions. Main subjects within central 80%. No lettering, labels, frames, watermark, halos, cartoon or geometric placeholders, gore or graphic harm. Never portray God as a human, bodily part, eyes, or face in clouds. Scene: A tired person in simple ancient robes raises a face toward soft morning light entering a shaded olive grove; a small clay lamp rests on a nearby stone. Symbolic renewed vitality and a plea to live, not miraculous spectacle.",
+      "generatedOriginal": "exec-06949378-a6b2-44b0-b076-9727d88425df.png",
+      "production": "assets/psalm13/verse-3-watercolor.webp"
+    },
+    {
+      "verse": 4,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life. Create ONE wide 3:2 refined naturalistic watercolor matching the attached Psalm 23:2 STYLE REFERENCE ONLY, without repeating its sheep or stream. Warm ivory paper grain, delicate natural foliage and stone, translucent washes, atmospheric hills, muted sage and forest greens, earth tones, restrained gold. Adult devotional tone, anonymous ancient Near Eastern people and imagined symbolic places, not biblical portraits or historical reconstructions. Main subjects within central 80%. No lettering, labels, frames, watermark, halos, cartoon or geometric placeholders, gore or graphic harm. Never portray God as a human, bodily part, eyes, or face in clouds. Scene: A vulnerable traveler steadies themself beside a loose rocky path while distant arrogant opponents gesture triumphantly on a ridge. Imagined threat of falling and humiliation, no injury or attack, no victorious resolution.",
+      "generatedOriginal": "exec-4d040b2f-855a-42b9-ab90-d11149a660f2.png",
+      "production": "assets/psalm13/verse-4-watercolor.webp"
+    },
+    {
+      "verse": 5,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life. Create ONE wide 3:2 refined naturalistic watercolor matching the attached Psalm 23:2 STYLE REFERENCE ONLY, without repeating its sheep or stream. Warm ivory paper grain, delicate natural foliage and stone, translucent washes, atmospheric hills, muted sage and forest greens, earth tones, restrained gold. Adult devotional tone, anonymous ancient Near Eastern people and imagined symbolic places, not biblical portraits or historical reconstructions. Main subjects within central 80%. No lettering, labels, frames, watermark, halos, cartoon or geometric placeholders, gore or graphic harm. Never portray God as a human, bodily part, eyes, or face in clouds. Scene: A plainly robed person stands on a hillside path beneath an olive tree, one hand resting over the heart, facing a gentle opening of warm light amid lingering clouds. Symbolic trust and hoped-for rescue within difficulty.",
+      "generatedOriginal": "exec-9663675a-94a4-421b-9150-c6ccc2ac4713.png",
+      "production": "assets/psalm13/verse-5-watercolor.webp"
+    },
+    {
+      "verse": 6,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life. Create ONE wide 3:2 refined naturalistic watercolor matching the attached Psalm 23:2 STYLE REFERENCE ONLY, without repeating its sheep or stream. Warm ivory paper grain, delicate natural foliage and stone, translucent washes, atmospheric hills, muted sage and forest greens, earth tones, restrained gold. Adult devotional tone, anonymous ancient Near Eastern people and imagined symbolic places, not biblical portraits or historical reconstructions. Main subjects within central 80%. No lettering, labels, frames, watermark, halos, cartoon or geometric placeholders, gore or graphic harm. Never portray God as a human, bodily part, eyes, or face in clouds. Scene: An anonymous singer quietly plays a simple ancient lyre beneath an olive tree overlooking a valley in warm light. A measured song of gratitude, adult reverent tone, no crowd or invented biblical portrait.",
+      "generatedOriginal": "exec-f4bb7978-5352-4046-8229-8f8703e09880.png",
+      "production": "assets/psalm13/verse-6-watercolor.webp"
+    }
+  ]
+}
