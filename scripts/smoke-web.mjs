@@ -257,7 +257,8 @@ try {
       await page.reload();await page.locator('[data-verse-study="'+number+'"]').waitFor();
       await page.getByRole('tab',{name:'Reflect',exact:true}).click();
       assert.equal(await page.locator('#verse-study-panel textarea').inputValue(),'Reflection for Psalm '+number);
-       // The new chapter uses the same reflection store in study, dialog and Saved.
+    }
+    // The new chapter uses the same reflection store in study, dialog and Saved.
     await visit('#/study/20/3','[data-verse-study="20"]');
     await visit('#/saved','.saved-list');
     assert.match(await page.locator('.saved-list').innerText(),/Reflection for Psalm 20/);
@@ -270,7 +271,6 @@ try {
     await visit('#/study/20/3','[data-verse-study="20"]');
     await page.getByRole('tab',{name:'Reflect',exact:true}).click();
     assert.equal(await page.locator('#verse-study-panel textarea').inputValue(),'One shared Psalm 20 reflection.');
- }
     // The new chapter uses the same reflection store in study, dialog and Saved.
     await visit('#/study/19/3','[data-verse-study="19"]');
     await visit('#/saved','.saved-list');
