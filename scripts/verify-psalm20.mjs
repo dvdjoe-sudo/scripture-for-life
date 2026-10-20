@@ -4,7 +4,7 @@ import vm from 'node:vm';
 import crypto from 'node:crypto';
 const values=new Map([['scripture-for-life.notes','keep existing reflections'],['scripture-for-life.psalm19-place','8']]);
 const ctx={window:{SFL_PSALMS:{switcher:()=>'<nav></nav>'}},document:{addEventListener(){}},location:{hash:'#/study/20/1'},localStorage:{getItem:k=>values.get(k)||null,setItem:(k,v)=>values.set(k,v)}};
-for(const f of ['data.js','content.js','exodus-people.js','topic-connections.js','psalm-verse-study.js','psalm19.js','psalm20.js'])vm.runInNewContext(fs.readFileSync(f,'utf8'),ctx);
+for(const f of ['data.js','content.js','exodus-people.js','topic-connections.js','psalm-verse-study.js','psalm19.js','psalm20.js','psalm21.js'])vm.runInNewContext(fs.readFileSync(f,'utf8'),ctx);
 const engine=ctx.window.SFL_VERSE_STUDIES,study=engine.studies[20],bible=JSON.parse(fs.readFileSync('data/bible.json','utf8')).books;
 const source=bible[18].chapters[19],chapter=Object.fromEntries(source),draft=JSON.parse(fs.readFileSync('drafts/psalm20/editorial.json','utf8'));
 assert.deepEqual(JSON.parse(fs.readFileSync('drafts/psalm20/source.json','utf8')).verses,source);
@@ -34,7 +34,7 @@ for(let n=1;n<=9;n++){
  hashes.add(crypto.createHash('sha256').update(img).digest('hex'));
  const p=manifest.paintings.find(x=>x.verse===n);assert.equal(p.production,row.art);assert.equal(p.status,'generated and visually inspected');assert(p.prompt.length>500&&p.generatedOriginal.endsWith('.png'));originals.add(p.generatedOriginal);
  assert.equal(engine.link('Psalm 20:'+n),'#/study/20/'+n);
- assert(html.includes(n<9?'href="#/study/20/'+(n+1)+'"':'href="#/psalms/21"'));
+ assert(html.includes(n<9?'href="#/study/20/'+(n+1)+'"':'href="#/study/21/1"'));
 }
 assert.equal(hashes.size,9);assert.equal(originals.size,9);
 for(const [id,refs]of Object.entries(draft.topicPlan))for(const ref of refs){
