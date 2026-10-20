@@ -8,7 +8,7 @@ window.PEOPLE.push(...[
     "relatedTopic": "direction",
     "storyRoute": "#/exodus/1/1",
     "storyLabel": "Slavery and the Burning Bush",
-    "intro": "Follow Moses from the Nile and Midian to his calling, the confrontation with Pharaoh, and the sea crossing. These selected passages connect with the first three Exodus episodes; the full biblical account continues beyond them.",
+    "intro": "Follow Moses from the Nile and Midian to his calling, the confrontation with Pharaoh, and the sea crossing, and on to Mount Sinai. These selected passages connect with the Exodus episodes; his story continues through the Leviticus, Numbers, and Deuteronomy episodes in this app.",
     "reflection": "What responsibility do you need help to carry, and who could stand alongside you?",
     "steps": [
       [
@@ -30,6 +30,11 @@ window.PEOPLE.push(...[
         "At the sea",
         "The threatened people cry out, and the account moves from fear toward the crossing. Read the whole chapter, including its loss of life, alongside the rescue.",
         "Exodus 14:21"
+      ],
+      [
+        "The mountain and the calf",
+        "At Mount Sinai Moses receives the Law, pleads for Israel when it worships the golden calf, and offers himself in the people’s place. He will lead them for forty years and die within sight of the promised land.",
+        "Exodus 32:32"
       ]
     ]
   },
@@ -41,7 +46,7 @@ window.PEOPLE.push(...[
     "relatedTopic": "strength",
     "storyRoute": "#/exodus/1/8",
     "storyLabel": "Objections, Signs, and a Spokesman",
-    "intro": "Aaron joins Moses as a spokesman and participates in the signs before Israel and Pharaoh. This profile follows his role in Exodus 4–12, without treating it as the whole of his later story.",
+    "intro": "Aaron joins Moses as a spokesman and participates in the signs before Israel and Pharaoh. His story continues past Exodus: the golden calf, his consecration as Israel’s first high priest, and his death on Mount Hor in Numbers.",
     "reflection": "How could you use a strength you have to support someone whose task feels difficult?",
     "steps": [
       [
@@ -58,6 +63,11 @@ window.PEOPLE.push(...[
         "Instructions for Passover",
         "Moses and Aaron receive the instructions for Israel’s households. Read those commands in their own narrative and covenant setting.",
         "Exodus 12:1"
+      ],
+      [
+        "The calf, and the consecration",
+        "While Moses is on the mountain, Aaron gives the people the golden calf they demand. He is still consecrated as Israel’s first high priest, and serves at the altar until his death on Mount Hor.",
+        "Exodus 32:4"
       ]
     ]
   },
@@ -69,7 +79,7 @@ window.PEOPLE.push(...[
     "relatedTopic": "gratitude",
     "storyRoute": "#/exodus/3/10",
     "storyLabel": "A Song on the Far Shore",
-    "intro": "Exodus 15 names Miriam as a prophet and Aaron’s sister. She leads the women with timbrels and dancing after the crossing, giving the rescue a shared voice of remembrance.",
+    "intro": "Exodus 15 names Miriam as a prophet and Aaron’s sister. She leads the women with timbrels and dancing after the crossing, giving the rescue a shared voice of remembrance. She appears again in Numbers, in a hard chapter of complaint and intercession, and dies at Kadesh.",
     "reflection": "What would you like to remember with others through gratitude, music, or a shared story?",
     "steps": [
       [
@@ -81,6 +91,11 @@ window.PEOPLE.push(...[
         "A response in song",
         "Her refrain responds to the account of deliverance at the sea. Read it within that narrative rather than applying it to a present-day conflict.",
         "Exodus 15:21"
+      ],
+      [
+        "The complaint at Hazeroth",
+        "Miriam and Aaron speak against Moses, and Miriam is struck with a skin disease white as snow. Moses cries out for her healing, and all Israel waits seven days until she is restored.",
+        "Numbers 12:10"
       ]
     ]
   },
