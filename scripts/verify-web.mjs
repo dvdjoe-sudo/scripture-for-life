@@ -34,7 +34,7 @@ const required = [
 ];
 for (const item of required) localFile(www, item, 'Android web bundle');
 // Preserve the concurrently authored renderer and story data verbatim in packaging.
-for (const item of ['deuteronomy.js', 'data/deuteronomy-episodes.json', 'data/deuteronomy-scenes.json', 'joshua.js', 'data/joshua-episodes.json', 'data/joshua-scenes.json', 'judges.js', 'judges-people.js', 'data/judges-episodes.json', 'data/judges-scenes.json']) {
+for (const item of ['genesis.js', 'genesis-people.js', 'exodus.js', 'exodus-people.js', 'deuteronomy.js', 'data/deuteronomy-episodes.json', 'data/deuteronomy-scenes.json', 'joshua.js', 'joshua-people.js', 'data/joshua-episodes.json', 'data/joshua-scenes.json', 'judges.js', 'judges-people.js', 'data/judges-episodes.json', 'data/judges-scenes.json']) {
   assert(read(root, item) === read(www, item), 'Story asset differs in Android bundle: ' + item);
 }
 
