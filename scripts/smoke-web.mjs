@@ -336,7 +336,7 @@ try {
     await visit('#/stories','.gen-episode-tile');
     await page.locator('a[href="#/exodus"]').first().click();
     await page.locator('[data-story-book="exodus"] .gen-episode-tile').first().waitFor();
-    assert.equal(await page.locator('.gen-episode-tile').count(),3,'Three Exodus episodes');
+    assert.equal(await page.locator('.gen-episode-tile').count(),8,'All eight Exodus episodes');
     const exodusEpisodes=JSON.parse(fs.readFileSync(path.join(root,'data/exodus-episodes.json'),'utf8'));
     const exodusScenes=JSON.parse(fs.readFileSync(path.join(root,'data/exodus-scenes.json'),'utf8'));
     for(const episode of exodusEpisodes){
@@ -360,10 +360,14 @@ try {
     assert.equal(await page.locator('.gen-episode-tile').first().getAttribute('href'),'#/exodus/1/2');
     await page.locator('.gen-episode-tile').first().click();await page.locator('#exo-narrative').waitFor();
     await page.locator('.gen-scripture a[href="#/read/2/1/17"]').click();await page.locator('#verse-17.selected').waitFor();
-    for(const [id,last,next] of [['1',10,'#/exodus/2/1'],['2',12,'#/exodus/3/1'],['3',11,'#/journey']]){
-      await visit('#/exodus/'+id+'/'+last,'.gen-next');assert.equal(await page.locator('.gen-next a[href="'+next+'"]').count(),1);
+    for(const [i,episode] of exodusEpisodes.entries()){
+      const id=String(episode.id),last=exodusScenes[id].length;
+      const next=i+1<exodusEpisodes.length?'#/exodus/'+exodusEpisodes[i+1].id+'/1':'#/journey';
+      await visit('#/exodus/'+id+'/'+last,'.gen-next');
+      assert.equal(await page.locator('.gen-next a[href="'+next+'"]').count(),1);
     }
-    assert.equal(await page.locator('a[href="#/read/2/16"]').count(),1,'Continue past the supplied manuscripts in the Bible');
+    await visit('#/exodus/3/'+exodusScenes['3'].length,'.gen-next');
+    assert.equal(await page.locator('a[href="#/read/2/16"]').count(),1,'Existing Episode 3 link to Exodus 16 remains available');
     for(const person of ['moses','aaron','miriam','zipporah','midwives']){
       await visit('#/people/'+person,'.story-step');assert.equal(await page.locator('.side-note a[href^="#/exodus/"]').count(),1);
     }
