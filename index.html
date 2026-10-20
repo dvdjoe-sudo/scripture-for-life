@@ -40,6 +40,8 @@
   <script src="psalm-navigation.js" defer></script>
   <script src="psalms-book.js" defer></script>
   <script src="app.js" defer></script>
+  <script src="sandbox.js" defer></script>
+  <link rel="stylesheet" href="sandbox.css">
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
@@ -63,7 +65,7 @@
     // The Android app bundles local assets; this offline cache is for HTTPS websites.
     if ('serviceWorker' in navigator && location.protocol === 'https:' && location.hostname !== 'localhost') {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('./sw.js')
+        false&&navigator.serviceWorker.register('./sw.js')
           .catch(error => console.warn('Offline reading unavailable:', error));
       });
     }
