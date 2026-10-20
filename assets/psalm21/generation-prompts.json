@@ -1,0 +1,98 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "status": "whole-chapter gate passed in CI 39507086883 and 39507083938; publication follows tested PR #41 merge and Pages deployment",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Use case: illustration-story. Asset: one individual verse watercolor for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not sheep, subject or layout. Refined naturalistic adult devotional watercolor, translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth, restrained gold, atmospheric depth. Important subjects within central 80%. Symbolic response to Psalm21, not a historical reconstruction, named campaign, portrait of David, or depiction of God. No text, lettering, logos, borders, halos, supernatural hands, faces in sky, divine body, modern items, gore or cartoon style. Scene: An anonymous ancient ruler wearing a simple circlet stands in thankful prayer on a quiet olive hillside at dawn. Hands low and natural, face small, no battle or identified portrait.",
+      "production": "assets/psalm21/verse-1-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-d8f5390f-3b5c-469e-9e10-7cae8fc4e488.png"
+    },
+    {
+      "verse": 2,
+      "prompt": "Use case: illustration-story. Asset: one individual verse watercolor for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not sheep, subject or layout. Refined naturalistic adult devotional watercolor, translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth, restrained gold, atmospheric depth. Important subjects within central 80%. Symbolic response to Psalm21, not a historical reconstruction, named campaign, portrait of David, or depiction of God. No text, lettering, logos, borders, halos, supernatural hands, faces in sky, divine body, modern items, gore or cartoon style. Scene: A modest unmarked scroll lies beside an open clay prayer lamp on a stone windowsill, dawn illuminating the still life, quiet gratitude for a prayer heard. No writing.",
+      "production": "assets/psalm21/verse-2-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-c7355ffa-2bce-4b13-afe8-a0226276d180.png"
+    },
+    {
+      "verse": 3,
+      "prompt": "Use case: illustration-story. Asset: one individual verse watercolor for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not sheep, subject or layout. Refined naturalistic adult devotional watercolor, translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth, restrained gold, atmospheric depth. Important subjects within central 80%. Symbolic response to Psalm21, not a historical reconstruction, named campaign, portrait of David, or depiction of God. No text, lettering, logos, borders, halos, supernatural hands, faces in sky, divine body, modern items, gore or cartoon style. Scene: A simple gold crown rests on a folded sage cloth on a limestone ledge, olive bough nearby and spacious distant hills. No person placing it, no divine hand.",
+      "production": "assets/psalm21/verse-3-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-32562291-ab85-4611-bb22-586a2cbf8742.png"
+    },
+    {
+      "verse": 4,
+      "prompt": "Use case: illustration-story. Asset: one individual verse watercolor for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not sheep, subject or layout. Refined naturalistic adult devotional watercolor, translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth, restrained gold, atmospheric depth. Important subjects within central 80%. Symbolic response to Psalm21, not a historical reconstruction, named campaign, portrait of David, or depiction of God. No text, lettering, logos, borders, halos, supernatural hands, faces in sky, divine body, modern items, gore or cartoon style. Scene: An old olive tree with young shoots growing around its trunk beside a long winding hillside path, warm morning light, symbolic life and continuity rather than literal immortality.",
+      "production": "assets/psalm21/verse-4-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-883c656e-abd4-4d8b-bec8-d0cd9d8e4521.png"
+    },
+    {
+      "verse": 5,
+      "prompt": "Use case: illustration-story. Asset: one individual verse watercolor for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not sheep, subject or layout. Refined naturalistic adult devotional watercolor, translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth, restrained gold, atmospheric depth. Important subjects within central 80%. Symbolic response to Psalm21, not a historical reconstruction, named campaign, portrait of David, or depiction of God. No text, lettering, logos, borders, halos, supernatural hands, faces in sky, divine body, modern items, gore or cartoon style. Scene: An anonymous crowned ruler seen small from behind in a plain linen robe at an open stone court, gentle light across the robe, no ostentatious treasure.",
+      "production": "assets/psalm21/verse-5-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-4e39f893-b5d1-48fc-826e-686c03c37130.png"
+    },
+    {
+      "verse": 6,
+      "prompt": "Use case: illustration-story. Asset: one individual verse watercolor for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not sheep, subject or layout. Refined naturalistic adult devotional watercolor, translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth, restrained gold, atmospheric depth. Important subjects within central 80%. Symbolic response to Psalm21, not a historical reconstruction, named campaign, portrait of David, or depiction of God. No text, lettering, logos, borders, halos, supernatural hands, faces in sky, divine body, modern items, gore or cartoon style. Scene: Two anonymous adults, one with a modest circlet, stand peacefully in a sunlit olive garden, their relaxed posture expressing gladness. Ordinary sunlight, no visible divine presence.",
+      "production": "assets/psalm21/verse-6-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-1c774bf1-8830-4eb3-ba00-839ee6694381.png"
+    },
+    {
+      "verse": 7,
+      "prompt": "Use case: illustration-story. Asset: one individual verse watercolor for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not sheep, subject or layout. Refined naturalistic adult devotional watercolor, translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth, restrained gold, atmospheric depth. Important subjects within central 80%. Symbolic response to Psalm21, not a historical reconstruction, named campaign, portrait of David, or depiction of God. No text, lettering, logos, borders, halos, supernatural hands, faces in sky, divine body, modern items, gore or cartoon style. Scene: A deeply rooted olive tree stands firmly on a rocky ridge amid grasses stirred by wind, tranquil broad valley beyond, symbolic steadiness through faithful love.",
+      "production": "assets/psalm21/verse-7-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-c489129e-0291-49b5-b42b-85ee5a2a9294.png"
+    },
+    {
+      "verse": 8,
+      "prompt": "Use case: illustration-story. Asset: one individual verse watercolor for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not sheep, subject or layout. Refined naturalistic adult devotional watercolor, translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth, restrained gold, atmospheric depth. Important subjects within central 80%. Symbolic response to Psalm21, not a historical reconstruction, named campaign, portrait of David, or depiction of God. No text, lettering, logos, borders, halos, supernatural hands, faces in sky, divine body, modern items, gore or cartoon style. Scene: An empty narrow mountain pass opens between tall limestone cliffs, a closed plain wooden gate and discarded unmarked shield in foreground. Symbolic opposition brought to account, no people or divine hands.",
+      "production": "assets/psalm21/verse-8-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-56f61488-6a21-4429-a18c-e833d272cf18.png"
+    },
+    {
+      "verse": 9,
+      "prompt": "Use case: illustration-story. Asset: one individual verse watercolor for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not sheep, subject or layout. Refined naturalistic adult devotional watercolor, translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth, restrained gold, atmospheric depth. Important subjects within central 80%. Symbolic response to Psalm21, not a historical reconstruction, named campaign, portrait of David, or depiction of God. No text, lettering, logos, borders, halos, supernatural hands, faces in sky, divine body, modern items, gore or cartoon style. Scene: A distant enclosed low stone furnace glows with orange embers behind a closed grate in an otherwise quiet rocky landscape. No people, bodies, suffering or God figure, restrained symbolic judgment.",
+      "production": "assets/psalm21/verse-9-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-05372ac5-aafe-4b43-95e1-66484ed1e87c.png"
+    },
+    {
+      "verse": 10,
+      "prompt": "Use case: illustration-story. Asset: one individual verse watercolor for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not sheep, subject or layout. Refined naturalistic adult devotional watercolor, translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth, restrained gold, atmospheric depth. Important subjects within central 80%. Symbolic response to Psalm21, not a historical reconstruction, named campaign, portrait of David, or depiction of God. No text, lettering, logos, borders, halos, supernatural hands, faces in sky, divine body, modern items, gore or cartoon style. Scene: A bare uprooted thorn bush lies on dry stony ground with no shoots, olive hills distant. A sober symbolic response to the severe language about a hostile line ending; no children or human victims.",
+      "production": "assets/psalm21/verse-10-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-ae63caa7-e4c4-4202-8409-12f79e1f8106.png"
+    },
+    {
+      "verse": 11,
+      "prompt": "Use case: illustration-story. Asset: one individual verse watercolor for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not sheep, subject or layout. Refined naturalistic adult devotional watercolor, translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth, restrained gold, atmospheric depth. Important subjects within central 80%. Symbolic response to Psalm21, not a historical reconstruction, named campaign, portrait of David, or depiction of God. No text, lettering, logos, borders, halos, supernatural hands, faces in sky, divine body, modern items, gore or cartoon style. Scene: An unmarked knotted cord arranged as a tangled snare lies broken on a stone path; morning light and olive shadows. Symbolic failed plotting, no text, no scene attributed to a named person.",
+      "production": "assets/psalm21/verse-11-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-2144cf89-21e5-41e2-9362-9f0e721a324b.png"
+    },
+    {
+      "verse": 12,
+      "prompt": "Use case: illustration-story. Asset: one individual verse watercolor for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not sheep, subject or layout. Refined naturalistic adult devotional watercolor, translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth, restrained gold, atmospheric depth. Important subjects within central 80%. Symbolic response to Psalm21, not a historical reconstruction, named campaign, portrait of David, or depiction of God. No text, lettering, logos, borders, halos, supernatural hands, faces in sky, divine body, modern items, gore or cartoon style. Scene: An unused ancient wooden bow and small quiver rest on a limestone ledge overlooking an empty retreating mountain path. No archer, drawn string, targets, wounded people or divine body.",
+      "production": "assets/psalm21/verse-12-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-bda32519-0ae0-4d97-8ab0-6d15692b1320.png"
+    },
+    {
+      "verse": 13,
+      "prompt": "Use case: illustration-story. Asset: one individual verse watercolor for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not sheep, subject or layout. Refined naturalistic adult devotional watercolor, translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth, restrained gold, atmospheric depth. Important subjects within central 80%. Symbolic response to Psalm21, not a historical reconstruction, named campaign, portrait of David, or depiction of God. No text, lettering, logos, borders, halos, supernatural hands, faces in sky, divine body, modern items, gore or cartoon style. Scene: Three anonymous adults stand on a broad hill in quiet song, one holding a simple small lyre, warm evening sky and forest green olive valley, no divine figure or lettering.",
+      "production": "assets/psalm21/verse-13-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-9ab1528b-7a6a-42ff-a539-ece33104a097.png"
+    }
+  ]
+}
