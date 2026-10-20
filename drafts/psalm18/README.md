@@ -1,0 +1,13 @@
+# Psalm 18 — unpublished partial draft
+
+This fifty-verse chapter is not complete and must not be registered in the live app or added to the completed rollout table. Work in bounded groups and resume this branch before starting another chapter. Current group: verses 1–10. Remaining verses: 11–50, followed by chapter-wide review, integration and source/mobile/offline/Android checks.
+
+Sources read: all fifty bundled BSB verses of Psalm 18, 2 Samuel 22:1–20, Psalm 17 in full and Psalm 16:7–11. The Psalm 18 heading explicitly names David, deliverance from all his enemies, and Saul. Preserve the whole heading with verse 1; do not narrow it to an invented single battle. The close parallel in 2 Samuel 22 must be linked as a comparison, not copied over the Psalm text where the wording differs.
+
+Verses 4–5 use cords, torrents, Sheol and snares as danger imagery. Verses 7–15 use dramatic poetic language of divine intervention; explain it as poetry without inventing a dated earthquake or portraying God as a body. The art for verses 8–10 must not depict divine nostrils, mouth, feet or a human rider. The wind painting is a symbolic response, not a literal illustration of a cherub carrying a visible God.
+
+Full built-in image-generation prompts are in `assets/psalm18/generation-prompts.json`, using `assets/psalm23/verse-2-watercolor.webp` as the style reference. Production assets target 1280 × 853 WebP, quality 82. Each finished asset must have its own generation and visual inspection record. Partial notes live here as JSON and are not loaded by index.html.
+
+Future integration: consider strength/refuge for verses 1–3, fear/distress for verses 4–6, and gratitude for the song’s opening and final praise. Read all proposed cross-references before linking them. Characters may include David and Saul because the heading names them; a profile link must distinguish the rescued singer from the opponent and must not invent a setting.
+
+No website/mobile/Android completion is claimed for this partial draft. Before publication, verify every source verse, unique note and asset, related references, character/topic links, saved reflections, independent resume, transitions, offline asset cache, Android parity and phone-width browser behavior. Native APK/device testing remains separate.
