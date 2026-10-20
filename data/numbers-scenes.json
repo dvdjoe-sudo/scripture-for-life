@@ -1,0 +1,728 @@
+{
+ "1": [
+  {
+   "id": "1",
+   "start": 0,
+   "end": 2,
+   "title": "The count is commanded",
+   "passage": "Numbers 1:1–19",
+   "anchor": "Numbers 1:1",
+   "context": "God speaks from the Tent of Meeting in the second year after the exodus, and the census is organized by tribe, with a leader from each tribe assisting Moses and Aaron.",
+   "question": "What do you notice about a God who counts His people by name rather than all at once?"
+  },
+  {
+   "id": "2",
+   "start": 3,
+   "end": 5,
+   "title": "An army, not a crowd",
+   "passage": "Numbers 1:20–46",
+   "anchor": "Numbers 1:46",
+   "context": "The count covers men twenty years old and upward who can serve in the army. Judah is the largest tribe at 74,600; Manasseh is the smallest at 32,200.",
+   "question": "Why do you think the book opens with an army count instead of a family count?"
+  },
+  {
+   "id": "3",
+   "start": 6,
+   "end": 10,
+   "title": "The tribe left out",
+   "passage": "Numbers 1:47–54",
+   "anchor": "Numbers 1:53",
+   "context": "The Levites are kept out of the war census and given the tabernacle instead: taking it down, carrying it, setting it up, and camping as a ring around it.",
+   "question": "The Levites stand between the holy tent and the rest of the camp. What does that arrangement say about both sides of the line?"
+  },
+  {
+   "id": "4",
+   "start": 11,
+   "end": 13,
+   "title": "The camp laid out like a map",
+   "passage": "Numbers 2:1–34",
+   "anchor": "Numbers 2:17",
+   "context": "Three tribes camp on each side of the tabernacle under one standard, and the same order governs the march: the tent travels in the middle of the camp, never at its edge.",
+   "question": "What might it do to a people to live every day arranged around God's dwelling at the center?"
+  },
+  {
+   "id": "5",
+   "start": 14,
+   "end": 17,
+   "title": "The Levites counted differently",
+   "passage": "Numbers 3:1–39",
+   "anchor": "Numbers 3:39",
+   "context": "The Levites are counted from one month old rather than twenty years, and the count is 22,000. Each family takes a side of the tent and a class of its furnishings to guard and carry.",
+   "question": "Why count babies for this tribe and only fighting men for the others?"
+  },
+  {
+   "id": "6",
+   "start": 18,
+   "end": 22,
+   "title": "The exchange of the firstborn",
+   "passage": "Numbers 3:40–51",
+   "anchor": "Numbers 3:41",
+   "context": "God takes the Levites in place of every firstborn in Israel, dating back to the night He struck Egypt's firstborn and claimed Israel's for Himself. The 273 firstborn beyond the Levite count are redeemed at five shekels each.",
+   "question": "The exchange is worked out to the exact man and the exact shekel. What does that precision say about how God keeps accounts with His people?"
+  },
+  {
+   "id": "7",
+   "start": 23,
+   "end": 27,
+   "title": "Carrying what they must not touch",
+   "passage": "Numbers 4:1–33",
+   "anchor": "Numbers 4:15",
+   "context": "Aaron and his sons cover the holy objects before the Kohathites lift them; a Kohathite who touches the covered things, or looks at them uncovered, dies. Each man is assigned his load by name.",
+   "question": "The holiest work in the camp is also the most dangerous. How do you hold reverence and fear together without one canceling the other?"
+  },
+  {
+   "id": "8",
+   "start": 28,
+   "end": 33,
+   "title": "Eight thousand five hundred eighty",
+   "passage": "Numbers 4:34–49",
+   "anchor": "Numbers 4:48",
+   "context": "The working Levites, aged thirty to fifty, total 8,580 across the three families. Israel is at its most organized point in the whole story, and it has not yet marched a single mile.",
+   "question": "Everything is in its place and nothing has been tested. Where do you find that your own careful order meets its first real road?"
+  }
+ ],
+ "2": [
+  {
+   "id": "1",
+   "start": 0,
+   "end": 1,
+   "title": "Clean borders before the march",
+   "passage": "Numbers 5:1–4",
+   "anchor": "Numbers 5:3",
+   "context": "Before the camp can move, people with a skin disease, a discharge, or corpse defilement are put outside it, because God dwells in the middle of the camp.",
+   "question": "The first rule for the journey is about who can stay in the camp. What does that tell you about what the journey is for?"
+  },
+  {
+   "id": "2",
+   "start": 2,
+   "end": 5,
+   "title": "Confession, restitution, and a strange rite",
+   "passage": "Numbers 5:5–31",
+   "anchor": "Numbers 5:7",
+   "context": "Wrongdoing against a neighbor is treated as unfaithfulness against the LORD: confess it, repay in full, and add a fifth. The chapter's second half describes the water rite for a wife suspected by her husband; no story in the Bible shows it ever being used.",
+   "question": "Restitution here costs more than what was taken. Why add the fifth?"
+  },
+  {
+   "id": "3",
+   "start": 6,
+   "end": 7,
+   "title": "A vow for anyone, and words for Aaron",
+   "passage": "Numbers 6:1–23",
+   "anchor": "Numbers 6:23",
+   "context": "The Nazirite vow is open to any man or woman: no grape products, no haircut, no contact with the dead, for as long as the vow lasts. The chapter then turns from the volunteer to the priests and gives Aaron the words of blessing.",
+   "question": "Anyone in Israel could take the Nazirite vow, not just priests. What does an open door like that do for ordinary people?"
+  },
+  {
+   "id": "4",
+   "start": 8,
+   "end": 11,
+   "title": "The blessing that outlived the camp",
+   "passage": "Numbers 6:24–27",
+   "anchor": "Numbers 6:27",
+   "context": "The blessing in these verses is still spoken over congregations today, in nearly the same words. God frames it as putting His name on the people, with the blessing itself remaining His to give.",
+   "question": "Of the six things the blessing asks for, blessing, keeping, the shining face, grace, the lifted countenance, and peace, which one do you most need to hear as spoken over you?"
+  },
+  {
+   "id": "5",
+   "start": 12,
+   "end": 13,
+   "title": "One day told twelve times",
+   "passage": "Numbers 7:1–89",
+   "anchor": "Numbers 7:89",
+   "context": "Chapter 7 is the longest in Numbers: twelve tribal leaders, one per day, bring exactly the same offering. The wagons and oxen are shared out by need; the Kohathites get none, because their load goes on their shoulders. The chapter ends with the voice speaking from between the cherubim.",
+   "question": "The text repeats the identical gift twelve times instead of summarizing it once. Why might each tribe's day deserve its own telling?"
+  },
+  {
+   "id": "6",
+   "start": 14,
+   "end": 16,
+   "title": "The Levites given as a gift",
+   "passage": "Numbers 8:1–26",
+   "anchor": "Numbers 8:19",
+   "context": "The Levites are cleansed, shaved, and presented before the LORD like an offering themselves, then given to Aaron as helpers. Their service runs from twenty-five to fifty, with lighter guard duty after.",
+   "question": "The Levites are described as a gift God gives to the priests. How does being given, rather than hired, change the work?"
+  },
+  {
+   "id": "7",
+   "start": 17,
+   "end": 19,
+   "title": "The second Passover and the cloud",
+   "passage": "Numbers 9:1–23",
+   "anchor": "Numbers 9:23",
+   "context": "Men unclean from a corpse ask to keep Passover, and God builds a second date into the law a month later for them and for travelers. Above the tabernacle, the cloud settles and lifts, and Israel camps or marches entirely on its signal.",
+   "question": "The second Passover is God's own addition after someone asked. What does it say about Him that the rule had a door built into it?"
+  },
+  {
+   "id": "8",
+   "start": 20,
+   "end": 21,
+   "title": "Trumpets of hammered silver",
+   "passage": "Numbers 10:1–28",
+   "anchor": "Numbers 10:2",
+   "context": "Two silver trumpets gather the camp, sound the advance, and call the people to war and to feasts. On the twentieth day of the second month, the cloud lifts and the camp marches for the first time, tribe by tribe, in the order of chapter 2.",
+   "question": "Israel's movements are governed by a cloud by day and trumpet blasts for orders. How much of your own pace is set by signals you did not choose?"
+  },
+  {
+   "id": "9",
+   "start": 22,
+   "end": 24,
+   "title": "Hobab, come with us",
+   "passage": "Numbers 10:29–32",
+   "anchor": "Numbers 10:31",
+   "context": "Moses asks his father-in-law's son Hobab, a desert man, to travel with Israel as their eyes in the wilderness, promising to share whatever good God gives them. The text never records Hobab's final answer.",
+   "question": "Moses commands an army and still asks a local guide for help. Where are you tempted to skip asking for the help you plainly need?"
+  },
+  {
+   "id": "10",
+   "start": 25,
+   "end": 29,
+   "title": "Rise up, O LORD",
+   "passage": "Numbers 10:33–36",
+   "anchor": "Numbers 10:35",
+   "context": "The ark travels three days ahead of the camp looking for a resting place, and Moses marks every departure and every arrival with a cry: scatter at the setting out, return at the resting. The road is three days old when the next episode's trouble starts.",
+   "question": "Departures and arrivals both get their own prayer here. Which of the two do you tend to leave unprayed?"
+  }
+ ],
+ "3": [
+  {
+   "id": "1",
+   "start": 0,
+   "end": 2,
+   "title": "Fire at the edge of the camp",
+   "passage": "Numbers 11:1–3",
+   "anchor": "Numbers 11:1",
+   "context": "The first complaint comes three days into the march and the text never says what it was about. Fire falls at the camp's outskirts, Moses prays, and the place is named Taberah, burning.",
+   "question": "The complaint's content is not even recorded. What does that omission suggest about the complaint itself?"
+  },
+  {
+   "id": "2",
+   "start": 3,
+   "end": 5,
+   "title": "We remember the fish",
+   "passage": "Numbers 11:4–9",
+   "anchor": "Numbers 11:5",
+   "context": "The craving starts with the mixed crowd traveling with Israel and spreads. Egypt is remembered as a menu, freely eaten fish and garden food, while the manna God sends daily is described as tasting like oil cakes and found wanting.",
+   "question": "Memory edited out the slavery and kept the food. What does your own memory tend to edit when the present feels thin?"
+  },
+  {
+   "id": "3",
+   "start": 6,
+   "end": 11,
+   "title": "Moses breaks under the burden",
+   "passage": "Numbers 11:10–15",
+   "anchor": "Numbers 11:12",
+   "context": "Moses' prayer here is the most unguarded speech he makes in the wilderness: he asks where meat can come from for a nation, and asks God to kill him rather than leave him carrying the people alone. God answers the burden, not with rebuke, but with help and a promise.",
+   "question": "God does not scold the honesty of this prayer. What prayer of yours have you been softening before you say it?"
+  },
+  {
+   "id": "4",
+   "start": 12,
+   "end": 15,
+   "title": "Seventy elders, and a short arm?",
+   "passage": "Numbers 11:16–23",
+   "anchor": "Numbers 11:23",
+   "context": "God spreads the work: seventy elders will share Moses' burden. The meat promise is a month of it, until it disgusts them, and God's answer to Moses' doubt is a question about the length of His arm.",
+   "question": "God answers an unsustainable load by spreading it, not removing it. Who carries part of your load, and who have you not let?"
+  },
+  {
+   "id": "5",
+   "start": 16,
+   "end": 19,
+   "title": "The Spirit falls, even in the camp",
+   "passage": "Numbers 11:24–30",
+   "anchor": "Numbers 11:29",
+   "context": "The Spirit rests on the seventy, including Eldad and Medad, who stayed in the camp and prophesy there. Joshua urges Moses to stop them; Moses wishes every Israelite had the Spirit instead.",
+   "question": "Moses refuses to guard his position when the gift spreads past the official meeting. What would that kind of unthreatened leadership look like in your world?"
+  },
+  {
+   "id": "6",
+   "start": 20,
+   "end": 23,
+   "title": "Quail, and the graves of craving",
+   "passage": "Numbers 11:31–35",
+   "anchor": "Numbers 11:34",
+   "context": "Quail pile up a day's journey in every direction, and no one gathers less than ten homers. The plague strikes while the meat is still being eaten, and the place is named Kibroth-hattaavah, the graves of craving.",
+   "question": "The craving was granted in full before judgment fell. How is a granted craving different from a blessing?"
+  },
+  {
+   "id": "7",
+   "start": 24,
+   "end": 28,
+   "title": "Miriam and Aaron speak against Moses",
+   "passage": "Numbers 12:1–3",
+   "anchor": "Numbers 12:2",
+   "context": "The stated reason is Moses' Cushite wife; the spoken charge is about his unique role: does the LORD speak only through Moses? The narrator interrupts to call Moses the humblest man on earth, and God summons all three siblings Himself.",
+   "question": "The complaint about the marriage and the complaint about authority are the same conversation here. Why do challenges to a person so often dress as challenges to their place?"
+  },
+  {
+   "id": "8",
+   "start": 29,
+   "end": 32,
+   "title": "Face to face, not in riddles",
+   "passage": "Numbers 12:4–9",
+   "anchor": "Numbers 12:8",
+   "context": "God defends Moses directly: prophets get dreams and visions, but Moses gets plain speech and sees the form of the LORD. Then the cloud lifts and Miriam is white with leprosy.",
+   "question": "God's defense of Moses is about how He speaks to him, not about Moses' record. What stands out to you in that choice?"
+  },
+  {
+   "id": "9",
+   "start": 33,
+   "end": 36,
+   "title": "O God, please heal her",
+   "passage": "Numbers 12:10–16",
+   "anchor": "Numbers 12:13",
+   "context": "Aaron confesses and pleads; Moses answers with a five-word cry for the sister who attacked him an hour before in the story. Miriam spends seven days outside the camp, and the whole nation waits for her before marching.",
+   "question": "The camp cannot move until the punished person is restored. What does the waiting say about who counts as essential?"
+  }
+ ],
+ "4": [
+  {
+   "id": "1",
+   "start": 0,
+   "end": 3,
+   "title": "Twelve men sent to look",
+   "passage": "Numbers 13:1–20",
+   "anchor": "Numbers 13:2",
+   "context": "In Moses' telling in Deuteronomy, the mission is the people's idea; here God commands it. Twelve tribal leaders go, with a surveyor's questions: the people, the cities, the soil, the fruit. Moses renames Hoshea of Ephraim as Joshua before they leave.",
+   "question": "The spies are leaders, one from every tribe. Why does it matter that the report will come from the top and not the fringe?"
+  },
+  {
+   "id": "2",
+   "start": 4,
+   "end": 9,
+   "title": "Milk and honey, nevertheless",
+   "passage": "Numbers 13:21–29",
+   "anchor": "Numbers 13:27",
+   "context": "The cluster of grapes from Eshcol is so large it takes two men to carry it on a pole. The report confirms the land flows with milk and honey, then turns on one word: nevertheless, the people are strong and the cities are large and fortified.",
+   "question": "Both halves of the report are true. Which half gets the weight in your own reports of hard things ahead?"
+  },
+  {
+   "id": "3",
+   "start": 10,
+   "end": 15,
+   "title": "Grasshoppers in our own sight",
+   "passage": "Numbers 13:30–33",
+   "anchor": "Numbers 13:33",
+   "context": "Caleb urges immediate advance; the other spies answer with a bad report that grows as it spreads, ending with the Nephilim and the verdict that Israel seemed like grasshoppers in its own sight, and so, they assume, in the giants' sight too.",
+   "question": "The report's last step is imagining how they look through the enemy's eyes. When have you made a decision from inside someone else's imagined opinion of you?"
+  },
+  {
+   "id": "4",
+   "start": 16,
+   "end": 19,
+   "title": "Let us appoint a leader and go back",
+   "passage": "Numbers 14:1–4",
+   "anchor": "Numbers 14:4",
+   "context": "The congregation weeps all night, wishes it had died in Egypt or in the wilderness, and settles on a plan: pick a new leader and return to Egypt. Moses and Aaron fall facedown in front of everyone.",
+   "question": "Rebellion here is organized and reasonable sounding, with a plan and a vote. What makes going back so persuasive at the edge of a promise?"
+  },
+  {
+   "id": "5",
+   "start": 20,
+   "end": 23,
+   "title": "Do not be afraid of them",
+   "passage": "Numbers 14:5–10",
+   "anchor": "Numbers 14:9",
+   "context": "Joshua and Caleb tear their clothes, call the land exceedingly good, and argue that the people's protection has departed from them. The congregation answers by discussing stoning the two of them, and then the glory of the LORD appears.",
+   "question": "Two men stand against a national vote. What do Joshua and Caleb actually claim that the ten did not?"
+  },
+  {
+   "id": "6",
+   "start": 24,
+   "end": 27,
+   "title": "Slow to anger: Moses argues again",
+   "passage": "Numbers 14:11–23",
+   "anchor": "Numbers 14:18",
+   "context": "God offers to disown the nation and start over with Moses, as at the golden calf. Moses quotes God's own self-description back to Him, slow to anger and abounding in loving devotion, and adds what Egypt and the nations will say. God pardons.",
+   "question": "Moses' strongest argument is God's reputation among the nations. What does Moses understand about God that makes that argument work?"
+  },
+  {
+   "id": "7",
+   "start": 28,
+   "end": 32,
+   "title": "Pardoned, and sentenced",
+   "passage": "Numbers 14:23–39",
+   "anchor": "Numbers 14:29",
+   "context": "Pardon and sentence land in the same speech: forgiven, and still this generation will fall in the wilderness, a year for each of the forty days, while their children inherit what they refused. The ten spies die by plague; Caleb and Joshua alone remain.",
+   "question": "Forgiveness and consequence arrive together here. Where do you tend to assume one must cancel the other?"
+  },
+  {
+   "id": "8",
+   "start": 33,
+   "end": 35,
+   "title": "One day late",
+   "passage": "Numbers 14:40–45",
+   "anchor": "Numbers 14:45",
+   "context": "Mourning turns into a dawn advance: the people climb the hill country without the ark and without Moses, against warning, and are beaten back to Hormah. It is obedience attempted after the door has closed.",
+   "question": "Yesterday's command refused becomes today's plan attempted. What is the difference between repenting and just reversing yourself?"
+  },
+  {
+   "id": "9",
+   "start": 36,
+   "end": 39,
+   "title": "Laws for the land, and the wood gatherer",
+   "passage": "Numbers 15:1–36",
+   "anchor": "Numbers 15:35",
+   "context": "Chapter 15 gives offering laws for the land these people will never enter, as if the future were still certain. Its one story is a man gathering wood on the Sabbath; held in custody until God's will is clear, he is stoned outside the camp.",
+   "question": "God legislates for a future the hearers will not live to see. Who benefits from faithfulness whose fruit lands in someone else's lifetime?"
+  },
+  {
+   "id": "10",
+   "start": 40,
+   "end": 44,
+   "title": "Tassels to remember by",
+   "passage": "Numbers 15:37–41",
+   "anchor": "Numbers 15:40",
+   "context": "The chapter closes with tassels on the corners of garments, with a blue cord, made to be looked at so Israel remembers the commands and stops following its own heart and eyes, the very failure of the spies.",
+   "question": "The reminder is worn, not shelved. What small physical reminder actually works in your life, and what have you let become invisible?"
+  }
+ ],
+ "5": [
+  {
+   "id": "1",
+   "start": 0,
+   "end": 4,
+   "title": "Everyone is holy: Korah's charge",
+   "passage": "Numbers 16:1–3",
+   "anchor": "Numbers 16:3",
+   "context": "Korah is a Kohathite, from the family trusted with the holiest carrying. With Dathan, Abiram, and On from Reuben, and 250 recognized leaders, he charges Moses and Aaron with taking too much on themselves, since the whole congregation is holy.",
+   "question": "Korah's charge is built on a true sentence. How do you test a true sentence being used as a weapon?"
+  },
+  {
+   "id": "2",
+   "start": 5,
+   "end": 8,
+   "title": "The censer test, and a refusal",
+   "passage": "Numbers 16:4–17",
+   "anchor": "Numbers 16:11",
+   "context": "Moses falls facedown, then sets the test for morning: censers and incense before the LORD. Dathan and Abiram refuse to come at all and call Egypt, the place of slavery, a land flowing with milk and honey.",
+   "question": "The rebels borrow the promise's language for Egypt. What does that tell you about how far the argument has already gone?"
+  },
+  {
+   "id": "3",
+   "start": 9,
+   "end": 13,
+   "title": "The earth opens its mouth",
+   "passage": "Numbers 16:18–35",
+   "anchor": "Numbers 16:30",
+   "context": "Moses states the test plainly: if the ground opens and swallows these households, the LORD sent him; if they die ordinary deaths, He did not. The earth splits, the households go down alive, and fire takes the 250 censer-bearers. On son of Peleth is never mentioned again.",
+   "question": "Moses stakes everything on a public, checkable sign. When is that courage, and when is it something else?"
+  },
+  {
+   "id": "4",
+   "start": 14,
+   "end": 15,
+   "title": "Censers hammered onto the altar",
+   "passage": "Numbers 16:36–40",
+   "anchor": "Numbers 16:38",
+   "context": "The bronze censers of the dead men are gathered, hammered flat, and plated onto the altar as a permanent sign: no unauthorized person is to offer incense. The tools of the rebellion become part of the altar itself.",
+   "question": "The warning is made out of the failure's own remains. What in your life has been turned into a sign like that?"
+  },
+  {
+   "id": "5",
+   "start": 16,
+   "end": 20,
+   "title": "Between the living and the dead",
+   "passage": "Numbers 16:41–50",
+   "anchor": "Numbers 16:48",
+   "context": "The next day the congregation accuses Moses and Aaron of killing the LORD's people, and a plague outruns the argument. Aaron runs into the middle of it with a censer, and the text draws the line where he stands: between the living and the dead, 14,700 dead behind the line.",
+   "question": "Aaron runs toward the plague with incense, not away from it. What does intercession cost the one who stands in the middle?"
+  },
+  {
+   "id": "6",
+   "start": 21,
+   "end": 23,
+   "title": "The staff that blossomed",
+   "passage": "Numbers 17:1–13",
+   "anchor": "Numbers 17:8",
+   "context": "Twelve staffs spend the night in the tent, one per tribe, and Aaron's comes out sprouted, budded, blossomed, and holding ripe almonds all at once. It is kept in front of the testimony as a sign against grumbling.",
+   "question": "After earthquake and plague, the deciding sign is a flowering stick in a quiet room. What do you make of God ending the argument that way?"
+  },
+  {
+   "id": "7",
+   "start": 24,
+   "end": 28,
+   "title": "Portion, tithe, and the red heifer",
+   "passage": "Numbers 18–19",
+   "anchor": "Numbers 18:20",
+   "context": "The last two chapters are structure: the priests' share is the LORD Himself, the Levites live on the tithe and tithe from it, and the red heifer's ashes make water for cleansing a camp that will spend decades burying people.",
+   "question": "A whole tribe's pay is described as a Person rather than land. How does that arrangement preach to the other tribes every payday?"
+  }
+ ],
+ "6": [
+  {
+   "id": "1",
+   "start": 0,
+   "end": 3,
+   "title": "Thirty-eight missing years",
+   "passage": "Numbers 20:1",
+   "anchor": "Numbers 20:1",
+   "context": "Between chapters 19 and 20 the book goes nearly silent for about thirty-eight years; the sentence is being served off the page. Then Miriam dies at Kadesh and is buried there, in a single verse.",
+   "question": "The text spends one verse on Miriam's death after all she carried. What do you do with a story that refuses to pause where you would?"
+  },
+  {
+   "id": "2",
+   "start": 4,
+   "end": 7,
+   "title": "The old complaint at Kadesh",
+   "passage": "Numbers 20:2–5",
+   "anchor": "Numbers 20:5",
+   "context": "The new generation opens with its parents' exact complaint: no water, and a land without grain, figs, vines, or pomegranates. Those missing fruits are the very produce the spies carried back from the land itself a generation earlier.",
+   "question": "The children repeat a complaint they never heard spoken. Where do you hear an inherited grievance in your own reactions?"
+  },
+  {
+   "id": "3",
+   "start": 8,
+   "end": 13,
+   "title": "Speak to the rock: Moses strikes",
+   "passage": "Numbers 20:6–13",
+   "anchor": "Numbers 20:12",
+   "context": "God tells Moses to speak to the rock; Moses calls the people rebels and strikes it twice. Water flows in abundance, the people drink, and the sentence falls on Moses and Aaron: neither will bring this assembly into the land.",
+   "question": "The miracle still works and the leader still falls. How can the gift succeed while the man is judged in the same moment?"
+  },
+  {
+   "id": "4",
+   "start": 14,
+   "end": 15,
+   "title": "Edom says no",
+   "passage": "Numbers 20:14–21",
+   "anchor": "Numbers 20:18",
+   "context": "Moses appeals to Edom as a brother, recounting Egypt and the rescue, and asks for the king's highway only. Edom refuses twice and backs it with an army, and Israel turns away rather than fight its brother nation.",
+   "question": "Israel, fresh from God's backing, accepts a closed road from a brother. When is turning away the faithful move rather than the weak one?"
+  },
+  {
+   "id": "5",
+   "start": 16,
+   "end": 19,
+   "title": "Aaron's garments pass to Eleazar",
+   "passage": "Numbers 20:22–29",
+   "anchor": "Numbers 20:28",
+   "context": "On Mount Hor, in sight of the whole congregation, Moses strips Aaron's priestly garments and puts them on Eleazar. Aaron dies on the mountaintop at 123, and Israel mourns him thirty days, as it had not for Miriam.",
+   "question": "The office transfers before the man dies, in public, in order. What does an orderly handover give the people that a sudden death would not?"
+  },
+  {
+   "id": "6",
+   "start": 20,
+   "end": 22,
+   "title": "Victory at Hormah, patience breaks",
+   "passage": "Numbers 21:1–6",
+   "anchor": "Numbers 21:5",
+   "context": "Israel vows and wins its first victory over a king, at Hormah, the same name as the old defeat. Then the long way around Edom breaks the people's patience, and they speak against God and Moses, calling the manna worthless.",
+   "question": "A win is followed immediately by the worst complaint yet. What does success do to patience in your experience?"
+  },
+  {
+   "id": "7",
+   "start": 23,
+   "end": 26,
+   "title": "The bronze serpent lifted up",
+   "passage": "Numbers 21:7–9",
+   "anchor": "Numbers 21:8",
+   "context": "Venomous snakes bite the camp, the people confess, and God's remedy is a bronze copy of the very thing killing them, raised on a pole: look at it and live. Centuries later a king of Judah will smash that same serpent because people are burning incense to it.",
+   "question": "The cure looks exactly like the curse. What does it cost the bitten to look up at that, and what does the looking itself say?"
+  },
+  {
+   "id": "8",
+   "start": 27,
+   "end": 31,
+   "title": "Sihon refuses, and loses his land",
+   "passage": "Numbers 21:21–31",
+   "anchor": "Numbers 21:24",
+   "context": "Sihon of Heshbon refuses passage, as Edom did, but unlike Edom he marches out and attacks. Israel wins his whole territory from the Arnon to the Jabbok and settles his cities, the first land Israel holds.",
+   "question": "Edom refuses and is bypassed; Sihon refuses and attacks, and loses everything. Where is the line between the two answers in Israel's conduct?"
+  },
+  {
+   "id": "9",
+   "start": 32,
+   "end": 36,
+   "title": "Og of Bashan, and the plains of Moab",
+   "passage": "Numbers 21:33–22:1",
+   "anchor": "Numbers 21:35",
+   "context": "Og, the last of the giants in the old reports, comes out at Edrei and is struck down with no remnant left. Israel camps on the plains of Moab across from Jericho: the spies' feared giants are behind them now, and the Jordan is in front.",
+   "question": "The generation that feared giants buries its parents and defeats one. What changed, the people or the seeing?"
+  }
+ ],
+ "7": [
+  {
+   "id": "1",
+   "start": 0,
+   "end": 2,
+   "title": "Balak sends for a seer",
+   "passage": "Numbers 22:1–6",
+   "anchor": "Numbers 22:5",
+   "context": "Balak king of Moab watched Israel dismantle two kingdoms and reaches for a different weapon: a professional curser from Pethor on the Euphrates, whose blessings and curses were believed to land.",
+   "question": "Balak cannot beat Israel in the field, so he shops for a spiritual weapon. What do you reach for when the direct fight looks unwinnable?"
+  },
+  {
+   "id": "2",
+   "start": 3,
+   "end": 7,
+   "title": "Blessed, not to be cursed",
+   "passage": "Numbers 22:7–20",
+   "anchor": "Numbers 22:18",
+   "context": "God's first answer is flat: do not go, this people is blessed. A grander delegation with richer promises gets Balaam's famous sentence about a house full of silver and gold, and then an invitation to ask God again anyway.",
+   "question": "Balaam's first refusal is perfect and his second question undoes it. Where do you re-ask a question you already have God's answer to?"
+  },
+  {
+   "id": "3",
+   "start": 8,
+   "end": 14,
+   "title": "The donkey sees the angel",
+   "passage": "Numbers 22:21–35",
+   "anchor": "Numbers 22:28",
+   "context": "Three times the donkey sees the angel with a drawn sword and turns aside, once crushing Balaam's foot against a wall, and is beaten each time. Given speech, she argues her record: a lifetime of faithful service. Balaam's eyes open, he confesses, and he goes on under a leash: speak only what I tell you.",
+   "question": "The professional seer is blind and the donkey sees clearly. What has God used as an unlikely warning in your life that you nearly beat into silence?"
+  },
+  {
+   "id": "4",
+   "start": 15,
+   "end": 18,
+   "title": "First mountain: a blessing instead",
+   "passage": "Numbers 22:36–23:12",
+   "anchor": "Numbers 23:10",
+   "context": "Seven altars, seven bulls, seven rams, and a viewpoint over only the outskirts of the camp: the bought curse comes out as a blessing that ends with Balaam wishing his own death could be like Israel's death.",
+   "question": "The curse merchant ends up envying the people he was paid to curse. What does Balak actually purchase with all his silver?"
+  },
+  {
+   "id": "5",
+   "start": 19,
+   "end": 21,
+   "title": "God is not a man",
+   "passage": "Numbers 23:13–26",
+   "anchor": "Numbers 23:19",
+   "context": "From Pisgah, with a wider view and the same altars, the second oracle declares that God does not lie or change His mind, that the blessing commanded cannot be reversed, and that the shout of a King is among this people.",
+   "question": "This oracle is spoken to Israel's enemy about Israel. What does it do to hear God's defense of His people delivered on a foreign mountain?"
+  },
+  {
+   "id": "6",
+   "start": 22,
+   "end": 25,
+   "title": "How lovely are your tents",
+   "passage": "Numbers 23:27–24:9",
+   "anchor": "Numbers 24:5",
+   "context": "At Peor, Balaam stops consulting omens and the Spirit comes on him directly. The blessing becomes poetry: tents, gardens, water, a kingdom exalted, and Israel crouched like a lion no one dares rouse.",
+   "question": "The widest blessing comes when Balaam stops working his technique. Where might your own practiced methods be standing in the way of seeing plainly?"
+  },
+  {
+   "id": "7",
+   "start": 26,
+   "end": 28,
+   "title": "A star will come forth",
+   "passage": "Numbers 24:10–25",
+   "anchor": "Numbers 24:17",
+   "context": "Balak dismisses Balaam unpaid, and Balaam's final oracle, unasked and unbought, looks past the whole scene: a star from Jacob and a scepter from Israel, in a day he sees but calls not near. Then both men simply go home.",
+   "question": "The most far-reaching words in the book come free, after the contract collapses. What does that ordering suggest about how God gives His best words?"
+  },
+  {
+   "id": "8",
+   "start": 29,
+   "end": 33,
+   "title": "Shittim: the fall from inside",
+   "passage": "Numbers 25:1–9",
+   "anchor": "Numbers 25:3",
+   "context": "No curse could touch the camp from the mountains, so the wound comes at ground level: Moabite women, shared sacrifices, Baal of Peor. While the congregation weeps at the tent, Zimri brings Cozbi into the camp in open view, and Phinehas follows them with a spear.",
+   "question": "Mountains of hired curses failed and a festival invitation succeeded. Which kind of threat are you actually watching for?"
+  },
+  {
+   "id": "9",
+   "start": 34,
+   "end": 39,
+   "title": "A covenant of peace for Phinehas",
+   "passage": "Numbers 25:10–18",
+   "anchor": "Numbers 25:12",
+   "context": "The plague stops at 24,000 dead, and God answers Phinehas' violent zeal with a covenant of peace and a permanent priesthood for his line, because he was zealous and made atonement. The episode closes with orders against Midian, whose counsel this was.",
+   "question": "Peace is the prize given for an act of zeal that stopped a plague. How do you hold those two halves together without dropping either?"
+  }
+ ],
+ "8": [
+  {
+   "id": "1",
+   "start": 0,
+   "end": 3,
+   "title": "Counted again: 601,730",
+   "passage": "Numbers 26:1–51",
+   "anchor": "Numbers 26:51",
+   "context": "The second census, taken by Moses and Eleazar on the plains of Moab, totals 601,730 fighting men, nearly the first count's number. Simeon has collapsed from 59,300 to 22,200; Judah is again the largest at 76,500.",
+   "question": "Two counts, forty years apart, come out almost equal. What is God saying with a total that refuses to grow or shrink?"
+  },
+  {
+   "id": "2",
+   "start": 4,
+   "end": 6,
+   "title": "Not one of them remained",
+   "passage": "Numbers 26:63–65",
+   "anchor": "Numbers 26:65",
+   "context": "The census ends with the book's verdict: of everyone counted at Sinai, not one is left except Caleb son of Jephunneh and Joshua son of Nun, exactly as the sentence said. The counted generation is a closed roll.",
+   "question": "The sentence was kept to the man. What does it mean that its two exceptions were also named in advance?"
+  },
+  {
+   "id": "3",
+   "start": 7,
+   "end": 13,
+   "title": "Five daughters change the law",
+   "passage": "Numbers 27:1–11",
+   "anchor": "Numbers 27:7",
+   "context": "Zelophehad's five daughters stand before Moses, Eleazar, the leaders, and the whole congregation with a careful case: their father died for his own sin, not in Korah's rebellion, and left no son. Moses takes the case to God, who rules in their favor and builds a whole order of inheritance from it.",
+   "question": "The daughters argue from their father's record and the family's name, not from their own need. What makes their case so hard to refuse?"
+  },
+  {
+   "id": "4",
+   "start": 14,
+   "end": 17,
+   "title": "Joshua appointed, and the calendar handed down",
+   "passage": "Numbers 27:12–29:40",
+   "anchor": "Numbers 27:18",
+   "context": "Moses, told he will see the land but not enter it, asks for a shepherd so the congregation will not be sheep without one. Joshua is presented publicly, hands laid on, given some of Moses' authority, and the new generation receives its calendar of daily, weekly, monthly, and festival offerings.",
+   "question": "Moses' last request is for his people's next leader, not for his own reprieve. What does a man have to settle inside himself to pray that way?"
+  },
+  {
+   "id": "5",
+   "start": 18,
+   "end": 25,
+   "title": "Balaam falls, and not one man missing",
+   "passage": "Numbers 31:1–54",
+   "anchor": "Numbers 31:49",
+   "context": "The Midian war settles the Peor account: five kings fall, Balaam dies by the sword among them, and Moses names Balaam's counsel as the trap's source. The officers then count the returning army and find not one man missing, and answer with an offering of gold.",
+   "question": "Balaam, who would not curse Israel for a house of silver, dies in the camp of the people who took his advice. Where did his real price get paid?"
+  },
+  {
+   "id": "6",
+   "start": 26,
+   "end": 34,
+   "title": "East of the Jordan: the oath",
+   "passage": "Numbers 32:1–42",
+   "anchor": "Numbers 32:23",
+   "context": "Reuben, Gad, and half of Manasseh ask for the rich grazing land already won. Moses hears Kadesh in the request and confronts them; they answer with an oath to cross armed ahead of their brothers and not return until every tribe is settled, sealed with the warning that their sin will find them out.",
+   "question": "The request itself was reasonable; Moses tests the heart behind it. How do you tell a fair request from an escape dressed as one?"
+  },
+  {
+   "id": "7",
+   "start": 35,
+   "end": 36,
+   "title": "The journey written down, borders drawn",
+   "passage": "Numbers 33–34",
+   "anchor": "Numbers 33:2",
+   "context": "Chapter 33 reads the whole road back, stage by stage from Rameses to the plains of Moab, exactly as Moses recorded it at God's command, including Aaron's death at age 123. Then the borders of the land are drawn and the leaders named who will divide it.",
+   "question": "The list is mostly places where things went wrong, and God ordered it written anyway. What is a written record for, if not to flatter the travelers?"
+  },
+  {
+   "id": "8",
+   "start": 37,
+   "end": 40,
+   "title": "Cities of refuge",
+   "passage": "Numbers 35:1–34",
+   "anchor": "Numbers 35:34",
+   "context": "The Levites receive 48 towns, six of them cities of refuge where an unintentional killer is safe from the avenger until trial, and must stay until the high priest dies. No ransom can shorten it, because the land where God dwells must not be defiled by blood.",
+   "question": "Justice here has a protected waiting place built into it. Where do the accused in your world actually get to wait safely?"
+  },
+  {
+   "id": "9",
+   "start": 41,
+   "end": 46,
+   "title": "The book ends where it kept returning",
+   "passage": "Numbers 36:1–13",
+   "anchor": "Numbers 36:13",
+   "context": "The last ruling circles back to Zelophehad's daughters: heiresses marry within their father's tribe so no inheritance crosses tribes, and the sisters marry their cousins. The book closes on the plains of Moab, facing a river it does not cross.",
+   "question": "Numbers ends with a wedding rule and an uncrossed river. What is still unfinished in the story you are standing in right now?"
+  }
+ ]
+}
