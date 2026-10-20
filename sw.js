@@ -30,7 +30,7 @@ const CORE = [
   './assets/psalm16/verse-9-watercolor.webp',
   './assets/psalm16/verse-10-watercolor.webp',
   './assets/psalm16/verse-11-watercolor.webp',
-  './', './index.html', './app.js', './styles.css', './genesis.js', './exodus.js', './exodus-people.js', './leviticus.js', './numbers.js', './data/exodus-episodes.json', './data/exodus-scenes.json', './data/leviticus-episodes.json', './data/leviticus-scenes.json', './data/numbers-episodes.json', './data/numbers-scenes.json',
+  './', './index.html', './app.js', './styles.css', './genesis.js', './exodus.js', './exodus-people.js', './leviticus.js', './numbers.js', './deuteronomy.js', './data/exodus-episodes.json', './data/exodus-scenes.json', './data/leviticus-episodes.json', './data/leviticus-scenes.json', './data/numbers-episodes.json', './data/numbers-scenes.json', './data/deuteronomy-episodes.json', './data/deuteronomy-scenes.json',
   './genesis.css', './psalm-walk.js', './psalm-walk.css', './psalm46.js', './data.js', './content.js', './icon.svg',
   './assets/psalm23/verse-1-watercolor.webp', './assets/psalm23/verse-2-watercolor.webp',
   './assets/psalm23/verse-3-watercolor.webp', './assets/psalm23/verse-4-watercolor.webp',
