@@ -28,6 +28,8 @@ Psalm 46 has a six-section study covering all eleven verses; it still needs conv
 
 Next sequential chapter: **Psalm 17**. Continue in order, keeping the completed Psalm 23 study and arranging Psalm 46's conversion when reached. No new approval is needed for each chapter within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique verse art, or imply that work continues in the background after a session ends.
 
+In review: Psalm 17 on `feature/psalm-17-verse-study`, PR #29. Fifteen paintings and original verse notes are present. Finish its source, mobile, offline and Android checks and publication before starting Psalm 18. Psalm 18 is long; use clearly unpublished groups of verses if needed and mark it complete only when all fifty verses pass.
+
 Psalm 16 completed its source, phone-width website/packaged-webview, and Capacitor checks in PR #28. All eleven individual watercolors and verse notes are present. The original heading is preserved; notes distinguish the psalm’s trust from its later use in Acts. Publication follows the merge of PR #28; if it is still open, finish that PR before starting Psalm 17. These checks do not constitute native APK or device testing.
 
 ## Completion gate for each batch
