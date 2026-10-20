@@ -1,0 +1,48 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Use case: illustration-story. Asset: an individual verse painting for Scripture for Life. Create ONE wide 3:2 naturalistic watercolor. Attached image is a STYLE REFERENCE ONLY: match the approved Psalm 23:2 refined adult devotional watercolor, ivory paper grain, delicately detailed natural forms, translucent washes, muted sage and forest green with earth tones, restrained gold and atmospheric depth. Do not repeat sheep or stream unless the scene asks. Anonymous ancient Near Eastern people and imagined symbolic places, not historical reconstructions. Central 80% safe composition, no lettering, labels, frames, watermark, halos, cartoon or geometric placeholders. Never portray God as a human, face, hand, eyes, or visible body. Scene: A small bird poised on a rocky ledge above a valley, while an anonymous robed traveler rests in the shelter of an olive tree rather than running toward the distant mountains. A symbolic contrast of alarm and refuge, no divine figure.",
+      "generatedOriginal": "exec-0461b649-2085-497c-87bf-863c65119278.png",
+      "production": "assets/psalm11/verse-1-watercolor.webp"
+    },
+    {
+      "verse": 2,
+      "prompt": "Use case: illustration-story. Asset: an individual verse painting for Scripture for Life. Create ONE wide 3:2 naturalistic watercolor. Attached image is a STYLE REFERENCE ONLY: match the approved Psalm 23:2 refined adult devotional watercolor, ivory paper grain, delicately detailed natural forms, translucent washes, muted sage and forest green with earth tones, restrained gold and atmospheric depth. Do not repeat sheep or stream unless the scene asks. Anonymous ancient Near Eastern people and imagined symbolic places, not historical reconstructions. Central 80% safe composition, no lettering, labels, frames, watermark, halos, cartoon or geometric placeholders. Never portray God as a human, face, hand, eyes, or visible body. Scene: A distant archer draws a bow from deep shade beside a wooded hillside, while an upright anonymous traveler is small on a sunlit path far away. Suggest concealed danger without depicting any wound, impact or attack.",
+      "generatedOriginal": "exec-feabc5a9-467d-4d83-bd8c-71ac971262cc.png",
+      "production": "assets/psalm11/verse-2-watercolor.webp"
+    },
+    {
+      "verse": 3,
+      "prompt": "Use case: illustration-story. Asset: an individual verse painting for Scripture for Life. Create ONE wide 3:2 naturalistic watercolor. Attached image is a STYLE REFERENCE ONLY: match the approved Psalm 23:2 refined adult devotional watercolor, ivory paper grain, delicately detailed natural forms, translucent washes, muted sage and forest green with earth tones, restrained gold and atmospheric depth. Do not repeat sheep or stream unless the scene asks. Anonymous ancient Near Eastern people and imagined symbolic places, not historical reconstructions. Central 80% safe composition, no lettering, labels, frames, watermark, halos, cartoon or geometric placeholders. Never portray God as a human, face, hand, eyes, or visible body. Scene: Ancient stone foundations with displaced blocks and cracks on a hillside, with a small robed observer standing at a safe distance. A serious quiet image of shaken social foundations; no collapse onto people.",
+      "generatedOriginal": "exec-12a5f7cd-621f-4793-b604-48ea4609bd1e.png",
+      "production": "assets/psalm11/verse-3-watercolor.webp"
+    },
+    {
+      "verse": 4,
+      "prompt": "Use case: illustration-story. Asset: an individual verse painting for Scripture for Life. Create ONE wide 3:2 naturalistic watercolor. Attached image is a STYLE REFERENCE ONLY: match the approved Psalm 23:2 refined adult devotional watercolor, ivory paper grain, delicately detailed natural forms, translucent washes, muted sage and forest green with earth tones, restrained gold and atmospheric depth. Do not repeat sheep or stream unless the scene asks. Anonymous ancient Near Eastern people and imagined symbolic places, not historical reconstructions. Central 80% safe composition, no lettering, labels, frames, watermark, halos, cartoon or geometric placeholders. Never portray God as a human, face, hand, eyes, or visible body. Scene: An empty ancient throne in an open high stone sanctuary overlooking a broad earthlike landscape under the immense clear sky. Symbolic divine rule and watchfulness; the throne is empty, no depiction of God, eyes, faces in clouds or bodily form.",
+      "generatedOriginal": "exec-ce45bbde-bfe3-4989-bae6-bd035dd2495b.png",
+      "production": "assets/psalm11/verse-4-watercolor.webp"
+    },
+    {
+      "verse": 5,
+      "prompt": "Use case: illustration-story. Asset: an individual verse painting for Scripture for Life. Create ONE wide 3:2 naturalistic watercolor. Attached image is a STYLE REFERENCE ONLY: match the approved Psalm 23:2 refined adult devotional watercolor, ivory paper grain, delicately detailed natural forms, translucent washes, muted sage and forest green with earth tones, restrained gold and atmospheric depth. Do not repeat sheep or stream unless the scene asks. Anonymous ancient Near Eastern people and imagined symbolic places, not historical reconstructions. Central 80% safe composition, no lettering, labels, frames, watermark, halos, cartoon or geometric placeholders. Never portray God as a human, face, hand, eyes, or visible body. Scene: Two diverging ancient paths seen through an olive grove: a peaceful traveler offers a hand to another, while an abandoned spear lies unused on the stony opposite path. Symbolic moral examination and rejection of violence, no divine figure.",
+      "generatedOriginal": "exec-28c850e0-9a9c-4183-81a5-5a6d42a93648.png",
+      "production": "assets/psalm11/verse-5-watercolor.webp"
+    },
+    {
+      "verse": 6,
+      "prompt": "Use case: illustration-story. Asset: an individual verse painting for Scripture for Life. Create ONE wide 3:2 naturalistic watercolor. Attached image is a STYLE REFERENCE ONLY: match the approved Psalm 23:2 refined adult devotional watercolor, ivory paper grain, delicately detailed natural forms, translucent washes, muted sage and forest green with earth tones, restrained gold and atmospheric depth. Do not repeat sheep or stream unless the scene asks. Anonymous ancient Near Eastern people and imagined symbolic places, not historical reconstructions. Central 80% safe composition, no lettering, labels, frames, watermark, halos, cartoon or geometric placeholders. Never portray God as a human, face, hand, eyes, or visible body. Scene: A barren ancient rocky ridge swept by hot reddish wind beneath a dark storm sky with distant fiery embers and sulfur-yellow haze. Somber symbolic judgment landscape, no people, injuries, burning bodies or gore.",
+      "generatedOriginal": "exec-1c2721ab-1c10-4d88-982d-a55f6e7a891b.png",
+      "production": "assets/psalm11/verse-6-watercolor.webp"
+    },
+    {
+      "verse": 7,
+      "prompt": "Use case: illustration-story. Asset: an individual verse painting for Scripture for Life. Create ONE wide 3:2 naturalistic watercolor. Attached image is a STYLE REFERENCE ONLY: match the approved Psalm 23:2 refined adult devotional watercolor, ivory paper grain, delicately detailed natural forms, translucent washes, muted sage and forest green with earth tones, restrained gold and atmospheric depth. Do not repeat sheep or stream unless the scene asks. Anonymous ancient Near Eastern people and imagined symbolic places, not historical reconstructions. Central 80% safe composition, no lettering, labels, frames, watermark, halos, cartoon or geometric placeholders. Never portray God as a human, face, hand, eyes, or visible body. Scene: A person in simple ancient robes stands upright at the edge of a sunlit olive grove, looking toward warm light across the open hills. Symbolic hope and justice; no face or body representing God, no halo.",
+      "generatedOriginal": "exec-b500bf8b-d020-4cde-bfa3-7ee51f6c2235.png",
+      "production": "assets/psalm11/verse-7-watercolor.webp"
+    }
+  ]
+}

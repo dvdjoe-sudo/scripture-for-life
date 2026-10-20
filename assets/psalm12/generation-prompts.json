@@ -1,0 +1,54 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Use case: illustration-story. Asset: an individual verse painting for Scripture for Life. Create ONE wide 3:2 naturalistic watercolor. Attached image is a STYLE REFERENCE ONLY: match the approved Psalm 23:2 refined adult devotional watercolor, ivory paper grain, delicately detailed natural forms, translucent washes, muted sage and forest green with earth tones, restrained gold and atmospheric depth. Do not repeat sheep or stream unless the scene asks. Anonymous ancient Near Eastern people and imagined symbolic places, not historical reconstructions. Central 80% safe composition, no lettering, labels, frames, watermark, halos, cartoon or geometric placeholders. Never portray God as a human, face, hand, eyes, or visible body. Scene: A lone person in plain ancient robes asks for help beneath an olive tree beside a nearly empty village square at dusk. Loneliness among broken trust, restrained sorrow rather than spectacle.",
+      "generatedOriginal": "exec-5001e81a-9025-4cfc-9b47-00d6a61a93b1.png",
+      "production": "assets/psalm12/verse-1-watercolor.webp"
+    },
+    {
+      "verse": 2,
+      "prompt": "Use case: illustration-story. Asset: an individual verse painting for Scripture for Life. Create ONE wide 3:2 naturalistic watercolor. Attached image is a STYLE REFERENCE ONLY: match the approved Psalm 23:2 refined adult devotional watercolor, ivory paper grain, delicately detailed natural forms, translucent washes, muted sage and forest green with earth tones, restrained gold and atmospheric depth. Do not repeat sheep or stream unless the scene asks. Anonymous ancient Near Eastern people and imagined symbolic places, not historical reconstructions. Central 80% safe composition, no lettering, labels, frames, watermark, halos, cartoon or geometric placeholders. Never portray God as a human, face, hand, eyes, or visible body. Scene: Two anonymous ancient villagers greet with polished smiling gestures at a stone courtyard while their turned-away shadows and distance suggest mistrust. A restrained symbolic painting of flattering speech and divided loyalty, no text or visible hearts.",
+      "generatedOriginal": "exec-94374d1e-291f-405e-af71-7aa9be8cc65d.png",
+      "production": "assets/psalm12/verse-2-watercolor.webp"
+    },
+    {
+      "verse": 3,
+      "prompt": "Use case: illustration-story. Asset: an individual verse painting for Scripture for Life. Create ONE wide 3:2 naturalistic watercolor. Attached image is a STYLE REFERENCE ONLY: match the approved Psalm 23:2 refined adult devotional watercolor, ivory paper grain, delicately detailed natural forms, translucent washes, muted sage and forest green with earth tones, restrained gold and atmospheric depth. Do not repeat sheep or stream unless the scene asks. Anonymous ancient Near Eastern people and imagined symbolic places, not historical reconstructions. Central 80% safe composition, no lettering, labels, frames, watermark, halos, cartoon or geometric placeholders. Never portray God as a human, face, hand, eyes, or visible body. Scene: An abandoned carved ceremonial speaking staff broken on the ground beside a village council seat, with calm olive hills beyond. Symbolic ending of harmful boastful speech; no mutilation, lips, tongues or bodily injury.",
+      "generatedOriginal": "exec-8fbad20a-b6d9-433c-9ade-5f964492d6d2.png",
+      "production": "assets/psalm12/verse-3-watercolor.webp"
+    },
+    {
+      "verse": 4,
+      "prompt": "Use case: illustration-story. Asset: an individual verse painting for Scripture for Life. Create ONE wide 3:2 naturalistic watercolor. Attached image is a STYLE REFERENCE ONLY: match the approved Psalm 23:2 refined adult devotional watercolor, ivory paper grain, delicately detailed natural forms, translucent washes, muted sage and forest green with earth tones, restrained gold and atmospheric depth. Do not repeat sheep or stream unless the scene asks. Anonymous ancient Near Eastern people and imagined symbolic places, not historical reconstructions. Central 80% safe composition, no lettering, labels, frames, watermark, halos, cartoon or geometric placeholders. Never portray God as a human, face, hand, eyes, or visible body. Scene: A proud robed speaker stands elevated on low village steps, gesturing confidently while several subdued listeners remain below. Symbolic boast that speech can dominate, no written words or divine figure.",
+      "generatedOriginal": "exec-b0a08b88-103c-46f7-ae21-fca4dbf55519.png",
+      "production": "assets/psalm12/verse-4-watercolor.webp"
+    },
+    {
+      "verse": 5,
+      "prompt": "Use case: illustration-story. Asset: an individual verse painting for Scripture for Life. Create ONE wide 3:2 naturalistic watercolor. Attached image is a STYLE REFERENCE ONLY: match the approved Psalm 23:2 refined adult devotional watercolor, ivory paper grain, delicately detailed natural forms, translucent washes, muted sage and forest green with earth tones, restrained gold and atmospheric depth. Do not repeat sheep or stream unless the scene asks. Anonymous ancient Near Eastern people and imagined symbolic places, not historical reconstructions. Central 80% safe composition, no lettering, labels, frames, watermark, halos, cartoon or geometric placeholders. Never portray God as a human, face, hand, eyes, or visible body. Scene: Poor ancient villagers weary from carrying burdens find an open sheltered gateway where human neighbors offer safety and water. Dignity and care in response to oppression. Anonymous humans only, no human figure representing God.",
+      "generatedOriginal": "exec-a7c5a5eb-c5e2-4024-93c7-7deb40e461bf.png",
+      "production": "assets/psalm12/verse-5-watercolor.webp"
+    },
+    {
+      "verse": 6,
+      "prompt": "Use case: illustration-story. Asset: an individual verse painting for Scripture for Life. Create ONE wide 3:2 naturalistic watercolor. Attached image is a STYLE REFERENCE ONLY: match the approved Psalm 23:2 refined adult devotional watercolor, ivory paper grain, delicately detailed natural forms, translucent washes, muted sage and forest green with earth tones, restrained gold and atmospheric depth. Do not repeat sheep or stream unless the scene asks. Anonymous ancient Near Eastern people and imagined symbolic places, not historical reconstructions. Central 80% safe composition, no lettering, labels, frames, watermark, halos, cartoon or geometric placeholders. Never portray God as a human, face, hand, eyes, or visible body. Scene: A small ancient clay refining furnace with glowing coals and a simple crucible beside a gleaming silver piece and a small purified gold piece on a rough stone bench. Fine watercolor still life of refined precious metal, no writing, fantasy light or modern machinery.",
+      "generatedOriginal": "exec-91a2e3cc-3b00-427e-bef3-60d64bda8b20.png",
+      "production": "assets/psalm12/verse-6-watercolor.webp"
+    },
+    {
+      "verse": 7,
+      "prompt": "Use case: illustration-story. Asset: an individual verse painting for Scripture for Life. Create ONE wide 3:2 naturalistic watercolor. Attached image is a STYLE REFERENCE ONLY: match the approved Psalm 23:2 refined adult devotional watercolor, ivory paper grain, delicately detailed natural forms, translucent washes, muted sage and forest green with earth tones, restrained gold and atmospheric depth. Do not repeat sheep or stream unless the scene asks. Anonymous ancient Near Eastern people and imagined symbolic places, not historical reconstructions. Central 80% safe composition, no lettering, labels, frames, watermark, halos, cartoon or geometric placeholders. Never portray God as a human, face, hand, eyes, or visible body. Scene: A small group of plainly robed ancient villagers rest within a sheltered stone courtyard beneath an olive tree, with an open guarded gateway and difficult landscape outside. Symbolic preservation amid an untrustworthy generation; no divine figure or modern walls.",
+      "generatedOriginal": "exec-c30d917c-c01e-4bb2-b96e-31a07b9f4d26.png",
+      "production": "assets/psalm12/verse-7-watercolor.webp"
+    },
+    {
+      "verse": 8,
+      "prompt": "Use case: illustration-story. Asset: an individual verse painting for Scripture for Life. Create ONE wide 3:2 naturalistic watercolor. Attached image is a STYLE REFERENCE ONLY: match the approved Psalm 23:2 refined adult devotional watercolor, ivory paper grain, delicately detailed natural forms, translucent washes, muted sage and forest green with earth tones, restrained gold and atmospheric depth. Do not repeat sheep or stream unless the scene asks. Anonymous ancient Near Eastern people and imagined symbolic places, not historical reconstructions. Central 80% safe composition, no lettering, labels, frames, watermark, halos, cartoon or geometric placeholders. Never portray God as a human, face, hand, eyes, or visible body. Scene: In an ancient village square, a richly clothed arrogant figure is praised by a few others on raised steps, while humble people remain ignored at the edge. A sober ending with wrongdoing still publicly celebrated, no happy resolution, no text.",
+      "generatedOriginal": "exec-52ee8c69-278c-447a-a17f-7cdc7d3d0255.png",
+      "production": "assets/psalm12/verse-8-watercolor.webp"
+    }
+  ]
+}
