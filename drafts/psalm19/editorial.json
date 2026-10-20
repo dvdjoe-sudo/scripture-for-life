@@ -1,0 +1,398 @@
+{
+  "chapter": 19,
+  "status": "whole-chapter editorial/art/browser/Capacitor gate passed in CI 39480159217 and 39480153842; publication follows tested PR #35 merge and deployment",
+  "sourceReview": "Read all Psalm 19 and Psalm 8, Psalm 119:97–112 and Romans 10:14–21 in the bundled BSB before drafting; exact Scripture is separate in source.json.",
+  "topicPlan": {
+    "gratitude": [
+      "Psalm 19:1",
+      "Psalm 19:10"
+    ],
+    "direction": [
+      "Psalm 19:7",
+      "Psalm 19:8",
+      "Psalm 19:11",
+      "Psalm 19:14"
+    ],
+    "forgiveness": [
+      "Psalm 19:12",
+      "Psalm 19:13"
+    ]
+  },
+  "study": {
+    "number": 19,
+    "coverVerse": 1,
+    "title": "The heavens declare.",
+    "intro": "Fourteen verses move from the sky’s wordless witness to trustworthy instruction and a personal prayer for clean thoughts, words and choices.",
+    "context": "The heading identifies a Psalm of David without naming an occasion. Verses 1–6 describe the heavens and sun; verses 7–11 praise the LORD’s instruction; verses 12–14 ask for cleansing, restraint and acceptable words and thoughts. Preserve the BSB sentences across 3–4 and 5–6. Sun, tent, bridegroom and champion are poetic comparisons, not divine bodies or a reconstructed event. Romans 10:18 later quotes verse 4 in an argument about hearing and response; keep that later use distinct from the Psalm’s creation setting.",
+    "peopleNote": "David is named in the heading. His profile supplies background, not proof of a particular day or place behind this poem. The watercolors use anonymous people and symbolic imagined landscapes and objects; none is a literal portrayal of God. The runner illustrates a comparison, and the tent and water are artistic selections rather than historical reconstructions or ritual instructions.",
+    "people": [
+      {
+        "id": "david",
+        "name": "David",
+        "ref": "Psalm 19:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "The heavens declare",
+        "heading": "The whole sky becomes a witness to God’s glory",
+        "meaning": "The opening invites us to look outward: the heavens declare God’s glory and the skies proclaim His handiwork. Creation is described as bearing witness rather than remaining a silent backdrop to human concerns. The work of His hands is poetic language for God’s making, not a physical form to draw in the clouds. The heading names David but gives no particular night, journey or place behind the song. Readers can notice the wonder of an ordinary sky without needing to invent a private message in every cloud or decide that only a dramatic landscape can prompt attention.",
+        "contextTitle": "A heading and the beginning of creation’s witness",
+        "context": "Keep the bundled choirmaster heading and A Psalm of David with verse 1. Verses 1–6 attend to the heavens and sun before the poem turns to the LORD’s instruction. Psalm 8:1–4 offers another movement from skyward wonder toward human reflection.",
+        "explore": [
+          [
+            "Declare the glory",
+            "The heavens are personified as proclaiming. The verse does not supply audible words or a visible speaker in the sky."
+          ],
+          [
+            "The work of His hands",
+            "The phrase attributes creation to God. No divine hands, face or body appear in the illustration."
+          ]
+        ],
+        "reflect": "What have you noticed outdoors that drew your attention beyond your immediate concerns? What did it stir in you?",
+        "related": [
+          "Psalm 19:2",
+          "Psalm 19:4",
+          "Psalm 8:1",
+          "Psalm 8:3"
+        ],
+        "alt": "High clouds catch pale-gold light above a broad blue sky, olive hills and foreground limestone.",
+        "art": "assets/psalm19/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Day after day",
+        "heading": "The witness continues through recurring days and nights",
+        "meaning": "The poem describes days pouring forth speech and nights revealing knowledge. The repetition gives the witness continuity: it is not limited to one extraordinary sunrise or one moment when the singer feels inspired. Day and night are given speaking roles as a poetic way to attend to the created world. The next lines qualify that speech as without audible sound, so the reader should keep the images together. The blue-hour painting selects the transition between light and darkness; it is not a time chart or a claim that a named constellation carries a secret instruction.",
+        "contextTitle": "Recurring time before the speechless-witness paradox",
+        "context": "Verse 2 develops the declaring skies of verse 1. Verses 3–4 continue by describing their witness without ordinary speech or sound. Keep that sequence in view rather than treating pour forth speech as a report of a voice heard by David.",
+        "explore": [
+          [
+            "Day after day",
+            "The repeated phrase gives a sense of ongoing testimony, beyond a single exceptional day."
+          ],
+          [
+            "Night after night",
+            "Darkness is included in the witness rather than treated as simply an absence of meaning or care."
+          ]
+        ],
+        "reflect": "What do you tend to miss because it returns every day? How might patient attention change what you notice?",
+        "related": [
+          "Psalm 19:1",
+          "Psalm 19:3",
+          "Psalm 19:4"
+        ],
+        "alt": "A valley holds the last gold of evening below a deepening blue sky with stars and a pale moon.",
+        "art": "assets/psalm19/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Without a sound",
+        "heading": "The poem pauses within a sentence about a wordless witness",
+        "meaning": "The BSB says that this witness is without speech or language and without a sound to be heard. It deliberately sits beside the speaking imagery of the preceding verse. The heavens do not need ordinary vocabulary to be described as declaring glory. This is not a dismissal of language, hearing or people who communicate differently; it is a poetic contrast about the sky. The verse ends with a comma and continues into verse 4. A still shore beneath stars responds to that quiet without pretending to reproduce a particular scene observed by David.",
+        "contextTitle": "A comma links this verse directly to verse 4",
+        "context": "Read verses 2–4 together: speech is poured forth, no sound is heard, yet the witness reaches the earth. The exact BSB wording is preserved. The notes do not silently substitute another translation to remove the poem’s tension.",
+        "explore": [
+          [
+            "Without speech or language",
+            "The description distinguishes creation’s witness from a spoken human message. It does not make understanding depend on one language."
+          ],
+          [
+            "Without a sound",
+            "Quiet is part of the image, not a claim that the world has no sounds. Verse 4 completes this sentence."
+          ]
+        ],
+        "reflect": "What can communicate something meaningful without spoken words? How do you make room for attentive quiet?",
+        "related": [
+          "Psalm 19:2",
+          "Psalm 19:4",
+          "Psalm 19:1"
+        ],
+        "alt": "Still water, reeds and limestone lie beneath a spacious star-filled night sky.",
+        "art": "assets/psalm19/verse-3-watercolor.webp"
+      },
+      {
+        "title": "To the ends of the world",
+        "heading": "The quiet witness reaches outward, then the image turns to the sun",
+        "meaning": "This line completes the preceding sentence by describing the heavens’ voice reaching all the earth. The poem holds that reach together with the absence of audible speech, rather than explaining it as a literal broadcast. It then turns to a tent pitched for the sun, preparing for the next two verses. The ordinary tent in the painting is a selected comparison, not a physical home in heaven. Romans 10:18 later quotes the voice-and-words line within its argument about hearing the message; that later use should be read in its own context without replacing the Psalm’s attention to creation.",
+        "contextTitle": "The end of one sentence and the start of the sun imagery",
+        "context": "Verse 4 joins the witness of verses 1–3 to the sun passage in verses 5–6. Romans 10:14–21 discusses hearing and response, quoting this line in verse 18. The two settings remain distinct even as readers explore the connection.",
+        "explore": [
+          [
+            "Their voice has gone out",
+            "This completes the BSB sentence begun in verse 3. The worldwide reach is expressed poetically, not as an audible recording."
+          ],
+          [
+            "A tent for the sun",
+            "The image prepares for emergence and movement. It does not portray God as a camper or the sun as a deity."
+          ]
+        ],
+        "reflect": "How does the idea of a witness reaching beyond familiar places shape your attention? What changes when you read its later use in Romans?",
+        "related": [
+          "Psalm 19:3",
+          "Psalm 19:5",
+          "Psalm 19:6",
+          "Romans 10:18"
+        ],
+        "alt": "A small plain linen tent stands on a ridge beneath an immense sky as the sun rises far beyond it.",
+        "art": "assets/psalm19/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Rejoicing to run",
+        "heading": "Two comparisons give the sun’s emergence joy and energy",
+        "meaning": "The sun is compared to a bridegroom emerging from his chamber and a champion eager to run his course. Both pictures give the movement a sense of joy, readiness and vitality. They are comparisons, not a claim that the sun is a human being or a god. The sentence continues into verse 6, which names its circuit and warmth. The runner in the painting illustrates just one of the two comparisons. It is not a portrait of David, an identified race or a measure of the physical abilities a reader should possess in order to share the poem’s joy.",
+        "contextTitle": "A continued sentence about the sun",
+        "context": "The tent in verse 4 prepares for the emergence described here. Verse 5 ends with a comma, and verse 6 continues with it rises. Keep both comparisons attached to their subject instead of treating this as a separate wedding or athletic story.",
+        "explore": [
+          [
+            "Like a bridegroom",
+            "The comparison draws on a joyful emergence. The psalm does not identify a bride, wedding date or human marriage scene."
+          ],
+          [
+            "Like a champion",
+            "The second comparison emphasizes eager movement. The artwork selects an anonymous runner, not a sun deity or a demand to prove physical strength."
+          ]
+        ],
+        "reflect": "Where do you recognize a sense of eager beginning? What might joyful readiness look like within your own circumstances?",
+        "related": [
+          "Psalm 19:4",
+          "Psalm 19:6",
+          "Psalm 19:2"
+        ],
+        "alt": "An anonymous adult in a plain tunic runs freely along an open hillside track in early light.",
+        "art": "assets/psalm19/verse-5-watercolor.webp"
+      },
+      {
+        "title": "Nothing misses its warmth",
+        "heading": "The sun’s course completes the first movement of the poem",
+        "meaning": "The sun rises, runs its circuit across the heavens, and reaches the world with its warmth. The description follows the human experience of the moving sun across the visible sky. It is poetic observation, not a technical diagram of celestial motion. Its broad reach completes the image of a witness extending everywhere. The next verse moves from the sky to God’s instruction, which will also be described as giving light. Readers can notice that literary connection without turning sunlight into a divine body, a promise about comfort in every climate or a rule explaining every circumstance.",
+        "contextTitle": "The close of the sun passage before instruction",
+        "context": "Verse 6 completes the sentence begun with the two comparisons in verse 5. It closes verses 1–6 before the Law of the LORD is named in verse 7. The light imagery returns in verse 8’s commandments.",
+        "explore": [
+          [
+            "Its circuit",
+            "The verse speaks from the viewpoint of an observer beneath the sky. The painting is a landscape, not an astronomical model."
+          ],
+          [
+            "Its warmth",
+            "The reach of sunlight completes the account of the sun. It does not imply that every experience of heat is harmless or welcome."
+          ]
+        ],
+        "reflect": "What does the steady reach of sunlight help you notice about the poem’s first six verses? What connections do you hear as it turns toward instruction?",
+        "related": [
+          "Psalm 19:4",
+          "Psalm 19:5",
+          "Psalm 19:7",
+          "Psalm 19:8"
+        ],
+        "alt": "High sunlight warms limestone, fields and olive trees across a broad uninterrupted horizon.",
+        "art": "assets/psalm19/verse-6-watercolor.webp"
+      },
+      {
+        "title": "Reviving and making wise",
+        "heading": "The poem turns from the sky to trustworthy instruction",
+        "meaning": "The LORD’s Law is called perfect and reviving, and His testimony trustworthy and able to make the simple wise. The new focus is not merely on acquiring information; instruction is valued for the life and understanding it gives. Simple here concerns a person needing guidance, not a reason to belittle intelligence or experience. The verse does not promise instant answers to every difficult question or a medical cure through reading. It begins a series of paired descriptions that continues through verse 9. The unmarked scroll and new growth in the art are symbols, not a named manuscript or a scene supplied by the psalm.",
+        "contextTitle": "The first pair in a sequence about the LORD’s instruction",
+        "context": "After the sun’s course in verses 4–6, verses 7–9 name Law, testimony, precepts, commandments, fear and judgments. Psalm 119:97–104 likewise links attention to instruction with growing understanding and conduct.",
+        "explore": [
+          [
+            "Reviving the soul",
+            "The expression speaks of renewed life through instruction. It should not be made into a diagnosis or a guarantee that distress instantly disappears."
+          ],
+          [
+            "Making wise the simple",
+            "Wisdom can be received by someone open to learning. The phrase is not a license to shame a person for needing help."
+          ]
+        ],
+        "reflect": "Where are you open to learning rather than pretending you already know? What kind of guidance has brought renewed life to you?",
+        "related": [
+          "Psalm 19:8",
+          "Psalm 19:9",
+          "Psalm 119:97",
+          "Psalm 119:104"
+        ],
+        "alt": "An anonymous adult attends to an unmarked scroll beside a vigorous young olive shoot in morning light.",
+        "art": "assets/psalm19/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Joy and light",
+        "heading": "Right instruction is praised for what it brings to the person",
+        "meaning": "The precepts are called right and joy-giving; the commandments radiant and giving light to the eyes. This is more than a picture of rules as an unwanted burden. The poem values instruction as a source of gladness and clearer understanding. Light echoes the sun passage, but here it is joined to discernment and response. The eye language does not promise that obedience restores physical sight or rank people by their vision. A traveler in a sunlit path is a symbolic response to guidance and joy, not a particular journey named in the source.",
+        "contextTitle": "A second pair, continuing the movement toward response",
+        "context": "Verse 8 stands between the wisdom and renewal of verse 7 and the enduring truth of verse 9. Psalm 119:105 connects word, lamp and path, while verse 111 speaks of testimonies as the joy of the heart.",
+        "explore": [
+          [
+            "Bringing joy to the heart",
+            "The poem sees goodness in the instruction itself. Joy here is not an emotional performance demanded from every reader."
+          ],
+          [
+            "Giving light to the eyes",
+            "The image speaks of illumination and understanding. The painting avoids rays entering eyes or a depicted cure."
+          ]
+        ],
+        "reflect": "What has helped you see a decision more clearly? How might clarity and joy belong together without pretending a hard choice is easy?",
+        "related": [
+          "Psalm 19:6",
+          "Psalm 19:7",
+          "Psalm 119:105",
+          "Psalm 119:111"
+        ],
+        "alt": "A traveler pauses upright on an olive-lined hillside path illuminated by angled sunlight.",
+        "art": "assets/psalm19/verse-8-watercolor.webp"
+      },
+      {
+        "title": "True and enduring",
+        "heading": "Reverent response and righteous judgment complete the sequence",
+        "meaning": "The fear of the LORD is described as pure and enduring, and His judgments as true and altogether righteous. Fear here belongs to a reverent relationship with the LORD, rather than a demand to remain anxious or terrified. The line brings the series of descriptions toward dependable moral judgment. Its claim about God’s judgments must not be transferred automatically to every human verdict, institution or claim to speak for God. The level scale, rooted tree and clear water are interpretive symbols of truth, endurance and purity. They are not objects listed in the verse or a scene of a visible divine judge.",
+        "contextTitle": "The third pair before the comparisons of value",
+        "context": "Verses 7–9 accumulate names and descriptions associated with God’s instruction and the response to it. Verse 10 then calls them precious and sweet. Read reverent fear within that larger movement of renewal, wisdom, joy and trustworthiness.",
+        "explore": [
+          [
+            "Fear of the LORD",
+            "The expression concerns a reverent orientation toward God. It is not a clinical description of anxiety or a command to create panic."
+          ],
+          [
+            "Altogether righteous",
+            "The judgment praised is God’s. The line does not place a reader’s own conclusions beyond honest examination."
+          ]
+        ],
+        "reflect": "What makes a judgment trustworthy? How can reverence make you more careful about claiming certainty for your own decisions?",
+        "related": [
+          "Psalm 19:7",
+          "Psalm 19:8",
+          "Psalm 19:10",
+          "Psalm 119:106"
+        ],
+        "alt": "A plain level balance stands on enduring limestone beside a clear pool and a deeply rooted olive tree.",
+        "art": "assets/psalm19/verse-9-watercolor.webp"
+      },
+      {
+        "title": "More precious than gold",
+        "heading": "Value and sweetness describe the desire for instruction",
+        "meaning": "They points back to the instruction and judgments praised in the preceding verses. Gold speaks of value; honey and honeycomb of sweetness. The comparisons move beyond bare duty toward desire: what guides and judges rightly is worth treasuring. The line does not promise that obedience will produce gold or prescribe honey as a spiritual or dietary requirement. The modest objects in the watercolor allow the comparisons to remain concrete without presenting a reward payment. Readers can ask what they treat as precious and what kind of goodness they have learned to welcome.",
+        "contextTitle": "The comparisons gather the preceding descriptions",
+        "context": "Verse 10 follows the true and righteous judgments of verse 9 and leads to warning and keeping in verse 11. Psalm 119:103 likewise compares God’s words to sweetness, within a passage about attention, understanding and avoiding false ways.",
+        "explore": [
+          [
+            "More precious than gold",
+            "The comparison concerns what is worth valuing. It is not an offer of material wealth for the reader’s obedience."
+          ],
+          [
+            "Sweeter than honey",
+            "Taste gives the desire a vivid form. The artwork depicts the comparison rather than a ritual meal or a promise of luxury."
+          ]
+        ],
+        "reflect": "What do your habits suggest you treasure most? Is there a kind of wisdom or goodness you would like to learn to value more deeply?",
+        "related": [
+          "Psalm 19:9",
+          "Psalm 19:11",
+          "Psalm 119:103",
+          "Psalm 119:104"
+        ],
+        "alt": "A clay bowl of honey, natural honeycomb and a few rough gold pieces rest in olive shade on limestone.",
+        "art": "assets/psalm19/verse-10-watercolor.webp"
+      },
+      {
+        "title": "Warned by them",
+        "heading": "The speaker becomes a servant who listens and responds",
+        "meaning": "The poem now speaks directly of Your servant being warned by the instruction just praised. The value and sweetness of verse 10 do not mean that guidance never corrects or restrains. Keeping involves a response in life, and the speaker describes great reward in it. The verse gives no price list or promise of financial success, nor does it say faithful people avoid all trouble. The next line asks about errors the speaker cannot fully discern. The warning therefore leads toward humility rather than confidence that he has already mastered every demand.",
+        "contextTitle": "From praise of instruction to the servant’s prayer",
+        "context": "Verse 11 joins the descriptions of verses 7–10 to the questions and petitions in verses 12–14. The speaker calls himself Your servant here and again in verse 13. The artwork’s cautious traveler is a symbol of attention, not a reported incident.",
+        "explore": [
+          [
+            "Your servant is warned",
+            "The speaker is willing to receive correction. Guidance is not valued only when it confirms what he already wants."
+          ],
+          [
+            "In keeping them",
+            "The concern extends to action, not simply admiration. Reward is affirmed without specifying a material outcome."
+          ]
+        ],
+        "reflect": "What warning or correction might deserve a more careful hearing? What would responding well require from you?",
+        "related": [
+          "Psalm 19:10",
+          "Psalm 19:12",
+          "Psalm 19:13",
+          "Psalm 119:101"
+        ],
+        "alt": "A traveler pauses carefully where a hillside path meets broken ground and a secure route continues.",
+        "art": "assets/psalm19/verse-11-watercolor.webp"
+      },
+      {
+        "title": "Hidden faults",
+        "heading": "The speaker asks for cleansing beyond complete self-knowledge",
+        "meaning": "Who can discern his own errors is an honest question about the limits of self-understanding. The speaker then asks to be cleansed from hidden faults, rather than pretending that unrecognized wrong cannot matter. This is not a demand to invent forgotten offenses or a technique for recovering memories. It allows humility, examination and a request for mercy to sit together. The quiet figure with open hands is a symbolic response, not a portrait of David confessing a named act. The prayer moves from the warnings of instruction toward dependence on help the speaker cannot supply through certainty alone.",
+        "contextTitle": "A question followed by a personal petition",
+        "context": "Verse 12 follows the servant’s warning and reward in verse 11, then verse 13 asks about willful sins. Keep the distinction between faults not fully discerned and wrongdoing deliberately chosen, rather than treating the two lines as identical.",
+        "explore": [
+          [
+            "Who can discern?",
+            "The question acknowledges a limit, not a reason to avoid responsibility or assume that every suspicion must be true."
+          ],
+          [
+            "Cleanse me",
+            "The speaker asks for help with his own faults. The nearby water in the painting is symbolic, not an instruction for a washing ritual."
+          ]
+        ],
+        "reflect": "How do you respond when you discover you were mistaken? What helps you examine yourself honestly without inventing accusations against yourself?",
+        "related": [
+          "Psalm 19:11",
+          "Psalm 19:13",
+          "Psalm 19:14"
+        ],
+        "alt": "An anonymous adult sits quietly with open empty hands beside a shallow rocky pool in soft daylight.",
+        "art": "assets/psalm19/verse-12-watercolor.webp"
+      },
+      {
+        "title": "Do not let them rule",
+        "heading": "The servant asks for help resisting deliberate wrongdoing",
+        "meaning": "The prayer now asks to be kept from willful sins and for them not to rule over the speaker. The concern is not only an isolated mistake but the possibility of chosen wrongdoing gaining command. Then I will be blameless describes the hoped-for result of the petition, not a boast that the speaker is already beyond all fault. Cleansing from great transgression remains part of the request. The abandoned cord and open route in the painting are symbolic additions. They do not reduce sin to an accidental trip or tell us that a particular event in David’s life is being narrated.",
+        "contextTitle": "Willful sins after hidden faults",
+        "context": "Verse 13 follows the request concerning hidden faults and leads into the prayer about speech and inner thought in verse 14. The repeated Your servant connects it with verse 11. No specific willful act is named in this psalm.",
+        "explore": [
+          [
+            "May they not rule over me",
+            "The language recognizes the power of a chosen pattern. The prayer asks for help and restraint, not permission to avoid practical accountability."
+          ],
+          [
+            "Then I will be blameless",
+            "The words express an intended outcome of protection and cleansing. They are not a claim of independent lifelong perfection."
+          ]
+        ],
+        "reflect": "Is there a chosen pattern you do not want to gain more control? What support or boundary could help you respond responsibly?",
+        "related": [
+          "Psalm 19:11",
+          "Psalm 19:12",
+          "Psalm 19:14",
+          "Psalm 119:101"
+        ],
+        "alt": "A traveler takes an open olive path away from a loose tangled cord beside a shaded turning.",
+        "art": "assets/psalm19/verse-13-watercolor.webp"
+      },
+      {
+        "title": "Words and the heart",
+        "heading": "The closing prayer brings outward speech and inward thought together",
+        "meaning": "The poem ends by asking that the speaker’s words and the meditation of his heart be pleasing to the LORD. It began with the heavens declaring glory and now places the human voice before God. Inner thought matters alongside what is said aloud; the request is not merely to sound impressive to an audience. My Rock and my Redeemer expresses trust in the one addressed, not a physical form to depict. The verse invites an honest prayer for fitting words and intentions without requiring a person to suppress every difficult feeling or pretend to have reached complete moral control.",
+        "contextTitle": "The human response at the close of the poem",
+        "context": "Read verse 14 with the speech imagery of verses 1–4 and the prayers for cleansing and restraint in verses 12–13. Psalm 119:108 also joins words offered to God with a request to be taught. The heading names David, but no occasion is supplied.",
+        "explore": [
+          [
+            "Words and meditation",
+            "The prayer joins outward expression and inward attention rather than treating a polished sentence as the whole response."
+          ],
+          [
+            "My Rock and my Redeemer",
+            "The titles name dependable refuge and saving help. The ordinary rock in the watercolor remains a poetic comparison, not an image of God."
+          ]
+        ],
+        "reflect": "What words or inward concerns would you like to bring honestly before God? How might this prayer shape the way you speak and listen today?",
+        "related": [
+          "Psalm 19:1",
+          "Psalm 19:12",
+          "Psalm 19:13",
+          "Psalm 119:108"
+        ],
+        "alt": "An anonymous adult rests thoughtfully under an olive tree beside broad limestone, facing dawn over a valley.",
+        "art": "assets/psalm19/verse-14-watercolor.webp"
+      }
+    ]
+  }
+}
