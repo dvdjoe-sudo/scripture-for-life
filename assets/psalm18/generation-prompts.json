@@ -1,57 +1,79 @@
 {
   "tool": "built-in image_gen.imagegen",
   "styleReference": "assets/psalm23/verse-2-watercolor.webp",
-  "status": "unpublished partial draft; verses 1–10 only; generation pending",
+  "status": "unpublished partial draft; ten individually generated and inspected paintings for verses 1–10; verses 11–50 unfinished",
   "paintings": [
     {
       "verse": 1,
       "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY, make a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places, not a historical reconstruction. Keep dramatic weather painterly and reverent. Never portray God as a human, face, eyes, nose, mouth, hand, feet, bodily form or figure in the clouds. No divine rider. No letters, labels, panels, frame, watermark, modern objects, graphic harm, injured bodies or graphic violence.\nScene: Psalm 18:1, I love You, O LORD, my strength. A small ordinary adult in a simple ancient linen robe stands peacefully beneath a tall olive tree at early morning, one hand resting lightly over the heart, a strong rocky ridge behind and a welcoming valley beyond. Warm personal gratitude and love; no royal regalia or named portrait.",
-      "status": "pending"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-aa715cff-d507-4bff-8205-cda82cea8d28.png",
+      "production": "assets/psalm18/verse-1-watercolor.webp"
     },
     {
       "verse": 2,
-      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY, make a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places, not a historical reconstruction. Keep dramatic weather painterly and reverent. Never portray God as a human, face, eyes, nose, mouth, hand, feet, bodily form or figure in the clouds. No divine rider. No letters, labels, panels, frame, watermark, modern objects, graphic harm, injured bodies or graphic violence.\nScene: Psalm 18:2, rock, fortress, refuge and strength of salvation. A massive weathered limestone refuge dominates the foreground, with a simple round ancient shield resting securely against it and a small ram's horn beside the shield; a modest ancient stone stronghold stands far away on a ridge. No people, no battle, no weapons raised. Symbolic layered images, no literal portrayal of God.",
-      "status": "pending"
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY, make a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places, not a historical reconstruction. Keep dramatic weather painterly and reverent. Never portray God as a human, face, eyes, nose, mouth, hand, feet, bodily form or figure in the clouds. No divine rider. No letters, labels, panels, frame, watermark, modern objects, graphic harm, injured bodies or graphic violence.\nScene: Psalm 18:2, rock, fortress, refuge and strength of salvation. A massive weathered limestone refuge dominates the foreground, with a simple round ancient shield resting securely against it; a modest ancient stone stronghold stands far away on a ridge. No horns or musical instruments, no people, no battle, no raised weapons. Symbolic selected images from the verse, no literal portrayal of God and no claim of a reconstructed historical fortress.",
+      "status": "generated and visually inspected",
+      "discardedOriginal": "exec-9cc5a1b4-2df6-4d42-97ea-1fd8cb2124fa.png",
+      "revisionReason": "Avoid confusing the poetic horn of salvation with a musical instrument.",
+      "generatedOriginal": "exec-f76809c6-d5b0-4393-b2cf-a2d36fae7337.png",
+      "production": "assets/psalm18/verse-2-watercolor.webp"
     },
     {
       "verse": 3,
       "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY, make a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places, not a historical reconstruction. Keep dramatic weather painterly and reverent. Never portray God as a human, face, eyes, nose, mouth, hand, feet, bodily form or figure in the clouds. No divine rider. No letters, labels, panels, frame, watermark, modern objects, graphic harm, injured bodies or graphic violence.\nScene: Psalm 18:3, calling upon the LORD worthy of praise. A solitary ordinary robed singer stands in a spacious olive terrace at sunset, head slightly lifted and hands open in praise, seen small from a wide respectful distance. Calm confident thanksgiving, no visible enemies, no battle and no supernatural listener. Distinct evening panorama.",
-      "status": "pending"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-d06cf3b4-2ae0-4d0b-ac43-60b372ab4020.png",
+      "production": "assets/psalm18/verse-3-watercolor.webp"
     },
     {
       "verse": 4,
       "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY, make a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places, not a historical reconstruction. Keep dramatic weather painterly and reverent. Never portray God as a human, face, eyes, nose, mouth, hand, feet, bodily form or figure in the clouds. No divine rider. No letters, labels, panels, frame, watermark, modern objects, graphic harm, injured bodies or graphic violence.\nScene: Psalm 18:4, cords of death and torrents of chaos. Turbulent dark water surges between rugged limestone boulders, with a loose rope caught around one foreground rock and a brighter bank visible farther away. No person in the water, no drowning or injury. A serious symbolic landscape of overwhelming danger, not a narrated flood.",
-      "status": "pending"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-e3b585c4-51e1-4fb6-9374-4bfbcff8e7b3.png",
+      "production": "assets/psalm18/verse-4-watercolor.webp"
     },
     {
       "verse": 5,
       "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY, make a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places, not a historical reconstruction. Keep dramatic weather painterly and reverent. Never portray God as a human, face, eyes, nose, mouth, hand, feet, bodily form or figure in the clouds. No divine rider. No letters, labels, panels, frame, watermark, modern objects, graphic harm, injured bodies or graphic violence.\nScene: Psalm 18:5, entangling cords and snares of death. A tangled ordinary hemp cord lies across a narrow rocky footpath entering deep shade between old olive roots. A quiet opening of daylight appears beyond the shadows. No skeletons, ghosts, figures, trap mechanism, injured animals or actual depiction of the afterlife. Intimate low viewpoint, symbolic entanglement.",
-      "status": "pending"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-dcca607b-05f7-4ecd-8df4-0f2d0e16743f.png",
+      "production": "assets/psalm18/verse-5-watercolor.webp"
     },
     {
       "verse": 6,
       "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY, make a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places, not a historical reconstruction. Keep dramatic weather painterly and reverent. Never portray God as a human, face, eyes, nose, mouth, hand, feet, bodily form or figure in the clouds. No divine rider. No letters, labels, panels, frame, watermark, modern objects, graphic harm, injured bodies or graphic violence.\nScene: Psalm 18:6, a cry for help heard. An anonymous person in simple ancient linen kneels in an open stone courtyard at blue twilight beside a small oil lamp, hands open and face turned toward the spacious starry sky. A path and dark hills beyond. Symbolic distressed prayer, not a named earthly temple or divine throne. No visible listener, no divine ear or humanlike sky form.",
-      "status": "pending"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-007b81f8-8c6b-4b43-a460-207565869fe6.png",
+      "production": "assets/psalm18/verse-6-watercolor.webp"
     },
     {
       "verse": 7,
       "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY, make a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places, not a historical reconstruction. Keep dramatic weather painterly and reverent. Never portray God as a human, face, eyes, nose, mouth, hand, feet, bodily form or figure in the clouds. No divine rider. No letters, labels, panels, frame, watermark, modern objects, graphic harm, injured bodies or graphic violence.\nScene: Psalm 18:7, earth and mountain foundations trembling. A broad distant mountain ridge under heavy storm clouds; a few small stones and dust loosen on an uninhabited near slope while hardy plants bend. No city destruction, no people or animals, no injury, no volcano. Poetic symbolic upheaval and awe, not a report of a dated earthquake.",
-      "status": "pending"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-a8aa488e-7aae-4ae0-b0de-bff76876c12d.png",
+      "production": "assets/psalm18/verse-7-watercolor.webp"
     },
     {
       "verse": 8,
       "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY, make a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places, not a historical reconstruction. Keep dramatic weather painterly and reverent. Never portray God as a human, face, eyes, nose, mouth, hand, feet, bodily form or figure in the clouds. No divine rider. No letters, labels, panels, frame, watermark, modern objects, graphic harm, injured bodies or graphic violence.\nScene: Psalm 18:8, smoke, consuming fire and glowing coals as poetic imagery. Close foreground of glowing red-orange coals among dark stones with delicate threads of smoke rising into a vast storm-dark mountain landscape. Controlled small embers, no wildfire or suffering. No nose, mouth, face, body, dragon or deity in the smoke. Symbolic response to the poem, not a literal scene of God's anatomy.",
-      "status": "pending"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-93d33ce3-4f5c-4a85-af49-032383c8983e.png",
+      "production": "assets/psalm18/verse-8-watercolor.webp"
     },
     {
       "verse": 9,
       "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY, make a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places, not a historical reconstruction. Keep dramatic weather painterly and reverent. Never portray God as a human, face, eyes, nose, mouth, hand, feet, bodily form or figure in the clouds. No divine rider. No letters, labels, panels, frame, watermark, modern objects, graphic harm, injured bodies or graphic violence.\nScene: Psalm 18:9, parted heavens and dark clouds. A dramatic opening in high pale clouds lets restrained golden light fall over a lower bank of deep blue-grey storm clouds and distant olive hills. An empty rocky foreground path leads toward the light. No divine figure, feet, silhouette, face, staircase or throne. Luminous watercolor cloud study, symbolic descent and nearness.",
-      "status": "pending"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-29e20974-68bb-494d-8e2b-527617e2111b.png",
+      "production": "assets/psalm18/verse-9-watercolor.webp"
     },
     {
       "verse": 10,
       "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY, make a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Anonymous people and imagined places, not a historical reconstruction. Keep dramatic weather painterly and reverent. Never portray God as a human, face, eyes, nose, mouth, hand, feet, bodily form or figure in the clouds. No divine rider. No letters, labels, panels, frame, watermark, modern objects, graphic harm, injured bodies or graphic violence.\nScene: Psalm 18:10, soaring on the wings of the wind. Swift sweeping ribbons of storm cloud rush across an expansive mountain sky; foreground meadow grasses and a slender olive tree lean with the wind, cloud edges suggesting broad movement without forming an animal or a face. No rider, cherub body, winged human, divine form or literal chariot. Symbolic swiftness and wind, distinct from the parted-cloud scene.",
-      "status": "pending"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-970df24a-d841-457f-9bf8-8ba6a901134c.png",
+      "production": "assets/psalm18/verse-10-watercolor.webp"
     }
   ]
 }
