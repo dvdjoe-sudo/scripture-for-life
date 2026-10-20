@@ -1,0 +1,37 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "status": "unpublished partial draft",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Use case: illustration-story\nAsset type: Psalm 16:1 verse illustration for Scripture for Life.\nInput image: style reference only, Psalm 23:2 approved watercolor; make a new scene, not an edit.\nPrimary request: A small lone traveler in a simple undyed ancient robe rests safely within the natural shelter of a great limestone outcrop, looking out over a quiet Judean valley after rain. Refuge and preservation conveyed by the sheltering rock, no enemy or battle. Symbolic response to 'Preserve me, O God, for in You I take refuge'; not a reconstruction of an event.\nStyle/medium: Match the reference's finely detailed naturalistic watercolor, luminous washes, delicate grasses, warm ivory light, muted sage and forest greens, warm stone, subtle paper grain. Peaceful and reverent.\nComposition: wide landscape 3:2, sheltered traveler small in the foreground, atmospheric hills beyond; fully painted to edges.\nConstraints: one standalone painting, no panels, no text, no lettering, no border, no watermark, no modern objects, no depiction of God or divine human body.",
+      "generatedOriginal": "exec-66336cae-1396-4dc4-b1c8-c8941eaf9844.png",
+      "production": "assets/psalm16/verse-1-watercolor.webp"
+    },
+    {
+      "verse": 2,
+      "prompt": "Psalm 16:2, the goodness received from God. A close low view of a simple clay bowl of fresh figs and a small rustic loaf on a flat limestone beside an ancient olive tree, with dew on grass and an abundant sunlit valley beyond. Humble gratitude rather than riches; no people. Warm morning light, intimate still life in a spacious landscape.\nUse case: illustration-story. Asset: Scripture for Life verse-specific symbolic watercolor. Input image is only the approved Psalm 23:2 style reference; create a new composition. Match its luminous, finely detailed naturalistic watercolor, layered transparent washes, subtle paper grain, warm ivory light, sage and deep forest greens, ochre stone. Wide landscape 3:2 fully painted to edges. One standalone painting, no text or letters, no borders or watermark, no modern objects, no portrayal of God or divine human body. Symbolic art, no claim to depict a historical event.",
+      "generatedOriginal": "exec-4d7d5ea7-2f6b-4c51-9616-582437cf4928.png",
+      "production": "assets/psalm16/verse-2-watercolor.webp"
+    },
+    {
+      "verse": 3,
+      "prompt": "Psalm 16:3, delight in the faithful community. A small gathering of five ordinary adults in modest ancient linen garments, seen at a respectful distance, sit in companionship beneath an olive grove overlooking terraces. One welcomes a newcomer with an open hand. Warm shared afternoon light and natural varied human postures; not named biblical people or saints with halos. Gentle delight, simple community, no feast spectacle.\nUse case: illustration-story. Asset: Scripture for Life verse-specific symbolic watercolor. Input image is only the approved Psalm 23:2 style reference; create a new composition. Match its luminous, finely detailed naturalistic watercolor, layered transparent washes, subtle paper grain, warm ivory light, sage and deep forest greens, ochre stone. Wide landscape 3:2 fully painted to edges. One standalone painting, no text or letters, no borders or watermark, no modern objects, no portrayal of God or divine human body. Symbolic art, no claim to depict a historical event.",
+      "generatedOriginal": "exec-f2907487-3c38-4974-9b5d-af186cb5e34e.png",
+      "production": "assets/psalm16/verse-3-watercolor.webp"
+    },
+    {
+      "verse": 4,
+      "prompt": "Psalm 16:4, refusing divided worship. A lone traveler in plain ancient robes deliberately walks away from an unlit stone ritual platform and untouched dark clay pouring vessel toward an open olive-lined footpath. No blood, no violence, no readable markings, no idol body, no named character. The abandoned vessel small and shadowed in the foreground; the traveler and open country carry the scene. Sober restraint, clear choice.\nUse case: illustration-story. Asset: Scripture for Life verse-specific symbolic watercolor. Input image is only the approved Psalm 23:2 style reference; create a new composition. Match its luminous, finely detailed naturalistic watercolor, layered transparent washes, subtle paper grain, warm ivory light, sage and deep forest greens, ochre stone. Wide landscape 3:2 fully painted to edges. One standalone painting, no text or letters, no borders or watermark, no modern objects, no portrayal of God or divine human body. Symbolic art, no claim to depict a historical event.",
+      "generatedOriginal": "exec-41e8e446-f57e-4585-a713-68d399bc4e10.png",
+      "production": "assets/psalm16/verse-4-watercolor.webp"
+    },
+    {
+      "verse": 5,
+      "prompt": "Psalm 16:5, the LORD as portion and cup. An unadorned earthenware drinking cup stands securely on a broad level limestone ledge above a fertile valley. Soft light catches clear water in the cup. A single olive sprig rests nearby. Close still life, expansive landscape, calm solidity. No luxury metal, no people, no lot-casting game, no magic.\nUse case: illustration-story. Asset: Scripture for Life verse-specific symbolic watercolor. Input image is only the approved Psalm 23:2 style reference; create a new composition. Match its luminous, finely detailed naturalistic watercolor, layered transparent washes, subtle paper grain, warm ivory light, sage and deep forest greens, ochre stone. Wide landscape 3:2 fully painted to edges. One standalone painting, no text or letters, no borders or watermark, no modern objects, no portrayal of God or divine human body. Symbolic art, no claim to depict a historical event.",
+      "generatedOriginal": "exec-e18c30f0-4b4b-48a1-a8aa-dda5ca566131.png",
+      "production": "assets/psalm16/verse-5-watercolor.webp"
+    }
+  ]
+}
