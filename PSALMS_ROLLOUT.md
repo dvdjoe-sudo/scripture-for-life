@@ -18,11 +18,14 @@ Approved goal: extend the Psalm 1 / original Psalm 23 format across all 150 Psal
 | 10 | 18 | `#/study/10/1` |
 | 11 | 7 | `#/study/11/1` |
 | 12 | 8 | `#/study/12/1` |
+| 13 | 6 | `#/study/13/1` |
+| 14 | 7 | `#/study/14/1` |
+| 15 | 5 | `#/study/15/1` |
 | 23 | 6 | `#/study/23/1` |
 
 Psalm 46 has a six-section study covering all eleven verses; it still needs conversion to individual verse pages to meet the new goal. All other Psalms retain their full chapter pages and chapter introductions, rather than being labeled finished verse studies.
 
-Next sequential chapter: **Psalm 13**. Continue in order, keeping the completed Psalm 23 study and arranging Psalm 46's conversion when reached. No new approval is needed for each chapter within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique verse art, or imply that work continues in the background after a session ends.
+Next sequential chapter: **Psalm 16**. Continue in order, keeping the completed Psalm 23 study and arranging Psalm 46's conversion when reached. No new approval is needed for each chapter within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique verse art, or imply that work continues in the background after a session ends.
 
 ## Completion gate for each batch
 
@@ -40,8 +43,6 @@ Everyday-needs integration: “What are you facing today?” uses shared topic c
 
 Joe reaffirmed continuous development on October 19, 2026. A recurring development task is configured to resume tested sequential batches. This is distinct from the read-only readiness watch; do not ask for routine chapter approval or claim work happened merely because a task is scheduled. Reconcile main and any open Psalms PR before starting another batch. Story content remains Joe’s separate workstream.
 
-## Prepared, unpublished batch: Psalms 13–15
+## Shared build compatibility
 
-Branch: `feature/psalms13-15-verse-studies`. Eighteen verse studies and separate watercolors are prepared, with individual notes, David/Jacob connections, topic links, offline entries, and Android asset packaging. Do not move these chapters into the completed table until required CI and deployment pass.
-
-The starting main commit `a152d7d7708b690b1517f37de2b892e86169d916` failed the Android build because `leviticus.js` was omitted from the copy list, and existing Exodus tests still assumed three episodes/33 scenes. This branch repairs only shared packaging and test expectations: it copies the existing script, verifies all eight original manuscripts (293 paragraphs/72 scenes), and checks actual episode transitions. No story text, scene data, or story renderer is changed. Full local `npm run check` passes; required GitHub mobile-browser and Capacitor checks remain pending before merge.
+The Psalms 13–15 batch also includes the existing `leviticus.js` in the Android web copy list and updates the shared Exodus checks to cover all eight original manuscripts (293 paragraphs across 72 scenes) and actual episode transitions. Story text, scene data, and story renderers are unchanged. Full source, mobile-browser, offline-asset, and Capacitor checks passed for the implementation before publication.
