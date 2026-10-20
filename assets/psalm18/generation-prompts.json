@@ -1,7 +1,7 @@
 {
   "tool": "built-in image_gen.imagegen",
   "styleReference": "assets/psalm23/verse-2-watercolor.webp",
-  "status": "unpublished partial draft; forty-two individually generated and inspected paintings for verses 1–42; verses 43–50 unfinished",
+  "status": "unpublished editorial/art draft; fifty individually generated and inspected paintings for verses 1–50; integration and whole-chapter completion gate pending",
   "paintings": [
     {
       "verse": 1,
@@ -300,6 +300,62 @@
       "status": "generated and visually inspected",
       "generatedOriginal": "exec-28f05693-4053-497e-b761-958e993013e3.png",
       "production": "assets/psalm18/verse-42-watercolor.webp"
+    },
+    {
+      "verse": 43,
+      "prompt": "Use case: illustration-story. Asset: one distinct individual verse watercolor for Scripture for Life, wide 3:2. Input image is Psalm23:2 STYLE REFERENCE ONLY; do not copy its sheep or river composition. Match refined adult devotional naturalistic watercolor, translucent washes, delicately observed limestone and plants, ivory paper grain, muted sage and forest greens, restrained earth/gold palette, atmospheric distance, full-bleed landscape with central 80% safe. Symbolic invented scene responding to Psalm18, NOT a reconstruction or identified historical event. No words, letters, symbols, heraldry, logos, border, watermark, modern objects, gore, injured bodies, divine figure, divine body parts, halo or supernatural human. No national/ethnic caricatures or triumphal humiliation. Scene: A plain empty ancient royal stone seat on a low terrace overlooks several branching roads through different distant hill settlements. Warm late afternoon. Symbolic royal authority and a wider horizon; no king, people bowing, maps, flags or identifiable city.",
+      "generatedOriginal": "exec-c7c342ec-e1f6-4257-8be6-a3213fdf871a.png",
+      "production": "assets/psalm18/verse-43-watercolor.webp",
+      "status": "generated and visually inspected"
+    },
+    {
+      "verse": 44,
+      "prompt": "Use case: illustration-story. Asset: one distinct individual verse watercolor for Scripture for Life, wide 3:2. Input image is Psalm23:2 STYLE REFERENCE ONLY; do not copy its sheep or river composition. Match refined adult devotional naturalistic watercolor, translucent washes, delicately observed limestone and plants, ivory paper grain, muted sage and forest greens, restrained earth/gold palette, atmospheric distance, full-bleed landscape with central 80% safe. Symbolic invented scene responding to Psalm18, NOT a reconstruction or identified historical event. No words, letters, symbols, heraldry, logos, border, watermark, modern objects, gore, injured bodies, divine figure, divine body parts, halo or supernatural human. No national/ethnic caricatures or triumphal humiliation. Scene: Two small anonymous adult travelers in plain undyed ancient clothing pause anxiously just inside a quiet stone gateway, listening toward an unseen speaker outside the frame. Hands relaxed at their sides, no forced bowing, guards, chains or weapons. Restrained tension, not celebration or ethnic portrait.",
+      "generatedOriginal": "exec-1b572304-6a53-4454-8493-4dfaa919bdcc.png",
+      "production": "assets/psalm18/verse-44-watercolor.webp",
+      "status": "generated and visually inspected"
+    },
+    {
+      "verse": 45,
+      "prompt": "Use case: illustration-story. Asset: one distinct individual verse watercolor for Scripture for Life, wide 3:2. Input image is Psalm23:2 STYLE REFERENCE ONLY; do not copy its sheep or river composition. Match refined adult devotional naturalistic watercolor, translucent washes, delicately observed limestone and plants, ivory paper grain, muted sage and forest greens, restrained earth/gold palette, atmospheric distance, full-bleed landscape with central 80% safe. Symbolic invented scene responding to Psalm18, NOT a reconstruction or identified historical event. No words, letters, symbols, heraldry, logos, border, watermark, modern objects, gore, injured bodies, divine figure, divine body parts, halo or supernatural human. No national/ethnic caricatures or triumphal humiliation. Scene: A small distant group of plainly robed adults cautiously leaves the shadow of a rugged hill stronghold through a narrow entrance into open light, hesitant posture. No specific nation, captivity, armed victor or humiliation. Wide stony foreground, somber muted sky.",
+      "generatedOriginal": "exec-93656f7b-85ed-4f40-aebe-461670186414.png",
+      "production": "assets/psalm18/verse-45-watercolor.webp",
+      "status": "generated and visually inspected"
+    },
+    {
+      "verse": 46,
+      "prompt": "Use case: illustration-story. Asset: one distinct individual verse watercolor for Scripture for Life, wide 3:2. Input image is Psalm23:2 STYLE REFERENCE ONLY; do not copy its sheep or river composition. Match refined adult devotional naturalistic watercolor, translucent washes, delicately observed limestone and plants, ivory paper grain, muted sage and forest greens, restrained earth/gold palette, atmospheric distance, full-bleed landscape with central 80% safe. Symbolic invented scene responding to Psalm18, NOT a reconstruction or identified historical event. No words, letters, symbols, heraldry, logos, border, watermark, modern objects, gore, injured bodies, divine figure, divine body parts, halo or supernatural human. No national/ethnic caricatures or triumphal humiliation. Scene: A massive immovable limestone outcrop above an olive valley catches fresh dawn light after clearing clouds. Emphasize enduring rock and renewed brightness as symbols of praise; no human or divine figure, throne, face in rock, temple or writing.",
+      "generatedOriginal": "exec-3c04bd98-0b56-4a4b-9e43-4f935e36b319.png",
+      "production": "assets/psalm18/verse-46-watercolor.webp",
+      "status": "generated and visually inspected"
+    },
+    {
+      "verse": 47,
+      "prompt": "Use case: illustration-story. Asset: one distinct individual verse watercolor for Scripture for Life, wide 3:2. Input image is Psalm23:2 STYLE REFERENCE ONLY; do not copy its sheep or river composition. Match refined adult devotional naturalistic watercolor, translucent washes, delicately observed limestone and plants, ivory paper grain, muted sage and forest greens, restrained earth/gold palette, atmospheric distance, full-bleed landscape with central 80% safe. Symbolic invented scene responding to Psalm18, NOT a reconstruction or identified historical event. No words, letters, symbols, heraldry, logos, border, watermark, modern objects, gore, injured bodies, divine figure, divine body parts, halo or supernatural human. No national/ethnic caricatures or triumphal humiliation. Scene: An unmarked ancient balance scale stands level on an empty rough stone ledge; a broken weapon shaft lies far below on the ground, broad valley beyond. Somber symbol of judgment and restrained violence, not proof of a narrated courtroom. No judge, divine person, prisoners or national standards.",
+      "generatedOriginal": "exec-f945cbbd-d95d-4985-9180-14dafce764eb.png",
+      "production": "assets/psalm18/verse-47-watercolor.webp",
+      "status": "generated and visually inspected"
+    },
+    {
+      "verse": 48,
+      "prompt": "Use case: illustration-story. Asset: one distinct individual verse watercolor for Scripture for Life, wide 3:2. Input image is Psalm23:2 STYLE REFERENCE ONLY; do not copy its sheep or river composition. Match refined adult devotional naturalistic watercolor, translucent washes, delicately observed limestone and plants, ivory paper grain, muted sage and forest greens, restrained earth/gold palette, atmospheric distance, full-bleed landscape with central 80% safe. Symbolic invented scene responding to Psalm18, NOT a reconstruction or identified historical event. No words, letters, symbols, heraldry, logos, border, watermark, modern objects, gore, injured bodies, divine figure, divine body parts, halo or supernatural human. No national/ethnic caricatures or triumphal humiliation. Scene: A lone small anonymous traveler in plain ancient clothes stands safely on an open high ridge, leaving a narrow shadowed ravine behind, warm light across the shoulder and open landscape ahead. No pursuers, visible rescue mechanism or divine figure. Deliverance from danger is symbolic, not reconstruction.",
+      "generatedOriginal": "exec-e32cb58c-0254-4a3f-a01d-0c3193e01abd.png",
+      "production": "assets/psalm18/verse-48-watercolor.webp",
+      "status": "generated and visually inspected"
+    },
+    {
+      "verse": 49,
+      "prompt": "Use case: illustration-story. Asset: one distinct individual verse watercolor for Scripture for Life, wide 3:2. Input image is Psalm23:2 STYLE REFERENCE ONLY; do not copy its sheep or river composition. Match refined adult devotional naturalistic watercolor, translucent washes, delicately observed limestone and plants, ivory paper grain, muted sage and forest greens, restrained earth/gold palette, atmospheric distance, full-bleed landscape with central 80% safe. Symbolic invented scene responding to Psalm18, NOT a reconstruction or identified historical event. No words, letters, symbols, heraldry, logos, border, watermark, modern objects, gore, injured bodies, divine figure, divine body parts, halo or supernatural human. No national/ethnic caricatures or triumphal humiliation. Scene: A plainly dressed anonymous adult sits with a simple wooden lyre on a low stone terrace, a few other adult listeners in varied plain earth-colored ancient robes nearby, open paths and hills beyond. Quiet shared song, no court ceremony or ethnic caricature. Human singer is not God or a certain portrait of David.",
+      "generatedOriginal": "exec-32230ef1-c378-4033-a19f-0d31ac15aa70.png",
+      "production": "assets/psalm18/verse-49-watercolor.webp",
+      "status": "generated and visually inspected"
+    },
+    {
+      "verse": 50,
+      "prompt": "Use case: illustration-story. Asset: one distinct individual verse watercolor for Scripture for Life, wide 3:2. Input image is Psalm23:2 STYLE REFERENCE ONLY; do not copy its sheep or river composition. Match refined adult devotional naturalistic watercolor, translucent washes, delicately observed limestone and plants, ivory paper grain, muted sage and forest greens, restrained earth/gold palette, atmospheric distance, full-bleed landscape with central 80% safe. Symbolic invented scene responding to Psalm18, NOT a reconstruction or identified historical event. No words, letters, symbols, heraldry, logos, border, watermark, modern objects, gore, injured bodies, divine figure, divine body parts, halo or supernatural human. No national/ethnic caricatures or triumphal humiliation. Scene: An undecorated olive-wood royal staff rests beside an old olive trunk with a vigorous young offshoot and deeper grove receding through morning mist. A restrained symbolic pairing of kingship and enduring family line. No crown heraldry, writing, literal genealogy, divine figure or coronation.",
+      "generatedOriginal": "exec-1d9fd76d-b188-49b0-9094-a42d4f710911.png",
+      "production": "assets/psalm18/verse-50-watercolor.webp",
+      "status": "generated and visually inspected"
     }
   ]
 }
