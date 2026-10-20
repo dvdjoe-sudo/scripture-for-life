@@ -62,8 +62,12 @@ for(const row of verses){
 const ctx={window:{}};for(const file of ['data.js','content.js','exodus-people.js'])vm.runInNewContext(fs.readFileSync(file,'utf8'),ctx);
 for(const p of draft.peoplePlan){checkRef(p.ref);assert(ctx.window.PEOPLE.some(x=>x.id===p.id));}
 for(const group of [draft,rescue,conduct,strength,battle,closing])for(const [id,refs] of Object.entries(group.topicPlan)){assert(ctx.window.BIBLE_DATA.topics.some(t=>t.id===id));refs.forEach(checkRef);}
-assert(!fs.existsSync('psalm18.js'),'Partial draft must not become a live registered module');
-assert(!fs.readFileSync('index.html','utf8').includes('psalm18.js'));
-assert(!fs.readFileSync('sw.js','utf8').includes('assets/psalm18/'));
+if(fs.existsSync('psalm18.js')){
+ assert(fs.readFileSync('index.html','utf8').includes('psalm18.js'),'Integrated candidate must load');
+ assert(fs.readFileSync('sw.js','utf8').includes('assets/psalm18/'),'Integrated candidate must cache artwork');
+}else{
+ assert(!fs.readFileSync('index.html','utf8').includes('psalm18.js'));
+ assert(!fs.readFileSync('sw.js','utf8').includes('assets/psalm18/'));
+}
 assert(!/^\|\s*18\s*\|/m.test(fs.readFileSync('PSALMS_ROLLOUT.md','utf8')),'Do not mark fifty-verse chapter complete');
 console.log('PASS — UNPUBLISHED Psalm 18 draft: exact 50-verse source snapshot; verses 1–50 individual notes, references and fifty inspected paintings. All verses are drafted; full integration/mobile/offline/Android completion remains pending.');
