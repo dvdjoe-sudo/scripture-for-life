@@ -1,7 +1,7 @@
 {
   "tool": "built-in image_gen.imagegen",
   "styleReference": "assets/psalm23/verse-2-watercolor.webp",
-  "status": "unpublished partial draft; thirty-four individually generated and inspected paintings for verses 1–34; verses 35–50 unfinished",
+  "status": "unpublished partial draft; forty-two individually generated and inspected paintings for verses 1–42; verses 43–50 unfinished",
   "paintings": [
     {
       "verse": 1,
@@ -242,6 +242,64 @@
       "status": "generated and visually inspected",
       "generatedOriginal": "exec-5adb7212-730d-49ca-a71a-27a8ca5be346.png",
       "production": "assets/psalm18/verse-34-watercolor.webp"
+    },
+    {
+      "verse": 35,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse watercolor for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Imagined symbolic places and anonymous people, not a named historical event. No God as human, divine face/body/hand/feet, supernatural people, halos, text, labels, letters, panels, frame, watermark, modern objects, blood, wounds, injured bodies or graphic violence. Human figures are ordinary people, never God. Natural anatomy.\nScene: Psalm 18:35, shield of salvation, upholding and gentleness. A plain ancient round shield leans beside a broad olive trunk, while a soft young olive shoot grows protected at its base between secure stones; quiet morning light. Close intimate still life of strength with gentleness, no weapons raised, human figure, sky hand or literal portrayal of God's right hand. Distinct from shield under rainy rock shelter; choose living olive roots and vulnerable new growth as symbolic accompaniment, not a narrated event.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-2b378428-f4bb-4493-9f0e-920fcbcfa8ae.png",
+      "production": "assets/psalm18/verse-35-watercolor.webp"
+    },
+    {
+      "verse": 36,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse watercolor for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Imagined symbolic places and anonymous people, not a named historical event. No God as human, divine face/body/hand/feet, supernatural people, halos, text, labels, letters, panels, frame, watermark, modern objects, blood, wounds, injured bodies or graphic violence. Human figures are ordinary people, never God. Natural anatomy.\nScene: Psalm 18:36, broadened path and ankles not giving way. Low close view of an ordinary traveler's sandal-clad feet standing securely on a broad level limestone footpath, robe hem visible, full path widening into a gentle olive hillside beyond. Firm dry stones, soft afternoon light. No narrow cliff, perilous jump, injury or divine feet. These are an ordinary human traveler's feet as symbolic steadiness, not a portrait of David. Respectful anatomy with two feet only.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-b4157c4f-6882-472c-ae02-c19590daa442.png",
+      "production": "assets/psalm18/verse-36-watercolor.webp"
+    },
+    {
+      "verse": 37,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse watercolor for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Imagined symbolic places and anonymous people, not a named historical event. No God as human, divine face/body/hand/feet, supernatural people, halos, text, labels, letters, panels, frame, watermark, modern objects, blood, wounds, injured bodies or graphic violence. Human figures are ordinary people, never God. Natural anatomy.\nScene: Psalm 18:37, pursuing enemies and not turning back. Empty ancient rocky route stretches forward beyond an abandoned plain battle standard lying on the ground, distant uninhabited ridge and wind-swept dust, no figures. A solemn symbolic landscape of pursuit in a royal victory song, not a peaceful denial of warfare and not an invented actual battle. No bodies, victims, blood, army, triumphal hero or visible divine figure. Long forward perspective, restrained earth and sage palette. Revision constraint: the fallen standard must be completely plain unmarked undyed linen on a simple rough wooden pole. Absolutely no heraldry, lions, animals, crests, motifs, embroidery, gold designs, colored royal banners or identifying symbols. No spearhead finial. Keep the empty road as primary subject.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-19066504-1978-4078-a11a-6e9de639b7e6.png",
+      "production": "assets/psalm18/verse-37-watercolor.webp",
+      "discardedOriginal": "exec-5ec3d23a-f4e7-4c16-80f7-0550be92b5c6.png",
+      "revisionReason": "Remove invented decorative heraldry; select an unmarked linen standard."
+    },
+    {
+      "verse": 38,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse watercolor for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Imagined symbolic places and anonymous people, not a named historical event. No God as human, divine face/body/hand/feet, supernatural people, halos, text, labels, letters, panels, frame, watermark, modern objects, blood, wounds, injured bodies or graphic violence. Human figures are ordinary people, never God. Natural anatomy.\nScene: Psalm 18:38, defeated foes unable to rise. A broken wooden spear shaft and an overturned plain shield lie on an empty stony clearing beneath a somber sky, tiny resilient grasses between stones. Restrained symbolic aftermath of defeat, no fallen people, feet on bodies, gore or trophies. Not an archaeological record or named battlefield. Close low still-life perspective, materially different from a receding road and fallen standard.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-95a8c5ac-0e1d-42d9-92bc-f3def80998a7.png",
+      "production": "assets/psalm18/verse-38-watercolor.webp"
+    },
+    {
+      "verse": 39,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse watercolor for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Imagined symbolic places and anonymous people, not a named historical event. No God as human, divine face/body/hand/feet, supernatural people, halos, text, labels, letters, panels, frame, watermark, modern objects, blood, wounds, injured bodies or graphic violence. Human figures are ordinary people, never God. Natural anatomy.\nScene: Psalm 18:39, armed with strength for battle and foes subdued. A plain ancient linen belt, a simple unused bronze-colored bow and a round shield rest in careful order on a stone ledge overlooking a quiet valley. No person, no defeated captives, no divine hand giving weapons, no modern gear. Symbolic received readiness in a royal battle context, not equipment inventory from a named event. Distinct high still-life view with broad atmospheric distance, restrained light.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-a6ea6b75-c059-4a16-aaaa-adfb3af68eac.png",
+      "production": "assets/psalm18/verse-39-watercolor.webp"
+    },
+    {
+      "verse": 40,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse watercolor for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Imagined symbolic places and anonymous people, not a named historical event. No God as human, divine face/body/hand/feet, supernatural people, halos, text, labels, letters, panels, frame, watermark, modern objects, blood, wounds, injured bodies or graphic violence. Human figures are ordinary people, never God. Natural anatomy.\nScene: Psalm 18:40, enemies retreating and those who hated the singer destroyed. An empty ancient stone gateway stands open toward an uninhabited distant road, several abandoned simple shields and a collapsed unlettered standard beside the gate; dust is settling in late light. A sober symbolic image of retreat and defeat, not a celebratory invitation to hate or harm anyone. No human figures, corpses, ruined homes, civilians or flames. Gate frames depth; no throne or divine face.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-e0742784-7999-4e5d-bd04-4b42a04e2003.png",
+      "production": "assets/psalm18/verse-40-watercolor.webp"
+    },
+    {
+      "verse": 41,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse watercolor for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Imagined symbolic places and anonymous people, not a named historical event. No God as human, divine face/body/hand/feet, supernatural people, halos, text, labels, letters, panels, frame, watermark, modern objects, blood, wounds, injured bodies or graphic violence. Human figures are ordinary people, never God. Natural anatomy.\nScene: Psalm 18:41, foes crying for help but no saving answer. An empty stone courtyard under a heavy overcast evening sky, a discarded plain shield and loose unknotted cord on the ground near a closed unadorned distant doorway. Deep solemn quiet rather than horror or triumph. Symbolic unanswered appeal in a royal battle poem, not an image of victims deserving abandonment. No people begging, cruelty, injured bodies, written prayers, divine listener or supernatural judgment. Respectful sparse composition, cool muted sage and stone.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-603baaaa-26c7-4480-8083-2033f57fe9bf.png",
+      "production": "assets/psalm18/verse-41-watercolor.webp"
+    },
+    {
+      "verse": 42,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse watercolor for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Imagined symbolic places and anonymous people, not a named historical event. No God as human, divine face/body/hand/feet, supernatural people, halos, text, labels, letters, panels, frame, watermark, modern objects, blood, wounds, injured bodies or graphic violence. Human figures are ordinary people, never God. Natural anatomy.\nScene: Psalm 18:42, dust before wind and mud in the streets. Close low symbolic view of wind lifting a thin veil of dry dust across an empty ancient stone lane, with a shallow patch of rain-softened mud in the foreground and rough limestone walls at a distance. No people, body parts, blood, literal trampling of humans or gleeful victory imagery. The dust and mud are selected poetic comparisons, not proof of a named battle. Detailed watercolor texture, sober earth colors, small soft light beyond.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-28f05693-4053-497e-b761-958e993013e3.png",
+      "production": "assets/psalm18/verse-42-watercolor.webp"
     }
   ]
 }
