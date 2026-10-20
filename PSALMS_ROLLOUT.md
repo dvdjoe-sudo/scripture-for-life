@@ -21,13 +21,14 @@ Approved goal: extend the Psalm 1 / original Psalm 23 format across all 150 Psal
 | 13 | 6 | `#/study/13/1` |
 | 14 | 7 | `#/study/14/1` |
 | 15 | 5 | `#/study/15/1` |
+| 16 | 11 | `#/study/16/1` |
 | 23 | 6 | `#/study/23/1` |
 
 Psalm 46 has a six-section study covering all eleven verses; it still needs conversion to individual verse pages to meet the new goal. All other Psalms retain their full chapter pages and chapter introductions, rather than being labeled finished verse studies.
 
-Next sequential chapter: **Psalm 16**. Continue in order, keeping the completed Psalm 23 study and arranging Psalm 46's conversion when reached. No new approval is needed for each chapter within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique verse art, or imply that work continues in the background after a session ends.
+Next sequential chapter: **Psalm 17**. Continue in order, keeping the completed Psalm 23 study and arranging Psalm 46's conversion when reached. No new approval is needed for each chapter within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique verse art, or imply that work continues in the background after a session ends.
 
-In review: Psalm 16 on `feature/psalm-16-verse-study`, PR #28. All eleven individual watercolors and verse notes are present; resume this PR and its checks before starting Psalm 17. The chapter remains unpublished until the completion gate passes and the PR is merged.
+Psalm 16 completed its source, phone-width website/packaged-webview, and Capacitor checks in PR #28. All eleven individual watercolors and verse notes are present. The original heading is preserved; notes distinguish the psalm’s trust from its later use in Acts. Publication follows the merge of PR #28; if it is still open, finish that PR before starting Psalm 17. These checks do not constitute native APK or device testing.
 
 ## Completion gate for each batch
 

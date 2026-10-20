@@ -1,6 +1,6 @@
-# Psalm 16 verse watercolors — unpublished work in progress
+# Psalm 16 verse watercolors
 
-All eleven individual paintings have been generated and visually inspected. The branch now includes verse-specific notes and integration; it remains unpublished until source, mobile-browser, and Android web-bundle checks pass and its PR is merged.
+All eleven individual paintings were generated with the built-in image tool and visually inspected. Each verse has its own Meaning, Context, Explore and Reflect notes. Source, phone-width browser, Android web-bundle parity, and Capacitor sync checks passed before publication via PR #28. Native APK and device testing are separate and were not performed by these checks.
 
 Built-in image generation uses `assets/psalm23/verse-2-watercolor.webp` as a style reference. Full prompts and original filenames are recorded in `generation-prompts.json`. Production images are 1280 × 853 WebP at quality 82. Figures and places are symbolic, not historical reconstructions; no human figure represents God.
 
