@@ -1,0 +1,70 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "status": "nine distinct originals and production WebPs generated and visually inspected; whole-chapter gate passed in CI 39491437968 and 39491431902; publication follows tested PR #40 merge and deployment",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not its sheep, subject or layout. Refined naturalistic adult devotional watercolor; translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth tones, restrained gold, atmospheric depth. Full-bleed landscape, important subjects within central 80%. Symbolic response to Psalm20, not a historical reconstruction, identified battle, portrait of David or Jacob, or divine body. No text, writing on scrolls, lettering, symbols on banners, labels, logos, borders, halos, divine hands, faces in sky, gods, modern objects, gore, battle wounds or cartoon style. Scene: An anonymous robed adult stands in prayer within the shelter of a broad limestone outcrop as a passing wind bends grasses on the open hill beyond. Soft clearing light, grounded shelter, no visible supernatural rescuer. Open hands natural and small in frame.",
+      "production": "assets/psalm20/verse-1-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-c63fd6d2-74e5-4765-ab22-112ed813d7b4.png"
+    },
+    {
+      "verse": 2,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not its sheep, subject or layout. Refined naturalistic adult devotional watercolor; translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth tones, restrained gold, atmospheric depth. Full-bleed landscape, important subjects within central 80%. Symbolic response to Psalm20, not a historical reconstruction, identified battle, portrait of David or Jacob, or divine body. No text, writing on scrolls, lettering, symbols on banners, labels, logos, borders, halos, divine hands, faces in sky, gods, modern objects, gore, battle wounds or cartoon style. Scene: A narrow olive-lined ascending path leads toward a very modest ancient sanctuary courtyard on a distant hill: low pale stone enclosure and a small plain linen canopy, no grand temple, no claim of exact Zion architecture. A traveler pauses below the hill. Suggest hoped-for help, not a reconstruction.",
+      "production": "assets/psalm20/verse-2-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-fb612268-6a06-4ab2-91ee-de46f2589e01.png"
+    },
+    {
+      "verse": 3,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not its sheep, subject or layout. Refined naturalistic adult devotional watercolor; translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth tones, restrained gold, atmospheric depth. Full-bleed landscape, important subjects within central 80%. Symbolic response to Psalm20, not a historical reconstruction, identified battle, portrait of David or Jacob, or divine body. No text, writing on scrolls, lettering, symbols on banners, labels, logos, borders, halos, divine hands, faces in sky, gods, modern objects, gore, battle wounds or cartoon style. Scene: A few simple gifts sit on rough limestone near a small low stone altar with only warm embers: a clay jar, folded plain linen and a shallow grain bowl. No animal, no blood, no transaction or wealth. Quiet pause at sunset, olive hills beyond; chosen symbolic props, not a catalog of items in the verse.",
+      "production": "assets/psalm20/verse-3-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-87dd425a-9b65-48db-b666-00b2db414292.png"
+    },
+    {
+      "verse": 4,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not its sheep, subject or layout. Refined naturalistic adult devotional watercolor; translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth tones, restrained gold, atmospheric depth. Full-bleed landscape, important subjects within central 80%. Symbolic response to Psalm20, not a historical reconstruction, identified battle, portrait of David or Jacob, or divine body. No text, writing on scrolls, lettering, symbols on banners, labels, logos, borders, halos, divine hands, faces in sky, gods, modern objects, gore, battle wounds or cartoon style. Scene: An anonymous adult sits at a simple stone ledge considering an unmarked scroll with both hands resting naturally nearby. The hillside path beyond bends out of view among olive trees. Reflective planning and hope, not a visible guarantee of success, no readable writing.",
+      "production": "assets/psalm20/verse-4-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-dac0d762-2059-4d73-b552-a3c60b223195.png"
+    },
+    {
+      "verse": 5,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not its sheep, subject or layout. Refined naturalistic adult devotional watercolor; translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth tones, restrained gold, atmospheric depth. Full-bleed landscape, important subjects within central 80%. Symbolic response to Psalm20, not a historical reconstruction, identified battle, portrait of David or Jacob, or divine body. No text, writing on scrolls, lettering, symbols on banners, labels, logos, borders, halos, divine hands, faces in sky, gods, modern objects, gore, battle wounds or cartoon style. Scene: A small gathering of three anonymous adults stands peacefully on a broad hillside in a gesture of shared gladness; one holds a plain sage cloth banner on a wooden pole. No symbols or letters on cloth, no modern national flag, no conquered people or weapons. Soft morning valley.",
+      "production": "assets/psalm20/verse-5-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-bdd6b3b3-1c31-4668-bba7-803e637dfc11.png"
+    },
+    {
+      "verse": 6,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not its sheep, subject or layout. Refined naturalistic adult devotional watercolor; translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth tones, restrained gold, atmospheric depth. Full-bleed landscape, important subjects within central 80%. Symbolic response to Psalm20, not a historical reconstruction, identified battle, portrait of David or Jacob, or divine body. No text, writing on scrolls, lettering, symbols on banners, labels, logos, borders, halos, divine hands, faces in sky, gods, modern objects, gore, battle wounds or cartoon style. Scene: A plain small royal circlet and clay oil flask rest on folded linen on a limestone ledge under a vast luminous open sky. No king or other human present. The ordinary objects symbolize an anointed ruler, while heaven stays natural with no figure or supernatural hand.",
+      "production": "assets/psalm20/verse-6-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-92e6a71e-ccd9-4385-a4dd-edbd8842e37f.png"
+    },
+    {
+      "verse": 7,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not its sheep, subject or layout. Refined naturalistic adult devotional watercolor; translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth tones, restrained gold, atmospheric depth. Full-bleed landscape, important subjects within central 80%. Symbolic response to Psalm20, not a historical reconstruction, identified battle, portrait of David or Jacob, or divine body. No text, writing on scrolls, lettering, symbols on banners, labels, logos, borders, halos, divine hands, faces in sky, gods, modern objects, gore, battle wounds or cartoon style. Scene: An unoccupied simple ancient wooden two-wheeled chariot is parked beside a calm ordinary horse on a hillside track; no rider, army, weapon or conflict. Broad olive valley and spacious sky draw attention beyond the equipment. Naturalistic correct wheels and horse anatomy, no divine chariot.",
+      "production": "assets/psalm20/verse-7-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-ba42e7f9-5e04-4863-a1c5-1e0335a7963d.png"
+    },
+    {
+      "verse": 8,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not its sheep, subject or layout. Refined naturalistic adult devotional watercolor; translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth tones, restrained gold, atmospheric depth. Full-bleed landscape, important subjects within central 80%. Symbolic response to Psalm20, not a historical reconstruction, identified battle, portrait of David or Jacob, or divine body. No text, writing on scrolls, lettering, symbols on banners, labels, logos, borders, halos, divine hands, faces in sky, gods, modern objects, gore, battle wounds or cartoon style. Scene: Two anonymous robed adults regain stable footing on firm limestone after a rough rocky section of trail, one offering an ordinary human hand to the other. Calm determination, neither injured nor shamed. No enemies, battlefield, supernatural force or miraculous healing; an added symbolic scene of standing together.",
+      "production": "assets/psalm20/verse-8-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-28fdc983-92e4-428f-9913-50ccdff4f298.png"
+    },
+    {
+      "verse": 9,
+      "prompt": "Use case: illustration-story. Asset: one individual verse painting for Scripture for Life, wide 3:2. Input image: Psalm23:2 STYLE REFERENCE ONLY, not its sheep, subject or layout. Refined naturalistic adult devotional watercolor; translucent washes, ivory paper grain, delicately observed forms, forest and sage greens, muted limestone and earth tones, restrained gold, atmospheric depth. Full-bleed landscape, important subjects within central 80%. Symbolic response to Psalm20, not a historical reconstruction, identified battle, portrait of David or Jacob, or divine body. No text, writing on scrolls, lettering, symbols on banners, labels, logos, borders, halos, divine hands, faces in sky, gods, modern objects, gore, battle wounds or cartoon style. Scene: An anonymous modestly crowned seated ruler and two ordinary standing people pause together in prayer by an open simple ancient stone gateway facing a quiet olive valley. Natural human proportions and hands, restrained clothing. No throne room spectacle, battle, divine figure, named king or portrait of David.",
+      "production": "assets/psalm20/verse-9-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-23ef6a90-956f-40bc-b92d-169fe5c1c083.png"
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "chapter": 20,
+  "status": "whole-chapter editorial/art/browser/Capacitor gate passed in CI 39491437968 and 39491431902; publication follows tested PR #40 merge and deployment",
+  "sourceReview": "Read all bundled BSB Psalm 20, Psalm 21, Psalm 33, Psalm 46, Psalm 121, 1 Samuel 7 and 2 Chronicles 20 before writing. Related connections are literary comparisons, not an invented historical setting.",
+  "topicPlan": {
+    "fear": [
+      "Psalm 20:1"
+    ],
+    "strength": [
+      "Psalm 20:2",
+      "Psalm 20:8"
+    ],
+    "direction": [
+      "Psalm 20:4",
+      "Psalm 20:7"
+    ],
+    "gratitude": [
+      "Psalm 20:5"
+    ]
+  },
+  "study": {
+    "number": 20,
+    "coverVerse": 7,
+    "title": "We trust in the name of the LORD.",
+    "intro": "Nine verses hold a community’s prayer for its king: help in trouble, hopes entrusted to God, and confidence beyond military strength.",
+    "context": "The heading names David but supplies no particular campaign. The king and the LORD’s anointed give the poem a royal setting, while chariots and horses suggest the danger in which help is sought. Verses 1–4 address you; verse 5 brings in we, verse 6 says I know, and verses 7–9 return to shared trust and petition. These changes of voice matter even though the text does not identify every singer. Psalm 21’s opening thanksgiving offers a useful literary comparison, not proof of a reconstructed occasion. Keep the BSB’s Selah in verse 3 and its closing appeal to the LORD to save the king.",
+    "peopleNote": "David is named in the heading; Jacob is named as the ancestor associated with the God being invoked. Their profiles provide background, not a claim that Jacob is present or that a particular battle from David’s life is being narrated. Paintings use anonymous people and imagined objects and landscapes. No person, crown, light or hand represents God’s literal body.",
+    "people": [
+      {
+        "id": "david",
+        "name": "David",
+        "ref": "Psalm 20:1"
+      },
+      {
+        "id": "jacob",
+        "name": "Jacob",
+        "ref": "Psalm 20:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "In the day of trouble",
+        "heading": "A blessing asks for an answer and protection",
+        "meaning": "The song opens by asking the LORD to answer someone in trouble and to protect that person through His name. The rest of the poem identifies the royal concern, so this is more than an isolated wish for any desired outcome. The name of the God of Jacob invokes the God known in Israel’s story, not a phrase to use as a charm. The heading names David without giving the date or cause of the trouble. Readers may receive language for praying for another person while keeping room for practical help, honest fear and outcomes they cannot control.",
+        "contextTitle": "A royal prayer begins with a personal address",
+        "context": "Verses 1–4 repeatedly address you, before we appears in verse 5 and the king is named in verse 9. Jacob’s name identifies the God invoked, not a person standing among the singers. Psalm 46:7 also brings God of Jacob and refuge language together.",
+        "explore": [
+          [
+            "May the LORD answer you",
+            "The wording is a petition spoken for another person. It is not a report that the trouble has already ended."
+          ],
+          [
+            "The name of the God of Jacob",
+            "Name expresses the identity and faithfulness of the one called upon. Jacob’s profile is background, not a historical setting for this prayer."
+          ]
+        ],
+        "reflect": "Who comes to mind when you hear a prayer for someone in trouble? What words and practical support could you offer that person?",
+        "related": [
+          "Psalm 20:2",
+          "Psalm 20:9",
+          "Psalm 46:7"
+        ],
+        "alt": "An anonymous adult prays beneath a sheltering limestone outcrop as wind crosses the open hills.",
+        "art": "assets/psalm20/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Help from Zion",
+        "heading": "The request looks toward God’s sanctuary for sustaining help",
+        "meaning": "Help and sustaining strength are sought from the sanctuary and Zion. The language joins worship with the danger facing the person being addressed: the community’s hope is not confined to what military preparation can provide. Zion belongs to the poem’s place-language for God’s presence among His people. It is not a claim that distance from a building makes someone less able to receive care. The small hilltop court in the watercolor is an artistic symbol, not a reconstruction of the sanctuary’s architecture or a claim that the poem depicts Solomon’s later temple.",
+        "contextTitle": "A second petition after the request to be heard",
+        "context": "Verse 2 continues the repeated requests of verses 1–4 and leads to the offerings in verse 3. Holy heaven in verse 6 will widen the language beyond the earthly sanctuary. Psalm 121:1–2 similarly asks where help comes from and answers by naming the LORD.",
+        "explore": [
+          [
+            "From the sanctuary",
+            "The request places trust in God rather than treating worship as disconnected from danger. The source gives no architectural description to reproduce."
+          ],
+          [
+            "Sustain you from Zion",
+            "Sustaining help is asked for, not purchased or mechanically guaranteed by reaching a location. The hillside path is a symbolic addition."
+          ]
+        ],
+        "reflect": "Where do you turn when you need sustaining help? What could it mean to receive support rather than carry the whole burden alone?",
+        "related": [
+          "Psalm 20:1",
+          "Psalm 20:3",
+          "Psalm 20:6",
+          "Psalm 121:2"
+        ],
+        "alt": "An olive-lined path rises toward a modest imagined stone courtyard and linen canopy on a distant hill.",
+        "art": "assets/psalm20/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Remember your offerings",
+        "heading": "Worship is brought into the prayer, followed by Selah",
+        "meaning": "The singers ask God to remember the gifts and look favorably on the burnt offerings of the person for whom they pray. Remember here concerns regard and response, not a suggestion that God has misplaced information. The offerings belong to the worship reflected in this royal prayer. The verse must not become a claim that a larger donation buys safety or that someone in need has failed to give enough. Selah remains in the exact Scripture. Readers can pause with the connection between worship and dependence without inventing an exact meaning for that marker or recreating an offering ritual.",
+        "contextTitle": "An offering petition within the opening blessings",
+        "context": "Verse 3 follows the sanctuary language and ends with Selah before the prayer for desires and plans. In 1 Samuel 7:8–12, intercession and an offering also occur in a time of danger; that separate narrative is a comparison, not the proven occasion of this psalm.",
+        "explore": [
+          [
+            "Remember all your gifts",
+            "The concern is that worship be regarded favorably. It is not a financial bargain or a test of a reader’s ability to give."
+          ],
+          [
+            "Selah",
+            "The marker is preserved without claiming its precise performance instruction is known. The jar, cloth and grain are selected artistic symbols, not a list supplied by this verse."
+          ]
+        ],
+        "reflect": "How does giving or worship relate to what you hope for? What helps you offer something freely without treating it as a purchase of an outcome?",
+        "related": [
+          "Psalm 20:2",
+          "Psalm 20:4",
+          "1 Samuel 7:8",
+          "1 Samuel 7:9"
+        ],
+        "alt": "Simple gifts rest near a low stone altar with warm embers, beneath an olive tree at sunset.",
+        "art": "assets/psalm20/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Desires and plans",
+        "heading": "The community entrusts the king’s hopes to God",
+        "meaning": "The singers ask that the desires of the heart be granted and plans succeed. This generous blessing belongs within the prayer for the king and the community’s safety, not a blank check for every private ambition. The line is addressed to God as a request; it does not declare that wanting something strongly makes it right or certain. Verse 7 will locate trust beyond visible power. Readers can name plans honestly while allowing their aims to be examined and their course to change. The unmarked scroll is a symbol of planning, not a document or strategy named in the psalm.",
+        "contextTitle": "The final blessing before the singers speak of we",
+        "context": "Verse 4 continues the series of May petitions, and verse 5 brings the community’s hope of shared joy into view. Psalm 21:1–2 later describes a king’s desire and request being granted, offering a neighboring literary comparison rather than a guarantee for every reader.",
+        "explore": [
+          [
+            "The desires of your heart",
+            "The verse asks for the royal petitioner’s hopes to be fulfilled. It does not exempt desires from wisdom, care for others or moral examination."
+          ],
+          [
+            "Make all your plans succeed",
+            "This is part of a prayer, not a universal rule that every plan will work. The next verses keep those plans within dependence on God."
+          ]
+        ],
+        "reflect": "Which plan or desire would you like to bring honestly into prayer? What would help you remain open to guidance or a change of course?",
+        "related": [
+          "Psalm 20:5",
+          "Psalm 20:7",
+          "Psalm 21:1",
+          "Psalm 21:2"
+        ],
+        "alt": "An anonymous adult considers an unmarked scroll beside a hillside path that bends among olive trees.",
+        "art": "assets/psalm20/verse-4-watercolor.webp"
+      },
+      {
+        "title": "May we shout for joy",
+        "heading": "The singers hope to share the joy of deliverance",
+        "meaning": "We now enters the prayer. The singers look forward to rejoicing at the addressed person’s victory and raising a banner in the name of their God. The hoped-for deliverance matters to the community, not only to one ruler. They end by asking that the LORD grant the petitions. A banner expresses shared allegiance and celebration in this poem; it is not an endorsement of a modern nation, party or conflict. The painting shows peaceful gladness without defeated people, keeping the hope of rescue separate from enjoyment of another person’s suffering.",
+        "contextTitle": "The opening blessings become a shared hope",
+        "context": "After you in verses 1–4, verse 5 names the singers’ own participation with we and our. The request to grant petitions leads to the confidence voiced in verse 6. No battle result or celebration location is narrated here.",
+        "explore": [
+          [
+            "May we shout for joy",
+            "The desired outcome is shared rather than private. The wording still expresses hope, not a detailed report of a victory already witnessed."
+          ],
+          [
+            "Raise a banner",
+            "The banner is raised in God’s name. Its plain painted cloth avoids modern national or political emblems and does not identify a historical standard."
+          ]
+        ],
+        "reflect": "Whose relief or good outcome would you be glad to share? How could celebration honor that good without humiliating someone else?",
+        "related": [
+          "Psalm 20:4",
+          "Psalm 20:6",
+          "Psalm 20:9",
+          "Psalm 21:1"
+        ],
+        "alt": "Three anonymous adults express shared gladness on a hillside, one holding a plain sage banner.",
+        "art": "assets/psalm20/verse-5-watercolor.webp"
+      },
+      {
+        "title": "His anointed",
+        "heading": "A confident voice grounds saving help in the LORD",
+        "meaning": "Now I know marks a change from repeated wishes to confident affirmation. The LORD saves His anointed and answers from holy heaven with saving power. In the poem’s royal setting, anointed points to the ruler for whom the community prays; the term should not be used to place every leader beyond criticism. The right hand is a poetic image of power, not a divine body to portray. The next line contrasts trust in God with reliance on military resources. A crown and oil flask symbolize the royal language without turning an imagined object into proof of an identified king or event.",
+        "contextTitle": "Confidence between the opening prayer and the trust contrast",
+        "context": "Verse 6 uses I rather than the we of verse 5, but the poem does not name this individual voice. Holy heaven stands alongside the sanctuary of verse 2. The closing prayer in verse 9 shows that confidence and continued petition belong together.",
+        "explore": [
+          [
+            "His anointed",
+            "The king of verse 9 supplies the immediate royal context. The word does not make the ruler divine or every decision of a ruler righteous."
+          ],
+          [
+            "His right hand",
+            "The phrase expresses effective saving power. The open sky contains no figure or hand; the circlet and flask are symbolic human objects."
+          ]
+        ],
+        "reflect": "What grounds your confidence when resources seem uncertain? How can trust remain honest while you continue to ask for help?",
+        "related": [
+          "Psalm 20:2",
+          "Psalm 20:7",
+          "Psalm 20:9",
+          "Psalm 21:7"
+        ],
+        "alt": "A small royal circlet and clay oil flask rest on linen beneath an expansive luminous sky.",
+        "art": "assets/psalm20/verse-6-watercolor.webp"
+      },
+      {
+        "title": "Beyond chariots and horses",
+        "heading": "The community names the source of its trust",
+        "meaning": "Chariots and horses represent visible military power, yet the singers place their trust in the name of the LORD their God. The contrast concerns what finally carries their confidence, not whether every tool, trained helper or practical preparation is wrong. It should not be used to discourage medical care or responsible action. The poem’s our keeps the affirmation communal. The parked equipment in the painting makes the contrast concrete without showing a battle or a divine warrior. Readers can examine what they rely on most while still receiving the ordinary help available to them.",
+        "contextTitle": "A trust contrast after the affirmation of saving power",
+        "context": "Verse 7 follows the LORD’s saving power in verse 6 and prepares for the falling and standing contrast in verse 8. Psalm 33:16–22 similarly weighs kings, armies and horses against hope in God’s loving devotion, ending in shared trust.",
+        "explore": [
+          [
+            "Chariots and horses",
+            "These are resources of military strength in the poem. The illustration depicts them at rest, without inventing a campaign or an enemy."
+          ],
+          [
+            "We trust in the name",
+            "The community names the one on whom it depends. Trust is not a reason to refuse wise preparation or judge the faith of someone who needs support."
+          ]
+        ],
+        "reflect": "What tends to carry your deepest confidence under pressure? How could you hold practical resources gratefully without treating them as your only hope?",
+        "related": [
+          "Psalm 20:6",
+          "Psalm 20:8",
+          "Psalm 33:16",
+          "Psalm 33:17",
+          "Psalm 33:21"
+        ],
+        "alt": "An unoccupied wooden two-wheeled chariot and a calm horse stand beside an open olive valley.",
+        "art": "assets/psalm20/verse-7-watercolor.webp"
+      },
+      {
+        "title": "We rise and stand firm",
+        "heading": "The contrast pictures the hoped-for outcome of trust",
+        "meaning": "They fall while we rise and stand firm: the poem gives its contrast a vivid bodily form. In the royal setting this expresses confidence about opposing powers, not a rule that every person who falls or suffers has trusted wrongly. It is not permission to shame disability, injury or defeat. The singers’ shared stance continues the we of verse 7. The helping hand in the painting is an added symbol of standing together, not an event told in the psalm or a miraculous cure. The final verse will still ask for rescue, so this confident image does not end the need for prayer.",
+        "contextTitle": "The contrast leads back to a request for rescue",
+        "context": "They and we follow the contrasting trusts of verse 7, with no enemies named. Verse 9 returns to asking the LORD to save and answer. Read the confidence and petition together rather than turning this line into a judgment on everyone facing hardship.",
+        "explore": [
+          [
+            "They collapse and fall",
+            "The words express the poem’s contrast concerning opposing strength. They are not a diagnosis of why a particular person today is struggling."
+          ],
+          [
+            "We rise up and stand firm",
+            "The shared voice emphasizes endurance together. The painted companions are anonymous symbols, not a report of a fall or identified rescue."
+          ]
+        ],
+        "reflect": "What helps you and others keep going under pressure? Where might receiving or offering ordinary support make a difference?",
+        "related": [
+          "Psalm 20:7",
+          "Psalm 20:9",
+          "Psalm 33:20",
+          "Psalm 46:1"
+        ],
+        "alt": "Two anonymous travelers help one another gain firm footing on a rough limestone trail.",
+        "art": "assets/psalm20/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Save the king; answer us",
+        "heading": "The poem ends where it began, asking to be heard",
+        "meaning": "The BSB closes with a direct appeal to the LORD to save the king and answer the community when it calls. The opening prayer that God answer you has widened into answer us. The king’s welfare and the people’s need are joined, while the LORD remains the one addressed. The notes preserve this bundled wording instead of silently substituting another rendering of the line. Confidence has not made prayer unnecessary. Readers can end with the community’s dependence without identifying a modern ruler as its exact counterpart or assuming that political loyalty is the same thing as trust in God.",
+        "contextTitle": "The opening day of trouble returns as a day of calling",
+        "context": "Verse 9 names the king explicitly and returns to the answer language of verse 1. Its us gathers the shared voices of the poem. The anonymous ruler in the painting illustrates royal prayer, not a portrait of David or a declaration about a modern government.",
+        "explore": [
+          [
+            "O LORD, save the king",
+            "The LORD is addressed, and the king is the person for whom rescue is sought in the bundled BSB. The king is not portrayed as divine."
+          ],
+          [
+            "Answer us",
+            "The community joins its call to the king’s need. The closing request keeps dependence visible even after the confidence of verses 6–8."
+          ]
+        ],
+        "reflect": "What shared need would you like to bring into prayer with others? How might concern for those who lead remain joined to care for the people affected by them?",
+        "related": [
+          "Psalm 20:1",
+          "Psalm 20:5",
+          "Psalm 20:6",
+          "Psalm 21:1"
+        ],
+        "alt": "An anonymous crowned ruler and two ordinary people pause in prayer by an open stone gateway.",
+        "art": "assets/psalm20/verse-9-watercolor.webp"
+      }
+    ]
+  }
+}
