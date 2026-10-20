@@ -1,7 +1,7 @@
 {
   "tool": "built-in image_gen.imagegen",
   "styleReference": "assets/psalm23/verse-2-watercolor.webp",
-  "status": "unpublished partial draft; ten individually generated and inspected paintings for verses 1–10; verses 11–50 unfinished",
+  "status": "unpublished partial draft; fifteen individually generated and inspected paintings for verses 1–15; verses 16–50 unfinished",
   "paintings": [
     {
       "verse": 1,
@@ -74,6 +74,41 @@
       "status": "generated and visually inspected",
       "generatedOriginal": "exec-970df24a-d841-457f-9bf8-8ba6a901134c.png",
       "production": "assets/psalm18/verse-10-watercolor.webp"
+    },
+    {
+      "verse": 11,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Imagined symbolic landscape, not a historical reconstruction or a scientific illustration. Keep dramatic weather painterly and reverent. Never portray God as a human, face, eyes, nose, mouth, hand, feet, bodily form or figure in clouds. No divine rider, faces in clouds, letters, labels, panels, frame, watermark, modern objects, graphic harm, injured bodies or violence against people.\nScene: Psalm 18:11, darkness as a hiding place and storm clouds as a canopy. A broad, deep canopy of layered charcoal-blue storm clouds arches over an uninhabited limestone valley. The overhead clouds dominate; below, a small stand of olive trees and pale stones catches muted reflected light. No hole suggesting a face, no visible occupant within the canopy, no tent or throne. A distinct low viewpoint, quiet solemn mystery; do not simply repeat the sweeping wind composition.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-dea7444a-eb49-4b2c-a53e-cdb80825e9cf.png",
+      "production": "assets/psalm18/verse-11-watercolor.webp"
+    },
+    {
+      "verse": 12,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Imagined symbolic landscape, not a historical reconstruction or a scientific illustration. Keep dramatic weather painterly and reverent. Never portray God as a human, face, eyes, nose, mouth, hand, feet, bodily form or figure in clouds. No divine rider, faces in clouds, letters, labels, panels, frame, watermark, modern objects, graphic harm, injured bodies or violence against people.\nScene: Psalm 18:12, brightness, advancing clouds, hailstones and coals of fire. A luminous ivory-gold edge of a cloud bank spreads above a rocky slope; rounded hailstones lie among foreground stones and a few small orange embers glow in a separate natural dark stony patch. Gray cloud and descending white hail streaks in middle distance. Symbolic juxtaposition of the verse's images, no burning people, no wildfire, no literal heavenly figure. Close textured foreground balanced with bright cloud edge; no lightning bolt in this painting.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-7c54951f-e207-476f-a7c8-ccadc184db61.png",
+      "production": "assets/psalm18/verse-12-watercolor.webp"
+    },
+    {
+      "verse": 13,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Imagined symbolic landscape, not a historical reconstruction or a scientific illustration. Keep dramatic weather painterly and reverent. Never portray God as a human, face, eyes, nose, mouth, hand, feet, bodily form or figure in clouds. No divine rider, faces in clouds, letters, labels, panels, frame, watermark, modern objects, graphic harm, injured bodies or violence against people.\nScene: Psalm 18:13, thunder from heaven and the resounding voice of the Most High. A magnificent towering storm cloud fills a broad sky over a remote uninhabited mountain lake, heavy rain curtains over distant ridges; small pale hailstones on a wet rocky bank and a few warm glowing coals near dark foreground stones recall the line's repeated imagery. Let immense resonant space suggest thunder without drawing sound-wave graphics, a mouth, a face, written words, or a speaking human. Low horizon, deep atmospheric watercolor space, distinct from a close cloud-edge painting.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-c01eaa13-3cea-4069-8839-04173f032f1d.png",
+      "production": "assets/psalm18/verse-13-watercolor.webp"
+    },
+    {
+      "verse": 14,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Imagined symbolic landscape, not a historical reconstruction or a scientific illustration. Keep dramatic weather painterly and reverent. Never portray God as a human, face, eyes, nose, mouth, hand, feet, bodily form or figure in clouds. No divine rider, faces in clouds, letters, labels, panels, frame, watermark, modern objects, graphic harm, injured bodies or violence against people.\nScene: Psalm 18:14, arrows and lightning in the poem of deliverance. Several slender forks of natural lightning illuminate a distant uninhabited ridge beneath indigo storm clouds. An empty ancient rocky valley opens in the foreground; rain curtains recede over far hills. Choose lightning as the visual symbol for this verse, not an actual bow or an archer, not arrows hitting people, not a battle reconstruction. Crisp luminous strokes balanced with soft watercolor washes; no visible human or divine body, no army, no injured subjects.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-ccdcc392-140b-4e4d-8e9d-61620aefa40f.png",
+      "production": "assets/psalm18/verse-14-watercolor.webp"
+    },
+    {
+      "verse": 15,
+      "prompt": "Use case: illustration-story. Asset: one distinct symbolic verse painting for Scripture for Life. Input image: approved Psalm 23:2 STYLE REFERENCE ONLY; create a new composition. Finely detailed naturalistic watercolor, luminous translucent washes, subtle paper grain, delicate stone and foliage, warm ivory light, sage and forest greens, muted ochre and earth tones. Wide 3:2 landscape, one standalone painting fully painted to edges. Imagined symbolic landscape, not a historical reconstruction or a scientific illustration. Keep dramatic weather painterly and reverent. Never portray God as a human, face, eyes, nose, mouth, hand, feet, bodily form or figure in clouds. No divine rider, faces in clouds, letters, labels, panels, frame, watermark, modern objects, graphic harm, injured bodies or violence against people.\nScene: Psalm 18:15, channels of the sea and exposed foundations. A vast symbolic seascape viewed from an elevated rocky shore: water is drawn back from branching channels between broad pale rock shelves, revealing layered stone below. Distant dark sea, wind-driven mist, storm clouds and a subtle break of light at the horizon. The scene is a painterly response to the poem's exposed depths, not an actual dated tsunami, a diagram of Earth's structure or the Red Sea crossing. No people, boats, walls of water, divine face or blowing mouth. Focus on revealed channels and finely observed stone.",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-66a63d8b-2041-4174-bec4-5baeb48e7bce.png",
+      "production": "assets/psalm18/verse-15-watercolor.webp"
     }
   ]
 }
