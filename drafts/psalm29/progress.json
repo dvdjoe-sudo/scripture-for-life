@@ -1,6 +1,6 @@
 {
   "chapter": 29,
-  "status": "whole-chapter candidate; source and artwork reviewed; checks pending",
+  "status": "whole-chapter gate passed on 8efb385671032425cd429626959192b4fb138fba; final CI and publication pending",
   "groups": [
     {
       "file": "verses-1-11.json",
