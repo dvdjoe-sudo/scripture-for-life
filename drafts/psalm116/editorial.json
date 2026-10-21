@@ -1,0 +1,511 @@
+{
+  "chapter": 116,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 116 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "health": [
+      "Psalm 116:8"
+    ],
+    "gratitude": [
+      "Psalm 116:12"
+    ],
+    "grief": [
+      "Psalm 116:15"
+    ],
+    "fear": [
+      "Psalm 116:3"
+    ]
+  },
+  "study": {
+    "number": 116,
+    "coverVerse": 1,
+    "title": "I love the LORD, for He has heard my voice",
+    "intro": "Psalm 116 is a personal song of thanksgiving from someone who nearly died. Entangled by the ropes of death, the singer cried out to the LORD and was rescued. Now they declare their love for God, tell their soul to rest, and ask how they can ever repay Him. Their answer is to lift the cup of salvation, keep their vows and offer thanks publicly in the temple courts.",
+    "context": "Psalm 116 is part of the Egyptian Hallel sung at Passover, likely after the meal, so Jesus may have sung it on the night before His death. A thanksgiving psalm like this was often sung when a rescued person came to the temple to fulfil a vow made in distress, bringing a thank offering and sharing a meal. Paul quotes verse 10 in 2 Corinthians 4:13: 'I believed, therefore I have spoken.'",
+    "peopleNote": "No author is named; the singer is an individual worshiper rescued from deadly danger. Jesus and His disciples likely sang this psalm as part of the Passover Hallel (Matthew 26:30), and Paul quotes verse 10.",
+    "people": [
+      {
+        "id": "jesus",
+        "name": "Jesus",
+        "ref": "Psalm 116:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Love that answers",
+        "heading": "He has heard my voice",
+        "meaning": "'I love the LORD, for He has heard my voice—my appeal for mercy.' The psalm opens with a simple declaration of love. It is not abstract. The singer loves God because of something specific: God listened when they begged for mercy. Answered prayer has turned into affection. Love for God often grows out of remembering the times He heard us.",
+        "contextTitle": "Love born of rescue",
+        "context": "1 John 4:19 says, 'We love because He first loved us.' Psalm 18:1 also opens, 'I love You, O LORD, my strength,' after David's deliverance from his enemies.",
+        "explore": [
+          [
+            "Love",
+            "Deep, personal affection and loyalty; rare in the Psalms as a direct statement to God."
+          ],
+          [
+            "Appeal for mercy",
+            "A plea for kindness and help from someone who has no claim except need."
+          ]
+        ],
+        "reflect": "Can you remember a time God heard you? How does recalling it stir your love for Him?",
+        "related": [
+          "1 John 4:19",
+          "Psalm 18:1",
+          "Psalm 66:19"
+        ],
+        "alt": "A villager kneeling at dawn, face lifted in quiet relief.",
+        "art": "assets/psalm116/verse-1-watercolor.webp"
+      },
+      {
+        "title": "A lifelong call",
+        "heading": "He has inclined His ear",
+        "meaning": "'Because He has inclined His ear to me, I will call on Him as long as I live.' God is pictured leaning down to catch a quiet voice, like a parent bending to listen to a small child. Because He did, the singer resolves to keep praying for the rest of life. One answered prayer becomes the foundation of a lifelong habit of calling on God.",
+        "contextTitle": "God bends to listen",
+        "context": "Psalm 40:1 says, 'I waited patiently for the LORD; He inclined to me and heard my cry.' Isaiah 65:24 promises that before they call, God will answer.",
+        "explore": [
+          [
+            "Inclined His ear",
+            "Leaned close to listen carefully, as someone tilts their head to hear a whisper."
+          ],
+          [
+            "Call on Him",
+            "Pray to God, naming Him and asking for help, praise or guidance."
+          ]
+        ],
+        "reflect": "What would it look like for you to call on God every day for the rest of your life?",
+        "related": [
+          "Psalm 40:1",
+          "Isaiah 65:24",
+          "1 Thessalonians 5:17"
+        ],
+        "alt": "A father bending down to listen to a child at a doorway.",
+        "art": "assets/psalm116/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Ropes of death",
+        "heading": "The anguish of Sheol",
+        "meaning": "'The ropes of death entangled me; the anguish of Sheol overcame me; I was confronted by trouble and sorrow.' The singer describes how close they came to dying. Death is like a hunter's cords wrapped around them, pulling them toward the grave. It may have been serious illness or deadly danger. The words give honest language to anyone who has felt trapped by fear of death.",
+        "contextTitle": "Snared by death",
+        "context": "Psalm 18:4-5 uses the same picture of the cords of death and Sheol. Jonah 2:2 cries out from the depths of Sheol. Scripture does not hide the terror of facing death.",
+        "explore": [
+          [
+            "Ropes of death",
+            "A hunter's snare or cords, picturing death catching and binding a person."
+          ],
+          [
+            "Sheol",
+            "The Old Testament word for the realm of the dead, the grave."
+          ]
+        ],
+        "reflect": "Have you ever felt tangled up by fear or danger? How could you bring that feeling honestly to God?",
+        "related": [
+          "Psalm 18:5",
+          "Jonah 2:2",
+          "Hebrews 2:15"
+        ],
+        "alt": "Tangled ropes lying across a rocky path in deep shadow.",
+        "art": "assets/psalm116/verse-3-watercolor.webp"
+      },
+      {
+        "title": "A short cry",
+        "heading": "O LORD, deliver my soul",
+        "meaning": "'Then I called on the name of the LORD: O LORD, deliver my soul!' In the middle of the crisis, the prayer is very short. There is no long speech, just a desperate plea. God does not need eloquent words. A simple, honest cry from a frightened heart reaches Him just as surely as a long, polished prayer offered in calm.",
+        "contextTitle": "Prayers in crisis",
+        "context": "Peter, sinking in the waves, simply cried, 'Lord, save me!' (Matthew 14:30). Jesus immediately reached out His hand and caught him, showing how quickly God answers a short cry.",
+        "explore": [
+          [
+            "Deliver",
+            "Rescue or pull free from danger, as from a trap or a flood."
+          ],
+          [
+            "Soul",
+            "Here, one's whole life and self; the singer prays for life itself to be spared."
+          ]
+        ],
+        "reflect": "What short prayer could you pray when you are overwhelmed and words run out?",
+        "related": [
+          "Matthew 14:30",
+          "Psalm 3:7",
+          "Romans 10:13"
+        ],
+        "alt": "A hand reaching up out of dark water toward the light.",
+        "art": "assets/psalm116/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Gracious and righteous",
+        "heading": "Full of compassion",
+        "meaning": "'The LORD is gracious and righteous; our God is full of compassion.' Looking back on the rescue, the singer describes God's character. He is gracious, giving help that was not earned. He is righteous, always acting rightly. And He is full of compassion, deeply moved by suffering. The singer shifts from 'I' to 'our God', inviting everyone to share in knowing this God.",
+        "contextTitle": "The name of God",
+        "context": "These words echo Exodus 34:6, where God reveals Himself as 'compassionate and gracious.' Psalms 103:8 and 111:4 repeat the same description of who God is.",
+        "explore": [
+          [
+            "Gracious",
+            "Giving favor and kindness freely to those who do not deserve it."
+          ],
+          [
+            "Compassion",
+            "Tender mercy that feels others' pain and moves to help, like a mother's love."
+          ]
+        ],
+        "reflect": "Which of these three words about God do you most need to remember today?",
+        "related": [
+          "Exodus 34:6",
+          "Psalm 103:8",
+          "Psalm 111:4"
+        ],
+        "alt": "A shepherd lifting an injured lamb onto his shoulders.",
+        "art": "assets/psalm116/verse-5-watercolor.webp"
+      },
+      {
+        "title": "He saves the helpless",
+        "heading": "The simplehearted",
+        "meaning": "'The LORD preserves the simplehearted; I was helpless, and He saved me.' The singer admits to being helpless and perhaps naive, with no clever plan or strength to save themselves. Yet that is exactly whom God protects. God does not wait for people to become strong or sophisticated; He rescues those who simply depend on Him.",
+        "contextTitle": "Strength in weakness",
+        "context": "Paul heard the Lord say, 'My power is perfected in weakness' (2 Corinthians 12:9). Jesus thanked the Father for revealing truth to little children (Matthew 11:25).",
+        "explore": [
+          [
+            "Simplehearted",
+            "Open, trusting and unsophisticated people who lack worldly cunning."
+          ],
+          [
+            "Helpless",
+            "Brought low, without strength or resources to rescue oneself."
+          ]
+        ],
+        "reflect": "How might admitting your helplessness open the way for God to help you?",
+        "related": [
+          "2 Corinthians 12:9",
+          "Matthew 11:25",
+          "Psalm 19:7"
+        ],
+        "alt": "A small child asleep in a parent's arms beside a fire.",
+        "art": "assets/psalm116/verse-6-watercolor.webp"
+      },
+      {
+        "title": "Rest, my soul",
+        "heading": "The LORD has been good to you",
+        "meaning": "'Return to your rest, O my soul, for the LORD has been good to you.' The singer speaks to their own anxious heart. After the crisis, the inner life is still churning. They tell their soul to settle back into rest, like a bird returning to its nest. The reason is clear: God has been good. Remembering His goodness is how a troubled heart finds peace again.",
+        "contextTitle": "Talking to your soul",
+        "context": "Psalm 42:5 asks, 'Why are you downcast, O my soul?' Jesus invites the weary, 'Come to Me... and I will give you rest' (Matthew 11:28). Both speak peace to an anxious heart.",
+        "explore": [
+          [
+            "Rest",
+            "Settled peace and quiet, a place of safety where one can lay down worry."
+          ],
+          [
+            "Been good",
+            "Dealt generously and kindly; God has treated the singer with abundant care."
+          ]
+        ],
+        "reflect": "What could you remind your own soul of today so it can rest?",
+        "related": [
+          "Psalm 42:5",
+          "Matthew 11:28",
+          "Psalm 62:1"
+        ],
+        "alt": "A small bird settling into its nest in a fig tree at dusk.",
+        "art": "assets/psalm116/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Death, tears, stumbling",
+        "heading": "You have delivered my soul",
+        "meaning": "'For You have delivered my soul from death, my eyes from tears, my feet from stumbling.' The rescue is complete. God saved the singer's life, dried their tears and steadied their steps. It covers life, emotions and daily walk. The singer now speaks directly to God, 'You have delivered', turning testimony into personal thanks.",
+        "contextTitle": "A threefold rescue",
+        "context": "Psalm 56:13 contains nearly the same words. Revelation 21:4 promises that God will one day wipe every tear and death will be no more, completing this rescue forever.",
+        "explore": [
+          [
+            "Delivered",
+            "Brought out safely from danger, completely rescued."
+          ],
+          [
+            "Stumbling",
+            "Tripping and falling, a picture of failure, collapse or sudden ruin."
+          ]
+        ],
+        "reflect": "Which part of this rescue, from death, tears or stumbling, speaks most to your life right now?",
+        "related": [
+          "Psalm 56:13",
+          "Revelation 21:4",
+          "Jude 1:24"
+        ],
+        "alt": "Dry footprints leading up firm stone steps out of a ravine.",
+        "art": "assets/psalm116/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Walking before Him",
+        "heading": "The land of the living",
+        "meaning": "'I will walk before the LORD in the land of the living.' Having been saved from death, the singer intends to live the new days in God's presence. 'Walking before the LORD' means living openly in His sight, aware of Him in ordinary life. The land of the living is the gift of more days, to be spent with Him.",
+        "contextTitle": "A new walk",
+        "context": "God told Abraham, 'Walk before Me and be blameless' (Genesis 17:1). Psalm 27:13 hopes to see the goodness of the LORD in the land of the living.",
+        "explore": [
+          [
+            "Walk before",
+            "Live day by day in God's presence and under His eye, seeking to please Him."
+          ],
+          [
+            "Land of the living",
+            "Life on earth, as opposed to the grave; the world of the living."
+          ]
+        ],
+        "reflect": "How could you walk more consciously before God in your ordinary days?",
+        "related": [
+          "Genesis 17:1",
+          "Psalm 27:13",
+          "Micah 6:8"
+        ],
+        "alt": "A traveler walking a sunny path through green fields.",
+        "art": "assets/psalm116/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Belief that speaks",
+        "heading": "I believed, therefore I said",
+        "meaning": "'I believed, therefore I said, I am greatly afflicted.' Even in deep trouble, the singer kept believing, and that faith made honest speech possible. They did not pretend things were fine. Faith is not denial; it can name pain out loud because it trusts God is listening. Paul quotes this verse to explain why he keeps speaking about Christ despite suffering.",
+        "contextTitle": "Quoted by Paul",
+        "context": "In 2 Corinthians 4:13 Paul writes, 'I believed, therefore I have spoken,' to explain why he keeps preaching while afflicted, because he knows God will raise him up.",
+        "explore": [
+          [
+            "Believed",
+            "Trusted firmly, keeping faith in God even when circumstances were dark."
+          ],
+          [
+            "Afflicted",
+            "Weighed down by suffering, oppression or deep distress."
+          ]
+        ],
+        "reflect": "Can you be honest with God about your pain while still trusting Him?",
+        "related": [
+          "2 Corinthians 4:13",
+          "Psalm 77:1",
+          "Mark 9:24"
+        ],
+        "alt": "A villager speaking earnestly with eyes closed beside a lamp.",
+        "art": "assets/psalm116/verse-10-watercolor.webp"
+      },
+      {
+        "title": "In my alarm",
+        "heading": "All men are liars",
+        "meaning": "'In my alarm I said, All men are liars!' In the panic of the crisis, the singer felt that every human support had failed. Promises from people seemed empty. Whether this was disappointment in friends or simply the discovery that no person could save from death, the lesson is the same: only God is completely trustworthy.",
+        "contextTitle": "When people fail",
+        "context": "Psalm 118:8 says it is better to take refuge in the LORD than to trust in man. Romans 3:4 echoes this: 'Let God be true and every man a liar.'",
+        "explore": [
+          [
+            "Alarm",
+            "Sudden panic or haste, a moment of fear when thoughts are rushed."
+          ],
+          [
+            "Liars",
+            "Here, people who cannot deliver what they promise, failing as a source of rescue."
+          ]
+        ],
+        "reflect": "Have people let you down? How might that point you toward God's faithfulness?",
+        "related": [
+          "Psalm 118:8",
+          "Romans 3:4",
+          "Jeremiah 17:5"
+        ],
+        "alt": "A lone figure on an empty road with closed doors behind.",
+        "art": "assets/psalm116/verse-11-watercolor.webp"
+      },
+      {
+        "title": "How can I repay?",
+        "heading": "All His goodness to me",
+        "meaning": "'How can I repay the LORD for all His goodness to me?' Overwhelmed by gratitude, the singer asks a question with no adequate answer. Nothing could pay God back for rescue from death. But the next verses show what gratitude can do: not repay, but respond. Thankfulness looks for ways to honor the Giver.",
+        "contextTitle": "Gratitude seeks expression",
+        "context": "1 Chronicles 29:14 says, 'Everything comes from You, and we have given You only what comes from Your hand.' Romans 11:35 asks who has ever given to God that He should repay.",
+        "explore": [
+          [
+            "Repay",
+            "Give back in return; here it is gratitude asking how to respond, not trying to earn anything."
+          ],
+          [
+            "Goodness",
+            "Kind and generous acts, the benefits God has poured out."
+          ]
+        ],
+        "reflect": "What would a thankful response to God's goodness look like for you this week?",
+        "related": [
+          "1 Chronicles 29:14",
+          "Romans 11:35",
+          "Psalm 103:2"
+        ],
+        "alt": "Hands holding a small basket of first fruits in morning light.",
+        "art": "assets/psalm116/verse-12-watercolor.webp"
+      },
+      {
+        "title": "The cup of salvation",
+        "heading": "Lift the cup",
+        "meaning": "'I will lift the cup of salvation and call on the name of the LORD.' The answer to 'How can I repay?' is first to receive more. Lifting the cup was part of the thanksgiving meal, a toast celebrating God's rescue. At Passover, cups were lifted during the Hallel. Christians remember Jesus lifting the cup at the Last Supper and calling it the new covenant in His blood.",
+        "contextTitle": "Cup and covenant",
+        "context": "Drink offerings and thanksgiving meals included a cup (Numbers 28:7). At the Last Supper, Jesus took the cup and gave thanks (Luke 22:20) before singing the hymn.",
+        "explore": [
+          [
+            "Cup of salvation",
+            "A cup lifted in celebration of God's deliverance during a thanksgiving meal."
+          ],
+          [
+            "Call on the name",
+            "Publicly praise and invoke God, naming Him as the One who saved."
+          ]
+        ],
+        "reflect": "How can receiving God's gifts with joy be a way of thanking Him?",
+        "related": [
+          "Luke 22:20",
+          "1 Corinthians 10:16",
+          "Psalm 23:5"
+        ],
+        "alt": "A plain clay cup raised above a simple shared table.",
+        "art": "assets/psalm116/verse-13-watercolor.webp"
+      },
+      {
+        "title": "Vows kept publicly",
+        "heading": "In the presence of all His people",
+        "meaning": "'I will fulfill my vows to the LORD in the presence of all His people.' In distress, people often promised God an offering if He rescued them. Now the singer keeps that promise openly, before the congregation. Public thanksgiving encourages others and honors God. Private promises made in the dark become public praise in the light.",
+        "contextTitle": "Keeping promises to God",
+        "context": "Ecclesiastes 5:4 warns, 'When you make a vow to God, do not delay in fulfilling it.' Hannah kept her vow by bringing Samuel to the tabernacle (1 Samuel 1:27-28).",
+        "explore": [
+          [
+            "Vows",
+            "Solemn promises made to God, often in times of trouble."
+          ],
+          [
+            "Fulfill",
+            "Complete or carry out what was promised, faithfully and fully."
+          ]
+        ],
+        "reflect": "Is there a promise you made to God that you still need to keep?",
+        "related": [
+          "Ecclesiastes 5:4",
+          "1 Samuel 1:28",
+          "Psalm 22:25"
+        ],
+        "alt": "A worshiper leading a lamb through a crowded temple gate.",
+        "art": "assets/psalm116/verse-14-watercolor.webp"
+      },
+      {
+        "title": "Precious in His sight",
+        "heading": "The death of His saints",
+        "meaning": "'Precious in the sight of the LORD is the death of His saints.' This verse can mean that God values the lives of His faithful ones so highly that He does not let them die lightly. Their death is costly to Him. It is not cheap or unnoticed. For those who grieve, it is a comfort that God cares deeply when His people pass away.",
+        "contextTitle": "Costly to God",
+        "context": "Psalm 72:14 says, 'precious is their blood in His sight.' Jesus wept at the tomb of Lazarus (John 11:35), showing that death matters deeply to God.",
+        "explore": [
+          [
+            "Precious",
+            "Costly, valuable and carefully guarded, not treated as cheap."
+          ],
+          [
+            "Saints",
+            "God's faithful, devoted people who belong to Him by covenant."
+          ]
+        ],
+        "reflect": "Whose death has grieved you? How does it help to know their life and death matter to God?",
+        "related": [
+          "Psalm 72:14",
+          "John 11:35",
+          "Revelation 14:13"
+        ],
+        "alt": "A quiet garden tomb with spring flowers growing nearby.",
+        "art": "assets/psalm116/verse-15-watercolor.webp"
+      },
+      {
+        "title": "Bonds broken",
+        "heading": "I am Your servant",
+        "meaning": "'Truly, O LORD, I am Your servant; I am Your servant, the son of Your maidservant; You have broken my bonds.' The singer has been set free, and responds by declaring loyal service. 'Son of Your maidservant' means born into God's household. Freedom from the ropes of death leads not to independence from God, but to glad belonging.",
+        "contextTitle": "Freed to serve",
+        "context": "Romans 6:22 says believers, set free from sin, have become servants of God, with fruit leading to eternal life. Jesus said His yoke is easy and His burden light.",
+        "explore": [
+          [
+            "Son of Your maidservant",
+            "A servant born in the master's household, belonging there from birth."
+          ],
+          [
+            "Bonds",
+            "Chains or ropes; here the cords of death from verse 3 that God has snapped."
+          ]
+        ],
+        "reflect": "How does being set free by God shape the way you serve Him?",
+        "related": [
+          "Romans 6:22",
+          "Luke 1:38",
+          "Galatians 5:1"
+        ],
+        "alt": "Broken cords lying on the ground beside an open gate.",
+        "art": "assets/psalm116/verse-16-watercolor.webp"
+      },
+      {
+        "title": "A sacrifice of thanks",
+        "heading": "Offer a thanksgiving",
+        "meaning": "'I will offer to You a sacrifice of thanksgiving and call on the name of the LORD.' The thank offering was a special sacrifice shared as a meal with family and friends (Leviticus 7:12-15). It was a celebration. The singer will gather others to feast and praise God. Hebrews 13:15 calls believers to offer a sacrifice of praise continually.",
+        "contextTitle": "The thank offering",
+        "context": "Leviticus 7:12-15 describes the thanksgiving offering eaten the same day with others. Hebrews 13:15 describes praise as a sacrifice of lips that confess God's name.",
+        "explore": [
+          [
+            "Sacrifice of thanksgiving",
+            "An offering brought to say thank you, often shared as a joyful meal."
+          ],
+          [
+            "Offer",
+            "Bring and present to God as a gift and act of worship."
+          ]
+        ],
+        "reflect": "Who could you share your thanksgiving with, so it becomes a celebration?",
+        "related": [
+          "Leviticus 7:12",
+          "Hebrews 13:15",
+          "Psalm 50:14"
+        ],
+        "alt": "Friends and family sharing bread in a courtyard at sunset.",
+        "art": "assets/psalm116/verse-17-watercolor.webp"
+      },
+      {
+        "title": "Before the congregation",
+        "heading": "My vows to the LORD",
+        "meaning": "'I will fulfill my vows to the LORD in the presence of all His people,' The promise from verse 14 is repeated, drawing the psalm toward its close. Repetition shows how serious the singer is. Thanksgiving is not a passing feeling. It is a commitment to keep, and the gathered people of God are witnesses to it.",
+        "contextTitle": "A repeated pledge",
+        "context": "Repeating a vow made it solemn and public. Psalm 22:25 likewise promises to fulfil vows before those who fear God, so that the whole congregation shares in the thanks.",
+        "explore": [
+          [
+            "Repeated",
+            "Said again for emphasis, showing that a promise is deliberate and firm."
+          ],
+          [
+            "Witnesses",
+            "The gathered people who see and hear, sharing in the praise and holding the promise."
+          ]
+        ],
+        "reflect": "Who in your life could witness and celebrate what God has done for you?",
+        "related": [
+          "Psalm 22:25",
+          "Psalm 66:13",
+          "Jonah 2:9"
+        ],
+        "alt": "A crowd gathered on temple steps as one worshiper raises their hands.",
+        "art": "assets/psalm116/verse-18-watercolor.webp"
+      },
+      {
+        "title": "In Jerusalem's courts",
+        "heading": "Hallelujah",
+        "meaning": "'in the courts of the LORD's house, in your midst, O Jerusalem. Hallelujah!' The psalm ends in a specific place: the temple courtyards in Jerusalem, crowded with worshipers. The rescued person who was nearly lost in death now stands among the living people of God, singing. The final word is 'Hallelujah', praise the LORD.",
+        "contextTitle": "The place of praise",
+        "context": "Psalm 122:1-2 rejoices to stand within Jerusalem's gates. The temple courts were where Israel gathered for festivals, sacrifices and songs like this one.",
+        "explore": [
+          [
+            "Courts",
+            "The open courtyards of the temple where people gathered to worship."
+          ],
+          [
+            "Jerusalem",
+            "The city of David, where the temple stood, center of Israel's worship."
+          ]
+        ],
+        "reflect": "Where do you gather with God's people to praise Him, and what could you thank Him for there?",
+        "related": [
+          "Psalm 122:2",
+          "Psalm 100:4",
+          "Luke 24:53"
+        ],
+        "alt": "Sunlit stone courtyards filled with festival worshipers.",
+        "art": "assets/psalm116/verse-19-watercolor.webp"
+      }
+    ]
+  }
+}
