@@ -78,8 +78,10 @@ try {
     await page.locator('[data-psalm-switch]').selectOption('23');await page.locator('.psalm-verse-art').waitFor();
     assert.ok(page.url().endsWith('#/study/23/6'),'Psalm switcher retains place');
     await page.locator('.psalm-navigation a[href="#/psalms"]').click();
-    await page.locator('.psalms-study-card').first().waitFor();
-    assert.equal(await page.locator('.psalms-study-card').count(),150);
+    await page.locator('.psalms-all-grid .psalms-study-card').first().waitFor();
+    assert.equal(await page.locator('.psalms-all-grid .psalms-study-card').count(),150,'All 150 Psalm chapter cards remain available');
+    assert.equal(await page.locator('.psalms-detailed > .psalms-study-grid .psalms-study-card').count(),2,'Psalm 23 deeper-reading cards remain available');
+    assert.equal(await page.locator('.psalms-detailed .ps46-card').count(),1,'Psalm 46 deeper-reading card remains available');
     await visit('#/walk/23/4','.psalm-verse-art');
     assert.ok(page.url().endsWith('#/study/23/4'),'Old walk links open the verse illustration');
     await page.getByRole('tab',{name:'Reflect',exact:true}).click();
@@ -171,9 +173,9 @@ try {
     await page.locator('#gen-narrative p').first().waitFor();
     await visit('#/read/1/1','.reader-verse');
     assert.ok(await page.locator('.reader-verse').count()>=20,'Genesis chapter 1 verses rendered');
-    await visit('#/psalms','.psalms-study-card');
+    await visit('#/psalms','.psalms-all-grid .psalms-study-card');
     await page.locator('[data-psalms-search]').fill('119');
-    assert.equal(await page.locator('.psalms-study-card:visible').count(),1);
+    assert.equal(await page.locator('.psalms-all-grid .psalms-study-card:visible').count(),1);
     await page.locator('.psalms-study-card:visible a.btn').click();
     await page.locator('[data-psalm-chapter="119"]').waitFor();
     assert.equal(await page.locator('.psalm-chapter-verse').count(),176);
@@ -197,7 +199,7 @@ try {
     await page.locator('[data-psalm-switch]').selectOption('2');await page.locator('[data-verse-study="2"]').waitFor();
     await visit('#/psalms/2','[data-psalm-chapter="2"]');
     await page.locator('.psalm-chapter-pager').first().locator('a[href="#/psalms/3"]').click();await page.locator('[data-psalm-chapter="3"]').waitFor();
-    await visit('#/psalms','.psalms-study-card');
+    await visit('#/psalms','.psalms-all-grid .psalms-study-card');
     await page.locator('[data-psalms-search]').fill('1');
     await page.locator('.psalms-study-card:visible a.btn').click();
     await page.locator('[data-verse-study="1"]').waitFor();
