@@ -1,0 +1,771 @@
+{
+  "chapter": 118,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 118 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "fear": [
+      "Psalm 118:6"
+    ],
+    "strength": [
+      "Psalm 118:14"
+    ],
+    "gratitude": [
+      "Psalm 118:1"
+    ],
+    "alone": [
+      "Psalm 118:5"
+    ]
+  },
+  "study": {
+    "number": 118,
+    "coverVerse": 1,
+    "title": "His loving devotion endures forever",
+    "intro": "Psalm 118 closes the Egyptian Hallel with a joyful festival song. It opens and ends with the same call to give thanks, because the LORD's loving devotion endures forever. In between, a rescued leader tells how enemies swarmed like bees but the LORD helped, then approaches the temple gates to give thanks. It contains some of the best-loved lines in Scripture: 'This is the day that the LORD has made' and 'The stone the builders rejected has become the cornerstone.'",
+    "context": "Psalm 118 was likely sung in a procession to the temple at a great festival, with a leader, priests and congregation answering one another. It was the last song of the Passover Hallel, so it was probably the hymn Jesus sang with His disciples before going to Gethsemane (Matthew 26:30). Crowds shouted verses 25-26, 'Hosanna! Blessed is He who comes in the name of the Lord,' when Jesus entered Jerusalem, and Jesus applied verse 22 about the rejected stone to Himself. It is one of the most quoted psalms in the New Testament.",
+    "peopleNote": "No author is named. The speaker may be a king or leader of Israel returning from victory. The New Testament applies the psalm to Jesus at His entry into Jerusalem and to His rejection and exaltation as the cornerstone. Peter quotes verse 22 in Acts 4:11 and 1 Peter 2:7.",
+    "people": [
+      {
+        "id": "jesus",
+        "name": "Jesus",
+        "ref": "Psalm 118:1"
+      },
+      {
+        "id": "peter",
+        "name": "Peter",
+        "ref": "Psalm 118:1"
+      },
+      {
+        "id": "aaron",
+        "name": "Aaron",
+        "ref": "Psalm 118:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Thanks for a good God",
+        "heading": "He is good",
+        "meaning": "'Give thanks to the LORD, for He is good; His loving devotion endures forever.' The psalm opens with one of Israel's most familiar songs of worship. Two reasons for thanks are given. God is good, through and through, and His covenant love never runs out. These words were sung at the dedication of the temple and on many joyful occasions, and they frame this whole psalm.",
+        "contextTitle": "A well-known refrain",
+        "context": "This refrain was sung when the ark came to Jerusalem (1 Chronicles 16:34), at the temple dedication (2 Chronicles 7:3) and when the second temple's foundation was laid (Ezra 3:11). Psalm 136 repeats its second half in all 26 verses.",
+        "explore": [
+          [
+            "Good",
+            "Wholly kind, right and generous in character, with no evil in Him."
+          ],
+          [
+            "Endures forever",
+            "Lasts without end; it will never be used up, withdrawn or worn out."
+          ]
+        ],
+        "reflect": "What is one specific way God has been good to you this week?",
+        "related": [
+          "1 Chronicles 16:34",
+          "Ezra 3:11",
+          "Psalm 136:1"
+        ],
+        "alt": "A festival crowd with palm branches gathering at dawn outside a city.",
+        "art": "assets/psalm118/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Israel's answer",
+        "heading": "Let Israel say",
+        "meaning": "'Let Israel say, His loving devotion endures forever.' The leader now calls the whole nation to respond. Israel had experienced this love through the exodus, the wilderness, the land and countless rescues. Their history was proof. The congregation probably shouted back the refrain, making worship a conversation between leader and people.",
+        "contextTitle": "Call and response",
+        "context": "Like Psalm 115:9-11, this verse and the next two name three groups. In worship, a leader would call out and the people would answer together, as in Psalm 136.",
+        "explore": [
+          [
+            "Let Israel say",
+            "An invitation to the whole nation to declare their own testimony aloud."
+          ],
+          [
+            "Refrain",
+            "A repeated line that the congregation sings or shouts back in response."
+          ]
+        ],
+        "reflect": "If you were asked to share your own testimony of God's love, what would you say?",
+        "related": [
+          "Psalm 115:9",
+          "Psalm 124:1",
+          "Psalm 129:1"
+        ],
+        "alt": "A large crowd lifting their voices together in an open plaza.",
+        "art": "assets/psalm118/verse-2-watercolor.webp"
+      },
+      {
+        "title": "The priests' answer",
+        "heading": "Let the house of Aaron say",
+        "meaning": "'Let the house of Aaron say, His loving devotion endures forever.' The priests are called next. They offered sacrifices day after day and knew how much mercy sinful people needed. They had seen God accept offerings and forgive. Their answer would be sung with deep understanding of how undeserved God's love is.",
+        "contextTitle": "Priestly witnesses",
+        "context": "The priests descended from Aaron served at the altar and pronounced God's blessing (Numbers 6:23-26). Psalm 135:19 also calls the house of Aaron to bless the LORD.",
+        "explore": [
+          [
+            "House of Aaron",
+            "The priestly family descended from Moses' brother Aaron."
+          ],
+          [
+            "Witness",
+            "Someone who has seen something firsthand and can tell others the truth about it."
+          ]
+        ],
+        "reflect": "What have you seen of God's mercy that you could share with others?",
+        "related": [
+          "Numbers 6:23",
+          "Psalm 135:19",
+          "Hebrews 7:25"
+        ],
+        "alt": "Priests in linen garments standing on temple steps raising their hands.",
+        "art": "assets/psalm118/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Every God-fearer answers",
+        "heading": "Those who fear the LORD",
+        "meaning": "'Let those who fear the LORD say, His loving devotion endures forever.' The widest group joins last: everyone who reveres God, whether Israelite or foreigner. The refrain has now passed from nation to priests to all worshipers. It is as if the song keeps spreading outward until everyone who honors God is singing the same truth.",
+        "contextTitle": "The widening chorus",
+        "context": "Psalm 117 had just called all nations to praise. Here the God-fearers join in, foreshadowing a worldwide church in which Jew and Gentile praise together (Ephesians 2:14).",
+        "explore": [
+          [
+            "Fear the LORD",
+            "Hold God in awe and reverence that leads to trust and obedience."
+          ],
+          [
+            "Chorus",
+            "Many voices joining together in the same song or words."
+          ]
+        ],
+        "reflect": "Who could you invite to join you in thanking God this week?",
+        "related": [
+          "Ephesians 2:14",
+          "Psalm 22:23",
+          "Acts 13:26"
+        ],
+        "alt": "A traveler from a distant land joining villagers singing at a gate.",
+        "art": "assets/psalm118/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Set free from distress",
+        "heading": "He answered and set me free",
+        "meaning": "'In my distress I called to the LORD, and He answered and set me free.' Now the leader tells their own story. Distress means being in a tight, narrow place, hemmed in with no room to move. God's answer was to bring them into a wide, open space. The contrast between being squeezed and being released is the shape of salvation.",
+        "contextTitle": "From narrow to wide",
+        "context": "The Hebrew suggests God set the speaker 'in a broad place.' Psalm 18:19 says, 'He brought me out into a spacious place; He rescued me because He delighted in me.'",
+        "explore": [
+          [
+            "Distress",
+            "A tight, cramped situation, like being pressed in on every side."
+          ],
+          [
+            "Set free",
+            "Brought out into open space with room to breathe and move."
+          ]
+        ],
+        "reflect": "Where do you feel hemmed in, and how could you call on God there?",
+        "related": [
+          "Psalm 18:19",
+          "Psalm 4:1",
+          "Jonah 2:2"
+        ],
+        "alt": "A narrow canyon opening onto a wide sunlit plain.",
+        "art": "assets/psalm118/verse-5-watercolor.webp"
+      },
+      {
+        "title": "No need to fear",
+        "heading": "What can man do to me?",
+        "meaning": "'The LORD is on my side; I will not be afraid. What can man do to me?' With God on their side, the speaker sees human threats in a new light. People may still cause harm, but they cannot undo God's care or separate us from Him. The New Testament quotes this verse to encourage believers to be content and unafraid.",
+        "contextTitle": "Quoted in Hebrews",
+        "context": "Hebrews 13:6 quotes this verse: 'So we say with confidence, The Lord is my helper; I will not be afraid. What can man do to me?' Romans 8:31 asks, 'If God is for us, who can be against us?'",
+        "explore": [
+          [
+            "On my side",
+            "For me, standing with me as a faithful ally and defender."
+          ],
+          [
+            "Afraid",
+            "Gripped by fear that controls choices and steals peace."
+          ]
+        ],
+        "reflect": "Which person or situation are you afraid of, and how does God being on your side change that?",
+        "related": [
+          "Hebrews 13:6",
+          "Romans 8:31",
+          "Psalm 56:11"
+        ],
+        "alt": "A villager standing calmly at an open door as storm clouds pass.",
+        "art": "assets/psalm118/verse-6-watercolor.webp"
+      },
+      {
+        "title": "My helper",
+        "heading": "Look in triumph on those who hate me",
+        "meaning": "'The LORD is on my side; He is my helper. Therefore I will look in triumph on those who hate me.' The confidence is repeated and deepened. God is not only on the speaker's side in theory; He actively helps. Because of that, the speaker expects to see the threat defeated. This is not gloating but confidence that God will vindicate those who trust Him.",
+        "contextTitle": "God as helper",
+        "context": "Psalm 54:4 says, 'Surely God is my helper; the Lord is the sustainer of my soul.' The word 'helper' is also used of the strong help God gives in Exodus 18:4.",
+        "explore": [
+          [
+            "Helper",
+            "One who comes alongside with strength to supply what is lacking."
+          ],
+          [
+            "Look in triumph",
+            "See God's victory over the threat; not personal revenge but vindication."
+          ]
+        ],
+        "reflect": "How have you experienced God as an active helper, not just an idea?",
+        "related": [
+          "Psalm 54:4",
+          "Exodus 18:4",
+          "Isaiah 41:10"
+        ],
+        "alt": "A traveler being helped across a rushing stream by a strong hand.",
+        "art": "assets/psalm118/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Better than people",
+        "heading": "Than to trust in man",
+        "meaning": "'It is better to take refuge in the LORD than to trust in man.' The speaker draws a lesson from experience. People are often kind and helpful, but they are limited, changeable and mortal. God is a refuge that never fails. Leaning on God first does not mean rejecting human help; it means not making people our final security.",
+        "contextTitle": "Where to rest our weight",
+        "context": "Jeremiah 17:5-8 contrasts the person who trusts in man, like a desert shrub, with the one who trusts in the LORD, like a tree planted by water.",
+        "explore": [
+          [
+            "Refuge",
+            "A safe shelter where one can run and hide from danger."
+          ],
+          [
+            "Trust in man",
+            "Relying ultimately on human strength, wisdom or promises for security."
+          ]
+        ],
+        "reflect": "Is there someone you have been leaning on more heavily than God?",
+        "related": [
+          "Jeremiah 17:7",
+          "Psalm 146:3",
+          "Isaiah 2:22"
+        ],
+        "alt": "A sturdy stone tower on a hill with a small path leading up.",
+        "art": "assets/psalm118/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Better than princes",
+        "heading": "Than to trust in princes",
+        "meaning": "'It is better to take refuge in the LORD than to trust in princes.' The lesson now reaches the highest levels of power. Even kings and rulers, with all their armies and wealth, are poor substitutes for God. Political leaders come and go, alliances break, and promises fail. God's protection outlasts every government.",
+        "contextTitle": "Kings are mortal",
+        "context": "Psalm 146:3-4 warns, 'Put not your trust in princes,' because their breath departs and their plans perish. Israel's kings often failed by relying on alliances with Egypt or Assyria (Isaiah 31:1).",
+        "explore": [
+          [
+            "Princes",
+            "Rulers, nobles and powerful leaders in government and society."
+          ],
+          [
+            "Alliances",
+            "Agreements between nations for protection, which often failed Israel."
+          ]
+        ],
+        "reflect": "How does trusting God help you when leaders or institutions disappoint you?",
+        "related": [
+          "Psalm 146:3",
+          "Isaiah 31:1",
+          "Psalm 20:7"
+        ],
+        "alt": "A crumbling palace wall overgrown with wild vines.",
+        "art": "assets/psalm118/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Surrounded by nations",
+        "heading": "In the name of the LORD",
+        "meaning": "'All the nations surrounded me, but in the name of the LORD I cut them off.' The speaker describes being encircled by enemy nations, which suggests a king leading Israel in war. Yet the victory came 'in the name of the LORD', by God's power and authority, not by military strength. The repeated phrase in the next verses becomes a battle cry of faith.",
+        "contextTitle": "Victory in God's name",
+        "context": "David told Goliath, 'I come against you in the name of the LORD of Hosts' (1 Samuel 17:45). Psalm 20:7 says some trust in chariots, but we trust in the name of the LORD.",
+        "explore": [
+          [
+            "Surrounded",
+            "Encircled on every side with no obvious way of escape."
+          ],
+          [
+            "In the name of the LORD",
+            "Relying on God's authority, power and character for strength."
+          ]
+        ],
+        "reflect": "What feels like it is surrounding you right now, and how can you pray about it?",
+        "related": [
+          "1 Samuel 17:45",
+          "Psalm 20:7",
+          "2 Kings 6:16"
+        ],
+        "alt": "A hilltop village encircled by distant campfires at night.",
+        "art": "assets/psalm118/verse-10-watercolor.webp"
+      },
+      {
+        "title": "On every side",
+        "heading": "They surrounded me",
+        "meaning": "'They surrounded me on every side, but in the name of the LORD I cut them off.' The threat is repeated with more intensity. There was no gap anywhere. The repetition lets the listener feel the pressure closing in. But the refrain is also repeated, and the answer of faith is as strong as the threat, matching it line for line.",
+        "contextTitle": "Repetition builds intensity",
+        "context": "Hebrew poetry often repeats a line with a small addition, here 'on every side.' Elisha's servant saw enemies all around until God opened his eyes to the hills full of horses and chariots of fire (2 Kings 6:17).",
+        "explore": [
+          [
+            "On every side",
+            "From every direction at once; a total encirclement with no gap."
+          ],
+          [
+            "Cut them off",
+            "Drove them back and defeated them so they could no longer harm."
+          ]
+        ],
+        "reflect": "How could the phrase 'in the name of the LORD' become your own refrain in hard times?",
+        "related": [
+          "2 Kings 6:17",
+          "Psalm 3:6",
+          "2 Corinthians 4:8"
+        ],
+        "alt": "Defenders standing on all four walls of a small fortress at dawn.",
+        "art": "assets/psalm118/verse-11-watercolor.webp"
+      },
+      {
+        "title": "Swarming like bees",
+        "heading": "Extinguished like burning thorns",
+        "meaning": "'They swarmed around me like bees, but they were extinguished like burning thorns; in the name of the LORD I cut them off.' Enemies are pictured as an angry swarm, buzzing and stinging. But they burn out quickly, like a fire of dry thorns that flares up and dies in moments. What seemed terrifying ends suddenly when God acts.",
+        "contextTitle": "Bees and thorns",
+        "context": "Deuteronomy 1:44 describes the Amorites chasing Israel like bees. Ecclesiastes 7:6 compares a fool's laughter to crackling thorns under a pot, loud but quickly gone.",
+        "explore": [
+          [
+            "Swarmed",
+            "Gathered around in a dense, buzzing crowd, like bees around a hive."
+          ],
+          [
+            "Burning thorns",
+            "Dry brush that flares up fast and loud but burns out in moments."
+          ]
+        ],
+        "reflect": "What threat seems loud and large now but may burn out quickly in God's hands?",
+        "related": [
+          "Deuteronomy 1:44",
+          "Ecclesiastes 7:6",
+          "Isaiah 33:12"
+        ],
+        "alt": "A brush fire of dry thorns dying down to embers on a hillside.",
+        "art": "assets/psalm118/verse-12-watercolor.webp"
+      },
+      {
+        "title": "Falling but helped",
+        "heading": "The LORD helped me",
+        "meaning": "'I was pushed so hard I was falling, but the LORD helped me.' The speaker admits how close they came to defeat. They were shoved and about to go down. Faith does not mean never staggering. It means that at the moment of falling, God steps in. The help came right at the edge, at the very moment it was needed most.",
+        "contextTitle": "Caught before the fall",
+        "context": "Psalm 94:18 says, 'When I said, My foot is slipping, Your loving devotion, O LORD, supported me.' Psalm 37:24 says though he falls, he will not be overwhelmed.",
+        "explore": [
+          [
+            "Pushed",
+            "Forcefully shoved by enemies who wanted to knock the speaker down."
+          ],
+          [
+            "Helped",
+            "Supported and held up by God when one's own strength failed."
+          ]
+        ],
+        "reflect": "When have you been close to falling and found God holding you up?",
+        "related": [
+          "Psalm 94:18",
+          "Psalm 37:24",
+          "Isaiah 41:13"
+        ],
+        "alt": "A climber gripped by a steadying hand at the edge of a cliff.",
+        "art": "assets/psalm118/verse-13-watercolor.webp"
+      },
+      {
+        "title": "Strength and song",
+        "heading": "He has become my salvation",
+        "meaning": "'The LORD is my strength and my song, and He has become my salvation.' These words come straight from the Song of the Sea that Moses and Israel sang after crossing the Red Sea (Exodus 15:2). God is the strength that carries us through, the reason for our song afterward, and the salvation itself. The speaker's rescue is joined to Israel's great exodus story.",
+        "contextTitle": "An exodus song",
+        "context": "Exodus 15:2 and Isaiah 12:2 contain the same words. Singing them at Passover tied each new rescue back to the exodus, Israel's founding salvation.",
+        "explore": [
+          [
+            "Strength",
+            "Power to endure and act, supplied by God when our own fails."
+          ],
+          [
+            "Salvation",
+            "Rescue and deliverance; God Himself is the source of safety."
+          ]
+        ],
+        "reflect": "How has God been your strength, your song and your salvation?",
+        "related": [
+          "Exodus 15:2",
+          "Isaiah 12:2",
+          "Habakkuk 3:18"
+        ],
+        "alt": "Women dancing with tambourines on a shore beside calm water.",
+        "art": "assets/psalm118/verse-14-watercolor.webp"
+      },
+      {
+        "title": "Shouts in the tents",
+        "heading": "The right hand of the LORD",
+        "meaning": "'Shouts of joy and salvation resound in the tents of the righteous: The right hand of the LORD performs with valor!' The victory spreads joy through the homes of God's people. In the camp and in every household, people celebrate. They credit God's right hand, a picture of His mighty power. The joy is shared and the glory is His.",
+        "contextTitle": "God's right hand",
+        "context": "The right hand was the hand of strength and skill. Exodus 15:6 sings, 'Your right hand, O LORD, is majestic in power.' Psalm 98:1 says His right hand has worked salvation.",
+        "explore": [
+          [
+            "Tents of the righteous",
+            "The homes, families and camp of God's faithful people."
+          ],
+          [
+            "Right hand",
+            "A symbol of strength, skill and action; here God's saving power."
+          ]
+        ],
+        "reflect": "How could you share the joy of something God has done with your household?",
+        "related": [
+          "Exodus 15:6",
+          "Psalm 98:1",
+          "Isaiah 41:10"
+        ],
+        "alt": "Families celebrating outside a cluster of tents at evening.",
+        "art": "assets/psalm118/verse-15-watercolor.webp"
+      },
+      {
+        "title": "The right hand exalted",
+        "heading": "Performs with valor",
+        "meaning": "'The right hand of the LORD is exalted! The right hand of the LORD performs with valor!' The shout continues and repeats, as celebrations do. God's power is lifted high and praised again. The threefold mention of His right hand across verses 15 and 16 makes the point unforgettable: it was God's strength, not ours, that won the day.",
+        "contextTitle": "A threefold shout",
+        "context": "Repeating something three times in Hebrew poetry gives it great emphasis, like the 'Holy, holy, holy' of Isaiah 6:3. Psalm 89:13 says God's hand is strong and His right hand exalted.",
+        "explore": [
+          [
+            "Exalted",
+            "Lifted up high and honored above everything else in creation."
+          ],
+          [
+            "Valor",
+            "Courage and mighty power in action, like a hero in battle."
+          ]
+        ],
+        "reflect": "Which victory in your life do you need to remember was God's strength and not your own?",
+        "related": [
+          "Psalm 89:13",
+          "Isaiah 6:3",
+          "Psalm 44:3"
+        ],
+        "alt": "A raised banner fluttering over a celebrating crowd.",
+        "art": "assets/psalm118/verse-16-watercolor.webp"
+      },
+      {
+        "title": "I will live",
+        "heading": "Proclaim what the LORD has done",
+        "meaning": "'I will not die, but I will live and proclaim what the LORD has done.' The speaker had faced death but has been spared. The new life has a purpose: to tell others about God's works. Survival becomes a mission. Every extra day is an opportunity to declare what God has done, so that others may come to trust Him too.",
+        "contextTitle": "Living to tell",
+        "context": "Hezekiah, healed from deadly illness, said, 'The living, the living, they thank You, as I do today' (Isaiah 38:19). Jesus told the healed man to go home and tell what the Lord had done (Mark 5:19).",
+        "explore": [
+          [
+            "Live",
+            "Continue in life on earth, spared from death by God's mercy."
+          ],
+          [
+            "Proclaim",
+            "Declare openly and tell others, so that many people hear."
+          ]
+        ],
+        "reflect": "Who could you tell about something God has done in your life?",
+        "related": [
+          "Isaiah 38:19",
+          "Mark 5:19",
+          "Psalm 107:2"
+        ],
+        "alt": "A villager speaking to an eager group around a well.",
+        "art": "assets/psalm118/verse-17-watercolor.webp"
+      },
+      {
+        "title": "Discipline, not death",
+        "heading": "Not given me over to death",
+        "meaning": "'The LORD disciplined me severely, but He has not given me over to death.' The speaker sees the hardship in a new light. God allowed severe trouble as discipline, to train and correct, but He never meant to destroy. A loving parent disciplines without abandoning, and God's discipline always has a limit and a purpose.",
+        "contextTitle": "Loving discipline",
+        "context": "Hebrews 12:6-11 says the Lord disciplines those He loves for our good, so that we may share His holiness. Proverbs 3:11-12 urges not to despise the LORD's discipline.",
+        "explore": [
+          [
+            "Disciplined",
+            "Trained and corrected through hardship, like a parent teaching a child."
+          ],
+          [
+            "Given over",
+            "Handed over completely to something; God did not abandon the speaker to death."
+          ]
+        ],
+        "reflect": "Is there a hard season you have come through that God used to train you?",
+        "related": [
+          "Hebrews 12:6",
+          "Proverbs 3:11",
+          "2 Corinthians 6:9"
+        ],
+        "alt": "A gardener pruning a vine with care in early spring.",
+        "art": "assets/psalm118/verse-18-watercolor.webp"
+      },
+      {
+        "title": "Open the gates",
+        "heading": "The gates of righteousness",
+        "meaning": "'Open to me the gates of righteousness, that I may enter and give thanks to the LORD.' The procession arrives at the temple. The speaker asks for the gates to be opened so they can go in and give thanks. They are called gates of righteousness because only those made right with God may enter His presence.",
+        "contextTitle": "Entering the temple",
+        "context": "Psalm 24:3-4 asks, 'Who may ascend the hill of the LORD?' and answers, 'He who has clean hands and a pure heart.' Isaiah 26:2 says, 'Open the gates so a righteous nation may enter.'",
+        "explore": [
+          [
+            "Gates of righteousness",
+            "Temple entrances for those who come rightly before God."
+          ],
+          [
+            "Enter",
+            "Go inside to the place of worship, into God's presence."
+          ]
+        ],
+        "reflect": "What would it mean to come to God with a heart ready to give thanks?",
+        "related": [
+          "Psalm 24:3",
+          "Isaiah 26:2",
+          "Psalm 100:4"
+        ],
+        "alt": "Massive wooden temple gates swinging open at sunrise.",
+        "art": "assets/psalm118/verse-19-watercolor.webp"
+      },
+      {
+        "title": "The LORD's gate",
+        "heading": "The righteous shall enter",
+        "meaning": "'This is the gate of the LORD; the righteous shall enter through it.' The gatekeepers or priests answer. This is the LORD's gate, and those who are righteous may come in. Christians hear an echo of Jesus, who said, 'I am the gate; whoever enters through Me will be saved' (John 10:9). Through Him the way into God's presence is opened.",
+        "contextTitle": "Jesus the gate",
+        "context": "In John 10:9 Jesus calls Himself the gate for the sheep. Hebrews 10:19-20 speaks of a new and living way opened through His sacrifice into the very presence of God.",
+        "explore": [
+          [
+            "Gate of the LORD",
+            "The entrance that belongs to God and leads into His presence."
+          ],
+          [
+            "The righteous",
+            "Those made right with God, who are welcomed to come in."
+          ]
+        ],
+        "reflect": "How does it feel to know a way into God's presence has been opened for you?",
+        "related": [
+          "John 10:9",
+          "Hebrews 10:19",
+          "Matthew 7:14"
+        ],
+        "alt": "An open stone gateway with light spilling from the courtyard beyond.",
+        "art": "assets/psalm118/verse-20-watercolor.webp"
+      },
+      {
+        "title": "Thanks for the answer",
+        "heading": "You have become my salvation",
+        "meaning": "'I will give You thanks, for You have answered me, and You have become my salvation.' Inside the gates, the speaker turns to address God directly. The thanks is personal: You answered me. God did more than send rescue; He Himself became salvation. The phrase repeats verse 14, linking the story of trouble to this moment of worship.",
+        "contextTitle": "Thanks spoken to God",
+        "context": "The shift from speaking about God to speaking to God is common in thanksgiving psalms. Isaiah 12:1-2 likewise says, 'I will praise You, O LORD... God is my salvation.'",
+        "explore": [
+          [
+            "Answered",
+            "Responded to prayer with action, hearing and acting on the cry."
+          ],
+          [
+            "Become my salvation",
+            "God personally is the rescue, not only the giver of it."
+          ]
+        ],
+        "reflect": "Can you thank God directly today for a prayer He has answered?",
+        "related": [
+          "Isaiah 12:2",
+          "Psalm 116:1",
+          "Psalm 34:4"
+        ],
+        "alt": "A worshiper kneeling inside a sunlit courtyard with head bowed.",
+        "art": "assets/psalm118/verse-21-watercolor.webp"
+      },
+      {
+        "title": "The rejected stone",
+        "heading": "Has become the cornerstone",
+        "meaning": "'The stone the builders rejected has become the cornerstone.' A stone judged useless by builders turns out to be the most important one in the whole building. Originally this may describe Israel or its king, despised by the nations but chosen by God. Jesus applied it to Himself: rejected by the leaders, crucified, yet raised as the foundation of God's new temple.",
+        "contextTitle": "Jesus the cornerstone",
+        "context": "Jesus quoted this verse after the parable of the tenants (Matthew 21:42). Peter used it before the council (Acts 4:11) and in 1 Peter 2:7. Isaiah 28:16 speaks of a tested, precious cornerstone in Zion.",
+        "explore": [
+          [
+            "Builders",
+            "Those responsible for constructing; here leaders who judged the stone worthless."
+          ],
+          [
+            "Cornerstone",
+            "The key foundation stone that sets the lines and holds the building together."
+          ]
+        ],
+        "reflect": "Have you ever felt rejected? How does God's way of honoring the rejected stone encourage you?",
+        "related": [
+          "Matthew 21:42",
+          "Acts 4:11",
+          "1 Peter 2:7"
+        ],
+        "alt": "A large squared stone set at the corner of a rising wall.",
+        "art": "assets/psalm118/verse-22-watercolor.webp"
+      },
+      {
+        "title": "Marvelous in our eyes",
+        "heading": "This is from the LORD",
+        "meaning": "'This is from the LORD, and it is marvelous in our eyes.' The reversal of the rejected stone could never have come from human planning. It is God's doing, and it fills those who see it with wonder. God delights in surprising reversals, lifting what others discard and making it central to His work in the world.",
+        "contextTitle": "God's surprising work",
+        "context": "Jesus quoted this verse together with verse 22 (Mark 12:11). 1 Corinthians 1:27-28 says God chose the foolish and lowly things of the world to shame the strong.",
+        "explore": [
+          [
+            "From the LORD",
+            "God's own work, beyond what humans could plan or achieve."
+          ],
+          [
+            "Marvelous",
+            "Wonderful and astonishing, causing awe and amazement."
+          ]
+        ],
+        "reflect": "Where have you seen God turn something unexpected into something wonderful?",
+        "related": [
+          "Mark 12:11",
+          "1 Corinthians 1:27",
+          "Psalm 126:3"
+        ],
+        "alt": "Workers pausing to look up in wonder at a finished archway.",
+        "art": "assets/psalm118/verse-23-watercolor.webp"
+      },
+      {
+        "title": "The day the LORD made",
+        "heading": "We will rejoice and be glad",
+        "meaning": "'This is the day that the LORD has made; we will rejoice and be glad in it.' In context this is the day of rescue and of the rejected stone being honored. It is a day God has acted. The verse is often applied to every day, and that is fitting too: each day is God's gift and an occasion to rejoice in what He has done.",
+        "contextTitle": "A day of God's action",
+        "context": "In the psalm 'this day' is the festival day of God's deliverance. Christians have long sung this verse on Easter, the day the rejected stone was raised (Acts 4:10-11).",
+        "explore": [
+          [
+            "The day",
+            "A specific day of God's saving action, and by extension each day He gives."
+          ],
+          [
+            "Rejoice",
+            "Be glad and celebrate with open, freely expressed joy."
+          ]
+        ],
+        "reflect": "What could you rejoice in about today, even if it is an ordinary day?",
+        "related": [
+          "Acts 4:10",
+          "Philippians 4:4",
+          "Nehemiah 8:10"
+        ],
+        "alt": "Children running through a sunlit field on a bright morning.",
+        "art": "assets/psalm118/verse-24-watercolor.webp"
+      },
+      {
+        "title": "Save us now",
+        "heading": "Cause us to prosper",
+        "meaning": "'O LORD, save us, we pray. We beseech You, O LORD, cause us to prosper!' The words 'save us, we pray' are 'Hosanna' in Hebrew. Even in celebration the people ask God to keep saving and blessing them. At Jesus' entry into Jerusalem, the crowds shouted 'Hosanna', turning this prayer into a welcome for the King.",
+        "contextTitle": "The origin of Hosanna",
+        "context": "'Hosanna' comes from the Hebrew of this verse, 'hoshia na', meaning 'save, please.' Crowds shouted it as Jesus rode into Jerusalem (Matthew 21:9; John 12:13).",
+        "explore": [
+          [
+            "Hosanna",
+            "From Hebrew 'save us, we pray'; later used as a shout of praise and welcome."
+          ],
+          [
+            "Prosper",
+            "Succeed, grow and flourish under God's generous blessing."
+          ]
+        ],
+        "reflect": "What do you need God to save you from or bless you in right now?",
+        "related": [
+          "Matthew 21:9",
+          "John 12:13",
+          "Psalm 28:9"
+        ],
+        "alt": "Palm branches laid across a dusty road outside a city gate.",
+        "art": "assets/psalm118/verse-25-watercolor.webp"
+      },
+      {
+        "title": "He who comes",
+        "heading": "Blessed in the name of the LORD",
+        "meaning": "'Blessed is he who comes in the name of the LORD. From the house of the LORD we bless you.' The priests welcome the arriving worshiper or king with a blessing. Centuries later, crowds greeted Jesus with these very words as He entered Jerusalem. Jesus also said Jerusalem would not see Him again until they said, 'Blessed is He who comes in the name of the Lord.'",
+        "contextTitle": "Welcoming the King",
+        "context": "The crowds shouted this at the triumphal entry (Mark 11:9). Jesus quoted it in His lament over Jerusalem (Matthew 23:39), pointing to His future return.",
+        "explore": [
+          [
+            "He who comes",
+            "The one arriving at the temple; applied in the Gospels to the Messiah."
+          ],
+          [
+            "House of the LORD",
+            "The temple, where priests spoke blessings over worshipers."
+          ]
+        ],
+        "reflect": "How do you welcome Jesus into your life day by day?",
+        "related": [
+          "Mark 11:9",
+          "Matthew 23:39",
+          "Luke 19:38"
+        ],
+        "alt": "A crowd waving branches along a road leading to a walled city.",
+        "art": "assets/psalm118/verse-26-watercolor.webp"
+      },
+      {
+        "title": "Light and festival",
+        "heading": "Bind the festal sacrifice",
+        "meaning": "'The LORD is God; He has made His light to shine upon us. Bind the festal sacrifice with cords to the horns of the altar.' The people confess that the LORD alone is God, and that His favor shines on them like light. Then they move to celebrate, binding the festival offering to the altar. Worship moves from confession to action, from words to gift.",
+        "contextTitle": "The altar's horns",
+        "context": "The bronze altar had horn-shaped projections at its four corners (Exodus 27:2). Numbers 6:25 prays, 'May the LORD make His face shine upon you.'",
+        "explore": [
+          [
+            "Light shine",
+            "God's favor and blessing pictured as warm light on His people."
+          ],
+          [
+            "Horns of the altar",
+            "Projections at the altar's corners where offerings were bound."
+          ]
+        ],
+        "reflect": "How can you respond to God's favor with a gift of your own, of time, praise or service?",
+        "related": [
+          "Numbers 6:25",
+          "Exodus 27:2",
+          "Romans 12:1"
+        ],
+        "alt": "Morning light falling across a stone altar with horned corners.",
+        "art": "assets/psalm118/verse-27-watercolor.webp"
+      },
+      {
+        "title": "You are my God",
+        "heading": "I will exalt You",
+        "meaning": "'You are my God, and I will give You thanks. You are my God, and I will exalt You.' The speaker's voice rises in personal devotion. Twice they say 'You are my God.' The great truths sung by the congregation become a personal confession. Thanks and exaltation flow from belonging: this God is not only Israel's God, but mine.",
+        "contextTitle": "A personal confession",
+        "context": "Thomas confessed the risen Jesus as 'My Lord and my God!' (John 20:28). Exodus 15:2 also says, 'This is my God, and I will praise Him,' using the same personal words.",
+        "explore": [
+          [
+            "My God",
+            "A personal claim of relationship and belonging to God."
+          ],
+          [
+            "Exalt",
+            "Lift high in honor, giving God the very highest place."
+          ]
+        ],
+        "reflect": "What would it mean for you to say, personally and sincerely, 'You are my God'?",
+        "related": [
+          "John 20:28",
+          "Exodus 15:2",
+          "Psalm 63:1"
+        ],
+        "alt": "A lone worshiper with arms lifted in a quiet temple court.",
+        "art": "assets/psalm118/verse-28-watercolor.webp"
+      },
+      {
+        "title": "Thanks forever",
+        "heading": "His love endures forever",
+        "meaning": "'Give thanks to the LORD, for He is good; His loving devotion endures forever.' The psalm ends where it began. After the story of distress, battle, rescue and worship, the same truth stands: God is good and His love lasts forever. Everything in between has proved the opening line true. This closing refrain also ends the whole Hallel.",
+        "contextTitle": "Ending where it began",
+        "context": "The same words open and close the psalm, a pattern called an inclusio that frames the whole. This was likely the final verse Jesus and His disciples sang before going out to the Mount of Olives (Mark 14:26).",
+        "explore": [
+          [
+            "Inclusio",
+            "A literary frame in which a passage begins and ends with the same words."
+          ],
+          [
+            "Hallel",
+            "Psalms 113-118, the songs of praise sung at Passover and other festivals."
+          ]
+        ],
+        "reflect": "Looking back over a hard season, how has God proved good and loving through it?",
+        "related": [
+          "Mark 14:26",
+          "Psalm 107:1",
+          "Jeremiah 33:11"
+        ],
+        "alt": "Disciples walking at night down a path toward an olive grove.",
+        "art": "assets/psalm118/verse-29-watercolor.webp"
+      }
+    ]
+  }
+}
