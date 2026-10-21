@@ -6,7 +6,7 @@ const bible=read('data/bible.json').books,source=read('drafts/psalm22/source.jso
 assert.deepEqual(source.verses,bible[18].chapters[21],'Exact entire bundled chapter');
 assert.equal(source.verses.length,31);
 assert(source.verses[0][1].includes('To the tune of “The Doe of the Dawn.”'));
-assert.equal(plan.completedChapter,false,'Partial drafts must not claim chapter completion');
+if(plan.completedChapter)assert.equal(plan.nextVerse,32,'A completed chapter requires all 31 reviewed verses');
 const rows=plan.groups.flatMap(g=>{const d=read('drafts/psalm22/'+g.file);assert.deepEqual(d.range,g.range);assert.equal(d.verses.length,g.range[1]-g.range[0]+1);return d.verses;});
 assert.equal(rows.length,plan.nextVerse-1);
 assert.deepEqual(rows.map(r=>r.verse),Array.from({length:rows.length},(_,i)=>i+1),'Contiguous editorial checkpoint');

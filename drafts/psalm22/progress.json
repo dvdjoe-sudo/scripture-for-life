@@ -1,8 +1,8 @@
 {
   "chapter": 22,
-  "status": "All 31 editorial/art verses reviewed; chapter integrated for release validation, not yet published",
+  "status": "All 31 verses passed source/art, phone-width website/packaged-webview and Capacitor chapter gate; publication follows final tested merge and deployment",
   "totalVerses": 31,
-  "completedChapter": false,
+  "completedChapter": true,
   "nextVerse": 32,
   "groups": [
     {
