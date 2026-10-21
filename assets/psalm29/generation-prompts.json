@@ -1,0 +1,84 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Use case: illustration-story. Asset type: original verse-specific watercolor for Scripture for Life, Psalm 29. Input image: approved Psalm 23:2 watercolor, STYLE REFERENCE ONLY; make a new composition. Match its finely painted naturalism, translucent watercolor, ivory paper, forest-green and muted sage foliage, earth pigments, delicate texture, luminous atmospheric depth. Landscape 3:2. This is symbolic artwork responding to a poem, not a historical reconstruction or scientific explanation of weather. No divine human figure or body parts, no divine face or hands, no humanoid clouds, no angels, no halos, no lettering, logos or watermark, no modern objects. Psalm 29:1 invites heavenly beings to ascribe glory and strength. A vast dawn sky filled with fading stars above distant blue hills and a quiet olive valley, framed by dark olive branches at the lower corners. Wide upward-looking view, luminous upper two thirds. Depict only sky and landscape; stars symbolically suggest the heavenly invitation, with no invented beings or divine form.",
+      "production": "assets/psalm29/verse-1-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-8915cf7c-5372-4073-92a9-0214536499ce.png"
+    },
+    {
+      "verse": 2,
+      "prompt": "Use case: illustration-story. Asset type: original verse-specific watercolor for Scripture for Life, Psalm 29. Input image: approved Psalm 23:2 watercolor, STYLE REFERENCE ONLY; make a new composition. Match its finely painted naturalism, translucent watercolor, ivory paper, forest-green and muted sage foliage, earth pigments, delicate texture, luminous atmospheric depth. Landscape 3:2. This is symbolic artwork responding to a poem, not a historical reconstruction or scientific explanation of weather. No divine human figure or body parts, no divine face or hands, no humanoid clouds, no angels, no halos, no lettering, logos or watermark, no modern objects. Psalm 29:2 calls for worship in holy splendor. A quiet empty ancient sanctuary courtyard: simple linen curtains, warm pale stone, a modest open entrance and an olive branch resting on the low foreground wall. Soft luminous morning atmosphere, no throne, no person or visible interior divinity. Sanctuary is symbolic, not a reconstruction of a particular temple.",
+      "production": "assets/psalm29/verse-2-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-13203da0-0840-4c25-bc18-e7a9d8f70c0e.png"
+    },
+    {
+      "verse": 3,
+      "prompt": "Use case: illustration-story. Asset type: original verse-specific watercolor for Scripture for Life, Psalm 29. Input image: approved Psalm 23:2 watercolor, STYLE REFERENCE ONLY; make a new composition. Match its finely painted naturalism, translucent watercolor, ivory paper, forest-green and muted sage foliage, earth pigments, delicate texture, luminous atmospheric depth. Landscape 3:2. This is symbolic artwork responding to a poem, not a historical reconstruction or scientific explanation of weather. No divine human figure or body parts, no divine face or hands, no humanoid clouds, no angels, no halos, no lettering, logos or watermark, no modern objects. Psalm 29:3 names the voice over many waters and thunder. A wide lake under layered rain clouds, waves rising along a rocky shore, distant mountains half veiled in rainfall. Rich blue-grey water, muted sage reeds, subtle opening of light. No figures, no literal heavenly speaker, no boats in danger.",
+      "production": "assets/psalm29/verse-3-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-bed9c6e4-e541-4d1f-b320-53c977a59e5d.png"
+    },
+    {
+      "verse": 4,
+      "prompt": "Use case: illustration-story. Asset type: original verse-specific watercolor for Scripture for Life, Psalm 29. Input image: approved Psalm 23:2 watercolor, STYLE REFERENCE ONLY; make a new composition. Match its finely painted naturalism, translucent watercolor, ivory paper, forest-green and muted sage foliage, earth pigments, delicate texture, luminous atmospheric depth. Landscape 3:2. This is symbolic artwork responding to a poem, not a historical reconstruction or scientific explanation of weather. No divine human figure or body parts, no divine face or hands, no humanoid clouds, no angels, no halos, no lettering, logos or watermark, no modern objects. Psalm 29:4 declares the voice powerful and majestic. Towering sculptural storm clouds above an immense high ridge, broad shafts of light illuminating rugged limestone below, a tiny sturdy olive tree in foreground for scale. Emphasize grandeur and atmosphere without a recognizable face in any cloud or any embodied deity. No lightning, distinguish from verse 7.",
+      "production": "assets/psalm29/verse-4-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-8f8f714f-bd2f-4752-a948-aad6e0682f37.png"
+    },
+    {
+      "verse": 5,
+      "prompt": "Use case: illustration-story. Asset type: original verse-specific watercolor for Scripture for Life, Psalm 29. Input image: approved Psalm 23:2 watercolor, STYLE REFERENCE ONLY; make a new composition. Match its finely painted naturalism, translucent watercolor, ivory paper, forest-green and muted sage foliage, earth pigments, delicate texture, luminous atmospheric depth. Landscape 3:2. This is symbolic artwork responding to a poem, not a historical reconstruction or scientific explanation of weather. No divine human figure or body parts, no divine face or hands, no humanoid clouds, no angels, no halos, no lettering, logos or watermark, no modern objects. Psalm 29:5 pictures the breaking cedars of Lebanon. An old cedar tree with a broken upper bough on a high mountain slope after a gale, the fallen branch lying on bare rock with intact cedar trees receding behind. Watercolor forest greens, mist and pale light. No people, buildings, divine figure, axe or wildfire; not an invented specific storm event.",
+      "production": "assets/psalm29/verse-5-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-5b66a28c-e58f-48b2-aa4e-129fcd1cf928.png"
+    },
+    {
+      "verse": 6,
+      "prompt": "Use case: illustration-story. Asset type: original verse-specific watercolor for Scripture for Life, Psalm 29. Input image: approved Psalm 23:2 watercolor, STYLE REFERENCE ONLY; make a new composition. Match its finely painted naturalism, translucent watercolor, ivory paper, forest-green and muted sage foliage, earth pigments, delicate texture, luminous atmospheric depth. Landscape 3:2. This is symbolic artwork responding to a poem, not a historical reconstruction or scientific explanation of weather. No divine human figure or body parts, no divine face or hands, no humanoid clouds, no angels, no halos, no lettering, logos or watermark, no modern objects. Psalm 29:6 compares Lebanon and Sirion to skipping young animals. A sweeping northern mountain ridge seen across green high pasture, with a small young wild ox making a light bounding step in the foreground and a calf standing beside it. The mountain stays geographically solid and still; the animals are symbolic visual comparisons, not literal dancing mountains. Gentle nonviolent motion.",
+      "production": "assets/psalm29/verse-6-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-fcdc8be8-d11d-4ca1-8dd5-36fbe10a4315.png"
+    },
+    {
+      "verse": 7,
+      "prompt": "Use case: illustration-story. Asset type: original verse-specific watercolor for Scripture for Life, Psalm 29. Input image: approved Psalm 23:2 watercolor, STYLE REFERENCE ONLY; make a new composition. Match its finely painted naturalism, translucent watercolor, ivory paper, forest-green and muted sage foliage, earth pigments, delicate texture, luminous atmospheric depth. Landscape 3:2. This is symbolic artwork responding to a poem, not a historical reconstruction or scientific explanation of weather. No divine human figure or body parts, no divine face or hands, no humanoid clouds, no angels, no halos, no lettering, logos or watermark, no modern objects. Psalm 29:7 flames of fire within storm poetry. One slender branching bolt of lightning lights the far horizon over a broad dark lake and stone headland, small olive bushes bending in the foreground; dramatic yet reverent atmospheric watercolor. No figure wielding lightning, no burning buildings, no wildfire, no lettering.",
+      "production": "assets/psalm29/verse-7-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-4b3fd19c-eb95-4352-b5a4-03ffec02ec7b.png"
+    },
+    {
+      "verse": 8,
+      "prompt": "Use case: illustration-story. Asset type: original verse-specific watercolor for Scripture for Life, Psalm 29. Input image: approved Psalm 23:2 watercolor, STYLE REFERENCE ONLY; make a new composition. Match its finely painted naturalism, translucent watercolor, ivory paper, forest-green and muted sage foliage, earth pigments, delicate texture, luminous atmospheric depth. Landscape 3:2. This is symbolic artwork responding to a poem, not a historical reconstruction or scientific explanation of weather. No divine human figure or body parts, no divine face or hands, no humanoid clouds, no angels, no halos, no lettering, logos or watermark, no modern objects. Psalm 29:8 shakes the wilderness of Kadesh. A wide arid wilderness of pale stone ridges and a dry winding wadi beneath a passing storm front; wind lifts thin veils of dust among sparse hardy shrubs. No named site marker, no specific historical reconstruction, no people or supernatural figure. Distinct ochre-and-sage desert composition.",
+      "production": "assets/psalm29/verse-8-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-c78127ed-016a-459d-86df-3fe4ae4813f1.png"
+    },
+    {
+      "verse": 9,
+      "prompt": "Use case: illustration-story. Asset type: original verse-specific watercolor for Scripture for Life, Psalm 29. Input image: approved Psalm 23:2 watercolor, STYLE REFERENCE ONLY; make a new composition. Match its finely painted naturalism, translucent watercolor, ivory paper, forest-green and muted sage foliage, earth pigments, delicate texture, luminous atmospheric depth. Landscape 3:2. This is symbolic artwork responding to a poem, not a historical reconstruction or scientific explanation of weather. No divine human figure or body parts, no divine face or hands, no humanoid clouds, no angels, no halos, no lettering, logos or watermark, no modern objects. Psalm 29:9 twists oaks and strips forests, and the temple cries Glory. A weathered oak with twisted bare upper branches and scattered leaves stands beyond the low wall of an empty ancient courtyard; rain clears and a muted forest lies beyond. A fold of linen curtain at one edge subtly suggests sanctuary. No divine figure, no words or people; do not depict deer or childbirth, follow the bundled oaks wording.",
+      "production": "assets/psalm29/verse-9-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-dff48cd1-3e71-450b-89a4-23c88f76b341.png"
+    },
+    {
+      "verse": 10,
+      "prompt": "Use case: illustration-story. Asset type: original verse-specific watercolor for Scripture for Life, Psalm 29. Input image: approved Psalm 23:2 watercolor, STYLE REFERENCE ONLY; make a new composition. Match its finely painted naturalism, translucent watercolor, ivory paper, forest-green and muted sage foliage, earth pigments, delicate texture, luminous atmospheric depth. Landscape 3:2. This is symbolic artwork responding to a poem, not a historical reconstruction or scientific explanation of weather. No divine human figure or body parts, no divine face or hands, no humanoid clouds, no angels, no halos, no lettering, logos or watermark, no modern objects. Psalm 29:10 enthroned over the flood and King forever. A broad firm rocky summit above sweeping floodwaters filling a distant valley, small unbroken olive branches rooted in the foreground. Receding layered mountains and clearing sky convey enduring rule without depicting a physical throne or king. No ark, no humans, no victims; symbolic flood rather than a reconstruction.",
+      "production": "assets/psalm29/verse-10-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-0e03bee2-7d81-4c8a-815c-b6633a544589.png"
+    },
+    {
+      "verse": 11,
+      "prompt": "Use case: illustration-story. Asset type: original verse-specific watercolor for Scripture for Life, Psalm 29. Input image: approved Psalm 23:2 watercolor, STYLE REFERENCE ONLY; make a new composition. Match its finely painted naturalism, translucent watercolor, ivory paper, forest-green and muted sage foliage, earth pigments, delicate texture, luminous atmospheric depth. Landscape 3:2. This is symbolic artwork responding to a poem, not a historical reconstruction or scientific explanation of weather. No divine human figure or body parts, no divine face or hands, no humanoid clouds, no angels, no halos, no lettering, logos or watermark, no modern objects. Psalm 29:11 strength and peace for the people. After-storm stillness: a fresh olive branch lies on a solid low stone wall beside calm reflective water, with a small peaceful ancient village far across the valley and fields renewed in soft light. Close foreground detail opening into a spacious quiet landscape. No humans, no crown, no writing; peace without implying a promise of perfect weather.",
+      "production": "assets/psalm29/verse-11-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-07f52eaf-9ce2-45b2-a918-0a95df76c8c7.png"
+    }
+  ],
+  "pendingVerses": []
+}
