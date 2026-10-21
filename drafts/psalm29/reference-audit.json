@@ -1,0 +1,588 @@
+{
+  "source": "data/bible.json",
+  "status": "all related passages and surrounding verses read before drafting; Ezekiel 31 read in full",
+  "references": [
+    {
+      "ref": "Psalm 96:7",
+      "context": [
+        [
+          5,
+          "For all the gods of the nations are idols, but it is the LORD who made the heavens."
+        ],
+        [
+          6,
+          "Splendor and majesty are before Him; strength and beauty fill His sanctuary."
+        ],
+        [
+          7,
+          "Ascribe to the LORD, O families of the nations, ascribe to the LORD glory and strength."
+        ],
+        [
+          8,
+          "Ascribe to the LORD the glory due His name; bring an offering and enter His courts."
+        ],
+        [
+          9,
+          "Worship the LORD in the splendor of His holiness; tremble before Him, all the earth."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 103:20",
+      "context": [
+        [
+          18,
+          "to those who keep His covenant and remember to obey His precepts."
+        ],
+        [
+          19,
+          "The LORD has established His throne in heaven, and His kingdom rules over all."
+        ],
+        [
+          20,
+          "Bless the LORD, all His angels mighty in strength who carry out His word, who hearken to the voice of His command."
+        ],
+        [
+          21,
+          "Bless the LORD, all His hosts, you servants who do His will."
+        ],
+        [
+          22,
+          "Bless the LORD, all His works in all places of His dominion. Bless the LORD, O my soul!"
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 96:9",
+      "context": [
+        [
+          7,
+          "Ascribe to the LORD, O families of the nations, ascribe to the LORD glory and strength."
+        ],
+        [
+          8,
+          "Ascribe to the LORD the glory due His name; bring an offering and enter His courts."
+        ],
+        [
+          9,
+          "Worship the LORD in the splendor of His holiness; tremble before Him, all the earth."
+        ],
+        [
+          10,
+          "Declare among the nations: “The LORD reigns!” The world is firmly established; it cannot be moved; He will judge the peoples with equity."
+        ],
+        [
+          11,
+          "Let the heavens be glad and the earth rejoice; let the sea resound, and all that fills it."
+        ]
+      ]
+    },
+    {
+      "ref": "1 Chronicles 16:29",
+      "context": [
+        [
+          27,
+          "Splendor and majesty are before Him; strength and joy fill His dwelling."
+        ],
+        [
+          28,
+          "Ascribe to the LORD, O families of the nations, ascribe to the LORD glory and strength."
+        ],
+        [
+          29,
+          "Ascribe to the LORD the glory due His name; bring an offering and come before Him. Worship the LORD in the splendor of His holiness;"
+        ],
+        [
+          30,
+          "tremble before Him, all the earth. The world is firmly established; it cannot be moved."
+        ],
+        [
+          31,
+          "Let the heavens be glad, and the earth rejoice. Let them say among the nations, ‘The LORD reigns!’"
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 18:13",
+      "context": [
+        [
+          11,
+          "He made darkness His hiding place, and storm clouds a canopy around Him."
+        ],
+        [
+          12,
+          "From the brightness of His presence His clouds advanced—hailstones and coals of fire."
+        ],
+        [
+          13,
+          "The LORD thundered from heaven; the voice of the Most High resounded—hailstones and coals of fire."
+        ],
+        [
+          14,
+          "He shot His arrows and scattered the foes; He hurled lightning and routed them."
+        ],
+        [
+          15,
+          "The channels of the sea appeared, and the foundations of the world were exposed, at Your rebuke, O LORD, at the blast of the breath of Your nostrils."
+        ]
+      ]
+    },
+    {
+      "ref": "Job 37:4",
+      "context": [
+        [
+          2,
+          "Listen closely to the thunder of His voice and the rumbling that comes from His mouth."
+        ],
+        [
+          3,
+          "He unleashes His lightning beneath the whole sky and sends it to the ends of the earth."
+        ],
+        [
+          4,
+          "Then there comes a roaring sound; He thunders with His majestic voice. He does not restrain the lightning when His voice resounds."
+        ],
+        [
+          5,
+          "God thunders wondrously with His voice; He does great things we cannot comprehend."
+        ],
+        [
+          6,
+          "For He says to the snow, ‘Fall on the earth,’ and to the gentle rain, ‘Pour out a mighty downpour.’"
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 68:33",
+      "context": [
+        [
+          31,
+          "Envoys will arrive from Egypt; Cush will stretch out her hands to God."
+        ],
+        [
+          32,
+          "Sing to God, O kingdoms of the earth; sing praises to the Lord—Selah"
+        ],
+        [
+          33,
+          "to Him who rides upon the highest heavens of old; behold, His mighty voice resounds."
+        ],
+        [
+          34,
+          "Ascribe the power to God, whose majesty is over Israel, whose strength is in the skies."
+        ],
+        [
+          35,
+          "O God, You are awesome in Your sanctuary; the God of Israel Himself gives strength and power to His people. Blessed be God!"
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 93:4",
+      "context": [
+        [
+          2,
+          "Your throne was established long ago; You are from all eternity."
+        ],
+        [
+          3,
+          "The floodwaters have risen, O LORD; the rivers have raised their voice; the seas lift up their pounding waves."
+        ],
+        [
+          4,
+          "Above the roar of many waters—the mighty breakers of the sea—the LORD on high is majestic."
+        ],
+        [
+          5,
+          "Your testimonies are fully confirmed; holiness adorns Your house, O LORD, for all the days to come."
+        ]
+      ]
+    },
+    {
+      "ref": "Isaiah 2:13",
+      "context": [
+        [
+          11,
+          "The proud look of man will be humbled, and the loftiness of men brought low; the LORD alone will be exalted in that day."
+        ],
+        [
+          12,
+          "For the Day of the LORD of Hosts will come against all the proud and lofty, against all that is exalted—it will be humbled—"
+        ],
+        [
+          13,
+          "against all the cedars of Lebanon, lofty and lifted up, against all the oaks of Bashan,"
+        ],
+        [
+          14,
+          "against all the tall mountains, against all the high hills,"
+        ],
+        [
+          15,
+          "against every high tower, against every fortified wall,"
+        ]
+      ]
+    },
+    {
+      "ref": "Ezekiel 31:3",
+      "context": [
+        [
+          1,
+          "In the eleventh year, on the first day of the third month, the word of the LORD came to me, saying,"
+        ],
+        [
+          2,
+          "“Son of man, say to Pharaoh king of Egypt and to his multitude: ‘Who can be compared to your greatness?"
+        ],
+        [
+          3,
+          "Look at Assyria, a cedar in Lebanon, with beautiful branches that shaded the forest. It towered on high; its top was among the clouds."
+        ],
+        [
+          4,
+          "The waters made it grow; the deep springs made it tall, directing their streams all around its base and sending their channels to all the trees of the field."
+        ],
+        [
+          5,
+          "Therefore it towered higher than all the trees of the field. Its branches multiplied, and its boughs grew long as it spread them out because of the abundant waters."
+        ],
+        [
+          6,
+          "All the birds of the air nested in its branches, and all the beasts of the field gave birth beneath its boughs; all the great nations lived in its shade."
+        ],
+        [
+          7,
+          "It was beautiful in its greatness, in the length of its limbs, for its roots extended to abundant waters."
+        ],
+        [
+          8,
+          "The cedars in the garden of God could not rival it; the cypresses could not compare with its branches, nor the plane trees match its boughs. No tree in the garden of God could compare with its beauty."
+        ],
+        [
+          9,
+          "I made it beautiful with its many branches, the envy of all the trees of Eden, which were in the garden of God.’"
+        ],
+        [
+          10,
+          "Therefore this is what the Lord GOD says: ‘Since it became great in height and set its top among the clouds, and it grew proud on account of its height,"
+        ],
+        [
+          11,
+          "I delivered it into the hand of the ruler of the nations, for him to deal with it according to its wickedness. I have banished it."
+        ],
+        [
+          12,
+          "Foreigners, the most ruthless of the nations, cut it down and left it. Its branches have fallen on the mountains and in every valley; its boughs lay broken in all the earth’s ravines. And all the peoples of the earth left its shade and abandoned it."
+        ],
+        [
+          13,
+          "All the birds of the air nested on its fallen trunk, and all the beasts of the field lived among its boughs."
+        ],
+        [
+          14,
+          "This happened so that no other trees by the waters would become great in height and set their tops among the clouds, and no other well-watered trees would reach them in height. For they have all been consigned to death, to the depths of the earth, among the mortals who descend to the Pit.’"
+        ],
+        [
+          15,
+          "This is what the Lord GOD says: ‘On the day it was brought down to Sheol, I caused mourning. I covered the deep because of it; I held back its rivers; its abundant waters were restrained. I made Lebanon mourn for it, and all the trees of the field fainted because of it."
+        ],
+        [
+          16,
+          "I made the nations quake at the sound of its downfall, when I cast it down to Sheol with those who descend to the Pit. Then all the trees of Eden, the choicest and best of Lebanon, all the well-watered trees, were consoled in the earth below."
+        ],
+        [
+          17,
+          "They too descended with it to Sheol, to those slain by the sword. As its allies they had lived in its shade among the nations."
+        ],
+        [
+          18,
+          "Who then is like you in glory and greatness among the trees of Eden? You also will be brought down to the depths of the earth to be with the trees of Eden. You will lie among the uncircumcised, with those slain by the sword. This is Pharaoh and all his multitude, declares the Lord GOD.’”"
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 114:4",
+      "context": [
+        [
+          2,
+          "Judah became God’s sanctuary, Israel His dominion."
+        ],
+        [
+          3,
+          "The sea observed and fled; the Jordan turned back;"
+        ],
+        [
+          4,
+          "the mountains skipped like rams, the hills like lambs."
+        ],
+        [
+          5,
+          "Why was it, O sea, that you fled, O Jordan, that you turned back,"
+        ],
+        [
+          6,
+          "O mountains, that you skipped like rams, O hills, like lambs?"
+        ]
+      ]
+    },
+    {
+      "ref": "Deuteronomy 3:9",
+      "context": [
+        [
+          7,
+          "But all the livestock and plunder of the cities we carried off for ourselves."
+        ],
+        [
+          8,
+          "At that time we took from the two kings of the Amorites the land across the Jordan, from the Arnon Valley as far as Mount Hermon—"
+        ],
+        [
+          9,
+          "which the Sidonians call Sirion but the Amorites call Senir—"
+        ],
+        [
+          10,
+          "all the cities of the plateau, all of Gilead, and all of Bashan as far as the cities of Salecah and Edrei in the kingdom of Og."
+        ],
+        [
+          11,
+          "(For only Og king of Bashan had remained of the remnant of the Rephaim. His bed of iron, nine cubits long and four cubits wide, is still in Rabbah of the Ammonites.)"
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 18:14",
+      "context": [
+        [
+          12,
+          "From the brightness of His presence His clouds advanced—hailstones and coals of fire."
+        ],
+        [
+          13,
+          "The LORD thundered from heaven; the voice of the Most High resounded—hailstones and coals of fire."
+        ],
+        [
+          14,
+          "He shot His arrows and scattered the foes; He hurled lightning and routed them."
+        ],
+        [
+          15,
+          "The channels of the sea appeared, and the foundations of the world were exposed, at Your rebuke, O LORD, at the blast of the breath of Your nostrils."
+        ],
+        [
+          16,
+          "He reached down from on high and took hold of me; He drew me out of deep waters."
+        ]
+      ]
+    },
+    {
+      "ref": "Job 37:3",
+      "context": [
+        [
+          1,
+          "“At this my heart also pounds and leaps from its place."
+        ],
+        [
+          2,
+          "Listen closely to the thunder of His voice and the rumbling that comes from His mouth."
+        ],
+        [
+          3,
+          "He unleashes His lightning beneath the whole sky and sends it to the ends of the earth."
+        ],
+        [
+          4,
+          "Then there comes a roaring sound; He thunders with His majestic voice. He does not restrain the lightning when His voice resounds."
+        ],
+        [
+          5,
+          "God thunders wondrously with His voice; He does great things we cannot comprehend."
+        ]
+      ]
+    },
+    {
+      "ref": "Deuteronomy 8:15",
+      "context": [
+        [
+          13,
+          "and when your herds and flocks grow large and your silver and gold increase and all that you have is multiplied,"
+        ],
+        [
+          14,
+          "then your heart will become proud, and you will forget the LORD your God who brought you out of the land of Egypt, out of the house of slavery."
+        ],
+        [
+          15,
+          "He led you through the vast and terrifying wilderness with its venomous snakes and scorpions, a thirsty and waterless land. He brought you water from the rock of flint."
+        ],
+        [
+          16,
+          "He fed you in the wilderness with manna that your fathers had not known, in order to humble you and test you, so that in the end He might cause you to prosper."
+        ],
+        [
+          17,
+          "You might say in your heart, “The power and strength of my hands have made this wealth for me.”"
+        ]
+      ]
+    },
+    {
+      "ref": "Habakkuk 3:3",
+      "context": [
+        [
+          1,
+          "This is a prayer of Habakkuk the prophet, according to Shigionoth:"
+        ],
+        [
+          2,
+          "O LORD, I have heard the report of You; I stand in awe, O LORD, of Your deeds. Revive them in these years; make them known in these years. In Your wrath, remember mercy!"
+        ],
+        [
+          3,
+          "God came from Teman, and the Holy One from Mount Paran. Selah His glory covered the heavens, and His praise filled the earth."
+        ],
+        [
+          4,
+          "His radiance was like the sunlight; rays flashed from His hand, where His power is hidden."
+        ],
+        [
+          5,
+          "Plague went before Him, and fever followed in His steps."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 104:16",
+      "context": [
+        [
+          14,
+          "He makes the grass grow for the livestock and provides crops for man to cultivate, bringing forth food from the earth:"
+        ],
+        [
+          15,
+          "wine that gladdens the heart of man, oil that makes his face to shine, and bread that sustains his heart."
+        ],
+        [
+          16,
+          "The trees of the LORD have their fill, the cedars of Lebanon that He planted,"
+        ],
+        [
+          17,
+          "where the birds build their nests; the stork makes her home in the cypresses."
+        ],
+        [
+          18,
+          "The high mountains are for the wild goats, the cliffs a refuge for the rock badgers."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 96:6",
+      "context": [
+        [
+          4,
+          "For great is the LORD, and greatly to be praised; He is to be feared above all gods."
+        ],
+        [
+          5,
+          "For all the gods of the nations are idols, but it is the LORD who made the heavens."
+        ],
+        [
+          6,
+          "Splendor and majesty are before Him; strength and beauty fill His sanctuary."
+        ],
+        [
+          7,
+          "Ascribe to the LORD, O families of the nations, ascribe to the LORD glory and strength."
+        ],
+        [
+          8,
+          "Ascribe to the LORD the glory due His name; bring an offering and enter His courts."
+        ]
+      ]
+    },
+    {
+      "ref": "Genesis 7:17",
+      "context": [
+        [
+          15,
+          "They came to Noah to enter the ark, two by two of every creature with the breath of life."
+        ],
+        [
+          16,
+          "And they entered, the male and female of every living thing, as God had commanded Noah. Then the LORD shut him in."
+        ],
+        [
+          17,
+          "For forty days the flood kept coming on the earth, and the waters rose and lifted the ark high above the earth."
+        ],
+        [
+          18,
+          "So the waters continued to surge and rise greatly on the earth, and the ark floated on the surface of the waters."
+        ],
+        [
+          19,
+          "Finally, the waters completely prevailed upon the earth, so that all the high mountains under all the heavens were covered."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 93:1",
+      "context": [
+        [
+          1,
+          "The LORD reigns! He is robed in majesty; the LORD has clothed and armed Himself with strength. The world indeed is firmly established; it cannot be moved."
+        ],
+        [
+          2,
+          "Your throne was established long ago; You are from all eternity."
+        ],
+        [
+          3,
+          "The floodwaters have risen, O LORD; the rivers have raised their voice; the seas lift up their pounding waves."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 28:8",
+      "context": [
+        [
+          6,
+          "Blessed be the LORD, for He has heard my cry for mercy."
+        ],
+        [
+          7,
+          "The LORD is my strength and my shield; my heart trusts in Him, and I am helped. Therefore my heart rejoices, and I give thanks to Him with my song."
+        ],
+        [
+          8,
+          "The LORD is the strength of His people, a stronghold of salvation for His anointed."
+        ],
+        [
+          9,
+          "Save Your people and bless Your inheritance; shepherd them and carry them forever."
+        ]
+      ]
+    },
+    {
+      "ref": "Numbers 6:26",
+      "context": [
+        [
+          24,
+          "‘May the LORD bless you and keep you;"
+        ],
+        [
+          25,
+          "may the LORD cause His face to shine upon you and be gracious to you;"
+        ],
+        [
+          26,
+          "may the LORD lift up His countenance toward you and give you peace.’"
+        ],
+        [
+          27,
+          "So they shall put My name on the Israelites, and I will bless them.”"
+        ]
+      ]
+    }
+  ]
+}
