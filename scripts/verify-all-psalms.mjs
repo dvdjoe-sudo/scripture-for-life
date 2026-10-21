@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import vm from 'node:vm';
 const values=new Map();
-const c={window:{SFL_PSALM_ART:{progress:()=>2},SFL_PSALM46:{progress:()=>3}},document:{addEventListener(){}},localStorage:{getItem:k=>values.get(k)||null,setItem:(k,v)=>values.set(k,v)},location:{hash:'#/psalms/1'}};
+const c={window:{SFL_PSALM_ART:{progress:()=>2},SFL_PSALM46:{progress:()=>3,homeCard:()=>'<section class="ps46-card"></section>'}},document:{addEventListener(){}},localStorage:{getItem:k=>values.get(k)||null,setItem:(k,v)=>values.set(k,v)},location:{hash:'#/psalms/1'}};
 for(const f of ['psalms-content.js','psalm-navigation.js','psalms-book.js'])vm.runInNewContext(fs.readFileSync(f,'utf8'),c);
 const book=c.window.SFL_PSALMS_BOOK,source=JSON.parse(fs.readFileSync('data/bible.json','utf8')).books[18].chapters;
 assert.equal(book.chapters.length,150);
