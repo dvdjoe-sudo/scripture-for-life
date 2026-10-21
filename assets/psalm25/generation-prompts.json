@@ -1,0 +1,79 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "status": "Unpublished verses 1–8: eight distinct originals and production WebPs generated and visually inspected; verses 9–22 pending",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 25 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Verse 1: Side-back view of one anonymous adult on an olive ridge at early dawn, hands open at chest height and gaze toward wide empty sky, simple earth-tone cloak. Convey offering one's whole self in prayer without showing a disembodied soul or divine figure.",
+      "production": "assets/psalm25/verse-1-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-d361a8ca-e2b3-45d6-a095-a70cf099d384.png"
+    },
+    {
+      "verse": 2,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 25 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Verse 2: One anonymous traveler stands inside a sheltered cleft in a rugged hillside, looking toward a narrow opening and a distant path. A thoughtful calm trust amid vulnerability, no visible enemy, no king, no battle or triumphant humiliation.",
+      "production": "assets/psalm25/verse-2-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-05071781-5297-49f2-890e-1b0e16eef7dc.png"
+    },
+    {
+      "verse": 3,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 25 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Verse 3: Three anonymous adults wait together under a broad olive tree beside an old stone roadside bench, soft first light on the far ridge. Patient shared hope, different composition from a single figure praying; no villains or shame symbols.",
+      "production": "assets/psalm25/verse-3-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-23d68ba0-e69f-4bdb-a4c8-e6dbf5953382.png"
+    },
+    {
+      "verse": 4,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 25 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Verse 4: A close-ground view of a winding stone footpath through sage grass and olive saplings into a distant valley, a plain walking staff resting at the near edge. The path and its next steps are the focal point. No human figure or divine footprints.",
+      "production": "assets/psalm25/verse-4-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-01a3846b-6d22-48ff-a4ba-6189f61a0064.png"
+    },
+    {
+      "verse": 5,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 25 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Verse 5: One anonymous traveler sits beside a simple stone milestone without writing, a path stretches ahead through an olive valley under late afternoon light. Convey patient readiness to learn, ordinary travel objects, no magical map or heavenly guide.",
+      "production": "assets/psalm25/verse-5-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-4a9a0123-ff5b-4264-934d-c6c8786275c1.png"
+    },
+    {
+      "verse": 6,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 25 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Verse 6: An ancient olive tree with broad weathered roots and healthy new leaves stands alone amid hillside wildflowers, generations of growth and continuity in warm morning air. Symbol of enduring compassion, not God represented as a tree.",
+      "production": "assets/psalm25/verse-6-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-968e52b2-74ac-4f7e-bd1e-04b83fb0b25c.png"
+    },
+    {
+      "verse": 7,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 25 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Verse 7: Close quiet still life of a chipped earthen jar holding a fresh olive shoot, beside a worn linen cloth on a stone ledge overlooking a soft valley. Symbolic mercy and a life not reduced to its old damage, no written sins or magical erasure.",
+      "production": "assets/psalm25/verse-7-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-15ad5623-8464-4610-8a72-d76214358d0e.png"
+    },
+    {
+      "verse": 8,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 25 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Verse 8: A broad gently bending footpath leads from a rough rocky patch into a tended olive grove; two tiny anonymous adults walk side by side along it. Symbolic invitation to learn a better way, no visual labeling of sinners, no divine human teacher.",
+      "production": "assets/psalm25/verse-8-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-2db073e2-f68a-4fa6-bf15-6ddf83ccb5b9.png"
+    }
+  ],
+  "pendingVerses": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ]
+}

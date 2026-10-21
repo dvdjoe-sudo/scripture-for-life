@@ -1,0 +1,13 @@
+{
+  "chapter":25,
+  "status":"unpublished partial draft; not a completed chapter",
+  "baseMain":"c113cae2bb0028a4ac7e059a463cdf4ec3e987db",
+  "groups":[{"file":"verses-1-8.json","from":1,"through":8,"editorial":"reviewed against source and related contexts","art":"eight distinct originals and production WebPs visually inspected"}],
+  "nextVerse":9,
+  "pendingEditorialVerses":[9,10,11,12,13,14,15,16,17,18,19,20,21,22],
+  "pendingArtVerses":[9,10,11,12,13,14,15,16,17,18,19,20,21,22],
+  "proposedPeople":[{"id":"david","name":"David","ref":"Psalm 25:1","reason":"Named by the heading; no particular event supplied."}],
+  "proposedTopicPlan":{"direction":["Psalm 25:4","Psalm 25:5"],"forgiveness":["Psalm 25:7","Psalm 25:11"],"alone":["Psalm 25:16"],"strength":["Psalm 25:17"]},
+  "pendingGate":["finish verses 9–22 editorial and art","assemble full registered study","integrate people and everyday needs","website offline and Android bundle packaging","source/reference/asset checks","all-verse phone-width tabs/navigation/images","reload/Saved/dialog reflections","independent resume","topic/people/chapter transitions","required final CI and Capacitor checks","PR merge, main CI, Pages deployment and live verification"],
+  "resume":"Resume this branch/PR at verse 9 before starting Psalm 26. Do not register or publish a partial chapter, and do not mark Psalm 25 complete in PSALMS_ROLLOUT.md."
+}
