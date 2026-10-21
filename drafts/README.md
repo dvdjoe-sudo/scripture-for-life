@@ -1,13 +1,9 @@
-# Drafts
+# Psalms writing drafts
 
-Psalm 30 now has twelve reviewed illustrations and a whole-chapter integration candidate; see its progress and verification files. Publication requires all checks and deployment verification.
+Psalms 1–35 have integrated verse studies. Psalm 36 is a whole-chapter candidate using the existing writing draft, reviewed against the bundled BSB and related passages, with twelve individually generated and inspected watercolors. See `drafts/psalm36/progress.json`; publication follows CI and deployment verification.
 
-`drafts/psalm31/` through `drafts/psalm40/` remain **unpublished text-only drafts (211 verses)**. Run `node scripts/verify-drafts-psalms30-40.mjs` (historical filename) to verify them.
+**Psalms 37–60 remain unpublished text-only drafts.** The next three are Psalm 37 (40 verses), Psalm 38 (22) and Psalm 39 (13). Each has an exact BSB source snapshot, verse-specific Meaning/Context/Explore/Reflect notes, related references, a people/topic plan and one pending art prompt per verse. These drafts have no runtime modules or completed verse artwork.
 
-`drafts/psalm41/` through `drafts/psalm60/` are **unpublished text-only drafts (277 verses)**. Each folder has `source.json` (exact BSB snapshot), `editorial.json` (study + topic plan) and `generation-prompts.json` (one distinct, ungenerated watercolor prompt per verse). Run `node scripts/verify-drafts-psalms41-60.mjs`; it also checks prompts are visually distinct (unique scenes, no repeated openings, at most one "traveler" per psalm).
+Run `node scripts/verify-drafts-psalms30-40.mjs` (historical filename) for remaining Psalms 37–40 and `node scripts/verify-drafts-psalms41-60.mjs` for Psalms 41–60. The latter preserves the live six-section Psalm 46 study; its separate verse-by-verse draft is ready for review when reached. Older draft folders retain the editorial records behind integrated chapters.
 
-**Psalm 46** already has a live six-section study (`psalm46.js`, `assets/psalm46/section-*.webp`). `drafts/psalm46/` is a separate per-verse draft that does not change it; the verify script confirms the live files are unchanged from `origin/main`.
-
-People links follow headings: sons of Korah (42, 44–49), David (41, 51–60), Jacob where named (44:4, 46:7/11, 47:4, 53:6, 59:13). Asaph (50) has no People profile yet, so he is described without a link.
-
-None of these drafts has runtime modules, generated assets, script tags, build entries or topic integration. Older draft folders record the editorial groups behind integrated chapters.
+The newer **Psalms 61–67 writing-only drafts (81 verses)** are also present and passed `node scripts/verify-drafts-psalms61-150.mjs`. They remain unpublished and have no generated images. These extend the prepared writing beyond Psalm 60 without marking any chapter illustrated or integrated.

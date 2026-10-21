@@ -1,0 +1,894 @@
+{
+  "source": "data/bible.json",
+  "status": "all related passages read with surrounding verses during editorial review; later biblical connections retain their own settings",
+  "references": [
+    {
+      "ref": "Romans 3:18",
+      "context": [
+        [
+          9,
+          "What then? Are we any better? Not at all. For we have already made the charge that Jews and Greeks alike are all under sin."
+        ],
+        [
+          10,
+          "As it is written: “There is no one righteous, not even one."
+        ],
+        [
+          11,
+          "There is no one who understands, no one who seeks God."
+        ],
+        [
+          12,
+          "All have turned away, they have together become worthless; there is no one who does good, not even one.”"
+        ],
+        [
+          13,
+          "“Their throats are open graves; their tongues practice deceit.” “The venom of vipers is on their lips.”"
+        ],
+        [
+          14,
+          "“Their mouths are full of cursing and bitterness.”"
+        ],
+        [
+          15,
+          "“Their feet are swift to shed blood;"
+        ],
+        [
+          16,
+          "ruin and misery lie in their wake,"
+        ],
+        [
+          17,
+          "and the way of peace they have not known.”"
+        ],
+        [
+          18,
+          "“There is no fear of God before their eyes.”"
+        ],
+        [
+          19,
+          "Now we know that whatever the law says, it says to those who are under the law, so that every mouth may be silenced and the whole world held accountable to God."
+        ],
+        [
+          20,
+          "Therefore no one will be justified in His sight by works of the law. For the law merely brings awareness of sin."
+        ]
+      ]
+    },
+    {
+      "ref": "Proverbs 8:13",
+      "context": [
+        [
+          11,
+          "For wisdom is more precious than rubies, and nothing you desire compares with her."
+        ],
+        [
+          12,
+          "I, wisdom, dwell together with prudence, and I find knowledge and discretion."
+        ],
+        [
+          13,
+          "To fear the LORD is to hate evil; I hate arrogant pride, evil conduct, and perverse speech."
+        ],
+        [
+          14,
+          "Counsel and sound judgment are mine; I have insight and strength."
+        ],
+        [
+          15,
+          "By me kings reign, and rulers enact just laws;"
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 14:1",
+      "context": [
+        [
+          1,
+          "For the choirmaster. Of David. The fool says in his heart, “There is no God.” They are corrupt; their acts are vile. There is no one who does good."
+        ],
+        [
+          2,
+          "The LORD looks down from heaven upon the sons of men to see if any understand, if any seek God."
+        ],
+        [
+          3,
+          "All have turned away, they have together become corrupt; there is no one who does good, not even one."
+        ]
+      ]
+    },
+    {
+      "ref": "Jeremiah 17:9",
+      "context": [
+        [
+          7,
+          "But blessed is the man who trusts in the LORD, whose confidence is in Him."
+        ],
+        [
+          8,
+          "He is like a tree planted by the waters that sends out its roots toward the stream. It does not fear when the heat comes, and its leaves are always green. It does not worry in a year of drought, nor does it cease to produce fruit."
+        ],
+        [
+          9,
+          "The heart is deceitful above all things and beyond cure. Who can understand it?"
+        ],
+        [
+          10,
+          "I, the LORD, search the heart; I examine the mind to reward a man according to his way, by what his deeds deserve."
+        ],
+        [
+          11,
+          "Like a partridge hatching eggs it did not lay is the man who makes a fortune unjustly. In the middle of his days his riches will desert him, and in the end he will be the fool.”"
+        ]
+      ]
+    },
+    {
+      "ref": "Proverbs 16:2",
+      "context": [
+        [
+          1,
+          "The plans of the heart belong to man, but the reply of the tongue is from the LORD."
+        ],
+        [
+          2,
+          "All a man’s ways are pure in his own eyes, but his motives are weighed out by the LORD."
+        ],
+        [
+          3,
+          "Commit your works to the LORD and your plans will be achieved."
+        ],
+        [
+          4,
+          "The LORD has made everything for His purpose—even the wicked for the day of disaster."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 139:23",
+      "context": [
+        [
+          21,
+          "Do I not hate those who hate You, O LORD, and detest those who rise against You?"
+        ],
+        [
+          22,
+          "I hate them with perfect hatred; I count them as my enemies."
+        ],
+        [
+          23,
+          "Search me, O God, and know my heart; test me and know my concerns."
+        ],
+        [
+          24,
+          "See if there is any offensive way in me; lead me in the way everlasting."
+        ]
+      ]
+    },
+    {
+      "ref": "Proverbs 1:7",
+      "context": [
+        [
+          5,
+          "let the wise listen and gain instruction, and the discerning acquire wise counsel"
+        ],
+        [
+          6,
+          "by understanding the proverbs and parables, the sayings and riddles of the wise."
+        ],
+        [
+          7,
+          "The fear of the LORD is the beginning of knowledge, but fools despise wisdom and discipline."
+        ],
+        [
+          8,
+          "Listen, my son, to your father’s instruction, and do not forsake the teaching of your mother."
+        ],
+        [
+          9,
+          "For they are a garland of grace on your head and a pendant around your neck."
+        ]
+      ]
+    },
+    {
+      "ref": "Hebrews 2:1",
+      "context": [
+        [
+          1,
+          "We must pay closer attention, therefore, to what we have heard, so that we do not drift away."
+        ],
+        [
+          2,
+          "For if the message spoken by angels was binding, and every transgression and disobedience received its just punishment,"
+        ],
+        [
+          3,
+          "how shall we escape if we neglect such a great salvation? This salvation was first announced by the Lord, was confirmed to us by those who heard Him,"
+        ]
+      ]
+    },
+    {
+      "ref": "Matthew 12:34",
+      "context": [
+        [
+          32,
+          "Whoever speaks a word against the Son of Man will be forgiven, but whoever speaks against the Holy Spirit will not be forgiven, either in this age or in the one to come."
+        ],
+        [
+          33,
+          "Make a tree good and its fruit will be good, or make a tree bad and its fruit will be bad, for a tree is known by its fruit."
+        ],
+        [
+          34,
+          "You brood of vipers, how can you who are evil say anything good? For out of the overflow of the heart the mouth speaks."
+        ],
+        [
+          35,
+          "The good man brings good things out of his good store of treasure, and the evil man brings evil things out of his evil store of treasure."
+        ],
+        [
+          36,
+          "But I tell you that men will give an account on the day of judgment for every careless word they have spoken."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 4:4",
+      "context": [
+        [
+          2,
+          "How long, O men, will my honor be maligned? How long will you love vanity and seek after lies? Selah"
+        ],
+        [
+          3,
+          "Know that the LORD has set apart the godly for Himself; the LORD hears when I call to Him."
+        ],
+        [
+          4,
+          "Be angry, yet do not sin; on your bed, search your heart and be still. Selah"
+        ],
+        [
+          5,
+          "Offer the sacrifices of the righteous and trust in the LORD."
+        ],
+        [
+          6,
+          "Many ask, “Who can show us the good?” Shine the light of Your face upon us, O LORD."
+        ]
+      ]
+    },
+    {
+      "ref": "Micah 2:1",
+      "context": [
+        [
+          1,
+          "Woe to those who devise iniquity and plot evil on their beds! At morning’s light they accomplish it because the power is in their hands."
+        ],
+        [
+          2,
+          "They covet fields and seize them; they take away houses. They deprive a man of his home, a fellow man of his inheritance."
+        ],
+        [
+          3,
+          "Therefore this is what the LORD says: “I am planning against this nation a disaster from which you cannot free your necks. Then you will not walk so proudly, for it will be a time of calamity."
+        ]
+      ]
+    },
+    {
+      "ref": "Proverbs 4:14",
+      "context": [
+        [
+          12,
+          "When you walk, your steps will not be impeded; when you run, you will not stumble."
+        ],
+        [
+          13,
+          "Hold on to instruction; do not let go. Guard it, for it is your life."
+        ],
+        [
+          14,
+          "Do not set foot on the path of the wicked or walk in the way of evildoers."
+        ],
+        [
+          15,
+          "Avoid it; do not travel on it. Turn from it and pass on by."
+        ],
+        [
+          16,
+          "For they cannot sleep unless they do evil; they are deprived of slumber until they make someone fall."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 103:11",
+      "context": [
+        [
+          8,
+          "The LORD is compassionate and gracious, slow to anger, abounding in loving devotion."
+        ],
+        [
+          9,
+          "He will not always accuse us, nor harbor His anger forever."
+        ],
+        [
+          10,
+          "He has not dealt with us according to our sins or repaid us according to our iniquities."
+        ],
+        [
+          11,
+          "For as high as the heavens are above the earth, so great is His loving devotion for those who fear Him."
+        ],
+        [
+          12,
+          "As far as the east is from the west, so far has He removed our transgressions from us."
+        ],
+        [
+          13,
+          "As a father has compassion on his children, so the LORD has compassion on those who fear Him."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 57:10",
+      "context": [
+        [
+          8,
+          "Awake, my glory! Awake, O harp and lyre! I will awaken the dawn."
+        ],
+        [
+          9,
+          "I will praise You, O Lord, among the nations; I will sing Your praises among the peoples."
+        ],
+        [
+          10,
+          "For Your loving devotion reaches to the heavens, and Your faithfulness to the clouds."
+        ],
+        [
+          11,
+          "Be exalted, O God, above the heavens; may Your glory cover all the earth."
+        ]
+      ]
+    },
+    {
+      "ref": "Ephesians 3:18",
+      "context": [
+        [
+          16,
+          "I ask that out of the riches of His glory He may strengthen you with power through His Spirit in your inner being,"
+        ],
+        [
+          17,
+          "so that Christ may dwell in your hearts through faith. Then you, being rooted and grounded in love,"
+        ],
+        [
+          18,
+          "will have power, together with all the saints, to comprehend the length and width and height and depth"
+        ],
+        [
+          19,
+          "of the love of Christ, and to know this love that surpasses knowledge, that you may be filled with all the fullness of God."
+        ],
+        [
+          20,
+          "Now to Him who is able to do immeasurably more than all we ask or imagine, according to His power that is at work within us,"
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 104:14",
+      "context": [
+        [
+          12,
+          "The birds of the air nest beside the springs; they sing among the branches."
+        ],
+        [
+          13,
+          "He waters the mountains from His chambers; the earth is satisfied by the fruit of His works."
+        ],
+        [
+          14,
+          "He makes the grass grow for the livestock and provides crops for man to cultivate, bringing forth food from the earth:"
+        ],
+        [
+          15,
+          "wine that gladdens the heart of man, oil that makes his face to shine, and bread that sustains his heart."
+        ],
+        [
+          16,
+          "The trees of the LORD have their fill, the cedars of Lebanon that He planted,"
+        ]
+      ]
+    },
+    {
+      "ref": "Jonah 4:11",
+      "context": [
+        [
+          9,
+          "Then God asked Jonah, “Have you any right to be angry about the plant?” “I do,” he replied. “I am angry enough to die!”"
+        ],
+        [
+          10,
+          "But the LORD said, “You cared about the plant, which you neither tended nor made grow. It sprang up in a night and perished in a night."
+        ],
+        [
+          11,
+          "So should I not care about the great city of Nineveh, which has more than 120,000 people who cannot tell their right hand from their left, and many cattle as well?”"
+        ]
+      ]
+    },
+    {
+      "ref": "Matthew 6:26",
+      "context": [
+        [
+          24,
+          "No one can serve two masters: Either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve both God and money."
+        ],
+        [
+          25,
+          "Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes?"
+        ],
+        [
+          26,
+          "Look at the birds of the air: They do not sow or reap or gather into barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?"
+        ],
+        [
+          27,
+          "Who of you by worrying can add a single hour to his life?"
+        ],
+        [
+          28,
+          "And why do you worry about clothes? Consider how the lilies of the field grow: They do not labor or spin."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 91:4",
+      "context": [
+        [
+          2,
+          "I will say to the LORD, “You are my refuge and my fortress, my God, in whom I trust.”"
+        ],
+        [
+          3,
+          "Surely He will deliver you from the snare of the fowler, and from the deadly plague."
+        ],
+        [
+          4,
+          "He will cover you with His feathers; under His wings you will find refuge; His faithfulness is a shield and rampart."
+        ],
+        [
+          5,
+          "You will not fear the terror of the night, nor the arrow that flies by day,"
+        ],
+        [
+          6,
+          "nor the pestilence that stalks in the darkness, nor the calamity that destroys at noon."
+        ]
+      ]
+    },
+    {
+      "ref": "Matthew 23:37",
+      "context": [
+        [
+          35,
+          "And so upon you will come all the righteous blood shed on earth, from the blood of righteous Abel to the blood of Zechariah son of Berechiah, whom you murdered between the temple and the altar."
+        ],
+        [
+          36,
+          "Truly I tell you, all these things will come upon this generation."
+        ],
+        [
+          37,
+          "O Jerusalem, Jerusalem, who kills the prophets and stones those sent to her, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, but you were unwilling!"
+        ],
+        [
+          38,
+          "Look, your house is left to you desolate."
+        ],
+        [
+          39,
+          "For I tell you that you will not see Me again until you say, ‘Blessed is He who comes in the name of the Lord.’”"
+        ]
+      ]
+    },
+    {
+      "ref": "Ruth 2:12",
+      "context": [
+        [
+          10,
+          "At this, she fell on her face, bowing low to the ground, and said to him, “Why have I found such favor in your eyes that you should take notice of me, even though I am a foreigner?”"
+        ],
+        [
+          11,
+          "Boaz replied, “I have been made fully aware of all you have done for your mother-in-law since the death of your husband, how you left your father and mother and the land of your birth, and how you came to a people you did not know before."
+        ],
+        [
+          12,
+          "May the LORD repay your work, and may you receive a rich reward from the LORD, the God of Israel, under whose wings you have taken refuge.”"
+        ],
+        [
+          13,
+          "“My lord,” she said, “may I continue to find favor in your eyes, for you have comforted and spoken kindly to your maidservant, though I am not like one of your servant girls.”"
+        ],
+        [
+          14,
+          "At mealtime Boaz said to her, “Come over here; have some bread and dip it into the vinegar sauce.” So she sat down beside the harvesters, and he offered her roasted grain, and she ate and was satisfied and had some left over."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 23:5",
+      "context": [
+        [
+          3,
+          "He restores my soul; He guides me in the paths of righteousness for the sake of His name."
+        ],
+        [
+          4,
+          "Even though I walk through the valley of the shadow of death, I will fear no evil, for You are with me; Your rod and Your staff, they comfort me."
+        ],
+        [
+          5,
+          "You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows."
+        ],
+        [
+          6,
+          "Surely goodness and mercy will follow me all the days of my life, and I will dwell in the house of the LORD forever."
+        ]
+      ]
+    },
+    {
+      "ref": "Genesis 2:10",
+      "context": [
+        [
+          8,
+          "And the LORD God planted a garden in Eden, in the east, where He placed the man He had formed."
+        ],
+        [
+          9,
+          "Out of the ground the LORD God gave growth to every tree that is pleasing to the eye and good for food. And in the middle of the garden were the tree of life and the tree of the knowledge of good and evil."
+        ],
+        [
+          10,
+          "Now a river flowed out of Eden to water the garden, and from there it branched into four headwaters:"
+        ],
+        [
+          11,
+          "The name of the first river is the Pishon; it winds through the whole land of Havilah, where there is gold."
+        ],
+        [
+          12,
+          "And the gold of that land is pure, and bdellium and onyx are found there."
+        ],
+        [
+          13,
+          "The name of the second river is the Gihon; it winds through the whole land of Cush."
+        ],
+        [
+          14,
+          "The name of the third river is the Tigris; it runs along the east side of Assyria. And the fourth river is the Euphrates."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 46:4",
+      "context": [
+        [
+          2,
+          "Therefore we will not fear, though the earth is transformed and the mountains are toppled into the depths of the seas,"
+        ],
+        [
+          3,
+          "though their waters roar and foam and the mountains quake in the surge. Selah"
+        ],
+        [
+          4,
+          "There is a river whose streams delight the city of God, the holy place where the Most High dwells."
+        ],
+        [
+          5,
+          "God is within her; she will not be moved. God will help her when morning dawns."
+        ],
+        [
+          6,
+          "Nations rage, kingdoms crumble; the earth melts when He lifts His voice."
+        ]
+      ]
+    },
+    {
+      "ref": "Jeremiah 2:13",
+      "context": [
+        [
+          11,
+          "Has a nation ever changed its gods? (Yet they are not gods at all.) But My people have exchanged their Glory for useless idols."
+        ],
+        [
+          12,
+          "Be stunned by this, O heavens; be shocked and utterly appalled,” declares the LORD."
+        ],
+        [
+          13,
+          "“For My people have committed two evils: They have forsaken Me, the fountain of living water, and they have dug their own cisterns—broken cisterns that cannot hold water."
+        ],
+        [
+          14,
+          "Is Israel a slave? Was he born into slavery? Why then has he become prey?"
+        ],
+        [
+          15,
+          "The young lions have roared at him; they have sounded their voices. They have laid waste his land; his cities lie in ruins, without inhabitant."
+        ]
+      ]
+    },
+    {
+      "ref": "John 8:12",
+      "context": [
+        [
+          10,
+          "Then Jesus straightened up and asked her, “Woman, where are your accusers? Has no one condemned you?”"
+        ],
+        [
+          11,
+          "“No one, Lord,” she answered. “Then neither do I condemn you,” Jesus declared. “Now go and sin no more.”"
+        ],
+        [
+          12,
+          "Once again, Jesus spoke to the people and said, “I am the light of the world. Whoever follows Me will never walk in the darkness, but will have the light of life.”"
+        ],
+        [
+          13,
+          "So the Pharisees said to Him, “You are testifying about Yourself; Your testimony is not valid.”"
+        ],
+        [
+          14,
+          "Jesus replied, “Even if I testify about Myself, My testimony is valid, because I know where I came from and where I am going. But you do not know where I came from or where I am going."
+        ]
+      ]
+    },
+    {
+      "ref": "John 4:14",
+      "context": [
+        [
+          12,
+          "Are You greater than our father Jacob, who gave us this well and drank from it himself, as did his sons and his livestock?”"
+        ],
+        [
+          13,
+          "Jesus said to her, “Everyone who drinks this water will be thirsty again."
+        ],
+        [
+          14,
+          "But whoever drinks the water I give him will never thirst. Indeed, the water I give him will become in him a fount of water springing up to eternal life.”"
+        ],
+        [
+          15,
+          "The woman said to Him, “Sir, give me this water so that I will not get thirsty and have to keep coming here to draw water.”"
+        ],
+        [
+          16,
+          "Jesus told her, “Go, call your husband and come back.”"
+        ]
+      ]
+    },
+    {
+      "ref": "Jeremiah 31:3",
+      "context": [
+        [
+          1,
+          "“At that time,” declares the LORD, “I will be the God of all the families of Israel, and they will be My people.”"
+        ],
+        [
+          2,
+          "This is what the LORD says: “The people who survived the sword found favor in the wilderness when Israel went to find rest.”"
+        ],
+        [
+          3,
+          "The LORD appeared to us in the past, saying: “I have loved you with an everlasting love; therefore I have drawn you with loving devotion."
+        ],
+        [
+          4,
+          "Again I will build you, and you will be rebuilt, O Virgin Israel. Again you will take up your tambourines and go out in joyful dancing."
+        ],
+        [
+          5,
+          "Again you will plant vineyards on the hills of Samaria; the farmers will plant and enjoy the fruit."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 103:17",
+      "context": [
+        [
+          15,
+          "As for man, his days are like grass—he blooms like a flower of the field;"
+        ],
+        [
+          16,
+          "when the wind passes over, it vanishes, and its place remembers it no more."
+        ],
+        [
+          17,
+          "But from everlasting to everlasting the loving devotion of the LORD extends to those who fear Him, and His righteousness to their children’s children—"
+        ],
+        [
+          18,
+          "to those who keep His covenant and remember to obey His precepts."
+        ],
+        [
+          19,
+          "The LORD has established His throne in heaven, and His kingdom rules over all."
+        ]
+      ]
+    },
+    {
+      "ref": "John 17:3",
+      "context": [
+        [
+          1,
+          "When Jesus had spoken these things, He lifted up His eyes to heaven and said, “Father, the hour has come. Glorify Your Son, that Your Son may glorify You."
+        ],
+        [
+          2,
+          "For You granted Him authority over all people, so that He may give eternal life to all those You have given Him."
+        ],
+        [
+          3,
+          "Now this is eternal life, that they may know You, the only true God, and Jesus Christ, whom You have sent."
+        ],
+        [
+          4,
+          "I have glorified You on earth by accomplishing the work You gave Me to do."
+        ],
+        [
+          5,
+          "And now, Father, glorify Me in Your presence with the glory I had with You before the world existed."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 140:4",
+      "context": [
+        [
+          2,
+          "who devise evil in their hearts and stir up war all day long."
+        ],
+        [
+          3,
+          "They sharpen their tongues like snakes; the venom of vipers is on their lips. Selah"
+        ],
+        [
+          4,
+          "Guard me, O LORD, from the hands of the wicked. Keep me safe from men of violence who scheme to make me stumble."
+        ],
+        [
+          5,
+          "The proud hide a snare for me; the cords of their net are spread along the path, and lures are set out for me. Selah"
+        ],
+        [
+          6,
+          "I say to the LORD, “You are my God.” Hear, O LORD, my cry for help."
+        ]
+      ]
+    },
+    {
+      "ref": "Proverbs 16:18",
+      "context": [
+        [
+          16,
+          "How much better to acquire wisdom than gold! To gain understanding is more desirable than silver."
+        ],
+        [
+          17,
+          "The highway of the upright leads away from evil; he who guards his way protects his life."
+        ],
+        [
+          18,
+          "Pride goes before destruction, and a haughty spirit before a fall."
+        ],
+        [
+          19,
+          "It is better to be lowly in spirit among the humble than to divide the spoil with the proud."
+        ],
+        [
+          20,
+          "Whoever heeds instruction will find success, and blessed is he who trusts in the LORD."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 31:8",
+      "context": [
+        [
+          6,
+          "I hate those who cling to worthless idols, but in the LORD I trust."
+        ],
+        [
+          7,
+          "I will be glad and rejoice in Your loving devotion, for You have seen my affliction; You have known the anguish of my soul."
+        ],
+        [
+          8,
+          "You have not delivered me to the enemy; You have set my feet in the open."
+        ],
+        [
+          9,
+          "Be merciful to me, O LORD, for I am in distress; my eyes fail from sorrow, my soul and body as well."
+        ],
+        [
+          10,
+          "For my life is consumed with grief and my years with groaning; my iniquity has drained my strength, and my bones are wasting away."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 1:6",
+      "context": [
+        [
+          4,
+          "Not so the wicked! For they are like chaff driven off by the wind."
+        ],
+        [
+          5,
+          "Therefore the wicked will not stand in the judgment, nor sinners in the assembly of the righteous."
+        ],
+        [
+          6,
+          "For the LORD guards the path of the righteous, but the way of the wicked will perish."
+        ]
+      ]
+    },
+    {
+      "ref": "Proverbs 24:16",
+      "context": [
+        [
+          14,
+          "Know therefore that wisdom is sweet to your soul. If you find it, there is a future for you, and your hope will never be cut off."
+        ],
+        [
+          15,
+          "Do not lie in wait, O wicked man, near the dwelling of the righteous; do not destroy his resting place."
+        ],
+        [
+          16,
+          "For though a righteous man may fall seven times, he still gets up; but the wicked stumble in bad times."
+        ],
+        [
+          17,
+          "Do not gloat when your enemy falls, and do not let your heart rejoice when he stumbles,"
+        ],
+        [
+          18,
+          "or the LORD will see and disapprove, and turn His wrath away from him."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 37:38",
+      "context": [
+        [
+          35,
+          "I have seen a wicked, ruthless man flourishing like a well-rooted native tree,"
+        ],
+        [
+          36,
+          "yet he passed away and was no more; though I searched, he could not be found."
+        ],
+        [
+          37,
+          "Consider the blameless and observe the upright, for posterity awaits the man of peace."
+        ],
+        [
+          38,
+          "But the transgressors will all be destroyed; the future of the wicked will be cut off."
+        ],
+        [
+          39,
+          "The salvation of the righteous is from the LORD; He is their stronghold in time of trouble."
+        ],
+        [
+          40,
+          "The LORD helps and delivers them; He rescues and saves them from the wicked, because they take refuge in Him."
+        ]
+      ]
+    }
+  ]
+}

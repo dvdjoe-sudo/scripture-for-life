@@ -1,94 +1,93 @@
 {
-  "tool": "not yet generated",
+  "tool": "built-in image_gen.imagegen",
   "styleReference": "assets/psalm23/verse-2-watercolor.webp",
   "productionFormat": "WebP, 1024px wide (3:2), quality 75",
-  "status": "Prompts drafted only; no images generated",
+  "status": "all twelve generated and visually inspected",
   "paintings": [
     {
       "verse": 1,
       "prompt": "Use case: illustration-story. Asset: one individual Psalm 36 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 1: An anonymous man in rich ancient clothing stands with his back to a vast sunlit mountain range, gazing only into a polished bronze basin reflecting himself, conveying no fear of God before his eyes.",
       "production": "assets/psalm36/verse-1-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-aae3e39c-c2ae-4e81-8d4b-8780b5732a6a.png"
     },
     {
       "verse": 2,
       "prompt": "Use case: illustration-story. Asset: one individual Psalm 36 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 2: A cracked polished bronze mirror on a dark table reflects only a warm flattering glow while the room around it lies in shadow and disorder, no people, conveying eyes too full of conceit to see sin.",
       "production": "assets/psalm36/verse-2-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-7cae6a49-4743-4463-92ff-bf601dd639ce.png"
     },
     {
       "verse": 3,
       "prompt": "Use case: illustration-story. Asset: one individual Psalm 36 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 3: An overgrown abandoned vineyard lies tangled with weeds and broken trellises under a pale sky, a fallen pruning hook in the grass, no people, conveying having ceased to be wise and well-doing.",
       "production": "assets/psalm36/verse-3-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-c3f96795-9cd2-47e0-a98e-6716c47dc677.png"
     },
     {
       "verse": 4,
       "prompt": "Use case: illustration-story. Asset: one individual Psalm 36 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 4: A dim ancient bedroom at night where a single oil lamp lights a bed scattered with unrolled blank scrolls and a pouch of coins, no person visible, conveying plotting wickedness on one's bed.",
       "production": "assets/psalm36/verse-4-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-a09bc752-5c42-4133-883d-4f89af56938f.png"
     },
     {
       "verse": 5,
       "prompt": "Use case: illustration-story. Asset: one individual Psalm 36 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 5: A vast sky of towering sunlit cumulus clouds rises high above a small village and fields far below, soft golden light, conveying loving devotion reaching to the heavens.",
       "production": "assets/psalm36/verse-5-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-eb7030ae-49a4-4182-b7cd-98b28e5b52ad.png"
     },
     {
       "verse": 6,
       "prompt": "Use case: illustration-story. Asset: one individual Psalm 36 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 6: Towering snow-capped mountains rise above a deep blue sea, with deer and goats grazing on the green shore and a fishing boat in the bay, conveying righteousness like mountains and care for man and beast.",
       "production": "assets/psalm36/verse-6-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-c1446124-e472-457e-b7ef-f8af00acc45d.png"
     },
     {
       "verse": 7,
       "prompt": "Use case: illustration-story. Asset: one individual Psalm 36 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 7: A mother bird shelters her small chicks under her outstretched wings in a nest among rocks as rain falls softly around them, warm muted light, conveying refuge in the shadow of God's wings.",
       "production": "assets/psalm36/verse-7-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-d722e1aa-9296-4a2a-bc06-9f7b18c75032.png"
     },
     {
       "verse": 8,
       "prompt": "Use case: illustration-story. Asset: one individual Psalm 36 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 8: A generous feast of bread, fruit and wine is spread on woven mats beside a clear sparkling river in a lush garden with palms and fruit trees, anonymous guests gathered, conveying abundance and a river of delights.",
       "production": "assets/psalm36/verse-8-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-3fcd095c-ca8d-48ec-82cb-a44da6af9ffa.png"
     },
     {
       "verse": 9,
       "prompt": "Use case: illustration-story. Asset: one individual Psalm 36 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 9: A clear spring bubbles from a mossy rock into a pool as golden morning light fills a quiet glade of ferns and trees, light shimmering on the water, conveying the fountain of life and light.",
       "production": "assets/psalm36/verse-9-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-4cd75cac-48c9-423c-bdf9-369c3d03c23c.png"
     },
     {
       "verse": 10,
       "prompt": "Use case: illustration-story. Asset: one individual Psalm 36 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 10: A long path of warm light stretches across green fields at sunset as anonymous travelers walk along it toward distant hills, conveying God's love extended to those who know Him.",
       "production": "assets/psalm36/verse-10-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-9ccb431c-335c-48e6-9d18-2483589bc6a2.png"
     },
     {
       "verse": 11,
       "prompt": "Use case: illustration-story. Asset: one individual Psalm 36 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 11: An anonymous traveler stands firm inside an open gateway of a sheltered garden while a proud rider on a horse passes by on the dusty road outside, conveying protection from the proud and wicked.",
       "production": "assets/psalm36/verse-11-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-1acc1bfc-5fdf-4eac-ae10-6ad2401cee98.png"
     },
     {
       "verse": 12,
       "prompt": "Use case: illustration-story. Asset: one individual Psalm 36 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 12: A great toppled stone statue of a proud ruler lies broken face-down in desert sand beneath a calm clear sky, no people, conveying evildoers thrown down and unable to rise.",
       "production": "assets/psalm36/verse-12-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-b7b64d25-f6c4-4960-8124-4aa13d088b52.png"
     }
   ],
-  "pendingVerses": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12
-  ]
+  "pendingVerses": []
 }
