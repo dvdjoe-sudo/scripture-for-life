@@ -1,0 +1,462 @@
+{
+  "chapter": 40,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 40 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "strength": [
+      "Psalm 40:2"
+    ],
+    "gratitude": [
+      "Psalm 40:3",
+      "Psalm 40:5"
+    ],
+    "fear": [
+      "Psalm 40:17"
+    ],
+    "forgiveness": [
+      "Psalm 40:12"
+    ]
+  },
+  "study": {
+    "number": 40,
+    "coverVerse": 2,
+    "title": "He set my feet upon a rock.",
+    "intro": "Seventeen verses recall patient waiting and rescue from the miry pit, celebrate a new song and a willing heart, then return to urgent need.",
+    "context": "The heading names David and the choirmaster. Verses 1–3 testify to waiting, rescue and a new song; verses 4–5 bless those who trust the LORD and marvel at His countless wonders. Verses 6–8 say God desired an open ear and a willing heart more than sacrifice, and the quotation runs from verse 7 into verse 8; Hebrews 10:5–7 applies these lines to Christ. Verses 9–10 describe proclaiming God's faithfulness in the great assembly. Verses 11–17 return to present trouble, sin and enemies, closely matching Psalm 70, and end with 'do not delay.' Thanksgiving and fresh need stand side by side. The Scripture is loaded unchanged from the bundled BSB, including the heading.",
+    "peopleNote": "David is named in the heading. His profile offers background without claiming a specific occasion. Hebrews 10 later reads verses 6–8 in light of Jesus; planned paintings stay with anonymous people and symbolic landscapes, and God is never portrayed as a human body.",
+    "people": [
+      {
+        "id": "david",
+        "name": "David",
+        "ref": "Psalm 40:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "I waited patiently",
+        "heading": "Waiting that ends in being heard",
+        "meaning": "The heading names David and the choirmaster. The psalm opens with testimony: I waited patiently for the LORD; He inclined to me and heard my cry. The Hebrew literally doubles the verb, 'waiting I waited,' stressing persistent, long waiting. Then God leaned down, like someone bending close to listen. The verse honors patience without pretending that waiting was easy. It shows that the time of waiting was not wasted, because God was listening.",
+        "contextTitle": "Persistent waiting",
+        "context": "Psalm 27:14 says, 'Wait for the LORD; be strong and courageous,' and Isaiah 40:31 promises renewed strength to those who wait. Lamentations 3:25 says the LORD is good to those who wait for Him.",
+        "explore": [
+          [
+            "Waited patiently",
+            "The waiting was long and persistent. Patience is part of trust, not its opposite."
+          ],
+          [
+            "He inclined to me",
+            "God bent down to listen. The image is attentive and personal."
+          ]
+        ],
+        "reflect": "What are you waiting for God to do? What would patient waiting look like today?",
+        "related": [
+          "Psalm 27:14",
+          "Isaiah 40:31",
+          "Lamentations 3:25"
+        ],
+        "alt": "A person sits patiently by a well at dawn, looking up as light breaks.",
+        "art": "assets/psalm40/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Out of the miry clay",
+        "heading": "Rescue to solid ground",
+        "meaning": "He lifted me up from the pit of despair, out of the miry clay; He set my feet upon a rock, and made my footsteps firm. The speaker describes rescue with vivid images. A pit of mud and clay pictures being stuck and sinking, unable to escape. God lifted them out and placed them on a rock, solid and secure. The footsteps that once slid are now firm. The verse captures the experience of moving from despair to stability.",
+        "contextTitle": "Pits and rocks",
+        "context": "Jeremiah 38:6 tells how Jeremiah sank in the mud of a cistern before being lifted out, and Psalm 18:2 calls God my rock. In Psalm 40, verse 2 belongs to a prayer where remembered rescue and present need stand side by side.",
+        "explore": [
+          [
+            "Miry clay",
+            "The image is of sinking mud. Despair feels like being stuck."
+          ],
+          [
+            "Upon a rock",
+            "Solid rock gives stability. God provides firm ground."
+          ]
+        ],
+        "reflect": "Where do you feel stuck in miry clay? What would firm footing look like?",
+        "related": [
+          "Jeremiah 38:6",
+          "Psalm 18:2",
+          "Psalm 69:2"
+        ],
+        "alt": "Muddy feet step from a clay pit onto a broad flat rock in sunlight.",
+        "art": "assets/psalm40/verse-2-watercolor.webp"
+      },
+      {
+        "title": "A new song",
+        "heading": "Rescue becomes praise and witness",
+        "meaning": "He put a new song in my mouth, a hymn of praise to our God. Many will see and fear and put their trust in the LORD. The rescue produces a fresh song of praise. Notably, God puts the song there; it is His gift. The speaker's story becomes a witness, leading many others to reverent trust. One person's deliverance can encourage a whole community.",
+        "contextTitle": "New songs",
+        "context": "Psalm 33:3 calls for a new song, and Revelation 5:9 pictures a new song before God's throne. Psalm 40:3 links the new song to others' trust. In Psalm 40, verse 3 belongs to a prayer where remembered rescue and present need stand side by side.",
+        "explore": [
+          [
+            "Put a new song",
+            "The song is God's gift. Praise flows from what He has done."
+          ],
+          [
+            "Many will see",
+            "The speaker's story becomes witness. Others come to trust God."
+          ]
+        ],
+        "reflect": "How could your story of God's help encourage someone else to trust Him?",
+        "related": [
+          "Psalm 33:3",
+          "Revelation 5:9",
+          "Psalm 96:1"
+        ],
+        "alt": "A singer on a rock is surrounded by gathering listeners at sunrise.",
+        "art": "assets/psalm40/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Not turned to the proud",
+        "heading": "Blessing for those who trust God",
+        "meaning": "Blessed is the man who has made the LORD his trust, who has not turned to the proud, nor to those who lapse into falsehood. The speaker pronounces a blessing on those who trust God rather than proud or deceitful people. Turning to the proud may mean seeking help from arrogant powers. The verse invites placing trust where it truly belongs.",
+        "contextTitle": "Trust rightly placed",
+        "context": "Jeremiah 17:7 says, 'Blessed is the man who trusts in the LORD,' and Psalm 146:3 warns, 'Do not put your trust in princes.' In Psalm 40, verse 4 belongs to a prayer where remembered rescue and present need stand side by side.",
+        "explore": [
+          [
+            "Made the LORD his trust",
+            "Trust is a choice. The blessed person relies on God."
+          ],
+          [
+            "The proud",
+            "Proud people trust themselves. Turning to them leads away from God."
+          ]
+        ],
+        "reflect": "Where might you be tempted to turn to the proud or powerful instead of God?",
+        "related": [
+          "Jeremiah 17:7",
+          "Psalm 146:3",
+          "Psalm 1:1"
+        ],
+        "alt": "A traveler bypasses a grand palace and walks toward a quiet hill sanctuary.",
+        "art": "assets/psalm40/verse-4-watercolor.webp"
+      },
+      {
+        "title": "More than I can count",
+        "heading": "Wonders beyond number",
+        "meaning": "Many, O LORD my God, are the wonders You have done, and the plans You have for us—none can compare to You—if I proclaim and declare them, they are more than I can count. The speaker is overwhelmed by God's goodness. His wonders and plans are too many to number. No one compares to Him. The verse expresses joyful wonder at God's abundant works and thoughtful care.",
+        "contextTitle": "Countless works",
+        "context": "Psalm 139:17–18 says God's thoughts are more than the sand, and John 21:25 says the world could not contain all the books about Jesus' works.",
+        "explore": [
+          [
+            "Plans You have for us",
+            "God thinks about His people. His plans are good and many."
+          ],
+          [
+            "More than I can count",
+            "The speaker cannot list them all. Gratitude overflows."
+          ]
+        ],
+        "reflect": "Try listing a few of God's wonders in your life. How many can you count?",
+        "related": [
+          "Psalm 139:18",
+          "John 21:25",
+          "Jeremiah 29:11"
+        ],
+        "alt": "A starry sky of countless stars stretches over a quiet desert camp.",
+        "art": "assets/psalm40/verse-5-watercolor.webp"
+      },
+      {
+        "title": "My ears You have opened",
+        "heading": "Obedience over ritual",
+        "meaning": "Sacrifice and offering You did not desire, but my ears You have opened. Burnt offerings and sin offerings You did not require. The speaker recognizes that God's deepest desire is not ritual but a listening, obedient heart. This does not reject the sacrificial system, which God commanded, but it places it in perspective. An opened ear means readiness to hear and obey. Hebrews 10 applies these lines to Christ.",
+        "contextTitle": "Obedience over sacrifice",
+        "context": "1 Samuel 15:22 says, 'To obey is better than sacrifice,' and Hebrews 10:5–7 quotes this passage of Christ coming to do God's will. In Psalm 40, verse 6 belongs to a prayer where remembered rescue and present need stand side by side.",
+        "explore": [
+          [
+            "Sacrifice and offering",
+            "Israel's worship included offerings. But God values the heart behind them."
+          ],
+          [
+            "My ears You have opened",
+            "An open ear is ready to listen and obey. God desires that above ritual."
+          ]
+        ],
+        "reflect": "What would it look like for your ears to be opened to God this week?",
+        "related": [
+          "1 Samuel 15:22",
+          "Hebrews 10:5",
+          "Hosea 6:6"
+        ],
+        "alt": "An unused altar stands beside a person kneeling and listening intently.",
+        "art": "assets/psalm40/verse-6-watercolor.webp"
+      },
+      {
+        "title": "Here I am",
+        "heading": "A willing response",
+        "meaning": "Then I said, 'Here I am, I have come—it is written about me in the scroll.' The speaker responds to God's desire with readiness: Here I am. The sentence continues into verse 8. The reference to a scroll may mean God's law, which describes what a faithful person should be, or a record of the speaker's commitment. Hebrews 10:7 applies this to Christ, who came to do God's will.",
+        "contextTitle": "Here I am",
+        "context": "Isaiah 6:8 records Isaiah saying, 'Here am I. Send me!' and Hebrews 10:7 applies this verse to Christ. Samuel's 'Here I am' in 1 Samuel 3:10 is another example of willing response.",
+        "explore": [
+          [
+            "Here I am",
+            "The words express readiness. The speaker offers themselves."
+          ],
+          [
+            "In the scroll",
+            "The scroll may refer to God's written instruction. The speaker sees their calling described there."
+          ]
+        ],
+        "reflect": "How might you say 'Here I am' to God today? What would you be offering?",
+        "related": [
+          "Isaiah 6:8",
+          "Hebrews 10:7",
+          "1 Samuel 3:10"
+        ],
+        "alt": "An anonymous person stands with open arms before an unrolled scroll on a table.",
+        "art": "assets/psalm40/verse-7-watercolor.webp"
+      },
+      {
+        "title": "I delight to do Your will",
+        "heading": "Law within the heart",
+        "meaning": "I delight to do Your will, O my God; Your law is within my heart. The quotation from verse 7 concludes. The speaker's obedience is not reluctant duty but delight. God's law is not merely written on scrolls but internalized in the heart. This is the kind of obedience God desires. The verse anticipates the new covenant promise of the law written on hearts.",
+        "contextTitle": "The law in the heart",
+        "context": "Jeremiah 31:33 promises, 'I will write it on their hearts,' and Psalm 37:31 says, 'The law of his God is in his heart.' Hebrews 10:7 continues the quotation.",
+        "explore": [
+          [
+            "I delight",
+            "Obedience is joyful. It flows from love. It is not grudging duty."
+          ],
+          [
+            "Within my heart",
+            "God's law is internal. It shapes desires and choices."
+          ]
+        ],
+        "reflect": "What would it mean to delight in doing God's will rather than merely obey it?",
+        "related": [
+          "Jeremiah 31:33",
+          "Psalm 37:31",
+          "John 4:34"
+        ],
+        "alt": "A gardener happily tends flowers in a sunlit walled garden.",
+        "art": "assets/psalm40/verse-8-watercolor.webp"
+      },
+      {
+        "title": "I do not seal my lips",
+        "heading": "Proclaiming righteousness publicly",
+        "meaning": "I proclaim righteousness in the great assembly; behold, I do not seal my lips, as You, O LORD, do know. The speaker shares God's righteousness openly in public worship. They have not kept quiet about what God has done. God Himself knows the speaker's faithfulness in this. The verse shows that gratitude naturally overflows into public testimony.",
+        "contextTitle": "Public testimony",
+        "context": "Psalm 22:22 and 22:25 speak of praise in the great assembly, and Acts 4:20 records the apostles saying, 'We cannot stop speaking about what we have seen and heard.'",
+        "explore": [
+          [
+            "The great assembly",
+            "This is public worship. Testimony is shared with many."
+          ],
+          [
+            "Do not seal my lips",
+            "The speaker does not hide God's goodness. They speak openly."
+          ]
+        ],
+        "reflect": "Is there something God has done that you have kept quiet about? Who could you tell?",
+        "related": [
+          "Psalm 22:22",
+          "Acts 4:20",
+          "Psalm 35:18"
+        ],
+        "alt": "An anonymous person speaks to a large gathering in an ancient courtyard.",
+        "art": "assets/psalm40/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Not concealed",
+        "heading": "Faithfulness and love declared",
+        "meaning": "I have not covered up Your righteousness in my heart; I have declared Your faithfulness and salvation; I have not concealed Your loving devotion and faithfulness from the great assembly. The speaker repeats with emphasis that they have not hidden God's character. Righteousness, faithfulness, salvation and loving devotion have all been shared. The repetition shows how much the speaker wants others to know. Praise is not private property.",
+        "contextTitle": "Declaring God's character",
+        "context": "Psalm 89:1 says, 'I will sing of the loving devotion of the LORD forever,' and Psalm 145:4–7 describes one generation declaring God's works to another.",
+        "explore": [
+          [
+            "Not covered up",
+            "The speaker does not hide what God has done. Praise is shared."
+          ],
+          [
+            "Loving devotion and faithfulness",
+            "These words describe God's covenant love and reliability. The speaker declares them openly."
+          ]
+        ],
+        "reflect": "Which part of God's character would you most like others to know about? How could you share it?",
+        "related": [
+          "Psalm 89:1",
+          "Psalm 145:4",
+          "Romans 1:16"
+        ],
+        "alt": "A lamp set on a high stand lights a crowded room.",
+        "art": "assets/psalm40/verse-10-watercolor.webp"
+      },
+      {
+        "title": "Do not withhold Your mercy",
+        "heading": "Turning from praise to petition",
+        "meaning": "O LORD, do not withhold Your mercy from me; Your loving devotion and faithfulness will always guard me. The tone shifts. After celebrating God's goodness, the speaker asks for mercy. The same loving devotion and faithfulness they have declared to others are now requested for themselves. The verse shows that praise and need can coexist. Past rescue gives confidence for present prayer.",
+        "contextTitle": "Praise and petition",
+        "context": "Psalm 69:16 says, 'Answer me, O LORD, for Your loving devotion is good,' and Lamentations 3:22 says His mercies never come to an end. In Psalm 40, verse 11 belongs to a prayer where remembered rescue and present need stand side by side.",
+        "explore": [
+          [
+            "Do not withhold",
+            "The speaker asks God not to hold back. They need mercy now."
+          ],
+          [
+            "Always guard me",
+            "God's love and faithfulness are pictured as guards. They protect continually."
+          ]
+        ],
+        "reflect": "How could God's past faithfulness give you confidence to ask for mercy today?",
+        "related": [
+          "Psalm 69:16",
+          "Lamentations 3:22",
+          "Psalm 23:6"
+        ],
+        "alt": "Two sentinels' watchfires burn at either side of a sleeping house.",
+        "art": "assets/psalm40/verse-11-watercolor.webp"
+      },
+      {
+        "title": "More than the hairs of my head",
+        "heading": "Overwhelmed by evils and sins",
+        "meaning": "For evils without number surround me; my sins have overtaken me, so that I cannot see. They are more than the hairs of my head, and my heart has failed within me. The speaker is overwhelmed by trouble and by their own sin. Evils surround them, and sins have caught up with them, blinding them. The image of countless hairs contrasts with the countless wonders of verse 5. The heart fails. The verse names deep distress honestly.",
+        "contextTitle": "Countless troubles",
+        "context": "Psalm 38:4 says my iniquities have overwhelmed me, and Psalm 69:4 says those who hate me without cause outnumber the hairs of my head. In Psalm 40, verse 12 belongs to a prayer where remembered rescue and present need stand side by side.",
+        "explore": [
+          [
+            "Evils without number",
+            "Trouble is overwhelming. It cannot be counted. It surrounds the speaker."
+          ],
+          [
+            "My sins have overtaken me",
+            "Sin catches up with the speaker. They cannot see clearly."
+          ]
+        ],
+        "reflect": "What feels overwhelming in your life right now? How could you bring it honestly to God?",
+        "related": [
+          "Psalm 38:4",
+          "Psalm 69:4",
+          "Ezra 9:6"
+        ],
+        "alt": "A traveler is engulfed by a dense swirling fog on a mountain path.",
+        "art": "assets/psalm40/verse-12-watercolor.webp"
+      },
+      {
+        "title": "Hurry to help me",
+        "heading": "An urgent plea",
+        "meaning": "Be pleased, O LORD, to deliver me; hurry, O LORD, to help me. The speaker asks for quick rescue. 'Be pleased' asks God to delight in delivering. 'Hurry' expresses urgency. Verses 13–17 closely match Psalm 70, showing that this prayer was used in different settings. The verse invites urgent prayer when trouble presses hard.",
+        "contextTitle": "Shared prayer",
+        "context": "Psalm 70:1 uses nearly identical words, and Psalm 38:22 says, 'Come quickly to help me.' Psalm 40:13–17 and Psalm 70 seem to share a common prayer.",
+        "explore": [
+          [
+            "Be pleased",
+            "The speaker asks God to delight in rescuing. It appeals to His good will."
+          ],
+          [
+            "Hurry",
+            "The need is urgent. The speaker cannot wait long. Help cannot come too soon."
+          ]
+        ],
+        "reflect": "What do you need God to hurry to help you with today?",
+        "related": [
+          "Psalm 70:1",
+          "Psalm 38:22",
+          "Psalm 71:12"
+        ],
+        "alt": "A messenger runs along a road at dawn toward a waiting house.",
+        "art": "assets/psalm40/verse-13-watercolor.webp"
+      },
+      {
+        "title": "Ashamed and confounded",
+        "heading": "A plea against those who seek harm",
+        "meaning": "May those who seek my life be ashamed and confounded; may those who wish me harm be repelled and humiliated. The speaker asks God to frustrate those who want to harm them. The request is for their plans to fail and for them to be turned back. It is a prayer handed to God, not a call for personal revenge. The verse matches Psalm 70:2 and Psalm 35:4.",
+        "contextTitle": "Prayers against harm",
+        "context": "Psalm 70:2 and Psalm 35:4 use nearly the same words. Romans 12:19 leaves vengeance to God. In Psalm 40, verse 14 belongs to a prayer where remembered rescue and present need stand side by side.",
+        "explore": [
+          [
+            "Seek my life",
+            "The threat is serious. Someone wants to kill the speaker."
+          ],
+          [
+            "Repelled",
+            "The request is for harm to be turned back. It asks God to intervene."
+          ]
+        ],
+        "reflect": "Is there someone whose harmful plans you need to entrust to God?",
+        "related": [
+          "Psalm 70:2",
+          "Psalm 35:4",
+          "Romans 12:19"
+        ],
+        "alt": "A band of shadowy figures turns back at the closed gate of a walled town.",
+        "art": "assets/psalm40/verse-14-watercolor.webp"
+      },
+      {
+        "title": "Aha, aha!",
+        "heading": "Mockers appalled",
+        "meaning": "May those who say to me, 'Aha, aha!' be appalled at their own shame. The speaker asks that mockers who delight in their trouble be stunned by their own disgrace. 'Aha' is a cry of gloating. The request reverses the situation: those who mocked will be shamed. The verse leaves judgment to God. It is the cry of the scornful.",
+        "contextTitle": "Mocking cries",
+        "context": "Psalm 35:21 and Psalm 70:3 also mention those who say 'Aha!' Ezekiel 25:3 condemns those who mocked Israel's distress. In Psalm 40, verse 15 belongs to a prayer where remembered rescue and present need stand side by side.",
+        "explore": [
+          [
+            "Aha, aha!",
+            "The cry expresses gloating. Mockers enjoy another's pain."
+          ],
+          [
+            "Appalled at their own shame",
+            "The mockers will be stunned. Their shame will turn back on them."
+          ]
+        ],
+        "reflect": "Have you ever been mocked in your trouble? How could you trust God with that pain?",
+        "related": [
+          "Psalm 35:21",
+          "Psalm 70:3",
+          "Ezekiel 25:3"
+        ],
+        "alt": "Shadowy mockers on a wall fall silent as morning light floods the street.",
+        "art": "assets/psalm40/verse-15-watercolor.webp"
+      },
+      {
+        "title": "The LORD be magnified",
+        "heading": "Joy for all who seek God",
+        "meaning": "May all who seek You rejoice and be glad in You; may those who love Your salvation always say, 'The LORD be magnified!' The speaker's prayer widens to include all who seek God. Their joy is centered on God, and their constant cry is that God be honored. The verse turns away from enemies to celebrate the community of faith. It invites joining that chorus.",
+        "contextTitle": "Magnify the LORD",
+        "context": "Psalm 34:3 says, 'Magnify the LORD with me,' and Psalm 70:4 repeats this verse. Luke 1:46 records Mary's 'My soul magnifies the Lord.' In Psalm 40, verse 16 belongs to a prayer where remembered rescue and present need stand side by side.",
+        "explore": [
+          [
+            "All who seek You",
+            "The prayer is for everyone who seeks God. Joy is shared."
+          ],
+          [
+            "The LORD be magnified",
+            "The cry honors God. It makes His greatness visible."
+          ]
+        ],
+        "reflect": "How could you join others this week in magnifying the LORD?",
+        "related": [
+          "Psalm 34:3",
+          "Psalm 70:4",
+          "Luke 1:46"
+        ],
+        "alt": "A joyful crowd lifts hands on a hillside at dawn.",
+        "art": "assets/psalm40/verse-16-watercolor.webp"
+      },
+      {
+        "title": "Poor and needy",
+        "heading": "Ending in humble dependence",
+        "meaning": "But I am poor and needy; may the Lord think of me. You are my helper and deliverer; O my God, do not delay. The psalm ends with humility. Despite the joy of verse 16, the speaker remains in need. They ask God to remember them. They call Him helper and deliverer, then make one last request: do not delay. The psalm that began with patient waiting ends with urgent waiting.",
+        "contextTitle": "Remembered by God",
+        "context": "Psalm 70:5 ends with the same words, and Psalm 86:1 says, 'Incline Your ear, O LORD, and answer me, for I am poor and needy.' In Psalm 40, verse 17 belongs to a prayer where remembered rescue and present need stand side by side.",
+        "explore": [
+          [
+            "Poor and needy",
+            "The speaker admits dependence. They have nothing in themselves."
+          ],
+          [
+            "Do not delay",
+            "The psalm ends with urgency. Waiting continues, now with hope."
+          ]
+        ],
+        "reflect": "Where are you poor and needy before God? How could you ask Him to remember you today?",
+        "related": [
+          "Psalm 70:5",
+          "Psalm 86:1",
+          "Psalm 34:6"
+        ],
+        "alt": "A poor traveler sits by a road with an empty bowl, looking toward the horizon.",
+        "art": "assets/psalm40/verse-17-watercolor.webp"
+      }
+    ]
+  }
+}

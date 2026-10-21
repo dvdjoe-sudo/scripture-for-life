@@ -1,0 +1,87 @@
+{
+  "tool": "not yet generated",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "productionFormat": "WebP, 1024px wide (3:2), quality 75",
+  "status": "Prompts drafted only; no images generated",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 32 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 1: A heavy cloth bundle lies set down beside a path while an anonymous traveler walks on lightly toward a bright valley, conveying the blessing of forgiveness and burdens lifted.",
+      "production": "assets/psalm32/verse-1-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 2,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 32 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 2: A perfectly clear still pool in a quiet green valley reflects a cloudless sky and surrounding reeds, no people, conveying an honest spirit without deceit.",
+      "production": "assets/psalm32/verse-2-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 3,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 32 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 3: An anonymous person sits hunched and silent in a shadowed corner of a stone room, arms wrapped around knees, while light falls through a doorway they are not facing, conveying the strain of hidden sin.",
+      "production": "assets/psalm32/verse-3-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 4,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 32 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 4: A cracked dry streambed and wilted grasses shimmer under fierce white summer heat, a single drooping fig tree at the edge, no people, conveying strength drained as in summer heat.",
+      "production": "assets/psalm32/verse-4-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 5,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 32 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 5: An anonymous person kneels beside a fresh flowing stream at dawn, head bowed then lifting, as morning light breaks warmly over the hills, conveying confession met with forgiveness.",
+      "production": "assets/psalm32/verse-5-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 6,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 32 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 6: Brown floodwaters swirl across a valley while a small stone shelter stands dry on a rocky knoll above them, lamp glowing in the window, conveying safety when great waters rise.",
+      "production": "assets/psalm32/verse-6-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 7,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 32 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 7: A sheltered cleft in a mossy rock wall glows with warm light while small birds sing on branches all around it, a peaceful valley beyond, conveying God as a hiding place surrounded by song.",
+      "production": "assets/psalm32/verse-7-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 8,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 32 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 8: An anonymous older traveler gently points a younger traveler along a winding path through green hills in clear light, conveying instruction, counsel and watchful care.",
+      "production": "assets/psalm32/verse-8-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 9,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 32 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 9: On a dusty hill path, a stubborn mule with bit and bridle plants its legs and refuses to move while nearby a calm donkey walks willingly beside an anonymous owner, gentle humor, conveying the warning against stubbornness.",
+      "production": "assets/psalm32/verse-9-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 10,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 32 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 10: A small ancient village nestled in a valley is encircled by protective green hills glowing in warm sunset light, conveying loving devotion surrounding those who trust.",
+      "production": "assets/psalm32/verse-10-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 11,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 32 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 11: Anonymous villagers in simple ancient clothing celebrate with raised hands and joyful movement in a sunlit field of wildflowers, conveying gladness and shouts of joy after forgiveness.",
+      "production": "assets/psalm32/verse-11-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    }
+  ],
+  "pendingVerses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ]
+}
