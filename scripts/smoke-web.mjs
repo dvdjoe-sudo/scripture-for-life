@@ -176,7 +176,7 @@ try {
     await visit('#/psalms','.psalms-all-grid .psalms-study-card');
     await page.locator('[data-psalms-search]').fill('119');
     assert.equal(await page.locator('.psalms-all-grid .psalms-study-card:visible').count(),1);
-    await page.locator('.psalms-study-card:visible a.btn').click();
+    await page.locator('.psalms-all-grid .psalms-study-card:visible a.btn').click();
     await page.locator('[data-psalm-chapter="119"]').waitFor();
     assert.equal(await page.locator('.psalm-chapter-verse').count(),176);
     await page.locator('[data-psalm-verse-jump]').selectOption('105');
@@ -201,7 +201,7 @@ try {
     await page.locator('.psalm-chapter-pager').first().locator('a[href="#/psalms/3"]').click();await page.locator('[data-psalm-chapter="3"]').waitFor();
     await visit('#/psalms','.psalms-all-grid .psalms-study-card');
     await page.locator('[data-psalms-search]').fill('1');
-    await page.locator('.psalms-study-card:visible a.btn').click();
+    await page.locator('.psalms-all-grid .psalms-study-card:visible a.btn').click();
     await page.locator('[data-verse-study="1"]').waitFor();
     const psalm1=Object.fromEntries(JSON.parse(fs.readFileSync(path.join(root,'data/bible.json'),'utf8')).books[18].chapters[0]);
     const meanings=[],images=[];
