@@ -1,0 +1,444 @@
+{
+  "chapter": 91,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 91 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "fear": [
+      "Psalm 91:5"
+    ],
+    "strength": [
+      "Psalm 91:2"
+    ],
+    "health": [
+      "Psalm 91:6"
+    ],
+    "alone": [
+      "Psalm 91:15"
+    ],
+    "direction": [
+      "Psalm 91:11"
+    ]
+  },
+  "study": {
+    "number": 91,
+    "coverVerse": 1,
+    "title": "Under His wings",
+    "intro": "Psalm 91 promises safety to the one who lives close to God. It moves from a confession of trust, through vivid pictures of danger and protection, to God's own closing promise to rescue, answer and honor the one who loves Him.",
+    "context": "Psalm 91 has no heading in the Hebrew text and follows Psalm 90 in Book IV, which turns Israel back to God as its eternal refuge. Verses 1-2 confess trust; verses 3-13 assure the believer of protection from snares, plague, night terror and wild beasts; verses 14-16 switch to God's own voice. Satan quoted verses 11-12 when tempting Jesus, and Jesus answered that we must not put God to the test, showing the psalm is a promise for trust, not a dare.",
+    "peopleNote": "Jesus is linked because Satan quoted this psalm to Him in the wilderness and He answered with trust rather than presumption. Moses is linked because many Jewish readers have connected this psalm with the prayer of Moses in Psalm 90. God is never portrayed as a human body in planned art.",
+    "people": [
+      {
+        "id": "jesus",
+        "name": "Jesus",
+        "ref": "Psalm 91:1"
+      },
+      {
+        "id": "moses",
+        "name": "Moses",
+        "ref": "Psalm 91:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Shelter of the Most High",
+        "heading": "Living in God's shade",
+        "meaning": "The psalm opens with a picture of a person who 'dwells in the shelter of the Most High' and 'will abide in the shadow of the Almighty.' Dwelling is not visiting. It describes someone who has made God their settled home. In a hot, dry land, shade meant rest and survival. Two great names for God, Most High and Almighty, stress that this shelter is stronger than anything outside it. The promise is for those who stay close.",
+        "contextTitle": "Names of God",
+        "context": "'Most High' (Elyon) first appears in Genesis 14:19, when Melchizedek blesses Abram. 'Almighty' (Shaddai) is the name God gives Himself to Abram in Genesis 17:1. Isaiah 25:4 calls God 'a shade from the heat' for the needy.",
+        "explore": [
+          [
+            "Most High",
+            "A title for God stressing that He rules above every power, earthly or spiritual."
+          ],
+          [
+            "Almighty",
+            "Translating Shaddai, a name stressing God's overwhelming power and sufficiency."
+          ]
+        ],
+        "reflect": "Are you visiting God now and then, or making His presence your daily home?",
+        "related": [
+          "Genesis 14:19",
+          "Genesis 17:1",
+          "Isaiah 25:4"
+        ],
+        "alt": "A traveler rests in the deep shade of a rock outcrop in a sunlit desert.",
+        "art": "assets/psalm91/verse-1-watercolor.webp"
+      },
+      {
+        "title": "My refuge and fortress",
+        "heading": "Saying it out loud",
+        "meaning": "In verse 2 the voice becomes personal: 'I will say to the LORD, You are my refuge and my fortress, my God, in whom I trust.' The psalmist does not just describe protection; he speaks his trust aloud. A refuge is a place to run to; a fortress is a place that cannot be broken into. Calling Him 'my God' turns a general truth into a personal bond. Speaking faith out loud strengthens it in the heart.",
+        "contextTitle": "Fortress language",
+        "context": "David sang in 2 Samuel 22:2, 'The LORD is my rock, my fortress, and my deliverer.' Proverbs 18:10 says the name of the LORD is a strong tower the righteous run into. Psalm 46:1 calls God our refuge and strength.",
+        "explore": [
+          [
+            "Refuge",
+            "A shelter or hiding place where someone in danger can flee and be safe."
+          ],
+          [
+            "Fortress",
+            "A strongly walled stronghold built to withstand attack and protect those inside it."
+          ]
+        ],
+        "reflect": "What would it sound like for you to say these words to God aloud today?",
+        "related": [
+          "2 Samuel 22:2",
+          "Proverbs 18:10",
+          "Psalm 46:1"
+        ],
+        "alt": "A stone hilltop stronghold rises above terraced fields at sunrise.",
+        "art": "assets/psalm91/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Snare and plague",
+        "heading": "Rescue from hidden traps",
+        "meaning": "Verse 3 names two dangers: 'the snare of the fowler' and 'the deadly plague.' A fowler was a bird-catcher who hid nets and traps where birds would not see them. Some threats are like that, hidden and sudden. Others, like disease, spread unseen. The psalmist says God Himself 'will deliver you' from both. He sees what we cannot and frees His people from traps they never noticed.",
+        "contextTitle": "The fowler's trap",
+        "context": "Psalm 124:7 says, 'We have escaped like a bird from the snare of the fowler; the net is torn, and we have slipped away.' Proverbs 1:17 mentions nets spread in sight of birds. 2 Timothy 2:26 speaks of escaping the devil's snare.",
+        "explore": [
+          [
+            "Fowler",
+            "A hunter who catches birds using nets, snares or traps hidden on the ground."
+          ],
+          [
+            "Snare",
+            "A concealed trap or noose that suddenly catches its victim, often used figuratively for danger."
+          ]
+        ],
+        "reflect": "What hidden snare in your life do you need to ask God to free you from?",
+        "related": [
+          "Psalm 124:7",
+          "Proverbs 1:17",
+          "2 Timothy 2:26"
+        ],
+        "alt": "A small bird flies free above a torn net lying in tall grass.",
+        "art": "assets/psalm91/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Under His wings",
+        "heading": "Feathers and a shield",
+        "meaning": "Verse 4 gives one of Scripture's most tender pictures: 'He will cover you with His feathers; under His wings you will find refuge.' A mother bird spreads her wings over her chicks when danger comes. Then the image shifts to battle: 'His faithfulness is a shield and rampart.' God is both gentle and strong. His covering is warm like a nest and solid like a wall, because He keeps His promises.",
+        "contextTitle": "The sheltering wings",
+        "context": "Boaz blessed Ruth in Ruth 2:12 for taking refuge under the LORD's wings. Jesus said in Matthew 23:37 that He longed to gather Jerusalem 'as a hen gathers her chicks under her wings.' Deuteronomy 32:11 pictures God as an eagle spreading its wings.",
+        "explore": [
+          [
+            "Pinions and feathers",
+            "The wing feathers of a bird, pictured as soft covering for its young."
+          ],
+          [
+            "Rampart",
+            "A broad defensive wall or earth bank that protects a city from attack."
+          ]
+        ],
+        "reflect": "Do you think of God's protection as tender, strong, or both? Why?",
+        "related": [
+          "Ruth 2:12",
+          "Matthew 23:37",
+          "Deuteronomy 32:11"
+        ],
+        "alt": "A mother bird shelters her chicks beneath outspread wings in a nest.",
+        "art": "assets/psalm91/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Terror of the night",
+        "heading": "Night fears and daytime arrows",
+        "meaning": "Verse 5 promises, 'You will not fear the terror of the night, nor the arrow that flies by day.' Night brought fears of raiders and unseen dangers; day brought open attack. Between them they cover every hour. The promise is not that danger never comes, but that fear will not rule. A heart sheltered in God can lie down at night and walk out in the morning without being gripped by dread.",
+        "contextTitle": "Sleeping in peace",
+        "context": "Psalm 4:8 says, 'In peace I will lie down and sleep, for You alone, O LORD, make me dwell in safety.' Proverbs 3:24 promises sweet sleep without fear. 2 Timothy 1:7 says God has not given us a spirit of fear.",
+        "explore": [
+          [
+            "Terror",
+            "Overwhelming fear or dread, here especially the fears that come in the dark."
+          ],
+          [
+            "Arrow by day",
+            "A picture of open attack, the danger of battle or enemies seen in daylight."
+          ]
+        ],
+        "reflect": "What fear tends to visit you at night, and how can you hand it to God?",
+        "related": [
+          "Psalm 4:8",
+          "Proverbs 3:24",
+          "2 Timothy 1:7"
+        ],
+        "alt": "A village of tents sleeps quietly under a starry night sky.",
+        "art": "assets/psalm91/verse-5-watercolor.webp"
+      },
+      {
+        "title": "Pestilence and calamity",
+        "heading": "Darkness and noon",
+        "meaning": "Verse 6 continues the list: 'nor the pestilence that stalks in the darkness, nor the calamity that destroys at noon.' Disease is pictured as a prowler moving unseen; disaster strikes even in broad daylight. Verses 5 and 6 together name night and day, darkness and noon. No hour lies outside God's watch. The one who lives in His shelter need not be ruled by dread of sickness or sudden ruin.",
+        "contextTitle": "Plague in Israel's story",
+        "context": "Exodus 12:23 tells how the LORD passed over the homes marked by blood so the destroyer would not enter. Numbers 16:48 describes Aaron standing between the living and the dead to stop a plague. Psalm 121:6 says the sun will not strike you by day.",
+        "explore": [
+          [
+            "Pestilence",
+            "A deadly, fast-spreading disease or epidemic that can sweep through a community."
+          ],
+          [
+            "Calamity",
+            "A sudden disaster causing great loss or distress, here striking even at noon."
+          ]
+        ],
+        "reflect": "How does knowing God watches every hour change the way you face sickness or bad news?",
+        "related": [
+          "Exodus 12:23",
+          "Numbers 16:48",
+          "Psalm 121:6"
+        ],
+        "alt": "Noon sun blazes over a quiet village street with shuttered doorways.",
+        "art": "assets/psalm91/verse-6-watercolor.webp"
+      },
+      {
+        "title": "A thousand at your side",
+        "heading": "Standing while others fall",
+        "meaning": "Verse 7 pictures a battlefield: 'Though a thousand may fall at your side, and ten thousand at your right hand, no harm will come near you.' The numbers are huge on purpose. Even when disaster is everywhere, God can keep His own. This is not a guarantee that believers never suffer; Scripture shows faithful people who did. It is a confident statement that nothing reaches us outside God's care and purpose.",
+        "contextTitle": "God's people protected",
+        "context": "Exodus 9:26 says hail fell everywhere except in Goshen, where Israel lived. 2 Kings 6:16-17 shows Elisha surrounded by an army yet protected by God's unseen host. Romans 8:28 says God works all things for good for those who love Him.",
+        "explore": [
+          [
+            "Right hand",
+            "The side of strength and honor; here simply the place closest beside you."
+          ],
+          [
+            "Ten thousand",
+            "A very large number, used to stress overwhelming scale rather than an exact count."
+          ]
+        ],
+        "reflect": "When trouble surrounds you, what helps you trust that God still holds you?",
+        "related": [
+          "Exodus 9:26",
+          "2 Kings 6:17",
+          "Romans 8:28"
+        ],
+        "alt": "A lone figure stands calmly in an open field as a storm passes by.",
+        "art": "assets/psalm91/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Only a witness",
+        "heading": "Seeing justice done",
+        "meaning": "Verse 8 says, 'You will only see it with your eyes and witness the punishment of the wicked.' The one who trusts God becomes a spectator rather than a victim. Evil does not have the last word; sooner or later God brings it to account. The psalmist does not gloat but observes that God's justice is real. The believer does not need to take revenge, because God sees and judges rightly.",
+        "contextTitle": "Watching God act",
+        "context": "Exodus 14:13 records Moses saying, 'Stand firm and you will see the LORD's salvation.' Psalm 37:34 promises that you will see the wicked cut off. Romans 12:19 says, 'Leave room for God's wrath.'",
+        "explore": [
+          [
+            "Witness",
+            "To see something happen with your own eyes and be able to testify about it."
+          ],
+          [
+            "Punishment",
+            "The just consequence God brings on wrongdoing, here the recompense of the wicked."
+          ]
+        ],
+        "reflect": "Is there a wrong you are tempted to avenge that you need to leave with God?",
+        "related": [
+          "Exodus 14:13",
+          "Psalm 37:34",
+          "Romans 12:19"
+        ],
+        "alt": "A traveler watches from a safe ridge as floodwaters sweep a distant plain.",
+        "art": "assets/psalm91/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Made the LORD your dwelling",
+        "heading": "The condition of the promise",
+        "meaning": "Verse 9 explains why these promises apply: 'Because you have made the LORD your dwelling, my refuge, the Most High.' The psalm returns to its opening thought. The protection described is not luck or magic words; it belongs to those who have chosen God as their home. The interjection 'my refuge' shows the speaker personally sharing that choice. Trust is the doorway into His shelter.",
+        "contextTitle": "Abiding in God",
+        "context": "Psalm 90:1 says, 'Lord, You have been our dwelling place through all generations.' John 15:7 records Jesus saying, 'If you remain in Me, and My words remain in you, ask whatever you wish.' 1 John 4:16 says whoever abides in love abides in God.",
+        "explore": [
+          [
+            "Dwelling",
+            "A permanent home, contrasted with a short stay; here a life lived in God."
+          ],
+          [
+            "Because",
+            "Introduces the reason or condition on which the promised protection rests."
+          ]
+        ],
+        "reflect": "What choices this week would show that God is truly your dwelling place?",
+        "related": [
+          "Psalm 90:1",
+          "John 15:7",
+          "1 John 4:16"
+        ],
+        "alt": "Lamplight glows from the doorway of a simple stone house at dusk.",
+        "art": "assets/psalm91/verse-9-watercolor.webp"
+      },
+      {
+        "title": "No plague near your tent",
+        "heading": "A guarded home",
+        "meaning": "Verse 10 brings the promise home: 'no evil will befall you, no plague will approach your tent.' The tent was the family's living space. God's care reaches into ordinary domestic life, not just battlefields. The word 'approach' pictures disaster coming toward the house and being stopped. Israel remembered nights when the destroyer passed by their doors. God guards the places where His people live, eat and sleep.",
+        "contextTitle": "Passover protection",
+        "context": "Exodus 12:13 says, 'When I see the blood, I will pass over you. No plague will fall on you.' Job 5:24 promises you will know your tent is secure. Proverbs 3:33 says the LORD blesses the home of the righteous.",
+        "explore": [
+          [
+            "Tent",
+            "The portable home of nomadic and early Israelite families, standing for one's household."
+          ],
+          [
+            "Befall",
+            "To happen to someone, usually describing misfortune or harm that comes upon them."
+          ]
+        ],
+        "reflect": "How can you invite God's care into the ordinary life of your home today?",
+        "related": [
+          "Exodus 12:13",
+          "Job 5:24",
+          "Proverbs 3:33"
+        ],
+        "alt": "A goat-hair tent stands quietly in a valley with a family's cooking fire.",
+        "art": "assets/psalm91/verse-10-watercolor.webp"
+      },
+      {
+        "title": "Angels on guard",
+        "heading": "Commanded to keep you",
+        "meaning": "Verse 11 says, 'For He will command His angels concerning you to guard you in all your ways.' God sends His servants to watch over His people. 'All your ways' means the paths of daily life, not reckless detours. Satan later twisted this verse, urging Jesus to jump from the temple. Jesus refused, showing the promise is for those walking in God's ways, not for testing Him.",
+        "contextTitle": "Satan's misquote",
+        "context": "Matthew 4:6 records the devil quoting this verse to Jesus at the temple's pinnacle. Hebrews 1:14 calls angels ministering spirits sent to serve heirs of salvation. Psalm 34:7 says the angel of the LORD encamps around those who fear Him.",
+        "explore": [
+          [
+            "Angels",
+            "Spiritual messengers and servants of God who carry out His commands and protect His people."
+          ],
+          [
+            "Your ways",
+            "The ordinary paths and course of life a person follows in obedience to God."
+          ]
+        ],
+        "reflect": "Are you walking in God's ways, or asking Him to protect choices He has not led you to?",
+        "related": [
+          "Matthew 4:6",
+          "Hebrews 1:14",
+          "Psalm 34:7"
+        ],
+        "alt": "A narrow mountain path winds safely along a cliff in morning light.",
+        "art": "assets/psalm91/verse-11-watercolor.webp"
+      },
+      {
+        "title": "Lifted in their hands",
+        "heading": "Not striking your foot",
+        "meaning": "Verse 12 continues: 'They will lift you up in their hands, so that you will not strike your foot against a stone.' Rocky paths in Israel made stumbling common. The picture is of careful hands catching a traveler before he falls. Jesus knew this promise yet would not misuse it. He answered, 'Do not put the Lord your God to the test,' trusting His Father without demanding proof.",
+        "contextTitle": "Jesus answers",
+        "context": "Matthew 4:7 records Jesus replying, 'It is also written: Do not put the Lord your God to the test.' Deuteronomy 6:16 is the verse He quoted. Jude 1:24 praises God, who is able to keep you from stumbling.",
+        "explore": [
+          [
+            "Strike your foot",
+            "To trip or stumble on a rocky path, pictured as a minor but real danger."
+          ],
+          [
+            "Test God",
+            "To demand that God prove Himself by forcing a situation, rather than trusting Him."
+          ]
+        ],
+        "reflect": "Where are you tempted to demand proof from God instead of trusting Him?",
+        "related": [
+          "Matthew 4:7",
+          "Deuteronomy 6:16",
+          "Jude 1:24"
+        ],
+        "alt": "A stony footpath climbs through hills with smooth stepping stones.",
+        "art": "assets/psalm91/verse-12-watercolor.webp"
+      },
+      {
+        "title": "Lion and cobra",
+        "heading": "Treading on danger",
+        "meaning": "Verse 13 promises, 'You will tread on the lion and cobra; you will trample the young lion and serpent.' Lions and snakes were real dangers in ancient Israel and also pictures of fierce and hidden enemies. To tread on them means victory. Jesus told His followers they had authority to tread on serpents and over the enemy's power. Ultimately the serpent's head is crushed by Christ.",
+        "contextTitle": "Victory over the serpent",
+        "context": "Genesis 3:15 promises that the woman's offspring will crush the serpent's head. Luke 10:19 records Jesus giving authority to tread on snakes and scorpions. Daniel 6:22 tells how God shut the lions' mouths.",
+        "explore": [
+          [
+            "Cobra",
+            "A venomous snake, here standing for deadly hidden danger and enemies."
+          ],
+          [
+            "Trample",
+            "To crush underfoot, an image of complete victory over an opponent."
+          ]
+        ],
+        "reflect": "What fierce or hidden danger do you need to face with God's strength today?",
+        "related": [
+          "Genesis 3:15",
+          "Luke 10:19",
+          "Daniel 6:22"
+        ],
+        "alt": "A lion's paw prints cross a rocky wilderness trail at dawn.",
+        "art": "assets/psalm91/verse-13-watercolor.webp"
+      },
+      {
+        "title": "Because he loves Me",
+        "heading": "God Himself speaks",
+        "meaning": "In verse 14 the voice changes: God Himself answers. 'Because he loves Me, I will deliver him; because he knows My name, I will protect him.' The relationship rests on love and knowing. To know God's name means to know His character and trust Him personally. God's promises flow toward those who cling to Him. The Hebrew word for love here suggests holding fast with deep attachment.",
+        "contextTitle": "Knowing His name",
+        "context": "Exodus 3:14-15 records God revealing His name to Moses. Psalm 9:10 says, 'Those who know Your name trust in You.' John 14:21 records Jesus saying whoever loves Him will be loved by His Father.",
+        "explore": [
+          [
+            "Know My name",
+            "To know God's revealed character personally and rely on who He has shown Himself to be."
+          ],
+          [
+            "Deliver",
+            "To rescue or set free from danger, trouble or the power of an enemy."
+          ]
+        ],
+        "reflect": "How has getting to know God's character deepened your love for Him?",
+        "related": [
+          "Exodus 3:15",
+          "Psalm 9:10",
+          "John 14:21"
+        ],
+        "alt": "A shepherd's lamp glows on a hillside beneath a quiet night sky.",
+        "art": "assets/psalm91/verse-14-watercolor.webp"
+      },
+      {
+        "title": "I will be with him",
+        "heading": "An answer in trouble",
+        "meaning": "Verse 15 lists God's promises: 'When he calls out to Me, I will answer him; I will be with him in trouble. I will deliver him and honor him.' The promise is not that trouble never comes, but that God is present in it. He answers, stays near, rescues and honors. Being with someone in trouble is the heart of faithful love, and God offers it to all who call.",
+        "contextTitle": "Presence in trouble",
+        "context": "Isaiah 43:2 says, 'When you pass through the waters, I will be with you.' Jeremiah 33:3 invites, 'Call to Me and I will answer you.' Hebrews 13:5 promises, 'Never will I leave you, never will I forsake you.'",
+        "explore": [
+          [
+            "Call out",
+            "To cry to God in prayer, especially in need or distress."
+          ],
+          [
+            "Honor",
+            "To lift up and give dignity, here God raising His servant after trouble."
+          ]
+        ],
+        "reflect": "What trouble are you facing where you need to call out and trust God is with you?",
+        "related": [
+          "Isaiah 43:2",
+          "Jeremiah 33:3",
+          "Hebrews 13:5"
+        ],
+        "alt": "A lantern lights a narrow rocky path through a dark ravine.",
+        "art": "assets/psalm91/verse-15-watercolor.webp"
+      },
+      {
+        "title": "Long life and salvation",
+        "heading": "Satisfied and shown",
+        "meaning": "The psalm ends with verse 16: 'With long life I will satisfy him and show him My salvation.' Long life in the Old Testament was a sign of God's blessing, but the key word is 'satisfy.' God gives life that feels full. The final gift is to 'show him My salvation.' The deepest rescue is seeing God's saving work. In Christ that salvation reaches beyond this life into eternity.",
+        "contextTitle": "Seeing salvation",
+        "context": "Luke 2:30 records Simeon holding the infant Jesus and saying, 'My eyes have seen Your salvation.' Proverbs 3:2 promises length of days to those who keep God's teaching. John 10:10 records Jesus saying He came that we might have life abundantly.",
+        "explore": [
+          [
+            "Satisfy",
+            "To fill completely so that nothing more is lacking or desired."
+          ],
+          [
+            "Salvation",
+            "God's rescue and deliverance, ultimately from sin and death through His saving work."
+          ]
+        ],
+        "reflect": "How has God shown you His salvation, and how might you share it?",
+        "related": [
+          "Luke 2:30",
+          "Proverbs 3:2",
+          "John 10:10"
+        ],
+        "alt": "An elderly villager sits peacefully outside a stone home at sunset.",
+        "art": "assets/psalm91/verse-16-watercolor.webp"
+      }
+    ]
+  }
+}
