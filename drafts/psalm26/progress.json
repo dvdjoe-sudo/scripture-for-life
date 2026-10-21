@@ -1,0 +1,20 @@
+{
+  "chapter": 26,
+  "status": "whole-chapter candidate; local checks passed; publication pending PR review and merge",
+  "groups": [
+    {
+      "file": "verses-1-6.json",
+      "from": 1,
+      "through": 6,
+      "editorial": "reviewed against source and related contexts",
+      "art": "six distinct originals and production WebPs visually inspected"
+    },
+    {
+      "file": "verses-7-12.json",
+      "from": 7,
+      "through": 12,
+      "editorial": "reviewed against source and related contexts",
+      "art": "six distinct originals and production WebPs visually inspected"
+    }
+  ]
+}

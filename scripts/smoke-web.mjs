@@ -83,6 +83,7 @@ try {
     assert.equal(await page.locator('.psalms-detailed a[href^="#/study/23/"]').count(),1,'Original Psalm 23 detailed study remains available');
     assert.equal(await page.locator('.psalms-detailed a[href^="#/study/46/"]').count(),1,'Psalm 46 detailed study remains available');
     assert.equal(await page.locator('.psalms-detailed a[href^="#/study/25/"]').count(),1,'Psalm 25 detailed study is discoverable');
+    assert.equal(await page.locator('.psalms-detailed a[href^="#/study/26/"]').count(),1,'Psalm 26 detailed study is discoverable');
     await visit('#/walk/23/4','.psalm-verse-art');
     assert.ok(page.url().endsWith('#/study/23/4'),'Old walk links open the verse illustration');
     await page.getByRole('tab',{name:'Reflect',exact:true}).click();
@@ -237,7 +238,7 @@ try {
     await visit('#/study/1/6','[data-verse-study="1"]');
     assert.equal(await page.locator('.study-bottom a[href="#/study/2/1"]').count(),1);
     const fullPsalms=JSON.parse(fs.readFileSync(path.join(root,'data/bible.json'),'utf8')).books[18].chapters;
-    for(const number of [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,25]){
+    for(const number of [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,25,26]){
       const verses=Object.fromEntries(fullPsalms[number-1]),images=[],meanings=[];
       for(let n=1;n<=Object.keys(verses).length;n++){
         await visit('#/study/'+number+'/'+n,'[data-verse-study="'+number+'"]');
@@ -429,8 +430,19 @@ try {
     await page.locator('[data-psalm-switch]').selectOption('24');
     await page.locator('[data-verse-study="24"]').waitFor();
     await visit('#/study/25/22','[data-verse-study="25"]');
-    await page.locator('.study-bottom a[href="#/psalms/26"]').click();
-    await page.locator('[data-psalm-chapter="26"]').waitFor();
+    await page.locator('.study-bottom a[href="#/study/26/1"]').click();
+    await page.locator('[data-verse-study="26"][data-current-verse="1"]').waitFor();
+    assert.equal(await page.locator('.study-context a[href="#/people/david"]').count(),1);
+    await visit('#/study/26/12','[data-verse-study="26"]');
+    await page.locator('.study-bottom a[href="#/psalms/27"]').click();
+    await page.locator('[data-psalm-chapter="27"]').waitFor();
+    for(const [id,verse] of [['direction',3],['gratitude',7],['forgiveness',11],['strength',12]]){
+      await visit('#/help/'+id,'[data-topic-connections="'+id+'"]');
+      await page.locator('[data-topic-connections] a[href="#/study/26/'+verse+'"]').click();
+      await page.locator('[data-verse-study="26"][data-current-verse="'+verse+'"]').waitFor();
+      await page.locator('[data-related-needs] a[href="#/help/'+id+'"]').click();
+      await page.locator('[data-topic-connections="'+id+'"]').waitFor();
+    }
     await visit('#/study/24/10','[data-verse-study="24"]');
     await page.locator('.study-bottom a[href="#/study/25/1"]').click();
     await page.locator('[data-verse-study="25"][data-current-verse="1"]').waitFor();

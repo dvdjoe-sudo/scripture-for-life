@@ -1,0 +1,106 @@
+{
+  "tool": "built-in GenerateImage",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "status": "All 12 distinct originals and production WebPs (1024px wide, quality 75) generated and visually inspected",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 26 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 1: One anonymous adult traveler in a simple earth-tone cloak walks steadily along a straight, well-worn footpath through rocky olive hills in clear morning light, seen from behind at middle distance. Convey integrity and unwavering trust; no court, judge, crowd or enemy.",
+      "production": "assets/psalm26/verse-1-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "077beabfd2f0615554e00af19609d734fb6b674fcb55b64fd1cc9d1994ba3201.jpg"
+    },
+    {
+      "verse": 2,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 26 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 2: Interior of a simple ancient stone workshop: a small clay crucible rests in glowing charcoal, with a little molten silver gleaming inside, tongs and a bellows nearby, soft daylight from a doorway onto olive trees. No person visible. Convey honest testing and examination of the heart.",
+      "production": "assets/psalm26/verse-2-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "642248b6bc5f322df2526800739eb851694d0438093cc80c41b10ab5e8c75ff7.jpg"
+    },
+    {
+      "verse": 3,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 26 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 3: An anonymous traveler walks a winding path through a green valley toward the east while warm early sunlight runs ahead along the path and lights wildflowers. The person is small in the landscape. Convey keeping steadfast love in view and walking in truth.",
+      "production": "assets/psalm26/verse-3-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "20657f97452028a24a7021b8e8af7fc264a9773d3bb65b566f776533823e12b6.jpg"
+    },
+    {
+      "verse": 4,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 26 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 4: At dusk beside an ancient stone town gate, a small shadowed group of anonymous figures sits muttering in the gloom on the left; on the right one anonymous person walks away from them along a path into open, softly lit fields. No weapons, no caricature faces, nothing modern.",
+      "production": "assets/psalm26/verse-4-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "bd81d450824efd3622877b0b88cd49381737d3329c13f1308cef3d9b29aa1778.jpg"
+    },
+    {
+      "verse": 5,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 26 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 5: Still landscape: a deserted rough stone bench under a dark, crowded thicket on the left in deep shadow, with a few trampled footprints; to the right a sunlit path leads up into a peaceful olive grove. No people. Convey refusing to sit with the wicked, without violence.",
+      "production": "assets/psalm26/verse-5-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "7234e18aa109a20cda768127d0c04954dda7399b8b0afd252283276baf5cf160.jpg"
+    },
+    {
+      "verse": 6,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 26 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 6: An anonymous adult washes their hands in clear water poured from a clay jar into a stone basin; in the soft background, a simple ancient uncut stone altar in a courtyard with thin smoke rising into gold light. Convey innocence and approaching worship. No priestly portrait, no deity.",
+      "production": "assets/psalm26/verse-6-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "04f75e0c171b9437aef39fe39eb50f88d7f21879b3479fe49f82d1b2170150b9.jpg"
+    },
+    {
+      "verse": 7,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 26 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 7: On a hillside at golden evening an anonymous adult with a simple wooden lyre sings with raised face toward a vast landscape of mountains, a river valley and first stars appearing. Convey thanksgiving and declaring God's wonderful works through the created world.",
+      "production": "assets/psalm26/verse-7-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "4901e570891e7b3aecd1468ba9abda2b0200afdcbaef7652f0942e10a95e17ec.jpg"
+    },
+    {
+      "verse": 8,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 26 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 8: A distant hilltop sanctuary courtyard of plain stone walls and linen curtains in ancient Near Eastern style, bathed in soft golden morning light and haze, viewed from a path among olive trees and wildflowers. No figures needed, no glowing person, no church building. Convey love for the place where God's glory dwells.",
+      "production": "assets/psalm26/verse-8-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "9c5818aeef8a4ad72ccaee0e3efaf538d8b3027074dbea8f85a63563652cd726.jpg"
+    },
+    {
+      "verse": 9,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 26 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 9: A dramatic grey storm sweeps over a dry valley where a flash flood rushes below carrying debris; on a sheltered higher rock ledge one small anonymous figure kneels safely, looking up at a break in the clouds. No drowning people, no violence. Convey pleading not to be swept away with sinners.",
+      "production": "assets/psalm26/verse-9-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "6c180ce64114917bbaeb5fd55957a3138fd61de3c861f50ae2f2299d006cb5ce.jpg"
+    },
+    {
+      "verse": 10,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 26 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 10: Still life in a dim ancient room: a low wooden table with a spilled leather pouch of silver coins, a clay oil lamp, a half-unrolled blank scroll and grasping shadows, while a doorway behind opens onto clean daylight and green hills. No faces, no people, no readable writing.",
+      "production": "assets/psalm26/verse-10-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "277b1559faeef0ae614edbdc2a6624325d061b09ab2e11fb77093b47399569c0.jpg"
+    },
+    {
+      "verse": 11,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 26 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 11: After rain, an anonymous traveler resumes walking on a rain-washed stony path; clouds part and fresh light falls across wet green hills and puddles reflecting the sky. No rainbow. Convey renewed resolve to walk with integrity while asking for mercy and redemption.",
+      "production": "assets/psalm26/verse-11-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "1094b4a9999a56ec1b5900a65a09eb2c02e3811206b86f5da61260336644059b.jpg"
+    },
+    {
+      "verse": 12,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 26 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 12: A broad level plain at morning with firm flat ground in the foreground and a gathered congregation of many small anonymous worshipers in simple ancient clothing standing together with lifted hands near distant tents and hills. Convey standing on level ground and blessing the LORD in the assembly; no central leader, no portraits.",
+      "production": "assets/psalm26/verse-12-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "babee937be0a139ad5d930e8f7a75a21d306dbdeb565829e1ade12e4278904ef.jpg"
+    }
+  ],
+  "rejected": [
+    {
+      "verse": 4,
+      "reason": "walking figure resembled a conventional devotional portrait; regenerated with a headscarf and back view"
+    },
+    {
+      "verse": 7,
+      "reason": "singer resembled a conventional portrait of Jesus; regenerated as an anonymous woman seen from behind"
+    },
+    {
+      "verse": 9,
+      "reason": "kneeling figure resembled a conventional portrait of Jesus under a dramatic light beam; regenerated as a small hooded figure"
+    }
+  ],
+  "pendingVerses": []
+}
