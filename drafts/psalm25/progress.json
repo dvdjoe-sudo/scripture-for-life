@@ -1,6 +1,6 @@
 {
   "chapter": 25,
-  "status": "all editorial/art ready; unpublished whole-chapter candidate",
+  "status": "whole-chapter gate passed; publication pending",
   "baseMain": "c113cae2bb0028a4ac7e059a463cdf4ec3e987db",
   "groups": [
     {
@@ -53,14 +53,19 @@
     ]
   },
   "pendingGate": [
-    "website offline and Android bundle packaging",
-    "source/reference/asset checks",
-    "all-verse phone-width tabs/navigation/images",
-    "reload/Saved/dialog reflections",
-    "independent resume",
-    "topic/people/chapter transitions",
-    "required final CI and Capacitor checks",
-    "PR merge, main CI, Pages deployment and live verification"
+    "passing final-head CI",
+    "PR merge",
+    "main CI",
+    "Pages deployment",
+    "live-byte verification"
   ],
-  "resume": "Finish PR #52 whole-chapter verification and publication before starting Psalm 26. Main 361cb328924d6fa9129ee5908e328c67ffe59b74 was merged verbatim, including authorized home changes and all story updates."
+  "resume": "Finish PR #52 whole-chapter verification and publication before starting Psalm 26. Main 361cb328924d6fa9129ee5908e328c67ffe59b74 was merged verbatim, including authorized home changes and all story updates.",
+  "passedGate": {
+    "implementation": "48cee68bda39a0c7c8b3816b98e71412dd6e592f",
+    "runs": [
+      39544919004,
+      39544915223
+    ],
+    "checks": "all 22 exact verses, individual notes and art, valid references, every phone-width verse/tab/image on website and packaged webview, shared reflections/reload/Saved/dialog, independent resume, people/needs links, 24→25→26 transitions, offline/Android parity, Capacitor creation/sync"
+  }
 }

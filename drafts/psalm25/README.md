@@ -1,4 +1,4 @@
-# Psalm 25 — whole-chapter candidate, unpublished
+# Psalm 25 — whole-chapter gate passed; publication pending
 
 All 22 exact bundled BSB verses, David’s heading and the opening 1–2 continuation are preserved. Three reviewed groups supply original individual Meaning/Context/Explore/Reflect notes, with related passages read before drafting. Source review is recorded in the group files and editorial.json. Notes keep petitions, declarations, covenant provision language, confession, loneliness and the final prayer for Israel in context. David is a heading connection, not a manufactured historical occasion.
 
@@ -6,4 +6,6 @@ All 22 distinct built-in imagegen originals and 1280×853 production WebPs were 
 
 The full module is integrated with David, shared reflection storage, independent resume, direction/forgiveness/alone/strength links and 24→25→26 navigation. Main 361cb328924d6fa9129ee5908e328c67ffe59b74 was reconciled verbatim. All story content/renderers, current home-page behavior and original Psalm 23 are preserved. Minimal shared copy-list repairs include main’s existing 2 Samuel scripts with strict parity/offline checks. Shared home tests now match Joe’s merged focused home layout while retaining direct original Psalm 23 and Genesis checks.
 
-Run npm run check, then the phone-width source website and packaged-webview suite plus Capacitor checks. Required gates remain pending until evidence is recorded in PR #52: all verse/tab/image tests, reflection reload/Saved/dialog, resume, topic/people/chapter transitions, final CI, merge, main CI, Pages deployment and live bytes. Do not mark the chapter published before these pass. Native APK/device testing is separate. Finish PR #52 before starting Psalm 26.
+Local npm run check passed. Implementation 48cee68bda39a0c7c8b3816b98e71412dd6e592f passed CI 39544919004 and 39544915223: all 22 verse/tab/image phone-width tests on source website and packaged webview; reflection reload/Saved/dialog, independent resume, people/topic links, 24→25→26 transitions, source/reference/asset/offline/Android parity and Capacitor creation/sync. Story manuscript/renderer and original Psalm 23 comparisons against main 361cb328924d6fa9129ee5908e328c67ffe59b74 were empty.
+
+Pending publication: passing final PR head CI, merge, main CI, Pages deployment and live bytes. PR #52 records final publication evidence. Native APK/device testing is separate. Finish this PR before starting Psalm 26.
