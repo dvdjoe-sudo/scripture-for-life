@@ -43,6 +43,10 @@ for (const item of ['ruth.js', 'ruth-people.js', 'data/ruth-episodes.json', 'dat
 }
 
 // Verify actual index.html links (the old build copied different legacy filenames).
+for (const item of ['kings2.js', 'kings2-people.js', 'data/kings2-episodes.json', 'data/kings2-scenes.json']) {
+  assert(read(root, item) === read(www, item), '2 Kings asset differs in Android bundle: ' + item);
+  assert(read(www, 'sw.js').includes(item), '2 Kings asset missing from offline cache: ' + item);
+}
 for (const item of ['kings1.js', 'kings1-people.js', 'data/kings1-episodes.json', 'data/kings1-scenes.json']) {
   assert(read(root, item) === read(www, item), '1 Kings asset differs in Android bundle: ' + item);
   assert(read(www, 'sw.js').includes(item), '1 Kings asset missing from offline cache: ' + item);

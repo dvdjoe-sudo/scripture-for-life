@@ -1,0 +1,830 @@
+{
+  "source": "data/bible.json",
+  "status": "all related passages read with surrounding verses during editorial review; comparisons retain their distinct settings",
+  "references": [
+    {
+      "ref": "Psalm 9:13",
+      "context": [
+        [
+          11,
+          "Sing praises to the LORD, who dwells in Zion; proclaim His deeds among the nations."
+        ],
+        [
+          12,
+          "For the Avenger of bloodshed remembers; He does not ignore the cry of the afflicted."
+        ],
+        [
+          13,
+          "Be merciful to me, O LORD; see how my enemies afflict me! Lift me up from the gates of death,"
+        ],
+        [
+          14,
+          "that I may declare all Your praises—that within the gates of Daughter Zion I may rejoice in Your salvation."
+        ],
+        [
+          15,
+          "The nations have fallen into a pit of their making; their feet are caught in the net they have hidden."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 30:3",
+      "context": [
+        [
+          1,
+          "A Psalm. A song for the dedication of the temple. Of David. I will exalt You, O LORD, for You have lifted me up and have not allowed my foes to rejoice over me."
+        ],
+        [
+          2,
+          "O LORD my God, I cried to You for help, and You healed me."
+        ],
+        [
+          3,
+          "O LORD, You pulled me up from Sheol; You spared me from descending into the Pit."
+        ],
+        [
+          4,
+          "Sing to the LORD, O you His saints, and praise His holy name."
+        ],
+        [
+          5,
+          "For His anger is fleeting, but His favor lasts a lifetime. Weeping may stay the night, but joy comes in the morning."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 118:28",
+      "context": [
+        [
+          26,
+          "Blessed is he who comes in the name of the LORD. From the house of the LORD we bless you."
+        ],
+        [
+          27,
+          "The LORD is God; He has made His light to shine upon us. Bind the festal sacrifice with cords to the horns of the altar."
+        ],
+        [
+          28,
+          "You are my God, and I will give You thanks. You are my God, and I will exalt You."
+        ],
+        [
+          29,
+          "Give thanks to the LORD, for He is good; His loving devotion endures forever."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 6:2",
+      "context": [
+        [
+          1,
+          "For the choirmaster. With stringed instruments, according to Sheminith. A Psalm of David. O LORD, do not rebuke me in Your anger or discipline me in Your wrath."
+        ],
+        [
+          2,
+          "Be merciful to me, O LORD, for I am frail; heal me, O LORD, for my bones are in agony."
+        ],
+        [
+          3,
+          "My soul is deeply distressed. How long, O LORD, how long?"
+        ],
+        [
+          4,
+          "Turn, O LORD, and deliver my soul; save me because of Your loving devotion."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 103:3",
+      "context": [
+        [
+          1,
+          "Of David. Bless the LORD, O my soul; all that is within me, bless His holy name."
+        ],
+        [
+          2,
+          "Bless the LORD, O my soul, and do not forget all His kind deeds—"
+        ],
+        [
+          3,
+          "He who forgives all your iniquities and heals all your diseases,"
+        ],
+        [
+          4,
+          "who redeems your life from the Pit and crowns you with loving devotion and compassion,"
+        ],
+        [
+          5,
+          "who satisfies you with good things, so that your youth is renewed like the eagle’s."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 107:20",
+      "context": [
+        [
+          18,
+          "They loathed all food and drew near to the gates of death."
+        ],
+        [
+          19,
+          "Then they cried out to the LORD in their trouble, and He saved them from their distress."
+        ],
+        [
+          20,
+          "He sent forth His word and healed them; He rescued them from the Pit."
+        ],
+        [
+          21,
+          "Let them give thanks to the LORD for His loving devotion and His wonders to the sons of men."
+        ],
+        [
+          22,
+          "Let them offer sacrifices of thanksgiving and declare His works with rejoicing."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 16:10",
+      "context": [
+        [
+          8,
+          "I have set the LORD always before me. Because He is at my right hand, I will not be shaken."
+        ],
+        [
+          9,
+          "Therefore my heart is glad and my tongue rejoices; my body also will dwell securely."
+        ],
+        [
+          10,
+          "For You will not abandon my soul to Sheol, nor will You let Your Holy One see decay."
+        ],
+        [
+          11,
+          "You have made known to me the path of life; You will fill me with joy in Your presence, with eternal pleasures at Your right hand."
+        ]
+      ]
+    },
+    {
+      "ref": "Jonah 2:6",
+      "context": [
+        [
+          4,
+          "At this, I said, ‘I have been banished from Your sight; yet I will look once more toward Your holy temple.’"
+        ],
+        [
+          5,
+          "The waters engulfed me to take my life; the watery depths closed around me; the seaweed wrapped around my head."
+        ],
+        [
+          6,
+          "To the roots of the mountains I descended; the earth beneath me barred me in forever! But You raised my life from the pit, O LORD my God!"
+        ],
+        [
+          7,
+          "As my life was fading away, I remembered the LORD. My prayer went up to You, to Your holy temple."
+        ],
+        [
+          8,
+          "Those who cling to worthless idols forsake His loving devotion."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 86:13",
+      "context": [
+        [
+          11,
+          "Teach me Your way, O LORD, that I may walk in Your truth. Give me an undivided heart, that I may fear Your name."
+        ],
+        [
+          12,
+          "I will praise You, O Lord my God, with all my heart; I will glorify Your name forever."
+        ],
+        [
+          13,
+          "For great is Your loving devotion to me; You have delivered me from the depths of Sheol."
+        ],
+        [
+          14,
+          "The arrogant rise against me, O God; a band of ruthless men seeks my life; they have no regard for You."
+        ],
+        [
+          15,
+          "But You, O Lord, are a compassionate and gracious God, slow to anger, abounding in loving devotion and faithfulness."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 34:3",
+      "context": [
+        [
+          1,
+          "Of David, when he pretended to be insane before Abimelech, so that the king drove him away. I will bless the LORD at all times; His praise will always be on my lips."
+        ],
+        [
+          2,
+          "My soul boasts in the LORD; let the oppressed hear and rejoice."
+        ],
+        [
+          3,
+          "Magnify the LORD with me; let us exalt His name together."
+        ],
+        [
+          4,
+          "I sought the LORD, and He answered me; He delivered me from all my fears."
+        ],
+        [
+          5,
+          "Those who look to Him are radiant with joy; their faces shall never be ashamed."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 97:12",
+      "context": [
+        [
+          10,
+          "Hate evil, O you who love the LORD! He preserves the souls of His saints; He delivers them from the hand of the wicked."
+        ],
+        [
+          11,
+          "Light shines on the righteous, gladness on the upright in heart."
+        ],
+        [
+          12,
+          "Rejoice in the LORD, you righteous ones, and praise His holy name."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 145:21",
+      "context": [
+        [
+          19,
+          "He fulfills the desires of those who fear Him; He hears their cry and saves them."
+        ],
+        [
+          20,
+          "The LORD preserves all who love Him, but all the wicked He will destroy."
+        ],
+        [
+          21,
+          "My mouth will declare the praise of the LORD; let every creature bless His holy name forever and ever."
+        ]
+      ]
+    },
+    {
+      "ref": "Lamentations 3:22",
+      "context": [
+        [
+          20,
+          "Surely my soul remembers and is humbled within me."
+        ],
+        [
+          21,
+          "Yet I call this to mind, and therefore I have hope:"
+        ],
+        [
+          22,
+          "Because of the loving devotion of the LORD we are not consumed, for His mercies never fail."
+        ],
+        [
+          23,
+          "They are new every morning; great is Your faithfulness!"
+        ],
+        [
+          24,
+          "“The LORD is my portion,” says my soul, “therefore I will hope in Him.”"
+        ]
+      ]
+    },
+    {
+      "ref": "Isaiah 54:7",
+      "context": [
+        [
+          5,
+          "For your husband is your Maker—the LORD of Hosts is His name—the Holy One of Israel is your Redeemer; He is called the God of all the earth."
+        ],
+        [
+          6,
+          "For the LORD has called you back, like a wife deserted and wounded in spirit, like the rejected wife of one’s youth,” says your God."
+        ],
+        [
+          7,
+          "“For a brief moment I forsook you, but with great compassion I will bring you back."
+        ],
+        [
+          8,
+          "In a surge of anger I hid My face from you for a moment, but with everlasting kindness I will have compassion on you,” says the LORD your Redeemer."
+        ],
+        [
+          9,
+          "“For to Me this is like the days of Noah, when I swore that the waters of Noah would never again cover the earth. So I have sworn that I will not be angry with you or rebuke you."
+        ]
+      ]
+    },
+    {
+      "ref": "2 Corinthians 4:17",
+      "context": [
+        [
+          15,
+          "All this is for your benefit, so that the grace that is extending to more and more people may cause thanksgiving to overflow, to the glory of God."
+        ],
+        [
+          16,
+          "Therefore we do not lose heart. Though our outer self is wasting away, yet our inner self is being renewed day by day."
+        ],
+        [
+          17,
+          "For our light and momentary affliction is producing for us an eternal weight of glory that is far beyond comparison."
+        ],
+        [
+          18,
+          "So we fix our eyes not on what is seen, but on what is unseen. For what is seen is temporary, but what is unseen is eternal."
+        ]
+      ]
+    },
+    {
+      "ref": "Deuteronomy 8:12",
+      "context": [
+        [
+          10,
+          "When you eat and are satisfied, you are to bless the LORD your God for the good land that He has given you."
+        ],
+        [
+          11,
+          "Be careful not to forget the LORD your God by failing to keep His commandments and ordinances and statutes, which I am giving you this day."
+        ],
+        [
+          12,
+          "Otherwise, when you eat and are satisfied, when you build fine houses in which to dwell,"
+        ],
+        [
+          13,
+          "and when your herds and flocks grow large and your silver and gold increase and all that you have is multiplied,"
+        ],
+        [
+          14,
+          "then your heart will become proud, and you will forget the LORD your God who brought you out of the land of Egypt, out of the house of slavery."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 10:6",
+      "context": [
+        [
+          4,
+          "In his pride the wicked man does not seek Him; in all his schemes there is no God."
+        ],
+        [
+          5,
+          "He is secure in his ways at all times; Your lofty judgments are far from him; he sneers at all his foes."
+        ],
+        [
+          6,
+          "He says to himself, “I will not be moved; from age to age I am free of distress.”"
+        ],
+        [
+          7,
+          "His mouth is full of cursing, deceit, and violence; trouble and malice are under his tongue."
+        ],
+        [
+          8,
+          "He lies in wait near the villages; in ambush he slays the innocent; his eyes watch in stealth for the helpless."
+        ]
+      ]
+    },
+    {
+      "ref": "Proverbs 30:8",
+      "context": [
+        [
+          6,
+          "Do not add to His words, lest He rebuke you and prove you a liar."
+        ],
+        [
+          7,
+          "Two things I ask of You—do not refuse me before I die:"
+        ],
+        [
+          8,
+          "Keep falsehood and deceitful words far from me. Give me neither poverty nor riches; feed me with the bread that is my portion."
+        ],
+        [
+          9,
+          "Otherwise, I may have too much and deny You, saying, ‘Who is the LORD?’ Or I may become poor and steal, profaning the name of my God."
+        ],
+        [
+          10,
+          "Do not slander a servant to his master, or he will curse you, and you will bear the guilt."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 13:1",
+      "context": [
+        [
+          1,
+          "For the choirmaster. A Psalm of David. How long, O LORD? Will You forget me forever? How long will You hide Your face from me?"
+        ],
+        [
+          2,
+          "How long must I wrestle in my soul, with sorrow in my heart each day? How long will my enemy dominate me?"
+        ],
+        [
+          3,
+          "Consider me and respond, O LORD my God. Give light to my eyes, lest I sleep in death,"
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 104:29",
+      "context": [
+        [
+          27,
+          "All creatures look to You to give them their food in due season."
+        ],
+        [
+          28,
+          "When You give it to them, they gather it up; when You open Your hand, they are satisfied with good things."
+        ],
+        [
+          29,
+          "When You hide Your face, they are terrified; when You take away their breath, they die and return to dust."
+        ],
+        [
+          30,
+          "When You send Your Spirit, they are created, and You renew the face of the earth."
+        ],
+        [
+          31,
+          "May the glory of the LORD endure forever; may the LORD rejoice in His works."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 27:9",
+      "context": [
+        [
+          7,
+          "Hear, O LORD, my voice when I call; be merciful and answer me."
+        ],
+        [
+          8,
+          "My heart said, “Seek His face.” Your face, O LORD, I will seek."
+        ],
+        [
+          9,
+          "Hide not Your face from me, nor turn away Your servant in anger. You have been my helper; do not leave me or forsake me, O God of my salvation."
+        ],
+        [
+          10,
+          "Though my father and mother forsake me, the LORD will receive me."
+        ],
+        [
+          11,
+          "Teach me Your way, O LORD, and lead me on a level path, because of my oppressors."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 142:1",
+      "context": [
+        [
+          1,
+          "A Maskil of David, when he was in the cave. A prayer. I cry aloud to the LORD; I lift my voice to the LORD for mercy."
+        ],
+        [
+          2,
+          "I pour out my complaint before Him; I reveal my trouble to Him."
+        ],
+        [
+          3,
+          "Although my spirit grows faint within me, You know my way. Along the path I travel they have hidden a snare for me."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 28:2",
+      "context": [
+        [
+          1,
+          "Of David. To You, O LORD, I call; be not deaf to me, O my Rock. For if You remain silent, I will be like those descending to the Pit."
+        ],
+        [
+          2,
+          "Hear my cry for mercy when I call to You for help, when I lift up my hands toward Your holy sanctuary."
+        ],
+        [
+          3,
+          "Do not drag me away with the wicked, and with the workers of iniquity, who speak peace to their neighbors while malice is in their hearts."
+        ],
+        [
+          4,
+          "Repay them according to their deeds and for their works of evil. Repay them for what their hands have done; bring back on them what they deserve."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 30:2",
+      "context": [
+        [
+          1,
+          "A Psalm. A song for the dedication of the temple. Of David. I will exalt You, O LORD, for You have lifted me up and have not allowed my foes to rejoice over me."
+        ],
+        [
+          2,
+          "O LORD my God, I cried to You for help, and You healed me."
+        ],
+        [
+          3,
+          "O LORD, You pulled me up from Sheol; You spared me from descending into the Pit."
+        ],
+        [
+          4,
+          "Sing to the LORD, O you His saints, and praise His holy name."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 6:5",
+      "context": [
+        [
+          3,
+          "My soul is deeply distressed. How long, O LORD, how long?"
+        ],
+        [
+          4,
+          "Turn, O LORD, and deliver my soul; save me because of Your loving devotion."
+        ],
+        [
+          5,
+          "For there is no mention of You in death; who can praise You from Sheol?"
+        ],
+        [
+          6,
+          "I am weary from groaning; all night I flood my bed with weeping and drench my couch with tears."
+        ],
+        [
+          7,
+          "My eyes fail from grief; they grow dim because of all my foes."
+        ]
+      ]
+    },
+    {
+      "ref": "Isaiah 38:18",
+      "context": [
+        [
+          16,
+          "O Lord, by such things men live, and in all of them my spirit finds life. You have restored me to health and have let me live."
+        ],
+        [
+          17,
+          "Surely for my own welfare I had such great anguish; but Your love has delivered me from the pit of oblivion, for You have cast all my sins behind Your back."
+        ],
+        [
+          18,
+          "For Sheol cannot thank You; Death cannot praise You. Those who descend to the Pit cannot hope for Your faithfulness."
+        ],
+        [
+          19,
+          "The living, only the living, can thank You, as I do today; fathers will tell their children about Your faithfulness."
+        ],
+        [
+          20,
+          "The LORD will save me; we will play songs on stringed instruments all the days of our lives in the house of the LORD."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 88:10",
+      "context": [
+        [
+          8,
+          "You have removed my friends from me; You have made me repulsive to them; I am confined and cannot escape."
+        ],
+        [
+          9,
+          "My eyes grow dim with grief. I call to You daily, O LORD; I spread out my hands to You."
+        ],
+        [
+          10,
+          "Do You work wonders for the dead? Do departed spirits rise up to praise You? Selah"
+        ],
+        [
+          11,
+          "Can Your loving devotion be proclaimed in the grave, Your faithfulness in Abaddon?"
+        ],
+        [
+          12,
+          "Will Your wonders be known in the darkness, or Your righteousness in the land of oblivion?"
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 54:4",
+      "context": [
+        [
+          2,
+          "Hear my prayer, O God; listen to the words of my mouth."
+        ],
+        [
+          3,
+          "For strangers rise up against me, and ruthless men seek my life—men with no regard for God. Selah"
+        ],
+        [
+          4,
+          "Surely God is my helper; the Lord is the sustainer of my soul."
+        ],
+        [
+          5,
+          "He will reward my enemies with evil. In Your faithfulness, destroy them."
+        ],
+        [
+          6,
+          "Freely I will sacrifice to You; I will praise Your name, O LORD, for it is good."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 70:5",
+      "context": [
+        [
+          3,
+          "May those who say, “Aha, aha!” retreat because of their shame."
+        ],
+        [
+          4,
+          "May all who seek You rejoice and be glad in You; may those who love Your salvation always say, “Let God be magnified!”"
+        ],
+        [
+          5,
+          "But I am poor and needy; hurry to me, O God. You are my help and my deliverer; O LORD, do not delay."
+        ]
+      ]
+    },
+    {
+      "ref": "Hebrews 13:6",
+      "context": [
+        [
+          4,
+          "Marriage should be honored by all and the marriage bed kept undefiled, for God will judge the sexually immoral and adulterers."
+        ],
+        [
+          5,
+          "Keep your lives free from the love of money and be content with what you have, for God has said: “Never will I leave you, never will I forsake you.”"
+        ],
+        [
+          6,
+          "So we say with confidence: “The Lord is my helper; I will not be afraid. What can man do to me?”"
+        ],
+        [
+          7,
+          "Remember your leaders who spoke the word of God to you. Consider the outcome of their way of life and imitate their faith."
+        ],
+        [
+          8,
+          "Jesus Christ is the same yesterday and today and forever."
+        ]
+      ]
+    },
+    {
+      "ref": "Isaiah 61:3",
+      "context": [
+        [
+          1,
+          "The Spirit of the Lord GOD is on Me, because the LORD has anointed Me to preach good news to the poor. He has sent Me to bind up the brokenhearted, to proclaim liberty to the captives and freedom to the prisoners,"
+        ],
+        [
+          2,
+          "to proclaim the year of the LORD’s favor and the day of our God’s vengeance, to comfort all who mourn,"
+        ],
+        [
+          3,
+          "to console the mourners in Zion—to give them a crown of beauty for ashes, the oil of joy for mourning, and a garment of praise for a spirit of despair. So they will be called oaks of righteousness, the planting of the LORD, that He may be glorified."
+        ],
+        [
+          4,
+          "They will rebuild the ancient ruins; they will restore the places long devastated; they will renew the ruined cities, the desolations of many generations."
+        ],
+        [
+          5,
+          "Strangers will stand and feed your flocks, and foreigners will be your plowmen and vinedressers."
+        ]
+      ]
+    },
+    {
+      "ref": "Jeremiah 31:13",
+      "context": [
+        [
+          11,
+          "For the LORD has ransomed Jacob and redeemed him from the hand that had overpowered him."
+        ],
+        [
+          12,
+          "They will come and shout for joy on the heights of Zion; they will be radiant over the bounty of the LORD—the grain, new wine, and oil, and the young of the flocks and herds. Their life will be like a well-watered garden, and never again will they languish."
+        ],
+        [
+          13,
+          "Then the maidens will rejoice with dancing, young men and old as well. I will turn their mourning into joy, and give them comfort and joy for their sorrow."
+        ],
+        [
+          14,
+          "I will fill the souls of the priests abundantly, and will fill My people with My goodness,” declares the LORD."
+        ],
+        [
+          15,
+          "This is what the LORD says: “A voice is heard in Ramah, mourning and great weeping, Rachel weeping for her children and refusing to be comforted, because they are no more.”"
+        ]
+      ]
+    },
+    {
+      "ref": "Ecclesiastes 3:4",
+      "context": [
+        [
+          2,
+          "a time to be born and a time to die, a time to plant and a time to uproot,"
+        ],
+        [
+          3,
+          "a time to kill and a time to heal, a time to break down and a time to build,"
+        ],
+        [
+          4,
+          "a time to weep and a time to laugh, a time to mourn and a time to dance,"
+        ],
+        [
+          5,
+          "a time to cast away stones and a time to gather stones together, a time to embrace and a time to refrain from embracing,"
+        ],
+        [
+          6,
+          "a time to search and a time to count as lost, a time to keep and a time to discard,"
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 79:13",
+      "context": [
+        [
+          11,
+          "May the groans of the captives reach You; by the strength of Your arm preserve those condemned to death."
+        ],
+        [
+          12,
+          "Pay back into the laps of our neighbors sevenfold the reproach they hurled at You, O Lord."
+        ],
+        [
+          13,
+          "Then we Your people, the sheep of Your pasture, will thank You forever; from generation to generation we will declare Your praise."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 145:2",
+      "context": [
+        [
+          1,
+          "A Psalm of praise. Of David. I will exalt You, my God and King; I will bless Your name forever and ever."
+        ],
+        [
+          2,
+          "Every day I will bless You, and I will praise Your name forever and ever."
+        ],
+        [
+          3,
+          "Great is the LORD and greatly to be praised; His greatness is unsearchable."
+        ],
+        [
+          4,
+          "One generation will commend Your works to the next, and will proclaim Your mighty acts—"
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 30:9",
+      "context": [
+        [
+          7,
+          "O LORD, You favored me; You made my mountain stand strong. When You hid Your face, I was dismayed."
+        ],
+        [
+          8,
+          "To You, O LORD, I called, and I begged my Lord for mercy:"
+        ],
+        [
+          9,
+          "“What gain is there in my bloodshed, in my descent to the Pit? Will the dust praise You? Will it proclaim Your faithfulness?"
+        ],
+        [
+          10,
+          "Hear me, O LORD, and have mercy; O LORD, be my helper.”"
+        ],
+        [
+          11,
+          "You turned my mourning into dancing; You peeled off my sackcloth and clothed me with joy,"
+        ]
+      ]
+    }
+  ]
+}
