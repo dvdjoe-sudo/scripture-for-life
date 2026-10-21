@@ -1,0 +1,137 @@
+{
+  "chapter": 24,
+  "status": "unpublished editorial draft; whole-chapter checks pending",
+  "sourceReview": "Read bundled BSB Psalms 15,23,24,25,29,50; 1 Chronicles 15–16; Isaiah 6; Matthew 5; 1 Corinthians 10; James 4 before drafting. Narrative and later New Testament references are contextual comparisons, not proof of Psalm 24's historical occasion.",
+  "topicPlan": {"gratitude":["Psalm 24:1"],"direction":["Psalm 24:3","Psalm 24:6"],"strength":["Psalm 24:8"]},
+  "study": {
+    "number":24,
+    "coverVerse":7,
+    "title":"Who is this King of Glory?",
+    "intro":"Ten verses move from the whole earth to the holy hill, then open the gates in a repeated invitation to the King of Glory.",
+    "context":"The heading names David without identifying a date or event. Verses 1–2 declare the LORD's ownership of creation; verses 3–6 ask who may approach His holy place; verses 7–10 use a repeated gate call and answering question. The exchange suggests worship performed by responding voices, though the text does not assign named speakers. Readers often connect the song with an entrance procession and the ark, but 1 Chronicles 15–16 does not identify this psalm as the song used there. Keep that association distinct from a recorded setting. The LORD is the King of Glory; no human ruler takes His place in the illustrations. Preserve both Selah markers and the complete bundled heading.",
+    "peopleNote":"David is named in the heading; Jacob is named in the community's seeking. Their profiles offer textual connections, not a reconstruction of an event. Paintings use anonymous people, natural landscapes and symbolic gateways. God is never depicted as a human body, and ordinary light does not literally represent Him.",
+    "people":[{"id":"david","name":"David","ref":"Psalm 24:1"},{"id":"jacob","name":"Jacob","ref":"Psalm 24:6"}],
+    "verses":[
+      {
+        "title":"The earth belongs to the LORD",
+        "heading":"Creation and every inhabitant stand within God's claim",
+        "meaning":"The opening begins with the whole earth, everything it contains and everyone who lives in it. Before the poem asks about a particular holy place, it declares that no part of the world lies outside the LORD's ownership. This widens worship beyond a building and challenges a possessive view of land, resources or neighbors. People are included among the world's inhabitants, not reduced to possessions for others to exploit. The heading names David but supplies no occasion. Gratitude can begin by receiving the world as entrusted rather than treating it as ours without responsibility.",
+        "contextTitle":"A universal opening before the holy hill",
+        "context":"Verses 1–2 frame the later approach to the sanctuary with creation. Paul quotes the opening in 1 Corinthians 10:26 during a discussion of food, conscience and care for others; his use should be read within that argument.",
+        "explore":[["The fullness thereof","The claim includes the world's abundance, not just an empty surface. Psalm 50:10–12 similarly challenges the thought that God depends on human supplies."],["All who dwell therein","The line includes people as well as places. Paul's later discussion joins freedom with concern for a neighbor's conscience, rather than permission to ignore others."]],
+        "reflect":"What part of the world around you could you receive with fresh gratitude today? What responsibility might accompany that gift?",
+        "related":["Psalm 50:12","1 Corinthians 10:26","1 Corinthians 10:31"],
+        "alt":"A fertile landscape of groves, fields and distant sea with an anonymous community tending the land.",
+        "art":"assets/psalm24/verse-1-watercolor.webp"
+      },
+      {
+        "title":"Established upon the waters",
+        "heading":"The world's stability is credited to its Creator",
+        "meaning":"The word For gives the reason for the opening claim: the LORD founded and established the world. Seas and waters belong to the poem's picture of creation held secure. The verse is worship poetry rather than a technical diagram of the earth's structure. Its two parallel lines place the world's foundations in God's action, not in human ownership or achievement. Read with verse 1, it invites confidence in the Creator while keeping every creature dependent. The painting of a rocky coast is a symbolic aid to attention, not evidence for a particular geological account.",
+        "contextTitle":"The reason creation belongs to the LORD",
+        "context":"Verse 2 explains verse 1 before the poem turns toward the holy hill. Psalm 29 also joins waters with the LORD's power and ends with His kingship, strength and peace; it supplies a poetic comparison, not a scientific explanation.",
+        "explore":[["Founded and established","The paired verbs stress purposeful stability. The singer credits the world's existence to the LORD rather than describing a human construction project."],["Seas and waters","These are features of the poetic creation scene. The verse's function is to ground worship and belonging, without specifying a modern model of earth science."]],
+        "reflect":"Where do you feel the limits of your own control? What helps you respond to that uncertainty with care for the world you inhabit?",
+        "related":["Psalm 24:1","Psalm 29:3","Psalm 29:10"],
+        "alt":"A rugged coastal headland rises above layered blue-green water and distant islands.",
+        "art":"assets/psalm24/verse-2-watercolor.webp"
+      },
+      {
+        "title":"Who may stand there?",
+        "heading":"The ascent becomes a question about approaching holiness",
+        "meaning":"The scene narrows from the earth to the LORD's hill and holy place. Two questions ask about ascending and standing there. A change of location alone cannot answer them; the next verse describes a person's conduct, heart and truthfulness. Psalm 15 asks a closely related question about dwelling on God's holy mountain. The invitation therefore involves the way a worshiper lives among other people as well as the act of approaching worship. The poem does not name the individual who asks or identify a specific procession for us to reconstruct.",
+        "contextTitle":"A question answered by a way of life",
+        "context":"Psalm 15:1–5 places truthful speech, neighbor care and resistance to bribery after its sanctuary question. Psalm 24:4 likewise answers the question of access with integrity, rather than wealth, office or impressive appearance.",
+        "explore":[["Ascend the hill","The upward movement gives the question a physical setting. Its answer will concern moral integrity rather than a travel route or a test of physical ability."],["Stand in His holy place","Standing suggests presence before the LORD. The wording points toward reverence and accountability, not a claim that one group can own God's presence."]],
+        "reflect":"As you approach prayer or worship, is there a part of daily life you want to bring into that same attention? What would an honest next step look like?",
+        "related":["Psalm 15:1","Psalm 15:2","Psalm 24:4"],
+        "alt":"An anonymous traveler pauses below an ascending stone path toward a distant courtyard entrance.",
+        "art":"assets/psalm24/verse-3-watercolor.webp"
+      },
+      {
+        "title":"Clean hands and a pure heart",
+        "heading":"Actions, loyalties and words belong together",
+        "meaning":"The answer joins outward actions with inward loyalty. Clean hands and a pure heart are paired with refusing an idol and refusing deceitful oaths. The poem does not separate public worship from what a person does, trusts or promises. Nor does clean hands describe a medical condition or someone's social worth. Its moral image calls for integrity. Matthew 5:8 later blesses the pure in heart within Jesus' teaching, and James 4:8 joins hands and hearts in a call to repentance. Those connections deepen reflection without replacing the psalm's own answer.",
+        "contextTitle":"The answer includes truthfulness and allegiance",
+        "context":"Verse 4 answers verse 3 in concrete terms before verse 5 speaks of received blessing. James 4:1–10 addresses quarrels, wrong motives and divided loyalty; its hands-and-heart language belongs within that call to humble repentance.",
+        "explore":[["Hands and heart","Conduct and inward intention are held together. The verse does not offer a surface ritual that makes deceit or harm irrelevant."],["Swear deceitfully","Promises are part of worship's moral setting. Matthew 5:33–37 later presses the importance of truthful speech beyond impressive oath-making."]],
+        "reflect":"Where do your actions, intentions and words feel most aligned? Is there a promise or habit you would like to examine with greater honesty?",
+        "related":["Matthew 5:8","Matthew 5:37","James 4:8"],
+        "alt":"Two anonymous open hands above a plain basin, with clear water, olive leaves and ivory linen.",
+        "art":"assets/psalm24/verse-4-watercolor.webp"
+      },
+      {
+        "title":"Blessing received",
+        "heading":"The worshiper depends on the God who saves",
+        "meaning":"The person described in verse 4 receives blessing and vindication from the LORD. The direction matters: these are received from the God of salvation, not possessions a worshiper can manufacture or demand. The verse does not specify money, status or an easy life as the blessing. Vindication places the worshiper before God's judgment and saving help, rather than making integrity a means of controlling Him. Read in sequence, the song holds responsible living and dependence together. Its confidence is grounded in the God who saves, not in a bargain that guarantees success.",
+        "contextTitle":"Integrity does not remove dependence",
+        "context":"Verse 5 follows the moral answer and leads into a community of seekers. Psalm 25 calls the LORD the God of salvation while also asking for instruction and forgiveness; dependence and the pursuit of integrity can be read together.",
+        "explore":[["Receive blessing","The verb describes a gift received. The poem names no amount of wealth or timetable and does not authorize blaming hardship on a lack of worth."],["God of his salvation","The worshiper's hope rests in God's saving action. This keeps the description of integrity from becoming a claim to self-sufficiency."]],
+        "reflect":"What does receiving help feel like for you? Where might you need both a responsible action and a willingness to accept support?",
+        "related":["Psalm 25:5","Psalm 25:11","Psalm 25:21"],
+        "alt":"An anonymous traveler rests with a plain bowl beside an olive tree as gentle rain nourishes the hillside.",
+        "art":"assets/psalm24/verse-5-watercolor.webp"
+      },
+      {
+        "title":"A generation that seeks",
+        "heading":"The individual answer opens into a shared pursuit",
+        "meaning":"The poem now describes a generation of seekers. Seeking God's face is relational language for turning toward His presence and favor; it is not an instruction to imagine a visible divine face. The address to the God of Jacob places seeking within Israel's remembered relationship with God. It does not claim that Jacob's whole life simply exemplified flawless conduct. The shift from a singular worshiper to a community widens the response to the earlier question. Selah closes this movement in the bundled text; its exact performance function remains uncertain.",
+        "contextTitle":"Seeking together before the gate refrain",
+        "context":"The shared seeking of verse 6 completes verses 3–6. In 1 Chronicles 16:10–13, seeking the LORD's face and remembering Jacob also appear in communal praise, but that song is not identified as Psalm 24.",
+        "explore":[["Generation of those who seek","The moral answer becomes a description of a people turning toward God together. Seeking can involve learning and correction rather than a boast of arrival."],["God of Jacob; Selah","Jacob is named in the address, rooting worship in a remembered community. Selah is preserved without pretending its precise musical meaning is settled."]],
+        "reflect":"Who helps you keep seeking when you feel uncertain? What shared practice might make room for honest questions and mutual encouragement?",
+        "related":["1 Chronicles 16:11","1 Chronicles 16:13","Psalm 24:3"],
+        "alt":"A small anonymous group walks together along an olive ridge toward a distant hill.",
+        "art":"assets/psalm24/verse-6-watercolor.webp"
+      },
+      {
+        "title":"Lift up your heads, O gates",
+        "heading":"The entrance is addressed in a poetic welcome",
+        "meaning":"The poem turns from the worshipers to the gates themselves. Giving doors heads to lift is personification: architecture is summoned to welcome the King of Glory. The grand image makes room for the LORD's arrival without describing Him as a human ruler who needs a larger doorway. A processional reading fits the exchange, but the heading supplies no event, gate measurements or named participants. The ark's entrance into Jerusalem offers a related narrative for comparison, not proof that these exact words were sung on that day. The invitation begins a refrain that will return in verse 9.",
+        "contextTitle":"A new address and a repeated invitation",
+        "context":"Verses 7–10 form two calls and responses. First Chronicles 15 describes a joyful ark procession, including music and David's celebration, but does not name Psalm 24; the possible association remains an interpretive connection.",
+        "explore":[["Heads of the gates","The command gives a human action to inanimate doors. Its grandeur belongs to poetic praise, not a construction instruction."],["King of Glory","The following answer identifies this King as the LORD. The painting's empty gateway leaves that identity in Scripture rather than substituting a human figure."]],
+        "reflect":"What does making room for reverence mean in your present routine? Is there something that helps you pause and pay attention?",
+        "related":["Psalm 24:8","Psalm 24:9","1 Chronicles 15:28"],
+        "alt":"Tall wooden doors open within an ancient stone gateway beneath an expansive pale sky.",
+        "art":"assets/psalm24/verse-7-watercolor.webp"
+      },
+      {
+        "title":"The LORD strong and mighty",
+        "heading":"The first answer locates strength in the LORD",
+        "meaning":"A question answers the gate call: who is the King of Glory? The reply names the LORD and celebrates His strength and might in battle. This is the poem's language of divine kingship and power, not a blank authorization for a modern army, leader or personal quarrel. No battle, enemy or human champion is identified here. The community's praise places ultimate strength with the LORD, rather than treating a visible ruler as divine. Psalm 29 also celebrates the LORD's power and kingship while ending in a blessing of peace, a useful companion for reflection.",
+        "contextTitle":"A question and answer within worship",
+        "context":"Verse 8 responds to verse 7 before the call is repeated. The text's answering voices are not assigned names. Psalm 29:10–11 links divine kingship with strength and peace without identifying the occasion of this psalm.",
+        "explore":[["Who is this King?","The question draws attention to identity, not merely impressive doors. The answer names the LORD rather than David or another human king."],["Mighty in battle","The martial image celebrates divine power. It does not identify today's opponents as God's enemies or direct the reader to use violence."]],
+        "reflect":"Where do you look for strength when you feel threatened or overwhelmed? What would using strength in a way that makes room for peace look like today?",
+        "related":["Psalm 29:10","Psalm 29:11","Psalm 24:10"],
+        "alt":"A weathered fortress wall above a rugged landscape with unused shields and nearby olive branches.",
+        "art":"assets/psalm24/verse-8-watercolor.webp"
+      },
+      {
+        "title":"The welcome is repeated",
+        "heading":"The same gate call returns with renewed emphasis",
+        "meaning":"The invitation from verse 7 returns word for word in the bundled BSB. Repetition is part of the song's design, giving the welcome room to be heard again before the final answer. It need not imply a second historical arrival or a failed first attempt to open the gates. The poem's personification continues: ancient doors are called to lift up for the King of Glory. Read aloud, the recurring words can gather a community's attention. This verse receives a separate illustration and reflection even though the Scripture repeats, keeping its place in the poem visible.",
+        "contextTitle":"Repetition prepares the expanded answer",
+        "context":"Verse 9 repeats verse 7 exactly; verse 10 varies the answering question and names the LORD of Hosts. The paired movements are a literary structure within the psalm, not evidence for two separately recorded processions.",
+        "explore":[["The repeated call","The words return unchanged. The reader can notice the effect of hearing the invitation twice without inventing an additional event."],["That the King may enter","The purpose of the welcome remains the same in both calls. The final verse will complete the identification rather than introduce a different king."]],
+        "reflect":"Are there words of prayer or truth you return to often? What do you notice when you give familiar words time to be heard again?",
+        "related":["Psalm 24:7","Psalm 24:10","Psalm 29:2"],
+        "alt":"A view from inside a stone gatehouse through fully open doors toward a broad sunlit valley.",
+        "art":"assets/psalm24/verse-9-watercolor.webp"
+      },
+      {
+        "title":"He is the King of Glory",
+        "heading":"The final answer names the LORD of Hosts and ends with Selah",
+        "meaning":"The last question intensifies the earlier one, and the answer names the LORD of Hosts. The title expresses the LORD's sovereign power; it does not put Him into a human body or make a present-day nation His exclusive representative. The final declaration resolves the gate exchange by returning to the identity of the King. Isaiah 6 also joins kingship, glory and the title LORD of Hosts in a different prophetic setting. That connection is thematic, not a description of what the psalm's singers saw. Selah gives the written ending its preserved marker without settling how the song was performed.",
+        "contextTitle":"The closing identity answers the whole refrain",
+        "context":"The LORD who owns the whole earth in verses 1–2 is the King welcomed in verses 7–10. Isaiah 6:3–5 uses related titles within Isaiah's vision; Psalm 24 neither reports that vision nor names its heavenly participants.",
+        "explore":[["The LORD of Hosts","The title magnifies divine authority. The text does not list an army here or identify human troops as an image to reproduce."],["He is; Selah","The final declaration answers the repeated question. The closing marker belongs to the exact source, while a quiet pause is an optional reading practice."]],
+        "reflect":"After reading the whole psalm, what stays with you: belonging, integrity, seeking or welcome? What would you like to hold in a moment of quiet?",
+        "related":["Psalm 24:1","Isaiah 6:3","Isaiah 6:5"],
+        "alt":"A quiet star-filled sky above dark distant mountains and an unoccupied ancient gateway.",
+        "art":"assets/psalm24/verse-10-watercolor.webp"
+      }
+    ]
+  }
+}

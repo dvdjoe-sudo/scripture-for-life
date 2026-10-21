@@ -1,0 +1,7 @@
+# Psalm 24 — unpublished whole-chapter candidate
+
+Ten individual editorial studies and distinct built-in imagegen watercolors are ready for source and browser checks. Exact bundled BSB source includes David's heading, both Selah markers and the repeated verses 7/9. Full prompts and generated original filenames are recorded in assets/psalm24/generation-prompts.json. All originals and 1280×853 production WebPs were visually inspected. Production art totals 3,542,082 bytes (3.38 MiB).
+
+Related passages were read in the bundled Bible before drafting; editorial.json records the reading. Notes distinguish poetic personification, possible processional associations and later New Testament uses. David/Jacob links, gratitude/direction/strength connections, shared reflections and independent resume use the existing systems. Original Psalm 23, all story content and renderers are preserved. Minimal shared packaging adds main's existing 1 Samuel scripts to the Android copy list with byte parity and offline assertions.
+
+Pending: full source/reference/asset checks; every verse/tab/image at phone width on website and packaged webview; saved reflections across reload/Saved/dialog; resume, people, needs and 23→24→25 transitions; Capacitor checks; passing final PR CI; merge, main CI, Pages deployment and live-byte verification. Do not mark published before those gates. Android web-bundle checks do not constitute native APK/device testing. Resume this branch before starting Psalm 25.

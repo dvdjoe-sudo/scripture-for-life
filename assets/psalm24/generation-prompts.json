@@ -1,0 +1,78 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "status": "All ten distinct originals and production WebPs generated and visually inspected",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 24 verse study watercolor, landscape 3:2, no text. Reference image is STYLE ONLY: match delicate transparent watercolor washes, detailed natural brushwork, textured ivory paper, muted forest and sage greens, warm ochre stone and gentle daylight. Create a distinct composition; do not copy its sheep or river scene. Symbolic devotional illustration, not a reconstruction of a recorded historical occasion. Never show God as a human, face, body, silhouette, statue or glowing person. Natural light is ordinary light, not a literal depiction of God. No modern objects, writing, logos or watermark. Verse 1: A broad fertile earth landscape from a high ridge, olive groves, cultivated fields, sea horizon and a tiny anonymous community tending the land. Emphasize the fullness and shared inhabitation of the world, not a king possessing it.",
+      "production": "assets/psalm24/verse-1-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-427a5c4b-5d04-4c49-bf20-612b4e6b0f81.png"
+    },
+    {
+      "verse": 2,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 24 verse study watercolor, landscape 3:2, no text. Reference image is STYLE ONLY: match delicate transparent watercolor washes, detailed natural brushwork, textured ivory paper, muted forest and sage greens, warm ochre stone and gentle daylight. Create a distinct composition; do not copy its sheep or river scene. Symbolic devotional illustration, not a reconstruction of a recorded historical occasion. Never show God as a human, face, body, silhouette, statue or glowing person. Natural light is ordinary light, not a literal depiction of God. No modern objects, writing, logos or watermark. Verse 2: Low viewpoint along a rugged coastal headland rooted in rock above layered blue-green sea, waves and distant islands; the visual subject is established land and waters. No human or divine figure, no literal geological cutaway.",
+      "production": "assets/psalm24/verse-2-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-ff2b78c1-12b4-45ef-9d31-3e86f891f5fe.png"
+    },
+    {
+      "verse": 3,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 24 verse study watercolor, landscape 3:2, no text. Reference image is STYLE ONLY: match delicate transparent watercolor washes, detailed natural brushwork, textured ivory paper, muted forest and sage greens, warm ochre stone and gentle daylight. Create a distinct composition; do not copy its sheep or river scene. Symbolic devotional illustration, not a reconstruction of a recorded historical occasion. Never show God as a human, face, body, silhouette, statue or glowing person. Natural light is ordinary light, not a literal depiction of God. No modern objects, writing, logos or watermark. Verse 3: A narrow ascending stone path climbing an olive hillside toward a simple distant sacred courtyard entrance. A single anonymous traveler pauses at the foot, seen from behind. No claim to identify an actual sanctuary or biblical character.",
+      "production": "assets/psalm24/verse-3-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-f1116496-9915-4449-80e6-e52610996629.png"
+    },
+    {
+      "verse": 4,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 24 verse study watercolor, landscape 3:2, no text. Reference image is STYLE ONLY: match delicate transparent watercolor washes, detailed natural brushwork, textured ivory paper, muted forest and sage greens, warm ochre stone and gentle daylight. Create a distinct composition; do not copy its sheep or river scene. Symbolic devotional illustration, not a reconstruction of a recorded historical occasion. Never show God as a human, face, body, silhouette, statue or glowing person. Natural light is ordinary light, not a literal depiction of God. No modern objects, writing, logos or watermark. Verse 4: Close view of an anonymous person's two clean open hands above a plain ceramic basin, clear water, a sprig of olive and simple ivory linen; symbolic inner and outer integrity, not a ritual claimed by the text. No heart-shaped objects.",
+      "production": "assets/psalm24/verse-4-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-254b6158-5bcc-4e87-a2b4-71e204e39096.png"
+    },
+    {
+      "verse": 5,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 24 verse study watercolor, landscape 3:2, no text. Reference image is STYLE ONLY: match delicate transparent watercolor washes, detailed natural brushwork, textured ivory paper, muted forest and sage greens, warm ochre stone and gentle daylight. Create a distinct composition; do not copy its sheep or river scene. Symbolic devotional illustration, not a reconstruction of a recorded historical occasion. Never show God as a human, face, body, silhouette, statue or glowing person. Natural light is ordinary light, not a literal depiction of God. No modern objects, writing, logos or watermark. Verse 5: An anonymous traveler rests beside a hillside olive tree, holding a small plain bowl while gentle morning rain nourishes roots and grass. A quiet symbolic image of received blessing, not riches, a divine hand, or a guaranteed reward.",
+      "production": "assets/psalm24/verse-5-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-e61e9327-2623-450e-b91e-fcf21bd9fbd7.png"
+    },
+    {
+      "verse": 6,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 24 verse study watercolor, landscape 3:2, no text. Reference image is STYLE ONLY: match delicate transparent watercolor washes, detailed natural brushwork, textured ivory paper, muted forest and sage greens, warm ochre stone and gentle daylight. Create a distinct composition; do not copy its sheep or river scene. Symbolic devotional illustration, not a reconstruction of a recorded historical occasion. Never show God as a human, face, body, silhouette, statue or glowing person. Natural light is ordinary light, not a literal depiction of God. No modern objects, writing, logos or watermark. Verse 6: A small diverse anonymous group of adults walks together along an olive ridge toward a distant hill, backs and side views; shared seeking and community. No visible divine face, no identified Jacob or invented biblical event.",
+      "production": "assets/psalm24/verse-6-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-da129775-0f61-4551-94c5-c445039cbac7.png"
+    },
+    {
+      "verse": 7,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 24 verse study watercolor, landscape 3:2, no text. Reference image is STYLE ONLY: match delicate transparent watercolor washes, detailed natural brushwork, textured ivory paper, muted forest and sage greens, warm ochre stone and gentle daylight. Create a distinct composition; do not copy its sheep or river scene. Symbolic devotional illustration, not a reconstruction of a recorded historical occasion. Never show God as a human, face, body, silhouette, statue or glowing person. Natural light is ordinary light, not a literal depiction of God. No modern objects, writing, logos or watermark. Verse 7: View from outside a monumental but simple ancient stone gateway with tall wooden doors opening upward into an expansive sky, ivy and sage grasses at base. Majestic poetic invitation to the King of Glory; no incoming human king or representation of God.",
+      "production": "assets/psalm24/verse-7-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-f3d1a593-0055-42a3-87a2-1f63a6587932.png"
+    },
+    {
+      "verse": 8,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 24 verse study watercolor, landscape 3:2, no text. Reference image is STYLE ONLY: match delicate transparent watercolor washes, detailed natural brushwork, textured ivory paper, muted forest and sage greens, warm ochre stone and gentle daylight. Create a distinct composition; do not copy its sheep or river scene. Symbolic devotional illustration, not a reconstruction of a recorded historical occasion. Never show God as a human, face, body, silhouette, statue or glowing person. Natural light is ordinary light, not a literal depiction of God. No modern objects, writing, logos or watermark. Verse 8: A weathered stone fortress wall above a steep rugged landscape, a few unused shields leaning at its base and olive branches growing nearby. Symbolic strength and protection; no soldiers attacking, battle bodies, human king or divine body.",
+      "production": "assets/psalm24/verse-8-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-4c645903-ddda-42fe-973f-8a3d88713e4e.png"
+    },
+    {
+      "verse": 9,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 24 verse study watercolor, landscape 3:2, no text. Reference image is STYLE ONLY: match delicate transparent watercolor washes, detailed natural brushwork, textured ivory paper, muted forest and sage greens, warm ochre stone and gentle daylight. Create a distinct composition; do not copy its sheep or river scene. Symbolic devotional illustration, not a reconstruction of a recorded historical occasion. Never show God as a human, face, body, silhouette, statue or glowing person. Natural light is ordinary light, not a literal depiction of God. No modern objects, writing, logos or watermark. Verse 9: A different view from INSIDE a stone gatehouse looking outward through two fully open wooden doors to a wide sunlit valley; strong vertical doorframes, pale sky and soft sage shrubs. Evoke the repeated welcome with a new composition, not the verse 7 gateway picture.",
+      "production": "assets/psalm24/verse-9-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-199a92d1-c687-4dc6-a62a-1fb5cca9b8da.png"
+    },
+    {
+      "verse": 10,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 24 verse study watercolor, landscape 3:2, no text. Reference image is STYLE ONLY: match delicate transparent watercolor washes, detailed natural brushwork, textured ivory paper, muted forest and sage greens, warm ochre stone and gentle daylight. Create a distinct composition; do not copy its sheep or river scene. Symbolic devotional illustration, not a reconstruction of a recorded historical occasion. Never show God as a human, face, body, silhouette, statue or glowing person. Natural light is ordinary light, not a literal depiction of God. No modern objects, writing, logos or watermark. Verse 10: Panoramic quiet night sky dense with small stars over distant dark mountains and an unoccupied ancient stone gateway in the foreground. Contemplative majesty and final Selah; the stars are creation, not a literal army or body of God. No human king.",
+      "production": "assets/psalm24/verse-10-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-2f170509-38dc-479d-8e60-8c8b89bd6154.png"
+    }
+  ],
+  "pendingVerses": []
+}

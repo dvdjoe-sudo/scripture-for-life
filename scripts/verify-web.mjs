@@ -43,6 +43,10 @@ for (const item of ['ruth.js', 'ruth-people.js', 'data/ruth-episodes.json', 'dat
 }
 
 // Verify actual index.html links (the old build copied different legacy filenames).
+for (const item of ['samuel1.js', 'samuel1-people.js', 'data/samuel1-episodes.json', 'data/samuel1-scenes.json']) {
+  assert(read(root, item) === read(www, item), '1 Samuel asset differs in Android bundle: ' + item);
+  assert(read(www, 'sw.js').includes(item), '1 Samuel asset missing from offline cache: ' + item);
+}
 for (const match of html.matchAll(/<(?:script|link)\b[^>]*(?:src|href)=["']([^"']+)["']/g)) {
   const uri = match[1].split(/[?#]/)[0];
   if (!uri || uri.startsWith('http:') || uri.startsWith('https:') || uri.startsWith('data:')) continue;
