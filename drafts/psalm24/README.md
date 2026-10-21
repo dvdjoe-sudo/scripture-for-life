@@ -1,7 +1,9 @@
-# Psalm 24 — unpublished whole-chapter candidate
+# Psalm 24 — whole-chapter gate passed; publication pending
 
 Ten individual editorial studies and distinct built-in imagegen watercolors are ready for source and browser checks. Exact bundled BSB source includes David's heading, both Selah markers and the repeated verses 7/9. Full prompts and generated original filenames are recorded in assets/psalm24/generation-prompts.json. All originals and 1280×853 production WebPs were visually inspected. Production art totals 3,542,082 bytes (3.38 MiB).
 
 Related passages were read in the bundled Bible before drafting; editorial.json records the reading. Notes distinguish poetic personification, possible processional associations and later New Testament uses. David/Jacob links, gratitude/direction/strength connections, shared reflections and independent resume use the existing systems. Original Psalm 23, all story content and renderers are preserved. Minimal shared packaging adds main's existing 1 Samuel scripts to the Android copy list with byte parity and offline assertions.
 
-Pending: full source/reference/asset checks; every verse/tab/image at phone width on website and packaged webview; saved reflections across reload/Saved/dialog; resume, people, needs and 23→24→25 transitions; Capacitor checks; passing final PR CI; merge, main CI, Pages deployment and live-byte verification. Do not mark published before those gates. Android web-bundle checks do not constitute native APK/device testing. Resume this branch before starting Psalm 25.
+CI 39538423228 (PR) and 39538419705 (push) passed on bd5b9f9716b5ae29041fe4ebe7237ca35826b3dd: full source/reference/asset checks; every verse/tab/image at 390px on website and packaged webview; saved reflections across reload/Saved/dialog; independent resume, people, needs and original 23→24 via the switcher, then 24→25 transitions; Capacitor creation/sync. Local npm run check also passed. Story manuscript/renderer and original Psalm 23 git comparisons against f380b8730894dd79eeb23601fdb4a855a5953485 were empty.
+
+Pending: passing final PR CI; merge, main CI, Pages deployment and live-byte verification. PR #48 records final publication evidence. Do not mark published before those gates. Android web-bundle checks do not constitute native APK/device testing. Finish this PR before starting Psalm 25.

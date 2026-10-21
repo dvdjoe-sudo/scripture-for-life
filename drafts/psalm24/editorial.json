@@ -1,6 +1,6 @@
 {
   "chapter": 24,
-  "status": "unpublished editorial draft; whole-chapter checks pending",
+  "status": "whole-chapter gate passed in CI 39538423228 and 39538419705; publication follows tested final PR #48 merge and Pages verification",
   "sourceReview": "Read bundled BSB Psalms 15,23,24,25,29,50; 1 Chronicles 15–16; Isaiah 6; Matthew 5; 1 Corinthians 10; James 4 before drafting. Narrative and later New Testament references are contextual comparisons, not proof of Psalm 24's historical occasion.",
   "topicPlan": {"gratitude":["Psalm 24:1"],"direction":["Psalm 24:3","Psalm 24:6"],"strength":["Psalm 24:8"]},
   "study": {
