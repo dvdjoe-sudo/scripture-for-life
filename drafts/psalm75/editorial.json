@@ -1,0 +1,283 @@
+{
+  "chapter": 75,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 75 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "gratitude": [
+      "Psalm 75:1"
+    ],
+    "strength": [
+      "Psalm 75:3"
+    ],
+    "direction": [
+      "Psalm 75:7"
+    ]
+  },
+  "study": {
+    "number": 75,
+    "coverVerse": 1,
+    "title": "It is God who judges",
+    "intro": "Asaph's community gives thanks that God's Name is near, and God Himself speaks: He chooses the time of judgment, holds the earth steady, humbles the proud and lifts the righteous.",
+    "context": "Psalm 75 is headed 'For the choirmaster: To the tune of “Do Not Destroy.” A Psalm of Asaph. A song.' It answers the cry of Psalm 74 ('Rise up, O God') with God's own voice promising judgment at the right time. Much of it is spoken by God (verses 2–5 and 10), framed by the people's thanks. Its key image is the 'horn,' a symbol of strength and pride, and the cup of judgment in the LORD's hand. Hannah's song (1 Samuel 2) shares its theme that God brings down and lifts up.",
+    "peopleNote": "The heading names Asaph, the Levite worship leader appointed by David; the app has no Asaph profile yet, so no person card is linked. The 'God of Jacob' points back to the patriarch Jacob, who has a profile in the app. Planned paintings would show worshipers, landscapes and a pouring cup; God is never portrayed as a human body.",
+    "people": [
+      {
+        "id": "jacob",
+        "name": "Jacob",
+        "ref": "Psalm 75:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Your Name is near",
+        "heading": "Thanks for a near God",
+        "meaning": "The psalm's heading names the choirmaster, the tune 'Do Not Destroy,' and Asaph. Then the people say: 'We give thanks to You, O God; we give thanks, for Your Name is near. The people declare Your wondrous works.' After the distance felt in Psalm 74, this psalm celebrates nearness. God's Name, His revealed presence, is close. The response is double thanks and public storytelling about His works. Gratitude grows when we notice that God is not far off.",
+        "contextTitle": "Do Not Destroy",
+        "context": "The tune name also heads Psalms 57, 58 and 59. Deuteronomy 4:7 asks what nation has a god so near as the LORD. Psalm 145:18 says the LORD is near to all who call on Him.",
+        "explore": [
+          [
+            "Choirmaster",
+            "The leader of temple music who directed the singers and instruments for public worship."
+          ],
+          [
+            "Name is near",
+            "God's character and presence are close at hand, known and experienced by His people."
+          ]
+        ],
+        "reflect": "Where have you noticed God near you this week, and how could you tell someone about it?",
+        "related": [
+          "Deuteronomy 4:7",
+          "Psalm 145:18",
+          "Psalm 57:1"
+        ],
+        "alt": "Villagers gather at sunrise on a hillside singing with raised hands.",
+        "art": "assets/psalm75/verse-1-watercolor.webp"
+      },
+      {
+        "title": "When I choose a time",
+        "heading": "Judgment on God's schedule",
+        "meaning": "In verse 2 God speaks: '“When I choose a time, I will judge fairly.”' This is His answer to the question 'How long?' He has an appointed time, and His judgment will be fair when it comes. Delay is not neglect. God's timing is wiser than ours, and He promises that the verdict will be perfectly just. That frees us from needing to settle every score ourselves.",
+        "contextTitle": "The appointed time",
+        "context": "Habakkuk 2:3 says the vision 'awaits an appointed time... though it lingers, wait for it.' Acts 17:31 says God has set a day to judge the world in righteousness. Ecclesiastes 3:17 says God will judge at the proper time.",
+        "explore": [
+          [
+            "Appointed time",
+            "A moment fixed by God in advance, not determined by human pressure or impatience."
+          ],
+          [
+            "Judge fairly",
+            "To give a verdict with complete justice, without favoritism or error, which only God can perfectly do."
+          ]
+        ],
+        "reflect": "What injustice can you leave in God's hands, trusting He will judge fairly at His time?",
+        "related": [
+          "Habakkuk 2:3",
+          "Acts 17:31",
+          "Ecclesiastes 3:17"
+        ],
+        "alt": "A sundial's shadow falls across a stone courtyard at noon.",
+        "art": "assets/psalm75/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Pillars of the earth",
+        "heading": "Holding up a shaking world",
+        "meaning": "Verse 3 continues God's words: 'When the earth and all its dwellers quake, it is I who bear up its pillars. Selah.' When everything shakes, through war, disaster or moral collapse, God is still holding the world together. The 'pillars' are a poetic image of the foundations of the earth. Even when people feel the ground moving, God is the one keeping it from falling apart. The Selah invites us to pause and take that in.",
+        "contextTitle": "Foundations held",
+        "context": "1 Samuel 2:8 says, 'the foundations of the earth are the LORD's.' Hebrews 1:3 says the Son upholds all things by His powerful word. Psalm 46:2 says we will not fear though the earth gives way.",
+        "explore": [
+          [
+            "Pillars",
+            "Poetic language for the foundations of the earth, picturing God as the one who keeps the world steady."
+          ],
+          [
+            "Selah",
+            "A Hebrew musical or liturgical marker, probably calling for a pause or interlude to reflect."
+          ]
+        ],
+        "reflect": "What feels shaky in your world right now, and how does it help to know God holds the pillars?",
+        "related": [
+          "1 Samuel 2:8",
+          "Hebrews 1:3",
+          "Psalm 46:2"
+        ],
+        "alt": "Massive stone columns stand firm on a cliff as storm clouds swirl.",
+        "art": "assets/psalm75/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Do not boast",
+        "heading": "A word to the proud",
+        "meaning": "In verse 4 God says, 'I say to the proud, ‘Do not boast,’ and to the wicked, ‘Do not lift up your horn.' The horn was a symbol of an animal's strength, like a wild ox lifting its horns. To lift your horn is to show off your power and defy others. God warns the arrogant directly. Boasting assumes we hold our own lives in our hands, but God is the one who holds the earth.",
+        "contextTitle": "The horn as strength",
+        "context": "Deuteronomy 33:17 compares Joseph's strength to the horns of a wild ox. 1 Samuel 2:3 says, 'Do not boast so proudly.' James 4:16 calls arrogant boasting evil.",
+        "explore": [
+          [
+            "Horn",
+            "A symbol of strength, power and pride, drawn from the horns of strong animals like the wild ox."
+          ],
+          [
+            "Boast",
+            "To speak proudly of oneself, trusting in one's own power and achievements instead of in God."
+          ]
+        ],
+        "reflect": "Is there an area where you are tempted to 'lift your horn,' and how might humility look instead?",
+        "related": [
+          "Deuteronomy 33:17",
+          "1 Samuel 2:3",
+          "James 4:16"
+        ],
+        "alt": "A wild ox with tall horns stands on a rocky ridge at dusk.",
+        "art": "assets/psalm75/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Outstretched neck",
+        "heading": "Defiance against heaven",
+        "meaning": "Verse 5 finishes God's warning: 'Do not lift up your horn against heaven or speak with an outstretched neck.’”' The outstretched neck pictures a proud, stiff posture, chin raised, refusing to bow. Arrogance is ultimately rebellion against heaven itself. God is not threatened by such defiance, but He warns against it because it leads to ruin. A bowed head is the posture that receives grace.",
+        "contextTitle": "Stiff-necked people",
+        "context": "Exodus 32:9 calls Israel 'a stiff-necked people.' Isaiah 3:16 describes the proud walking 'with outstretched necks.' Proverbs 16:18 says pride goes before destruction.",
+        "explore": [
+          [
+            "Outstretched neck",
+            "A posture of arrogance and defiance, holding the head high and refusing to bow before God."
+          ],
+          [
+            "Stiff-necked",
+            "A biblical description of stubborn people who refuse to turn when God calls them."
+          ]
+        ],
+        "reflect": "What would it look like for you to bow your head before God in an area you have resisted?",
+        "related": [
+          "Exodus 32:9",
+          "Isaiah 3:16",
+          "Proverbs 16:18"
+        ],
+        "alt": "A proud bronze statue stands with raised chin on a crumbling base.",
+        "art": "assets/psalm75/verse-5-watercolor.webp"
+      },
+      {
+        "title": "Not from east or west",
+        "heading": "Where exaltation comes from",
+        "meaning": "Verse 6 says, 'For exaltation comes neither from east nor west, nor out of the desert.' Success and promotion do not come from any direction on the map, from powerful nations, trade routes or allies. People look in every direction for help and advancement. The psalm insists that true lifting up does not come from human sources at all. The sentence is left hanging so the next verse can name the real source.",
+        "contextTitle": "Looking to the nations",
+        "context": "Israel was often tempted to rely on Egypt or Assyria for help (Isaiah 31:1). Psalm 121:1–2 asks where help comes from and answers 'from the LORD.' Jeremiah 17:5 warns against trusting in man.",
+        "explore": [
+          [
+            "Exaltation",
+            "Being lifted up to honor, position or success; the psalm says only God gives it."
+          ],
+          [
+            "East and west",
+            "A way of saying 'any direction'; no human power on the horizon can truly lift a person up."
+          ]
+        ],
+        "reflect": "Where do you tend to look for advancement or approval instead of to God?",
+        "related": [
+          "Isaiah 31:1",
+          "Psalm 121:1",
+          "Jeremiah 17:5"
+        ],
+        "alt": "A crossroads in the desert with roads stretching east and west.",
+        "art": "assets/psalm75/verse-6-watercolor.webp"
+      },
+      {
+        "title": "God who judges",
+        "heading": "Down and up",
+        "meaning": "Verse 7 gives the answer: 'but it is God who judges; He brings down one and exalts another.' God is the real judge of human affairs. He humbles one and raises another. Kings rise and fall at His word. This is both a warning to the proud and a comfort to the humble. Our position is ultimately in God's hands, so we can stop grasping for status and trust Him.",
+        "contextTitle": "Hannah and Mary",
+        "context": "1 Samuel 2:7 says, 'The LORD sends poverty and wealth; He humbles and He exalts.' Daniel 2:21 says He removes kings and establishes them. Luke 1:52 says, 'He has brought down rulers from their thrones.'",
+        "explore": [
+          [
+            "Humble",
+            "To bring someone low, removing pride or power; God humbles the proud for their good and His glory."
+          ],
+          [
+            "Exalt",
+            "To lift someone up to honor or position; God exalts the humble in His timing."
+          ]
+        ],
+        "reflect": "How does knowing God decides who is lifted up change the way you pursue success?",
+        "related": [
+          "1 Samuel 2:7",
+          "Daniel 2:21",
+          "Luke 1:52"
+        ],
+        "alt": "A bright sun rises over one valley while shadows fall over another.",
+        "art": "assets/psalm75/verse-7-watercolor.webp"
+      },
+      {
+        "title": "A cup in His hand",
+        "heading": "Foaming wine of judgment",
+        "meaning": "Verse 8 uses a vivid image: 'For a cup is in the hand of the LORD, full of foaming wine mixed with spices. He pours from His cup, and all the wicked of the earth drink it down to the dregs.' The cup stands for God's judgment, a strong mixed drink that overwhelms. The wicked will drink all of it. Jesus later spoke of 'this cup' in Gethsemane, taking the judgment we deserved so that we could receive mercy instead.",
+        "contextTitle": "The cup of wrath",
+        "context": "Jeremiah 25:15 describes 'the cup of the wine of My wrath.' Isaiah 51:17 speaks of the cup of staggering. Matthew 26:39 records Jesus praying, 'let this cup pass from Me.'",
+        "explore": [
+          [
+            "Cup of judgment",
+            "A biblical image for God's righteous anger poured out against sin, which the guilty must drink."
+          ],
+          [
+            "Dregs",
+            "The thick sediment at the bottom of a cup of wine; drinking to the dregs means taking every last drop."
+          ]
+        ],
+        "reflect": "How does Jesus drinking the cup of judgment change how you see God's justice?",
+        "related": [
+          "Jeremiah 25:15",
+          "Isaiah 51:17",
+          "Matthew 26:39"
+        ],
+        "alt": "A clay cup of dark wine sits on a rough wooden table in lamplight.",
+        "art": "assets/psalm75/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Sing to Jacob's God",
+        "heading": "Praise that never stops",
+        "meaning": "Verse 9 returns to the singer: 'But I will proclaim Him forever; I will sing praise to the God of Jacob.' While the wicked drink judgment, the psalmist chooses lifelong praise. He calls God 'the God of Jacob,' the God who stayed faithful to a flawed patriarch who wrestled and limped. That title reminds us that God keeps covenant with imperfect people. Praise is our response to such grace.",
+        "contextTitle": "The God of Jacob",
+        "context": "Genesis 32:28 tells of Jacob renamed Israel after wrestling with God. Psalm 46:7 says, 'the God of Jacob is our fortress.' Exodus 3:6 records God calling Himself the God of Abraham, Isaac and Jacob.",
+        "explore": [
+          [
+            "God of Jacob",
+            "A title that remembers God's covenant faithfulness to Jacob and his descendants despite their failings."
+          ],
+          [
+            "Proclaim",
+            "To announce publicly, telling others what God is like and what He has done."
+          ]
+        ],
+        "reflect": "How does God's patience with Jacob encourage you to praise Him today?",
+        "related": [
+          "Genesis 32:28",
+          "Psalm 46:7",
+          "Exodus 3:6"
+        ],
+        "alt": "A shepherd sings on a hillside at twilight with flocks resting nearby.",
+        "art": "assets/psalm75/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Horns cut off",
+        "heading": "The righteous lifted",
+        "meaning": "The final verse is God's promise again: '“All the horns of the wicked I will cut off, but the horns of the righteous will be exalted.”' The proud will lose their strength, and the righteous will be given strength and honor. The psalm ends where verse 7 pointed: God reverses the fortunes of the proud and the humble. Those who wait for His timing will see His justice.",
+        "contextTitle": "The great reversal",
+        "context": "1 Samuel 2:10 ends Hannah's song: 'He will exalt the horn of His anointed.' Psalm 89:17 says, 'by Your favor our horn is exalted.' Matthew 23:12 says whoever humbles himself will be exalted.",
+        "explore": [
+          [
+            "Cut off horns",
+            "A picture of removing the strength and pride of the wicked, leaving them powerless."
+          ],
+          [
+            "Righteous",
+            "Those who live in right relationship with God and trust Him, whom He promises to honor."
+          ]
+        ],
+        "reflect": "What does it look like to wait humbly for God to lift you up in His time?",
+        "related": [
+          "1 Samuel 2:10",
+          "Psalm 89:17",
+          "Matthew 23:12"
+        ],
+        "alt": "A young ram stands on a sunny peak while broken horns lie below.",
+        "art": "assets/psalm75/verse-10-watercolor.webp"
+      }
+    ]
+  }
+}
