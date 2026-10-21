@@ -69,7 +69,7 @@ for (const file of fs.readdirSync(root).filter(name => name.endsWith('.js'))) {
 assert(/rel=["']manifest["']/.test(html), 'Website must link to the app manifest');
 assert(/serviceWorker\.register/.test(html), 'Offline service worker is not registered');
 assert(app.includes("scene(0,'home')"), 'Original Psalm 23 art was altered/removed');
-assert(app.includes('href="#/people">Browse all stories'), 'Main home story-directory entry is missing');
+assert(app.includes('href="#/books">Browse all stories'), 'Main home Stories landing entry is missing');
 assert(app.includes("parts[0]==='stories'"), 'Story route is missing');
 assert(story.includes('function scenePage('), 'Genesis story engine is missing');
 assert(app.includes("parts[0]==='walk'"), 'Psalm walk route is missing');

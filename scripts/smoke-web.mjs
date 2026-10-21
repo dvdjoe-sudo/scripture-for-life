@@ -42,7 +42,7 @@ try {
     await visit('#/','.hero-art .landscape');
     assert.match(await page.locator('h1').first().innerText(),/Find help in/);
     assert.equal(await page.locator('.topic-grid .topic-card').count(),8,'All eight everyday needs remain on main home');
-    assert.equal(await page.locator('.gen-home-quick a[href="#/people"]').count(),1,'Main home links to the story directory');
+    assert.equal(await page.locator('.gen-home-quick a[href="#/books"]').count(),1,'Main home links to the Stories landing');
     assert.equal(await page.locator('.gen-home-quick a[href="#/journey"]').count(),1,'Main home links to the Bible Journey');
     assert.equal(await page.locator('.featured,.gen-home-feature,.ps46-card').count(),0,'Preserve main’s focused home layout');
     await visit('#/stories','.gen-episode-tile');
