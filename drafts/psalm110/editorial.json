@@ -1,0 +1,213 @@
+{
+  "chapter": 110,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 110 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "strength": [
+      "Psalm 110:2"
+    ],
+    "fear": [
+      "Psalm 110:1"
+    ],
+    "direction": [
+      "Psalm 110:7"
+    ]
+  },
+  "study": {
+    "number": 110,
+    "coverVerse": 1,
+    "title": "A priest forever in the order of Melchizedek",
+    "intro": "Psalm 110 is a short royal psalm of David that the New Testament quotes more than any other psalm. The LORD invites David's Lord to sit at His right hand, promises Him rule over His enemies, and swears that He is a priest forever like Melchizedek. Jesus used its first verse to show that the Messiah is greater than David, and Hebrews builds its teaching on Christ's priesthood from verse 4.",
+    "context": "Psalm 110 follows the lament of Psalm 109, where God stood at the right hand of the needy. Here the King sits at God's right hand. The psalm joins kingship and priesthood, two offices normally kept apart in Israel, in one person. Jesus quotes verse 1 in Matthew 22:44, Peter in Acts 2:34-35, and Hebrews 5-7 explains verse 4 at length. Christians have read it as a prophecy of the risen and ascended Christ.",
+    "peopleNote": "David is named in the heading. Melchizedek, the king-priest of Salem who blessed Abraham in Genesis 14, is named in verse 4. The New Testament identifies 'my Lord' as Jesus. God is never portrayed as a human figure in planned art; His throne and oath are shown through light, a scepter and an altar.",
+    "people": [
+      {
+        "id": "david",
+        "name": "David",
+        "ref": "Psalm 110:1"
+      },
+      {
+        "id": "jesus",
+        "name": "Jesus",
+        "ref": "Psalm 110:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Sit at My right hand",
+        "heading": "The LORD said to my Lord",
+        "meaning": "'The LORD said to my Lord: Sit at My right hand until I make Your enemies a footstool for Your feet.' David hears God speaking to someone David calls his own Lord, a king greater than himself. The right hand is the place of highest honor and shared authority. The enemies will be defeated, not by the King's anxious striving, but by God's own action while He sits enthroned.",
+        "contextTitle": "Jesus' question",
+        "context": "In Matthew 22:41-45 Jesus asked how the Messiah could be David's son if David calls Him Lord. Peter quoted this verse at Pentecost (Acts 2:34-35) to proclaim the risen Jesus seated at God's right hand.",
+        "explore": [
+          [
+            "My Lord",
+            "David's title for the coming King, one above him; the New Testament identifies Him as Jesus."
+          ],
+          [
+            "Footstool",
+            "A low stool under a seated ruler's feet; enemies placed there are completely defeated and subject."
+          ]
+        ],
+        "reflect": "How does picturing Jesus seated in authority change the way you face your fears?",
+        "related": [
+          "Matthew 22:44",
+          "Acts 2:34",
+          "Hebrews 1:13"
+        ],
+        "alt": "A carved empty throne on a dais lit by morning light.",
+        "art": "assets/psalm110/verse-1-watercolor.webp"
+      },
+      {
+        "title": "A scepter from Zion",
+        "heading": "Rule in the midst of Your enemies",
+        "meaning": "'The LORD extends Your mighty scepter from Zion: Rule in the midst of Your enemies.' The King's rule starts in Zion, Jerusalem, and stretches outward. He does not wait until all opposition is gone; He reigns right in the middle of it. That is a comfort for God's people, who often live surrounded by forces that resist Him.",
+        "contextTitle": "Reigning amid opposition",
+        "context": "Psalm 2:6 says God has installed His King on Zion. The gospel went out from Jerusalem to the nations (Acts 1:8), as the King's rule spread while opposition continued.",
+        "explore": [
+          [
+            "Scepter",
+            "A ruler's staff, the symbol of royal power and authority to command."
+          ],
+          [
+            "Zion",
+            "The hill of Jerusalem where God's temple and David's throne stood; a name for God's city."
+          ]
+        ],
+        "reflect": "Where do you need to remember that Christ reigns even in the middle of opposition?",
+        "related": [
+          "Psalm 2:6",
+          "Acts 1:8",
+          "Ephesians 1:22"
+        ],
+        "alt": "A long royal staff laid across a stone wall overlooking a hill city.",
+        "art": "assets/psalm110/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Willing on His day",
+        "heading": "Your people shall be willing",
+        "meaning": "'Your people shall be willing on Your day of battle. Arrayed in holy splendor, from the womb of the dawn, to You belongs the dew of Your youth.' The King's people come freely, not drafted. They are dressed in holiness like priests. The King Himself is fresh and vigorous like the morning dew. It is a picture of eager, renewed followers gathering to a strong leader.",
+        "contextTitle": "Freewill offering",
+        "context": "'Willing' is the word used for freewill offerings in Exodus 35:29. Romans 12:1 calls believers to offer themselves as living sacrifices. Dew was a symbol of freshness and blessing (Hosea 14:5).",
+        "explore": [
+          [
+            "Willing",
+            "Freely offering oneself, like a voluntary gift rather than a forced duty."
+          ],
+          [
+            "Dew of Your youth",
+            "The freshness and strength of youth, renewed like dew appearing each morning."
+          ]
+        ],
+        "reflect": "In what area could you offer yourself to Christ willingly today?",
+        "related": [
+          "Exodus 35:29",
+          "Romans 12:1",
+          "Hosea 14:5"
+        ],
+        "alt": "Dew sparkling on grass at dawn as villagers gather on a hillside.",
+        "art": "assets/psalm110/verse-3-watercolor.webp"
+      },
+      {
+        "title": "A priest forever",
+        "heading": "In the order of Melchizedek",
+        "meaning": "'The LORD has sworn and will not change His mind: You are a priest forever in the order of Melchizedek.' God makes an unbreakable oath. The King will also be a priest, not from Aaron's family but like Melchizedek, who was both king and priest. Because this priesthood is forever, His people always have Someone to stand before God for them.",
+        "contextTitle": "Hebrews explains",
+        "context": "Melchizedek, king of Salem and priest of God Most High, blessed Abraham in Genesis 14:18-20. Hebrews 5-7 shows that Jesus is this eternal priest who lives forever to intercede for His people (Hebrews 7:25).",
+        "explore": [
+          [
+            "Melchizedek",
+            "King of Salem and priest of God Most High in Abraham's time; his name means king of righteousness."
+          ],
+          [
+            "Sworn",
+            "Bound by a solemn oath; God's oath makes this promise permanent and certain."
+          ]
+        ],
+        "reflect": "What does it mean to you that Jesus always lives to pray for you?",
+        "related": [
+          "Genesis 14:18",
+          "Hebrews 7:25",
+          "Hebrews 5:6"
+        ],
+        "alt": "Bread and a cup of wine on a rough stone table at sunset.",
+        "art": "assets/psalm110/verse-4-watercolor.webp"
+      },
+      {
+        "title": "The Lord at Your right",
+        "heading": "He will crush kings in the day of His wrath",
+        "meaning": "'The Lord is at Your right hand; He will crush kings in the day of His wrath.' The image shifts: now the Lord stands at the King's right hand as His helper in battle. Earthly rulers who oppose God's King will not stand. There is a coming day when God's justice will be fully carried out against proud powers.",
+        "contextTitle": "The day of wrath",
+        "context": "Psalm 2:12 warns rulers to honor the Son lest His wrath flare up. Revelation 19:16 calls the returning Christ King of kings and Lord of lords. Psalm 16:8 also pictures God at the right hand.",
+        "explore": [
+          [
+            "Day of His wrath",
+            "A coming time of judgment when God acts decisively against evil and injustice."
+          ],
+          [
+            "Crush kings",
+            "Defeat rulers completely; no earthly power can stand against God's King."
+          ]
+        ],
+        "reflect": "How does God's final justice give you hope when powerful people do wrong?",
+        "related": [
+          "Psalm 2:12",
+          "Revelation 19:16",
+          "Psalm 16:8"
+        ],
+        "alt": "Broken bronze crowns lying in the dust of a battlefield at evening.",
+        "art": "assets/psalm110/verse-5-watercolor.webp"
+      },
+      {
+        "title": "Judge of the nations",
+        "heading": "He will judge the nations",
+        "meaning": "'He will judge the nations, heaping up the dead; He will crush the leaders far and wide.' The vision of judgment widens to all nations. The language is that of ancient battle, vivid and severe. It reminds readers that the King's reign is not only gentle; He will set every wrong right and remove those who refuse His rule.",
+        "contextTitle": "Universal judgment",
+        "context": "Acts 17:31 says God has set a day when He will judge the world in righteousness by the Man He has appointed. Matthew 25:32 pictures all nations gathered before the Son of Man.",
+        "explore": [
+          [
+            "Judge",
+            "To decide rightly between right and wrong, and to carry out the verdict."
+          ],
+          [
+            "Far and wide",
+            "Across the whole earth; no ruler anywhere is outside the King's authority."
+          ]
+        ],
+        "reflect": "How should the reality of coming judgment shape the way you live and speak?",
+        "related": [
+          "Acts 17:31",
+          "Matthew 25:32",
+          "Psalm 96:13"
+        ],
+        "alt": "A wide plain under a stormy sky with scattered broken spears.",
+        "art": "assets/psalm110/verse-6-watercolor.webp"
+      },
+      {
+        "title": "Drinking from the brook",
+        "heading": "Therefore He will lift up His head",
+        "meaning": "'He will drink from the brook by the road; therefore He will lift up His head.' The psalm ends with a quiet picture. The victorious King pauses to drink from a stream by the way, refreshed for the journey. Lifting His head means renewed strength and triumph. After the battle, the King stands tall, refreshed by what God provides.",
+        "contextTitle": "Refreshment on the way",
+        "context": "Gideon's men were tested by how they drank from a stream (Judges 7:5-6). Psalm 3:3 calls God the One who lifts up my head. Here the King is sustained and vindicated.",
+        "explore": [
+          [
+            "Brook",
+            "A small stream; here a source of refreshment along the road during a campaign."
+          ],
+          [
+            "Lift up His head",
+            "To stand tall in strength, honor and victory rather than bowing in defeat."
+          ]
+        ],
+        "reflect": "Where can you find refreshment from God along the road of your work today?",
+        "related": [
+          "Judges 7:5",
+          "Psalm 3:3",
+          "Isaiah 40:31"
+        ],
+        "alt": "A clear stream beside a dusty road with a resting traveler's staff.",
+        "art": "assets/psalm110/verse-7-watercolor.webp"
+      }
+    ]
+  }
+}
