@@ -1,0 +1,192 @@
+{
+  "tool": "not yet generated",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "productionFormat": "WebP, 1024px wide (3:2), quality 75",
+  "status": "Prompts drafted only; no images generated",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 1: Night scene outside a village: an elderly storyteller in a wool cloak gestures toward a starry sky while a circle of children listen around a small fire, faces lit warmly, conveying the fathers telling the works of God.",
+      "production": "assets/psalm44/verse-1-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 2,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 2: Close view of a young grapevine freshly planted in dark terraced soil on a sunny hillside, its roots just covered, a wooden stake beside it and distant hills, no people, conveying God planting the fathers in the land.",
+      "production": "assets/psalm44/verse-2-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 3,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 3: A bronze sword lying unused in long green grass in the foreground while warm sunlight floods a fertile valley below, rays breaking through clouds, no people, conveying victory not by the sword but by the light of God's face.",
+      "production": "assets/psalm44/verse-3-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 4,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 4: A simple gold crown resting on a purple cushion before an empty carved cedar throne in a stone hall, light from a high window falling on the seat, no people, conveying God as King who ordains victories for Jacob.",
+      "production": "assets/psalm44/verse-4-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 5,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 5: A row of round leather shields leaning along a city wall at dawn beneath a plain unlettered cloth banner stirring in the wind, the gate closed and secure, no people, conveying strength through God's name.",
+      "production": "assets/psalm44/verse-5-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 6,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 6: An unstrung wooden bow and a quiver hanging on a wooden peg against a whitewashed wall in a quiet room, a small window of blue sky beside them, no people, conveying refusal to trust in the bow.",
+      "production": "assets/psalm44/verse-6-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 7,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 7: Wide plain at sunrise with a cluster of abandoned sagging tents and a cold campfire, scattered baskets left behind, no people, conveying God saving His people and putting their enemies to shame.",
+      "production": "assets/psalm44/verse-7-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 8,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 8: Silver trumpets and bronze cymbals resting on wide stone temple steps after a festival, ribbons and palm branches scattered, late golden light, no people, conveying praise of God all day long.",
+      "production": "assets/psalm44/verse-8-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 9,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 9: A torn plain cloth banner lying in the mud of an empty rutted road beneath a grey overcast sky, a broken staff beside it, no people, conveying rejection and the absence of God from the armies.",
+      "production": "assets/psalm44/verse-9-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 10,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 10: A ransacked village courtyard with large clay storage jars tipped over and empty, a broken door hanging open, scattered grain on the stones, overcast light, no people, conveying plunder after defeat.",
+      "production": "assets/psalm44/verse-10-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 11,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 11: A flock of sheep scattering in many directions across a rocky hillside under a dark windy sky, no shepherd in sight, a broken fold wall in the foreground, conveying sheep given up and scattered among the nations.",
+      "production": "assets/psalm44/verse-11-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 12,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 12: An ancient marketplace stall with a bronze balance scale, one pan empty and raised high, a few dropped coins in the dust and an empty stall behind, no people, conveying a people sold for nothing.",
+      "production": "assets/psalm44/verse-12-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 13,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 13: Two anonymous neighbors in headscarves pointing and laughing from a flat village rooftop toward a shuttered house across a narrow street, laundry lines between, harsh afternoon light, conveying mockery and derision from neighbors.",
+      "production": "assets/psalm44/verse-13-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 14,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 14: A crossroads oasis under palm trees where several anonymous caravan merchants with camels gesture and laugh together, tents and bundled goods around them, bright desert light, conveying a people made a byword among the nations.",
+      "production": "assets/psalm44/verse-14-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 15,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 15: An anonymous figure seated against a whitewashed wall with a dark veil drawn over a bowed head, face hidden, knees drawn up, long shadows of late afternoon, conveying shame covering the face.",
+      "production": "assets/psalm44/verse-15-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 16,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 16: A distant ridge at dusk lined with enemy tents and anonymous silhouetted figures blowing rams' horns toward the valley below, a quiet village in the foreground with shuttered windows, conveying the scorner's voice and the enemy bent on revenge.",
+      "production": "assets/psalm44/verse-16-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 17,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 17: A carefully rolled parchment scroll tied with a cord resting in a niche of a stone wall, an oil lamp burning beside it, dust-free and cared for, no people, conveying a people who have not forgotten God's covenant.",
+      "production": "assets/psalm44/verse-17-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 18,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 18: A sandy road stretching straight through a wilderness lined with small stone cairns, a single line of footprints following it exactly, warm low sun, no people, conveying steps that have not strayed from God's path.",
+      "production": "assets/psalm44/verse-18-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 19,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 19: Two jackals prowling among the crumbled stone walls of a deserted town at dusk, deep purple shadows spreading, broken arches and weeds, no people, conveying being crushed in the lair of jackals and covered with darkness.",
+      "production": "assets/psalm44/verse-19-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 20,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 20: A small toppled clay figurine idol lying ignored in the dust outside the doorway of a simple house, cobwebbed and cracked, morning light on the threshold, no people, conveying refusal to spread hands to a foreign god.",
+      "production": "assets/psalm44/verse-20-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 21,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 21: An oil lamp held into a dim inner storeroom, its light reaching every corner and shelf of jars and baskets, nothing hidden, the hand holding it at the edge of frame, conveying God who knows the secrets of the heart.",
+      "production": "assets/psalm44/verse-21-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 22,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 22: A single white lamb resting quietly in a small stone pen at dusk, soft straw beneath it, a distant evening star, gentle and peaceful rather than violent, conveying sheep considered for slaughter yet held in God's love.",
+      "production": "assets/psalm44/verse-22-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 23,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 23: A ram's horn resting on the stone parapet of a city wall at first light, the valley below still in mist, a gate beneath, no people, conveying the bold cry 'Wake up, O Lord! Arise!'",
+      "production": "assets/psalm44/verse-23-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 24,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 24: A heavy grey cloud covering the sun above a village of flat-roofed houses, a narrow halo of light at the cloud's edge, the streets dim, no people, conveying God's face seemingly hidden.",
+      "production": "assets/psalm44/verse-24-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 25,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 25: A wide field of ripe wheat flattened to the ground after a violent storm, stalks pressed into the mud, a pale clearing sky beginning on the horizon, no people, conveying souls sunk to the dust.",
+      "production": "assets/psalm44/verse-25-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    },
+    {
+      "verse": 26,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 44 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 26: Dawn light breaking over a river where a broken stone bridge is being mended with fresh pale timber beams and ropes, tools left ready, mist on the water, no people, conveying hope of redemption and help rising.",
+      "production": "assets/psalm44/verse-26-watercolor.webp",
+      "status": "prompt drafted; image not generated"
+    }
+  ],
+  "pendingVerses": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ]
+}

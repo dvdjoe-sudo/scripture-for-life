@@ -1,0 +1,311 @@
+{
+  "chapter": 46,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 46 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "fear": [
+      "Psalm 46:1",
+      "Psalm 46:2"
+    ],
+    "strength": [
+      "Psalm 46:1"
+    ]
+  },
+  "study": {
+    "number": 46,
+    "coverVerse": 1,
+    "title": "God is our refuge and strength.",
+    "intro": "Eleven verses confess God as refuge amid collapsing mountains and raging nations, picture the river that gladdens His city, and call the earth to be still and know Him.",
+    "context": "The heading names the sons of Korah and the setting 'Alamoth,' a musical term perhaps meaning a high register (compare 1 Chronicles 15:20). The psalm has three stanzas, each closed by Selah (verses 3, 7 and 11), and the refrain 'The LORD of Hosts is with us; the God of Jacob is our fortress' closes the second and third. Verses 1–3 face cosmic upheaval, verses 4–7 contrast the quiet river of God's city with raging nations, and verses 8–11 invite the world to see God end war. Jerusalem had no great river, so verse 4 is likely an image drawn from Eden (Genesis 2:10) and later echoed in Ezekiel 47 and Revelation 22. Many link the psalm to Jerusalem's rescue from Assyria (2 Kings 19), but the heading does not say. This app already has a live six-section study of Psalm 46; these per-verse drafts are separate and do not change it. The Scripture is loaded unchanged from the bundled BSB, including the heading.",
+    "peopleNote": "The sons of Korah are named in the heading. Jacob is named in the refrain of verses 7 and 11 as 'the God of Jacob'; his profile explains how God bound Himself to Jacob and his descendants. Planned paintings show seas, rivers, cities and broken weapons; God is never portrayed as a human body.",
+    "people": [
+      {
+        "id": "sons-of-korah",
+        "name": "Sons of Korah",
+        "ref": "Psalm 46:1"
+      },
+      {
+        "id": "jacob",
+        "name": "Jacob",
+        "ref": "Psalm 46:7"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Refuge and strength",
+        "heading": "An ever-present help",
+        "meaning": "The heading names the sons of Korah and the musical setting Alamoth. The psalm begins with a confession: God is our refuge and strength. A refuge is a place to run to; strength is power given to stand. God is also an ever-present help, literally 'very much found' in trouble. The verse does not promise the absence of trouble. It promises that God is readily found within it. The plural 'our' makes this a song for the whole community.",
+        "contextTitle": "A confession that inspired Luther",
+        "context": "Martin Luther's hymn 'A Mighty Fortress' is based on this psalm. Deuteronomy 33:27 calls the eternal God a refuge with everlasting arms beneath, and Nahum 1:7 says the LORD is a stronghold in the day of trouble.",
+        "explore": [
+          [
+            "Refuge",
+            "God is a place of shelter. His people can run to Him when danger comes."
+          ],
+          [
+            "Ever-present help",
+            "God is easily found in trouble. He does not have to be searched for far away."
+          ]
+        ],
+        "reflect": "Where do you need God to be both refuge and strength this week?",
+        "related": [
+          "Deuteronomy 33:27",
+          "Nahum 1:7",
+          "Psalm 62:7"
+        ],
+        "alt": "A stone fortress tower stands on a crag above storm clouds.",
+        "art": "assets/psalm46/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Though the earth is transformed",
+        "heading": "Fearlessness amid upheaval",
+        "meaning": "Therefore we will not fear, though the earth is transformed and the mountains are toppled into the depths of the seas. Because God is refuge, the people refuse to fear. The scene is the worst imaginable: the earth changing and mountains, symbols of stability, falling into the sea. Ancient people saw the sea as the realm of chaos. The verse imagines creation undone and still declares 'we will not fear.' Courage here rests on who God is, not on calm circumstances.",
+        "contextTitle": "Creation undone",
+        "context": "Genesis 1:9–10 shows God gathering the waters and making dry land; this verse imagines that order collapsing. Isaiah 54:10 says mountains may depart but God's loving devotion will not.",
+        "explore": [
+          [
+            "Therefore",
+            "The fearlessness follows from verse 1. Confidence rests on God's character."
+          ],
+          [
+            "Mountains toppled",
+            "The most stable things fall. Even then, the people will not fear."
+          ]
+        ],
+        "reflect": "What feels like a mountain toppling in your life? How could God be refuge there?",
+        "related": [
+          "Isaiah 54:10",
+          "Genesis 1:9",
+          "Matthew 7:25"
+        ],
+        "alt": "A mountain headland crumbles into a heaving sea.",
+        "art": "assets/psalm46/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Waters roar and foam",
+        "heading": "Chaos at its height",
+        "meaning": "Though their waters roar and foam and the mountains quake in the surge. Selah. The image continues. The sea roars and foams, and mountains shake with its swelling. The sentence never completes with 'then we will fear'; instead Selah pauses the song. The pause lets the noise of chaos hang in the air before the quiet river of verse 4. The arrangement itself teaches: the roar is real, but it is not the end.",
+        "contextTitle": "The first Selah",
+        "context": "Psalm 93:3–4 says the floods have lifted up their voice, but the LORD on high is mightier. Jesus calmed the sea in Mark 4:39. This Selah closes the first stanza.",
+        "explore": [
+          [
+            "Roar and foam",
+            "The sea is wild and loud. For a moment chaos seems to rule the whole scene."
+          ],
+          [
+            "Selah",
+            "The song pauses. The next verse changes the scene completely."
+          ]
+        ],
+        "reflect": "What noise of chaos surrounds you? How could you pause and listen for God?",
+        "related": [
+          "Psalm 93:4",
+          "Mark 4:39",
+          "Job 38:11"
+        ],
+        "alt": "Towering storm waves crash against cliffs in white foam.",
+        "art": "assets/psalm46/verse-3-watercolor.webp"
+      },
+      {
+        "title": "A river that delights",
+        "heading": "The quiet stream of God's city",
+        "meaning": "There is a river whose streams delight the city of God, the holy place where the Most High dwells. After the roaring sea comes a gentle river. Jerusalem had no large river, only the Gihon spring, so the image is symbolic. It recalls the river of Eden (Genesis 2:10) and looks forward to the river of life (Revelation 22:1). God's presence is pictured as streams that bring gladness. The contrast is deliberate: chaos roars outside, but God's city is fed by quiet water.",
+        "contextTitle": "Rivers of God's presence",
+        "context": "Ezekiel 47:1–12 sees a river flowing from the temple and bringing life, and Revelation 22:1 describes the river of the water of life. Isaiah 33:21 pictures the LORD as a place of broad rivers for Zion.",
+        "explore": [
+          [
+            "A river",
+            "The image is calm and life-giving. It contrasts with the roaring sea."
+          ],
+          [
+            "The Most High dwells",
+            "The city is holy because God lives there. His presence is the source of joy."
+          ]
+        ],
+        "reflect": "Where do you find God's quiet streams of gladness amid noise?",
+        "related": [
+          "Ezekiel 47:1",
+          "Revelation 22:1",
+          "Isaiah 33:21"
+        ],
+        "alt": "A calm stream runs through a walled garden city at sunrise.",
+        "art": "assets/psalm46/verse-4-watercolor.webp"
+      },
+      {
+        "title": "When morning dawns",
+        "heading": "God within the city",
+        "meaning": "God is within her; she will not be moved. God will help her when morning dawns. The city is secure because God is within it. The phrase 'not be moved' answers the toppling mountains of verse 2. God will help 'when morning dawns,' perhaps recalling deliverances that came at daybreak, such as the Red Sea (Exodus 14:27) or Jerusalem's rescue from Assyria (2 Kings 19:35). Morning is the time when the night's danger is revealed to be over.",
+        "contextTitle": "Help at daybreak",
+        "context": "Exodus 14:27 records the sea returning at daybreak, and 2 Kings 19:35 reports that in the morning the Assyrian army was found dead. Lamentations 3:23 says God's mercies are new every morning.",
+        "explore": [
+          [
+            "Not be moved",
+            "The mountains moved, but the city does not. God's presence makes it firm."
+          ],
+          [
+            "When morning dawns",
+            "Help comes at the turning of the night. The danger passes with the dawn."
+          ]
+        ],
+        "reflect": "What night are you waiting through? How could you look for God's help when morning dawns?",
+        "related": [
+          "Lamentations 3:23",
+          "Exodus 14:27",
+          "2 Kings 19:35"
+        ],
+        "alt": "First sunlight touches the walls of a city on a hill.",
+        "art": "assets/psalm46/verse-5-watercolor.webp"
+      },
+      {
+        "title": "He lifts His voice",
+        "heading": "Nations rage, the earth melts",
+        "meaning": "Nations rage, kingdoms crumble; the earth melts when He lifts His voice. The chaos shifts from nature to politics. Nations roar like the sea in verse 3, and kingdoms totter like the mountains. Then God simply speaks, and the earth melts. The power of empires is real but small before His voice. The verse is brief and dramatic. It shows that God's word is stronger than all human power.",
+        "contextTitle": "God's voice over nations",
+        "context": "Psalm 2:1–4 pictures the nations raging while God laughs, and Psalm 29:3–9 describes the power of the LORD's voice. Amos 9:5 says the LORD touches the earth and it melts.",
+        "explore": [
+          [
+            "Nations rage",
+            "The same word describes the roaring sea. Political chaos echoes natural chaos."
+          ],
+          [
+            "The earth melts",
+            "God's voice is decisive. Human power dissolves before it."
+          ]
+        ],
+        "reflect": "What powers seem overwhelming to you? How small are they before God's voice?",
+        "related": [
+          "Psalm 2:1",
+          "Psalm 29:3",
+          "Amos 9:5"
+        ],
+        "alt": "Wax seals and crowns melt on a stone table under fierce light.",
+        "art": "assets/psalm46/verse-6-watercolor.webp"
+      },
+      {
+        "title": "The LORD of Hosts is with us",
+        "heading": "The refrain of presence",
+        "meaning": "The LORD of Hosts is with us; the God of Jacob is our fortress. Selah. The refrain gives the reason for all the confidence. 'The LORD of Hosts' names God as commander of heavenly armies. 'With us' echoes the promise of Immanuel, God with us (Isaiah 7:14). 'The God of Jacob' recalls that God bound Himself to a flawed patriarch and his descendants. 'Fortress' means a high, secure place. Selah closes the second stanza.",
+        "contextTitle": "God of Jacob",
+        "context": "Genesis 28:15 records God promising Jacob, 'I am with you and will watch over you wherever you go.' Isaiah 7:14 and Matthew 1:23 speak of Immanuel, God with us.",
+        "explore": [
+          [
+            "LORD of Hosts",
+            "God commands the armies of heaven. His power is immense."
+          ],
+          [
+            "God of Jacob",
+            "God committed Himself to Jacob despite his flaws. That faithfulness continues."
+          ]
+        ],
+        "reflect": "What changes when you remember the LORD of Hosts is with you?",
+        "related": [
+          "Genesis 28:15",
+          "Isaiah 7:14",
+          "Matthew 1:23"
+        ],
+        "alt": "A high mountain stronghold with banners glows above a sea of clouds.",
+        "art": "assets/psalm46/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Come, see the works",
+        "heading": "An invitation to witness",
+        "meaning": "Come, see the works of the LORD, who brings devastation upon the earth. The psalm invites the listener to look. The 'devastation' God brings is directed at the instruments of war, as the next verse shows. The invitation is to witness God's acts in history, not to celebrate destruction for its own sake. Some read it as recalling the desolation of an attacking army. The verse calls for attention before the declaration of verse 10.",
+        "contextTitle": "Seeing God's works",
+        "context": "Psalm 66:5 says, 'Come and see the works of God,' and Isaiah 37:36 describes the Assyrian camp destroyed. The devastation in verse 8 targets war itself.",
+        "explore": [
+          [
+            "Come, see",
+            "The listener is invited to look. Faith includes witnessing God's deeds."
+          ],
+          [
+            "Devastation",
+            "God's judgment falls on what threatens peace. The next verse shows its target."
+          ]
+        ],
+        "reflect": "Where have you seen God's works? Who could you invite to come and see?",
+        "related": [
+          "Psalm 66:5",
+          "Isaiah 37:36",
+          "John 1:39"
+        ],
+        "alt": "A vast empty battlefield lies silent with abandoned chariots at sunset.",
+        "art": "assets/psalm46/verse-8-watercolor.webp"
+      },
+      {
+        "title": "He makes wars cease",
+        "heading": "Weapons broken and burned",
+        "meaning": "He makes wars to cease throughout the earth; He breaks the bow and shatters the spear; He burns the shields in the fire. The devastation of verse 8 is now explained: God destroys weapons. He ends war to the ends of the earth. Breaking bows, shattering spears and burning shields describe disarmament. The vision is of peace imposed by God. It echoes Isaiah 2:4, where swords become plowshares.",
+        "contextTitle": "Swords into plowshares",
+        "context": "Isaiah 2:4 and Micah 4:3 picture nations beating swords into plowshares, and Hosea 2:18 promises God will abolish bow and sword. Psalm 46:9 shows God ending war Himself.",
+        "explore": [
+          [
+            "Wars to cease",
+            "God ends conflict to the ends of the earth. Lasting peace is His own work."
+          ],
+          [
+            "Burns the shields",
+            "The weapons are destroyed. War's tools are removed."
+          ]
+        ],
+        "reflect": "Where do you long for God to end conflict, in the world or in your own life?",
+        "related": [
+          "Isaiah 2:4",
+          "Micah 4:3",
+          "Hosea 2:18"
+        ],
+        "alt": "Broken spears and bows burn in a bonfire on a hilltop.",
+        "art": "assets/psalm46/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Be still and know",
+        "heading": "God speaks",
+        "meaning": "'Be still and know that I am God; I will be exalted among the nations, I will be exalted over the earth.' God Himself speaks. 'Be still' means 'stop' or 'let go,' addressed first to the raging nations and also to God's anxious people. It is a command to cease striving and recognize who God is. God declares He will be exalted everywhere. The verse is often read as a call to quiet prayer, which is a valid application, but its first sense is a call to stop fighting and acknowledge God.",
+        "contextTitle": "Cease and acknowledge",
+        "context": "Exodus 14:13–14 says, 'Stand firm and see the LORD's salvation; you need only to be still,' and Isaiah 30:15 says, 'In quietness and trust is your strength.' Psalm 46:10 addresses nations and God's people alike.",
+        "explore": [
+          [
+            "Be still",
+            "The word means let go or stop. It is a command to cease striving."
+          ],
+          [
+            "I will be exalted",
+            "God declares His supremacy. He will be honored everywhere."
+          ]
+        ],
+        "reflect": "What would it look like to stop striving and acknowledge God today?",
+        "related": [
+          "Exodus 14:14",
+          "Isaiah 30:15",
+          "Psalm 37:7"
+        ],
+        "alt": "A perfectly still lake mirrors mountains at dawn.",
+        "art": "assets/psalm46/verse-10-watercolor.webp"
+      },
+      {
+        "title": "Our fortress forever",
+        "heading": "The final refrain",
+        "meaning": "The LORD of Hosts is with us; the God of Jacob is our fortress. Selah. The refrain repeats verse 7 exactly and closes the psalm. After the call to be still, the people answer with their confession. God is with them and is their fortress. The repetition makes the confession memorable and communal. Selah ends the third stanza, leaving the listener with the assurance of God's presence.",
+        "contextTitle": "The closing Selah",
+        "context": "Psalm 46:7 contains the same words. Hebrews 13:5 promises, 'Never will I leave you,' and Matthew 28:20 records Jesus saying, 'I am with you always.'",
+        "explore": [
+          [
+            "Repeated refrain",
+            "The confession is said again. Repetition strengthens trust."
+          ],
+          [
+            "Selah",
+            "The song ends with a pause. The assurance of God's presence is left to linger."
+          ]
+        ],
+        "reflect": "How could you make this refrain your own confession today?",
+        "related": [
+          "Psalm 46:7",
+          "Hebrews 13:5",
+          "Matthew 28:20"
+        ],
+        "alt": "A walled city rests peacefully beneath a starry sky.",
+        "art": "assets/psalm46/verse-11-watercolor.webp"
+      }
+    ]
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "chapter": 41,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 41 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "health": [
+      "Psalm 41:3",
+      "Psalm 41:4"
+    ],
+    "alone": [
+      "Psalm 41:9"
+    ]
+  },
+  "study": {
+    "number": 41,
+    "coverVerse": 1,
+    "title": "Blessed is the one who cares for the poor.",
+    "intro": "Thirteen verses move from a blessing on those who care for the weak to a sick person's prayer, the pain of a betraying friend, and the doxology that closes Book One of the Psalms.",
+    "context": "The heading names David and the choirmaster without identifying an event. Verses 1–3 bless the person who considers the poor and promise God's care in illness. Verses 4–10 are the speaker's own prayer from a sickbed: confession, visitors who spread gossip, enemies who hope for death, and a trusted friend who has turned against him; the quotation of the enemies runs from verse 7 into verse 8. Verses 11–12 express confidence, and verse 13 is a doxology that closes Book One of the Psalter (Psalms 1–41). Jesus applies verse 9 to Judas in John 13:18. The request in verse 10 to 'repay them' is read as a king's or wronged person's appeal for vindication handed to God, not a license for private revenge. The Scripture is loaded unchanged from the bundled BSB, including the heading.",
+    "peopleNote": "David is named in the heading. His profile offers background, including betrayals within his own household, without claiming one story is this psalm's occasion. Planned paintings show anonymous people, objects and landscapes; God is never portrayed as a human body.",
+    "people": [
+      {
+        "id": "david",
+        "name": "David",
+        "ref": "Psalm 41:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Care for the poor",
+        "heading": "A blessing on attentive kindness",
+        "meaning": "The heading names David. The psalm opens not with the speaker's trouble but with a blessing on the one who cares for the poor. 'Cares for' can mean considering or paying thoughtful attention, not just giving a coin in passing. The promise that follows, deliverance in the day of trouble, suggests that God notices those who notice others. The poor here may include the sick and weak, which fits the illness described later. The verse is a blessing, not a transaction that guarantees protection in exchange for charity.",
+        "contextTitle": "A blessing that sets the theme",
+        "context": "Proverbs 14:21 and 19:17 speak of kindness to the poor as honoring the LORD, and Matthew 25:36 counts visiting the sick as care for Christ. Psalm 41 opens Book One's final psalm by placing that care at the center before the speaker's own illness is described.",
+        "explore": [
+          [
+            "Cares for",
+            "The verb suggests careful consideration. It describes attention to someone's situation, not only a gift."
+          ],
+          [
+            "The day of trouble",
+            "The phrase anticipates the speaker's own sickness and betrayal. The one who helped others will need help."
+          ]
+        ],
+        "reflect": "Who around you is weak or overlooked right now? What would thoughtful attention to them look like this week?",
+        "related": [
+          "Proverbs 19:17",
+          "Matthew 25:36",
+          "Proverbs 14:21"
+        ],
+        "alt": "A bowl of broth and folded cloth are set at the door of a small sick room.",
+        "art": "assets/psalm41/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Preserved in the land",
+        "heading": "Protection described in covenant terms",
+        "meaning": "Verse 2 expands the blessing. The LORD will protect and preserve such a person, bless him in the land, and refuse to hand him over to the will of his foes. Blessing 'in the land' uses Israel's covenant language, where the land was God's gift and a sign of His favor. The verse speaks of God's watchful protection, not a promise that a kind person will never face enemies. In fact, the rest of the psalm shows the speaker surrounded by hostile people. The promise is that their will does not have the final say.",
+        "contextTitle": "Covenant blessing and the will of enemies",
+        "context": "Deuteronomy 28:3–8 lists blessings in the land for covenant faithfulness, and Psalm 27:12 asks not to be handed over to the will of foes. Psalm 41:2 joins those two hopes in a single promise.",
+        "explore": [
+          [
+            "Protect and preserve",
+            "The two verbs stress keeping someone alive and safe. They describe God's ongoing guarding care."
+          ],
+          [
+            "The will of his foes",
+            "Enemies have desires about the speaker's fate. The promise is that God will not surrender him to them."
+          ]
+        ],
+        "reflect": "Whose plans for you feel threatening? How could you trust that their will is not the final word?",
+        "related": [
+          "Deuteronomy 28:8",
+          "Psalm 27:12",
+          "Psalm 121:7"
+        ],
+        "alt": "A walled terrace of vines stands guarded beneath a watchtower.",
+        "art": "assets/psalm41/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Sustained on a sickbed",
+        "heading": "God's care in illness",
+        "meaning": "The LORD will sustain him on his bed of illness and restore him from his bed of sickness. This verse brings the blessing into the sickroom. God's care does not stop at the door of illness. 'Sustain' pictures upholding someone too weak to stand; 'restore' can mean turning or remaking the bed, as a nurse would. The verse is tender. It does not guarantee recovery from every illness, but it promises God's presence and support in it, and it hopes for restoration.",
+        "contextTitle": "God at the bedside",
+        "context": "James 5:14–15 encourages prayer for the sick, and Psalm 6:2 asks the LORD for healing. Psalm 41:3 is one of the clearest pictures in the Psalms of God attending the bedside.",
+        "explore": [
+          [
+            "Sustain him",
+            "God holds up the weak. The image is of support when strength is gone."
+          ],
+          [
+            "Restore him",
+            "The phrase may picture changing the bed of a patient. It suggests attentive, practical care."
+          ]
+        ],
+        "reflect": "Who do you know who is ill? How might you be part of God's sustaining care for them?",
+        "related": [
+          "James 5:14",
+          "Psalm 6:2",
+          "Psalm 30:2"
+        ],
+        "alt": "A freshly made bed with clean linen sits beside a water jug in morning light.",
+        "art": "assets/psalm41/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Heal me, for I have sinned",
+        "heading": "A sick person's confession",
+        "meaning": "Now the speaker's own voice enters: I said, 'O LORD, be gracious to me; heal me, for I have sinned against You.' The speaker asks for grace and healing while also confessing sin. This is personal honesty, not a claim that illness is always punishment. In the speaker's case, the request for healing includes the soul as well as the body. Grace is the ground of the request; the speaker does not argue they deserve recovery. The verse shows confession and petition held together.",
+        "contextTitle": "Healing and confession together",
+        "context": "Psalm 32:5 records confession followed by forgiveness, and Mark 2:5–11 shows Jesus forgiving and healing the same man. John 9:3 warns against assuming every illness comes from the sufferer's sin.",
+        "explore": [
+          [
+            "Be gracious to me",
+            "Grace is undeserved favor. The speaker asks for mercy, not reward."
+          ],
+          [
+            "I have sinned against You",
+            "The speaker owns wrongdoing before God. Healing is sought for the whole person."
+          ]
+        ],
+        "reflect": "Is there anything you need to confess as you ask God for healing or help?",
+        "related": [
+          "Psalm 32:5",
+          "Mark 2:5",
+          "John 9:3"
+        ],
+        "alt": "A pair of hands rests open on a blanket beside a lamp at dawn.",
+        "art": "assets/psalm41/verse-4-watercolor.webp"
+      },
+      {
+        "title": "When will he die?",
+        "heading": "Enemies who wish for death",
+        "meaning": "My enemies say with malice: 'When will he die and be forgotten?' The speaker hears, or imagines, enemies eager for his death. Their question is cruel: they want not only his death but for his name to vanish. Being forgotten was a deep fear in the ancient world, where a name lived on through family and memory. The verse names the pain of knowing others would welcome your end. It brings that hurt honestly into prayer.",
+        "contextTitle": "Malice toward the sick",
+        "context": "Psalm 38:12 describes enemies plotting against a suffering person, and Job 18:17 speaks of the memory of the wicked perishing. Here enemies wish that fate on the speaker.",
+        "explore": [
+          [
+            "With malice",
+            "Their words are hostile and cruel. They do not wish him well."
+          ],
+          [
+            "Be forgotten",
+            "The enemies want his name erased. Memory was a sign of lasting honor."
+          ]
+        ],
+        "reflect": "Have you ever felt others wanted you gone or forgotten? How could you bring that to God?",
+        "related": [
+          "Psalm 38:12",
+          "Job 18:17",
+          "Psalm 31:12"
+        ],
+        "alt": "A weathered name carved on a stone lintel is half-covered by creeping vines.",
+        "art": "assets/psalm41/verse-5-watercolor.webp"
+      },
+      {
+        "title": "A false visitor",
+        "heading": "Gossip disguised as concern",
+        "meaning": "My visitor speaks falsehood; he gathers slander in his heart; he goes out and spreads it abroad. The visitor appears to come in sympathy, but inside he is collecting material for gossip. Once he leaves, he spreads it. The verse exposes a particular betrayal: using a sickbed visit to gather rumors. It warns against false concern and invites honest kindness toward the sick. The speaker sees through the visitor's mask.",
+        "contextTitle": "Gathering slander",
+        "context": "Proverbs 26:24–26 describes someone who disguises hatred with his lips, and Proverbs 11:13 warns against the gossip who reveals secrets. Psalm 41:6 puts that betrayal inside a sickroom visit.",
+        "explore": [
+          [
+            "My visitor",
+            "The person comes as a guest. His purpose is not comfort."
+          ],
+          [
+            "Spreads it abroad",
+            "The slander travels outward. The sick person cannot defend himself."
+          ]
+        ],
+        "reflect": "When you visit someone who is struggling, what do you carry out with you? How could your words protect them?",
+        "related": [
+          "Proverbs 26:24",
+          "Proverbs 11:13",
+          "Leviticus 19:16"
+        ],
+        "alt": "A sandaled figure slips out a doorway into a lane where neighbors lean in to listen.",
+        "art": "assets/psalm41/verse-6-watercolor.webp"
+      },
+      {
+        "title": "Whispers imagining the worst",
+        "heading": "A circle of hostile talk",
+        "meaning": "All who hate me whisper against me; they imagine the worst for me. The gossip of verse 6 has spread to a wider circle. Those who dislike the speaker whisper together and expect the worst outcome. The colon introduces their words in verse 8. Whispering suggests secrecy and conspiracy. The verse names how isolating it is to be the subject of talk you cannot answer.",
+        "contextTitle": "Whispering enemies",
+        "context": "Psalm 31:13 says, 'I hear the slander of many,' and Romans 1:29 lists gossips among those who reject God's ways. The whispering here continues into the quoted verdict of verse 8.",
+        "explore": [
+          [
+            "Whisper against me",
+            "The talk is secretive. The speaker cannot respond to it."
+          ],
+          [
+            "Imagine the worst",
+            "They expect and even hope for disaster. Their imagination is hostile."
+          ]
+        ],
+        "reflect": "Are there conversations about others you could stop instead of continue?",
+        "related": [
+          "Psalm 31:13",
+          "Romans 1:29",
+          "Proverbs 16:28"
+        ],
+        "alt": "Heads bend together in shadow under a stone archway.",
+        "art": "assets/psalm41/verse-7-watercolor.webp"
+      },
+      {
+        "title": "He will never get up",
+        "heading": "A cruel verdict on the sick",
+        "meaning": "The whisperers' words are quoted: 'A vile disease has been poured into him; he will never get up from where he lies!' They speak as though the illness is a curse poured into him, perhaps a sign that God has abandoned him. Their verdict is final: he is finished. The verse captures how sick people can be written off by others. It also shows the theological cruelty of treating illness as proof of divine rejection.",
+        "contextTitle": "Written off by others",
+        "context": "Job's friends assumed his suffering proved guilt (Job 4:7–8), and John 9:2 shows the disciples assuming sin caused a man's blindness. Psalm 41:8 records a similar harsh judgment.",
+        "explore": [
+          [
+            "Poured into him",
+            "The phrase suggests a curse or deadly sickness. They treat it as decisive."
+          ],
+          [
+            "Never get up",
+            "They predict permanent defeat. The psalm will answer with hope of being raised."
+          ]
+        ],
+        "reflect": "Have you ever been written off or written someone else off? What would hope look like instead?",
+        "related": [
+          "Job 4:7",
+          "John 9:2",
+          "Psalm 38:11"
+        ],
+        "alt": "An empty pallet lies beside a cold hearth as dusk falls.",
+        "art": "assets/psalm41/verse-8-watercolor.webp"
+      },
+      {
+        "title": "The friend who shared my bread",
+        "heading": "Betrayal by a trusted companion",
+        "meaning": "Even my close friend whom I trusted, the one who shared my bread, has lifted up his heel against me. The deepest wound is not from enemies but from a friend. Sharing bread was a sign of trust and fellowship. Lifting the heel may picture kicking or turning away in contempt. Jesus quotes this verse about Judas in John 13:18, showing how betrayal by a companion fits a long biblical pattern. The verse gives words to the pain of a broken friendship.",
+        "contextTitle": "Applied to Judas",
+        "context": "John 13:18 records Jesus citing this verse at the Last Supper about Judas. Psalm 55:12–14 also laments betrayal by a close companion who once worshiped alongside the speaker.",
+        "explore": [
+          [
+            "Shared my bread",
+            "Eating together signified loyalty. The betrayal violates that bond."
+          ],
+          [
+            "Lifted up his heel",
+            "The gesture suggests contempt or a kick. A friend has become an attacker."
+          ]
+        ],
+        "reflect": "Have you been hurt by a close friend? How could you bring that grief to God?",
+        "related": [
+          "John 13:18",
+          "Psalm 55:13",
+          "Mark 14:18"
+        ],
+        "alt": "A broken loaf lies on a table with one stool overturned.",
+        "art": "assets/psalm41/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Raise me up",
+        "heading": "A plea for restoration and vindication",
+        "meaning": "But You, O LORD, be gracious to me and raise me up, that I may repay them. The speaker turns from enemies to God. 'Raise me up' answers the whisper that he will never get up. The request to repay them is difficult. In a royal setting it may mean the restored king will bring justice; it can also be read as a desire for vindication. Either way, the speaker asks God to act and brings this desire into prayer rather than acting secretly. The rest of Scripture asks believers to leave vengeance with God.",
+        "contextTitle": "Vindication handed to God",
+        "context": "Romans 12:19 says, 'Leave room for God's wrath,' and Proverbs 20:22 warns not to say 'I will repay evil.' Psalm 41:10 is honest about a desire for justice while placing it before God, and 2 Samuel 15 shows David facing a betrayal within his court.",
+        "explore": [
+          [
+            "Raise me up",
+            "The plea answers the enemies' verdict of verse 8. It asks God for restoration."
+          ],
+          [
+            "That I may repay them",
+            "The phrase expresses a desire for justice. It is handed to God, not carried out in secret."
+          ]
+        ],
+        "reflect": "Is there a desire for payback you need to bring honestly to God and leave with Him?",
+        "related": [
+          "Romans 12:19",
+          "Proverbs 20:22",
+          "Psalm 41:8"
+        ],
+        "alt": "Morning light falls on an empty pallet as a figure stands by the open door.",
+        "art": "assets/psalm41/verse-10-watercolor.webp"
+      },
+      {
+        "title": "You delight in me",
+        "heading": "Confidence drawn from survival",
+        "meaning": "By this I know that You delight in me, for my enemy does not triumph over me. The speaker reads the failure of the enemies' hopes as a sign of God's favor. The enemy wanted death and disgrace; it has not happened. 'Delight' expresses God's pleasure in the person, not merely tolerance. The verse is personal reassurance. It does not mean every hardship signals God's displeasure, but that God's care can be seen in the enemy's failure here.",
+        "contextTitle": "God's delight",
+        "context": "Psalm 18:19 says, 'He rescued me because He delighted in me,' and Zephaniah 3:17 pictures God rejoicing over His people. Psalm 41:11 draws that confidence from the enemy's failure.",
+        "explore": [
+          [
+            "By this I know",
+            "The speaker draws a conclusion. Survival becomes evidence of care."
+          ],
+          [
+            "Does not triumph",
+            "The enemy's hope fails. The predicted end has not come."
+          ]
+        ],
+        "reflect": "Where have you seen signs of God's care in hopes against you that did not come true?",
+        "related": [
+          "Psalm 18:19",
+          "Zephaniah 3:17",
+          "Psalm 30:1"
+        ],
+        "alt": "A cut flower stem regrows green shoots from a pot on a windowsill.",
+        "art": "assets/psalm41/verse-11-watercolor.webp"
+      },
+      {
+        "title": "Set in Your presence",
+        "heading": "Upheld in integrity",
+        "meaning": "In my integrity You uphold me and set me in Your presence forever. The speaker has confessed sin in verse 4, so integrity here does not mean sinlessness. It means wholehearted loyalty to God compared with the false friend's betrayal. God upholds such a person and places them in His presence. The verse moves from survival to belonging. Being set before God forever is the deepest security, larger than recovering from illness.",
+        "contextTitle": "Standing before God",
+        "context": "Psalm 16:11 speaks of joy in God's presence, and Psalm 140:13 says the upright will dwell in Your presence. Psalm 41:12 contrasts that loyalty with the betrayer of verse 9.",
+        "explore": [
+          [
+            "In my integrity",
+            "Integrity is loyal wholeness, not perfection. The speaker has already confessed sin."
+          ],
+          [
+            "In Your presence forever",
+            "The goal is lasting nearness to God. It exceeds recovery from sickness."
+          ]
+        ],
+        "reflect": "What would it mean for you to know you are set in God's presence, whatever your health or circumstances?",
+        "related": [
+          "Psalm 16:11",
+          "Psalm 140:13",
+          "Psalm 26:11"
+        ],
+        "alt": "A worn stone step leads up into a sunlit sanctuary courtyard.",
+        "art": "assets/psalm41/verse-12-watercolor.webp"
+      },
+      {
+        "title": "Amen and Amen",
+        "heading": "The doxology closing Book One",
+        "meaning": "Blessed be the LORD, the God of Israel, from everlasting to everlasting. Amen and Amen. This verse is a doxology, a formal blessing of God, that closes the first of the five books of the Psalms. It may have been added when the collection was arranged. 'From everlasting to everlasting' stretches praise across all time. The double Amen invites the congregation's agreement. After illness and betrayal, the final word is praise of the eternal God.",
+        "contextTitle": "The end of Book One",
+        "context": "Psalm 72:19, 89:52 and 106:48 close the next books with similar doxologies, and Psalm 150 closes the whole Psalter. 1 Chronicles 16:36 records the people answering 'Amen' to a similar blessing.",
+        "explore": [
+          [
+            "From everlasting to everlasting",
+            "Praise spans all time. God's reign has no beginning or end."
+          ],
+          [
+            "Amen and Amen",
+            "Amen means 'so be it.' The repetition invites wholehearted agreement."
+          ]
+        ],
+        "reflect": "After a hard season, how could you end with praise of the God who is from everlasting to everlasting?",
+        "related": [
+          "Psalm 72:19",
+          "Psalm 106:48",
+          "1 Chronicles 16:36"
+        ],
+        "alt": "Rows of lamps are lit along a sanctuary wall at dusk.",
+        "art": "assets/psalm41/verse-13-watercolor.webp"
+      }
+    ]
+  }
+}

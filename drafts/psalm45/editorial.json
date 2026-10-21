@@ -1,0 +1,455 @@
+{
+  "chapter": 45,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 45 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "gratitude": [
+      "Psalm 45:17"
+    ],
+    "strength": [
+      "Psalm 45:6"
+    ]
+  },
+  "study": {
+    "number": 45,
+    "coverVerse": 6,
+    "title": "Your throne, O God, endures forever and ever.",
+    "intro": "Seventeen verses form a royal wedding song: praise of the king's grace, justice and enduring throne, counsel to the bride, and a promise that his name will be remembered.",
+    "context": "The heading calls this a Maskil of the sons of Korah, a love song set to 'The Lilies.' It celebrates the marriage of a king of David's line; no king is named, and the Daughter of Tyre in verse 12 suggests foreign alliances like those of Solomon or Ahab. Verses 2–9 address the king, verses 10–15 address the bride, and verses 16–17 return to the king's descendants. Verse 6 addresses the throne as 'O God'; Hebrews 1:8–9 cites verses 6–7 of Christ, and the notes present that as the New Testament's reading alongside the original royal setting. Verses 10–11 reflect ancient royal marriage customs, where a bride left her homeland; the notes explain them historically rather than as a rule for marriage today. The Scripture is loaded unchanged from the bundled BSB, including the heading.",
+    "peopleNote": "The sons of Korah are named in the heading. The king and bride are not named, and the notes do not identify them. Planned paintings show crowns, garments, palaces, processions and anonymous figures from behind or at a distance; no painting depicts Jesus, and God is never portrayed as a human body.",
+    "people": [
+      {
+        "id": "sons-of-korah",
+        "name": "Sons of Korah",
+        "ref": "Psalm 45:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "A noble theme",
+        "heading": "The poet's stirred heart",
+        "meaning": "The heading names the sons of Korah and calls this both a Maskil and a love song, set to the tune 'The Lilies.' The poet begins by describing his own excitement. His heart is stirred, literally overflowing, by a good theme, and he recites his verses to the king. His tongue is like the pen of a skilled scribe. The opening shows that the song is crafted with care for a royal occasion. It invites the listener into the celebration.",
+        "contextTitle": "A song for a royal wedding",
+        "context": "The phrase 'love song' appears only here in a psalm heading, and 'The Lilies' also heads Psalms 69 and 80. Song of Solomon 2:1–2 uses lilies as images of love and beauty.",
+        "explore": [
+          [
+            "Stirred",
+            "The heart bubbles over. The poet is eager to speak."
+          ],
+          [
+            "Pen of a skillful writer",
+            "The poet compares his tongue to a scribe's pen. The song is careful work."
+          ]
+        ],
+        "reflect": "What noble theme stirs your heart? How could you express it with care?",
+        "related": [
+          "Song of Solomon 2:2",
+          "Ezra 7:6",
+          "Psalm 69:1"
+        ],
+        "alt": "A reed pen and ink pot rest on a fresh scroll beside lilies.",
+        "art": "assets/psalm45/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Grace on your lips",
+        "heading": "Praise of the king's speech",
+        "meaning": "You are the most handsome of men; grace has anointed your lips; therefore God has blessed you forever. The poet praises the king's appearance, as ancient royal songs did, but quickly moves to his speech. Grace is poured on his lips, meaning his words are gracious and persuasive. The result is God's lasting blessing. The verse suggests that a good king's words matter more than looks. In Luke 4:22 people marveled at the gracious words of Jesus.",
+        "contextTitle": "Gracious words",
+        "context": "Proverbs 22:11 says one with gracious speech will have the king as friend, and Luke 4:22 describes gracious words from Jesus' mouth. Psalm 45:2 joins royal beauty with gracious speech.",
+        "explore": [
+          [
+            "Grace on lips",
+            "The king's speech is gracious. Words show the heart of a ruler."
+          ],
+          [
+            "Blessed forever",
+            "God's blessing rests on the king. It is described as lasting, not momentary."
+          ]
+        ],
+        "reflect": "Whose conversation could your words carry grace into today?",
+        "related": [
+          "Proverbs 22:11",
+          "Luke 4:22",
+          "Colossians 4:6"
+        ],
+        "alt": "Rose petals and a gold cup lie on a throne-room table.",
+        "art": "assets/psalm45/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Gird your sword",
+        "heading": "Majesty and splendor",
+        "meaning": "Strap your sword at your side, O mighty warrior; appear in your majesty and splendor. The poet calls the king to prepare for action. Strapping on a sword was part of royal display as well as war. The king is called to show his majesty and splendor, words often used of God's own glory. A king's strength was meant to serve his people. The next verse shows the purpose of that strength.",
+        "contextTitle": "Royal splendor",
+        "context": "Psalm 96:6 says splendor and majesty are before the LORD, and Isaiah 9:6 calls the coming king 'Mighty God.' A human king reflects in part the majesty that belongs fully to God.",
+        "explore": [
+          [
+            "Strap your sword",
+            "The king prepares for action. Strength is part of his role."
+          ],
+          [
+            "Majesty and splendor",
+            "These words often describe God. The king reflects divine glory."
+          ]
+        ],
+        "reflect": "What strength has God given you? How might it serve others?",
+        "related": [
+          "Psalm 96:6",
+          "Isaiah 9:6",
+          "Psalm 21:5"
+        ],
+        "alt": "A jeweled scabbard and sword lie across a purple robe.",
+        "art": "assets/psalm45/verse-3-watercolor.webp"
+      },
+      {
+        "title": "For truth and humility",
+        "heading": "Victory for justice",
+        "meaning": "In your splendor ride forth in victory on behalf of truth and humility and justice; may your right hand show your awesome deeds. The king's strength has a purpose: truth, humility and justice. These are not usual battle cries. Humility is an unexpected value for a warrior king. The verse shows the ideal king who uses power for righteousness, not conquest for its own sake. His deeds are to be awesome because they serve what is right.",
+        "contextTitle": "An ideal king",
+        "context": "Zechariah 9:9 pictures a humble king riding on a donkey, and Isaiah 11:4 says the Messiah will judge the poor with righteousness. Psalm 45:4 sets royal power under those values.",
+        "explore": [
+          [
+            "Truth and humility",
+            "The king rides out for these values. His power is meant to serve goodness, not pride."
+          ],
+          [
+            "Your right hand",
+            "The right hand represents strength. It is to show good deeds."
+          ]
+        ],
+        "reflect": "How could you use whatever influence you have for truth, humility and justice?",
+        "related": [
+          "Zechariah 9:9",
+          "Isaiah 11:4",
+          "Micah 6:8"
+        ],
+        "alt": "A white horse with a red saddlecloth trots on a road toward a city gate.",
+        "art": "assets/psalm45/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Arrows pierce",
+        "heading": "Victory over enemies",
+        "meaning": "Your arrows pierce the hearts of the king's foes; the nations fall beneath your feet. The poet describes victory in typical royal language. Arrows strike enemies, and nations submit. Ancient songs praised kings this way. Read in light of verse 4, the victory is for truth and justice. The image is of decisive success, not of cruelty. The notes do not apply it to any modern nation or war.",
+        "contextTitle": "Royal victory language",
+        "context": "Psalm 110:1 speaks of enemies made a footstool, and Psalm 18:38–40 uses similar language. The poetry celebrates a just king's success rather than prescribing violence.",
+        "explore": [
+          [
+            "Arrows",
+            "Arrows represent the king's reach. His power extends far."
+          ],
+          [
+            "Beneath your feet",
+            "Nations submit. It is ancient language for victory."
+          ]
+        ],
+        "reflect": "How do you understand God's ultimate victory over evil?",
+        "related": [
+          "Psalm 110:1",
+          "Psalm 18:38",
+          "1 Corinthians 15:25"
+        ],
+        "alt": "A quiver of feathered arrows leans against a palace column.",
+        "art": "assets/psalm45/verse-5-watercolor.webp"
+      },
+      {
+        "title": "Your throne, O God",
+        "heading": "An eternal throne and a scepter of justice",
+        "meaning": "Your throne, O God, endures forever and ever, and justice is the scepter of Your kingdom. The poet addresses the throne as 'O God.' In the original setting this may honor the king as God's representative or address God directly; scholars debate it. Hebrews 1:8 quotes this verse about the Son, applying it to Christ's eternal reign. The scepter of justice shows that the kingdom's power rests on what is right. The notes present both the original royal setting and the New Testament reading.",
+        "contextTitle": "Quoted in Hebrews",
+        "context": "Hebrews 1:8–9 applies verses 6–7 to the Son, and 2 Samuel 7:13 promised David a throne established forever. Psalm 45:6 sits at the meeting point of those promises.",
+        "explore": [
+          [
+            "O God",
+            "The address is striking. Hebrews reads it as addressed to the Son."
+          ],
+          [
+            "Scepter of justice",
+            "The rod of rule is justice. The kingdom is defined by righteousness."
+          ]
+        ],
+        "reflect": "What would it mean for justice to be the scepter in your own life and choices?",
+        "related": [
+          "Hebrews 1:8",
+          "2 Samuel 7:13",
+          "Isaiah 9:7"
+        ],
+        "alt": "A gold scepter rests across the arms of a throne under a canopy.",
+        "art": "assets/psalm45/verse-6-watercolor.webp"
+      },
+      {
+        "title": "The oil of joy",
+        "heading": "Anointed above companions",
+        "meaning": "You have loved righteousness and hated wickedness; therefore God, your God, has anointed you above your companions with the oil of joy. The king's character is the reason for his anointing. He loves righteousness and hates wickedness. God, his God, anoints him with joy above his companions. Anointing with oil marked kings in Israel. Here the oil is joy, perhaps the gladness of the wedding. Hebrews 1:9 applies this to Christ.",
+        "contextTitle": "Anointed with gladness",
+        "context": "1 Samuel 16:13 records David's anointing, and Isaiah 61:3 promises the oil of joy instead of mourning. Hebrews 1:9 quotes this verse of the Son.",
+        "explore": [
+          [
+            "Loved righteousness",
+            "The king's character is described. He loves good and hates evil."
+          ],
+          [
+            "The oil of joy",
+            "Anointing brings gladness. Joy marks the king's reign."
+          ]
+        ],
+        "reflect": "What would it mean to love righteousness and hate wickedness in your daily choices?",
+        "related": [
+          "Hebrews 1:9",
+          "1 Samuel 16:13",
+          "Isaiah 61:3"
+        ],
+        "alt": "A horn of oil pours glistening drops onto a golden plate.",
+        "art": "assets/psalm45/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Myrrh, aloes and cassia",
+        "heading": "Fragrant robes and music",
+        "meaning": "All your garments are fragrant with myrrh and aloes and cassia; from palaces of ivory the harps make you glad. The poet describes the king's wedding clothes, perfumed with costly spices, and music from ivory-inlaid palaces. Myrrh was used for perfume and anointing; aloes and cassia were fragrant woods and bark. The verse is about sensory beauty: smell, sound, splendor. It describes a celebration of joy.",
+        "contextTitle": "Perfume and ivory",
+        "context": "Song of Solomon 4:14 lists myrrh and aloes among choice spices, and 1 Kings 22:39 mentions Ahab's ivory house. Exodus 30:23–24 uses myrrh and cassia in the holy anointing oil.",
+        "explore": [
+          [
+            "Myrrh and aloes",
+            "These were costly perfumes. The king's clothes are fragrant with them."
+          ],
+          [
+            "Palaces of ivory",
+            "Ivory inlay showed great wealth. Music from such palaces fills the celebration."
+          ]
+        ],
+        "reflect": "What beauty in your life could prompt thanksgiving?",
+        "related": [
+          "Song of Solomon 4:14",
+          "Exodus 30:23",
+          "1 Kings 22:39"
+        ],
+        "alt": "Spice jars and a harp stand in an ivory-inlaid hall.",
+        "art": "assets/psalm45/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Gold of Ophir",
+        "heading": "The queen at the king's right hand",
+        "meaning": "The daughters of kings are among your honored women; the queen stands at your right hand, adorned with the gold of Ophir. The scene shifts to the women of the court. Princesses are present, and the queen stands at the king's right hand, the place of honor. She wears gold from Ophir, a distant land famous for fine gold. The verse prepares for the address to the bride in verse 10.",
+        "contextTitle": "Ophir's gold",
+        "context": "1 Kings 9:28 records Solomon's ships bringing gold from Ophir, and 1 Kings 2:19 shows Bathsheba seated at Solomon's right hand. The right hand was a position of honor.",
+        "explore": [
+          [
+            "At your right hand",
+            "The place of honor. The queen stands beside the king."
+          ],
+          [
+            "Gold of Ophir",
+            "Ophir's gold was the finest. The queen's adornment is splendid."
+          ]
+        ],
+        "reflect": "Who honors you, and whom do you honor? What would it look like to give someone a place of honor?",
+        "related": [
+          "1 Kings 9:28",
+          "1 Kings 2:19",
+          "Isaiah 13:12"
+        ],
+        "alt": "Gold jewelry from a distant land lies in an open cedar chest.",
+        "art": "assets/psalm45/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Listen, O daughter",
+        "heading": "Counsel to the bride",
+        "meaning": "Listen, O daughter! Consider and incline your ear: Forget your people and your father's house. The poet addresses the bride directly. She is likely a foreign princess. In ancient royal marriages, a bride left her homeland and joined the king's household permanently. 'Forget' means leaving behind old loyalties, not erasing memory. The counsel reflects that historical setting. It is not offered as a rule that marriage requires losing one's family or identity.",
+        "contextTitle": "Leaving home for marriage",
+        "context": "Genesis 2:24 speaks of leaving father and mother, and Ruth 1:16 shows Ruth choosing Naomi's people. The bride in Psalm 45 joins a new household in an ancient royal custom.",
+        "explore": [
+          [
+            "Incline your ear",
+            "The poet asks for attention. The counsel is weighty."
+          ],
+          [
+            "Forget your people",
+            "She is to transfer her loyalty. It reflects an ancient royal custom."
+          ]
+        ],
+        "reflect": "What loyalties has God called you to leave or reorder for a new commitment?",
+        "related": [
+          "Genesis 2:24",
+          "Ruth 1:16",
+          "Genesis 12:1"
+        ],
+        "alt": "A bride's travel chests are loaded onto camels at a desert caravan.",
+        "art": "assets/psalm45/verse-10-watercolor.webp"
+      },
+      {
+        "title": "He is your lord",
+        "heading": "The king's desire and the bride's honor",
+        "meaning": "And the king will desire your beauty; bow to him, for he is your lord. The counsel continues. The king will delight in her beauty. She is told to bow, honoring him as her lord, the customary respect owed to a king by everyone in his court. The language reflects ancient royal etiquette rather than a general statement about husbands and wives. The verse pictures mutual delight and the bride's honored place in the court.",
+        "contextTitle": "Honor owed to a king",
+        "context": "1 Kings 1:16 shows Bathsheba bowing to King David, and 1 Peter 3:6 mentions Sarah calling Abraham lord. Psalm 45:11 describes court etiquette at a royal wedding.",
+        "explore": [
+          [
+            "Desire your beauty",
+            "The king delights in her. The marriage is celebrated."
+          ],
+          [
+            "Bow to him",
+            "Bowing was court etiquette. Everyone honored the king this way."
+          ]
+        ],
+        "reflect": "How could you show honor to someone in your life this week?",
+        "related": [
+          "1 Kings 1:16",
+          "1 Peter 3:6",
+          "Song of Solomon 4:7"
+        ],
+        "alt": "A pair of embroidered slippers rests on a carpet before a dais.",
+        "art": "assets/psalm45/verse-11-watercolor.webp"
+      },
+      {
+        "title": "The Daughter of Tyre",
+        "heading": "Gifts from the wealthy",
+        "meaning": "The Daughter of Tyre will come with a gift; men of wealth will seek your favor. Tyre was a wealthy Phoenician port city. 'Daughter of Tyre' means its people. Wealthy foreigners come with gifts to honor the new queen. The verse shows her new status and the honor that the marriage brings. Isaiah 60 pictures nations bringing wealth to Zion.",
+        "contextTitle": "Tyre's wealth",
+        "context": "Ezekiel 27 describes Tyre's vast trade, and 1 Kings 5 records Hiram of Tyre supplying Solomon. Isaiah 60:5 pictures the wealth of nations coming to God's people.",
+        "explore": [
+          [
+            "Daughter of Tyre",
+            "Tyre's people bring gifts. The city was famous for wealth."
+          ],
+          [
+            "Seek your favor",
+            "The wealthy honor the queen. Her position is significant."
+          ]
+        ],
+        "reflect": "What gifts could you offer to honor someone God has placed in your life?",
+        "related": [
+          "Ezekiel 27:3",
+          "1 Kings 5:1",
+          "Isaiah 60:5"
+        ],
+        "alt": "Phoenician ships with purple sails unload gifts at a harbor.",
+        "art": "assets/psalm45/verse-12-watercolor.webp"
+      },
+      {
+        "title": "Embroidered with gold",
+        "heading": "The princess in her chamber",
+        "meaning": "All glorious is the princess in her chamber; her gown is embroidered with gold. The scene moves inside, where the bride is being prepared. She is glorious. Her gown is woven or embroidered with gold. Ancient weddings involved elaborate dress, and the description shows celebration and honor. Revelation 19:7–8 pictures the bride of the Lamb clothed in fine linen.",
+        "contextTitle": "Bridal garments",
+        "context": "Isaiah 61:10 speaks of a bride adorned with jewels, and Revelation 19:8 pictures the bride clothed in fine linen. Psalm 45:13 describes the princess's glorious dress.",
+        "explore": [
+          [
+            "All glorious",
+            "The princess shines with honor. Her preparation is complete."
+          ],
+          [
+            "Embroidered with gold",
+            "Her clothing is splendid. Gold thread marks its value."
+          ]
+        ],
+        "reflect": "What would it mean to see yourself clothed with honor by God?",
+        "related": [
+          "Isaiah 61:10",
+          "Revelation 19:8",
+          "Ezekiel 16:13"
+        ],
+        "alt": "A gold-embroidered gown hangs on a stand in a lamp-lit chamber.",
+        "art": "assets/psalm45/verse-13-watercolor.webp"
+      },
+      {
+        "title": "Led to the king",
+        "heading": "The bridal procession",
+        "meaning": "In colorful garments she is led to the king; her virgin companions are brought before you. The bride is escorted to the king in many-colored garments, followed by her companions. The procession is formal and joyful. Ancient weddings often featured the bride being brought to the groom's house. The verse continues the description of the wedding.",
+        "contextTitle": "The procession",
+        "context": "Song of Solomon 3:6–11 describes a wedding procession, and Matthew 25:1 tells of virgins going out to meet the bridegroom. Psalm 45:14 shows the bride escorted to the king.",
+        "explore": [
+          [
+            "Colorful garments",
+            "Her clothing is varied and bright. The occasion is festive."
+          ],
+          [
+            "Her companions",
+            "Bridesmaids accompany her. The wedding is communal."
+          ]
+        ],
+        "reflect": "What joyful occasions in your life could you celebrate with thanks?",
+        "related": [
+          "Song of Solomon 3:6",
+          "Matthew 25:1",
+          "Genesis 24:61"
+        ],
+        "alt": "A procession of women in bright robes moves through a palace garden.",
+        "art": "assets/psalm45/verse-14-watercolor.webp"
+      },
+      {
+        "title": "Joy and gladness",
+        "heading": "Entering the palace",
+        "meaning": "They are led in with joy and gladness; they enter the palace of the king. The procession arrives. The emphasis is on joy and gladness, repeated for intensity. The bride and her companions enter the king's palace. The wedding is complete. Jeremiah 33:11 speaks of the voice of the bridegroom and bride as a sign of restored joy.",
+        "contextTitle": "Wedding joy",
+        "context": "Jeremiah 33:11 lists the voice of bridegroom and bride among the sounds of restored joy, and John 3:29 speaks of the friend of the bridegroom rejoicing. Psalm 45:15 ends the procession in gladness.",
+        "explore": [
+          [
+            "Joy and gladness",
+            "The double phrase stresses celebration. The mood is festive."
+          ],
+          [
+            "The palace of the king",
+            "The destination is the king's house. The bride enters a new home."
+          ]
+        ],
+        "reflect": "Where do you see joy and gladness in your relationships? How could you celebrate them?",
+        "related": [
+          "Jeremiah 33:11",
+          "John 3:29",
+          "Isaiah 62:5"
+        ],
+        "alt": "Great palace doors open onto a courtyard strewn with flowers.",
+        "art": "assets/psalm45/verse-15-watercolor.webp"
+      },
+      {
+        "title": "Sons as princes",
+        "heading": "A future for the dynasty",
+        "meaning": "Your sons will succeed your fathers; you will make them princes throughout the land. The poet turns back to the king and speaks of the future. His sons will take the place of his ancestors. They will be princes across the land. The blessing looks forward to a continuing dynasty. In Israel, this connected with God's promise to David of an enduring house.",
+        "contextTitle": "An enduring house",
+        "context": "2 Samuel 7:12–16 promised David descendants on his throne, and Psalm 132:11–12 speaks of David's sons sitting on the throne. Psalm 45:16 applies that hope to the wedding.",
+        "explore": [
+          [
+            "Succeed your fathers",
+            "The sons take their ancestors' place. The royal line continues into the future."
+          ],
+          [
+            "Princes throughout the land",
+            "The sons will rule. The dynasty's influence spreads."
+          ]
+        ],
+        "reflect": "What legacy would you like to pass on to the next generation?",
+        "related": [
+          "2 Samuel 7:12",
+          "Psalm 132:11",
+          "Genesis 17:6"
+        ],
+        "alt": "A row of small cedar saplings grows beside an ancient great cedar.",
+        "art": "assets/psalm45/verse-16-watercolor.webp"
+      },
+      {
+        "title": "Remembered through all generations",
+        "heading": "The poet's lasting praise",
+        "meaning": "I will commemorate your name through all generations; therefore the nations will praise you forever and ever. The poet ends with his own task. His song will keep the king's name alive. The nations will praise him forever. The verse shows the power of song to preserve memory. Read in light of Hebrews, Christians hear in it the eternal praise of Christ.",
+        "contextTitle": "A name remembered",
+        "context": "Psalm 72:17 prays that the king's name will endure forever, and Philippians 2:9–11 speaks of every tongue confessing Jesus as Lord. Psalm 45:17 ends with lasting praise.",
+        "explore": [
+          [
+            "Commemorate your name",
+            "The poet's song preserves memory. It keeps the name alive."
+          ],
+          [
+            "Nations will praise",
+            "Praise reaches beyond Israel. It is universal and lasting."
+          ]
+        ],
+        "reflect": "How could you help preserve the memory of God's goodness for the next generation?",
+        "related": [
+          "Psalm 72:17",
+          "Philippians 2:10",
+          "Psalm 145:4"
+        ],
+        "alt": "A carved stone stele stands in a garden with lilies at its base.",
+        "art": "assets/psalm45/verse-17-watercolor.webp"
+      }
+    ]
+  }
+}
