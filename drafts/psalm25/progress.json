@@ -1,0 +1,71 @@
+{
+  "chapter": 25,
+  "status": "whole-chapter gate passed; publication pending",
+  "baseMain": "c113cae2bb0028a4ac7e059a463cdf4ec3e987db",
+  "groups": [
+    {
+      "file": "verses-1-8.json",
+      "from": 1,
+      "through": 8,
+      "editorial": "reviewed against source and related contexts",
+      "art": "eight distinct originals and production WebPs visually inspected"
+    },
+    {
+      "file": "verses-9-16.json",
+      "from": 9,
+      "through": 16,
+      "editorial": "reviewed against source and related contexts",
+      "art": "eight distinct originals and production WebPs visually inspected"
+    },
+    {
+      "file": "verses-17-22.json",
+      "from": 17,
+      "through": 22,
+      "editorial": "reviewed against source and related contexts",
+      "art": "six distinct originals and production WebPs visually inspected"
+    }
+  ],
+  "nextVerse": null,
+  "pendingEditorialVerses": [],
+  "pendingArtVerses": [],
+  "proposedPeople": [
+    {
+      "id": "david",
+      "name": "David",
+      "ref": "Psalm 25:1",
+      "reason": "Named by the heading; no particular event supplied."
+    }
+  ],
+  "proposedTopicPlan": {
+    "direction": [
+      "Psalm 25:4",
+      "Psalm 25:5"
+    ],
+    "forgiveness": [
+      "Psalm 25:7",
+      "Psalm 25:11"
+    ],
+    "alone": [
+      "Psalm 25:16"
+    ],
+    "strength": [
+      "Psalm 25:17"
+    ]
+  },
+  "pendingGate": [
+    "passing final-head CI",
+    "PR merge",
+    "main CI",
+    "Pages deployment",
+    "live-byte verification"
+  ],
+  "resume": "Finish PR #52 whole-chapter verification and publication before starting Psalm 26. Main 361cb328924d6fa9129ee5908e328c67ffe59b74 was merged verbatim, including authorized home changes and all story updates.",
+  "passedGate": {
+    "implementation": "48cee68bda39a0c7c8b3816b98e71412dd6e592f",
+    "runs": [
+      39544919004,
+      39544915223
+    ],
+    "checks": "all 22 exact verses, individual notes and art, valid references, every phone-width verse/tab/image on website and packaged webview, shared reflections/reload/Saved/dialog, independent resume, people/needs links, 24→25→26 transitions, offline/Android parity, Capacitor creation/sync"
+  }
+}

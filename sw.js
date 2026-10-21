@@ -1,7 +1,30 @@
 /* Scripture for Life offline support for the WEB build.
    Capacitor Android carries its web assets inside the application. */
-const VERSION = 'scripture-for-life-shell-v41-sweep';
+const VERSION = 'scripture-for-life-shell-v42-psalm25';
 const CORE = [
+  './psalm25.js',
+  './assets/psalm25/verse-1-watercolor.webp',
+  './assets/psalm25/verse-2-watercolor.webp',
+  './assets/psalm25/verse-3-watercolor.webp',
+  './assets/psalm25/verse-4-watercolor.webp',
+  './assets/psalm25/verse-5-watercolor.webp',
+  './assets/psalm25/verse-6-watercolor.webp',
+  './assets/psalm25/verse-7-watercolor.webp',
+  './assets/psalm25/verse-8-watercolor.webp',
+  './assets/psalm25/verse-9-watercolor.webp',
+  './assets/psalm25/verse-10-watercolor.webp',
+  './assets/psalm25/verse-11-watercolor.webp',
+  './assets/psalm25/verse-12-watercolor.webp',
+  './assets/psalm25/verse-13-watercolor.webp',
+  './assets/psalm25/verse-14-watercolor.webp',
+  './assets/psalm25/verse-15-watercolor.webp',
+  './assets/psalm25/verse-16-watercolor.webp',
+  './assets/psalm25/verse-17-watercolor.webp',
+  './assets/psalm25/verse-18-watercolor.webp',
+  './assets/psalm25/verse-19-watercolor.webp',
+  './assets/psalm25/verse-20-watercolor.webp',
+  './assets/psalm25/verse-21-watercolor.webp',
+  './assets/psalm25/verse-22-watercolor.webp',
   './psalm24.js',
   './assets/psalm24/verse-1-watercolor.webp',
   './assets/psalm24/verse-2-watercolor.webp',

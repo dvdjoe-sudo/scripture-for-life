@@ -1,0 +1,588 @@
+{
+  "chapter": 25,
+  "status": "whole-chapter gate passed in CI 39544919004 and 39544915223; publication follows tested final PR #52 merge and Pages/live verification",
+  "sourceReview": "Read bundled BSB Psalm 25 in full, with Psalms 27,32,51,86,103,119, Isaiah 40 and James 1 before drafting. References are thematic or literary comparisons, not an invented historical occasion. Preserve the semicolon joining verses 1–2 and the heading Of David. Read bundled BSB Psalm 25 in full with Psalms 34,37,103, Deuteronomy 6 and Proverbs 3 before drafting this group. Also read Psalms 27,32,86 in the preceding group. Connections describe literary and thematic relationships; none identifies an otherwise unstated event behind Psalm 25. Read bundled BSB Psalm 25 in full with Psalms 31,34,130 and Romans 12 before drafting. The final plea for Israel remains part of the psalm. Related readings are comparisons, not evidence for an invented historical occasion.",
+  "topicPlan": {
+    "direction": [
+      "Psalm 25:4",
+      "Psalm 25:5"
+    ],
+    "forgiveness": [
+      "Psalm 25:7",
+      "Psalm 25:11"
+    ],
+    "alone": [
+      "Psalm 25:16"
+    ],
+    "strength": [
+      "Psalm 25:17"
+    ]
+  },
+  "study": {
+    "number": 25,
+    "coverVerse": 4,
+    "title": "Show me Your ways, O LORD.",
+    "intro": "Twenty-two verses bring trust, guidance, confession and distress into one prayer, ending with a plea for Israel.",
+    "context": "The heading names David without identifying an event. The opening trust flows across verses 1–2; guidance, covenant faithfulness and forgiveness recur through verses 4–14. Verses 15–21 return to personal need, loneliness, enemies and the hope of preservation. The final verse widens the prayer toward Israel. Keep confident declarations and unresolved petitions together: the poem does not report that every difficulty has already ended. Its provision and inheritance language belongs within Israel’s covenant setting, and its poetic snares do not identify a literal trap or historical episode. The Scripture is loaded unchanged from the bundled BSB, including the heading and opening semicolon.",
+    "peopleNote": "David is named in the heading. His profile offers background about courage, failure and repentance without claiming that any one story is the occasion of this psalm. Paintings show anonymous people and symbolic landscapes, not portraits or recorded locations. God is never portrayed as a human body.",
+    "people": [
+      {
+        "id": "david",
+        "name": "David",
+        "ref": "Psalm 25:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "To You I lift up my soul",
+        "heading": "The prayer begins by turning the whole self toward the LORD",
+        "meaning": "The opening addresses the LORD before naming the trouble. Lifting up the soul is a poetic way of entrusting one's life and deepest concerns to God, rather than describing a soul visibly rising from a body. The bundled heading names David, but does not identify a particular episode in his life. The semicolon matters: this first verse flows into the trust expressed in verse 2. Attention, dependence and vulnerability belong together in the opening movement. Prayer begins with a relationship, before it becomes a list of requests.",
+        "contextTitle": "The first line continues into trust",
+        "context": "Psalm 25:1–2 forms a connected opening address. Psalm 86:4 also speaks of lifting up the soul while asking for joy, showing how the same prayer image can hold need and trust together without specifying one historical scene.",
+        "explore": [
+          [
+            "Lift up my soul",
+            "The image concerns the whole person turning toward God. An anonymous figure's open hands in the painting are an artistic response, not a posture required by the verse."
+          ],
+          [
+            "Of David",
+            "The source preserves this heading. It names a David connection without telling us which trouble, location or stage of life supplied the occasion."
+          ]
+        ],
+        "reflect": "What part of your life would you like to bring honestly into prayer today? Is there something you find difficult to put into words?",
+        "related": [
+          "Psalm 25:2",
+          "Psalm 86:4",
+          "Psalm 103:1"
+        ],
+        "alt": "An anonymous adult stands on an olive ridge with open hands beneath a wide dawn sky.",
+        "art": "assets/psalm25/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Trust within vulnerability",
+        "heading": "Confidence in God is spoken alongside fear of disgrace",
+        "meaning": "The sentence from verse 1 continues with personal trust: my God. The speaker then asks not to be put to shame or become a cause for enemies to celebrate. Trust does not silence the threat or make the request unnecessary. The verse is a plea from someone exposed to opposition, not a report that the danger has already ended. Shame here involves the feared collapse of the speaker's hope before hostile observers; it does not prove that every feeling of embarrassment is a divine verdict. The enemies remain unnamed, so no modern person needs to be assigned that role.",
+        "contextTitle": "A petition follows the declaration of trust",
+        "context": "Verses 1–2 hold trust and a plea for protection in one sentence. Later in Psalm 25, the speaker names loneliness, distress and hostile hatred; the prayer remains candid about vulnerability while continuing to seek refuge.",
+        "explore": [
+          [
+            "In You I trust",
+            "The speaker names the object of trust while still asking for help. This is dependence amid risk, rather than evidence that the situation already feels safe."
+          ],
+          [
+            "Do not let my enemies exult",
+            "The request asks that hostile opposition not triumph. It supplies neither an enemy's name nor permission to turn every disagreement into a sacred conflict."
+          ]
+        ],
+        "reflect": "Where do trust and vulnerability sit beside one another in your life? What kind of support would help you face that situation honestly?",
+        "related": [
+          "Psalm 25:19",
+          "Psalm 25:20",
+          "Psalm 27:9"
+        ],
+        "alt": "An anonymous traveler stands sheltered in a rocky cleft, looking toward an opening and distant path.",
+        "art": "assets/psalm25/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Hope shared by those who wait",
+        "heading": "The personal plea widens into confidence for others",
+        "meaning": "The voice moves from my trust to all who wait for the LORD. Waiting is joined to hope, while the contrast exposes treachery rather than mere weakness or uncertainty. The singer expresses confidence that reliance on God will not finally be a disgrace. This line should not be used to deny the real humiliation faithful people can suffer, or to call someone treacherous because help has not arrived quickly. The rest of the psalm still asks for rescue. Its confident statement belongs within a prayer that continues to name fear, guilt and distress.",
+        "contextTitle": "A wider confidence within an unfinished prayer",
+        "context": "Verse 3 broadens the concern of verses 1–2, then verses 4–5 ask for teaching and guidance while waiting continues. Psalm 27:14 likewise encourages waiting, strength and courage without making waiting a sign of failure.",
+        "explore": [
+          [
+            "None who wait for You",
+            "The speaker's hope includes a community beyond the individual. Waiting can include prayer, learning and responsible action rather than an instruction to do nothing."
+          ],
+          [
+            "Treachery without cause",
+            "The contrast names faithless wrongdoing. It is not a label to place on someone simply because they are distressed, confused or still seeking help."
+          ]
+        ],
+        "reflect": "Who might be waiting through uncertainty alongside you? What could mutual encouragement look like without pretending either of you knows the outcome?",
+        "related": [
+          "Psalm 25:5",
+          "Psalm 25:21",
+          "Psalm 27:14"
+        ],
+        "alt": "Three anonymous adults wait beside a stone roadside bench beneath a broad olive tree.",
+        "art": "assets/psalm25/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Teach me Your paths",
+        "heading": "The prayer asks to learn the LORD's way of living",
+        "meaning": "The request turns toward guidance: show me and teach me. Ways and paths are images for a life shaped by the LORD, not only for choosing between travel routes or predicting the future. The following verses connect guidance with truth, goodness, humility and covenant faithfulness. Asking for direction therefore includes a willingness to learn and change. The verse does not describe a hidden sign or promise a private answer to every decision. It offers words for approaching uncertainty as a learner, with conduct as well as destination in view.",
+        "contextTitle": "Direction is connected to truth and character",
+        "context": "Psalm 25:4 introduces the guidance developed in verses 5 and 8–10. Psalm 86:11 similarly joins being taught God's way with walking in truth and an undivided heart; the path image concerns a way of life.",
+        "explore": [
+          [
+            "Show me; teach me",
+            "Both requests leave room for learning. They do not claim that an existing preference must already be God's instruction."
+          ],
+          [
+            "Ways and paths",
+            "The parallel images look ahead to God's goodness, right judgment and loving faithfulness. A landscape path is symbolic art, not a map of a recorded journey."
+          ]
+        ],
+        "reflect": "Where are you asking for direction? What might you need to learn, listen to or reconsider before deciding on your next step?",
+        "related": [
+          "Psalm 25:8",
+          "Psalm 86:11",
+          "Psalm 119:35"
+        ],
+        "alt": "A winding stone footpath runs through sage grass and olive saplings, with a plain staff at its near edge.",
+        "art": "assets/psalm25/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Guide me in Your truth",
+        "heading": "Learning and waiting rest in the God who saves",
+        "meaning": "The request for teaching continues, now naming truth and salvation. The speaker waits all day for the God who saves, holding need for rescue together with willingness to be taught. Waiting here is relational dependence, not a technique for forcing a result by a deadline. Truth gives direction to the learning; the aim is more than getting whatever outcome the speaker first wanted. The line allows a prayer for guidance to continue through ordinary hours. It does not require every uncertainty to disappear before a person can ask for help or take a careful step.",
+        "contextTitle": "Guidance continues through the day of waiting",
+        "context": "Verse 5 extends verse 4's request and repeats the waiting of verse 3. Isaiah 40:27–31 answers a weary community's fear of being overlooked with hope in the Creator's enduring strength; it is a related context, not the occasion of Psalm 25.",
+        "explore": [
+          [
+            "In Your truth",
+            "Guidance is tied to what is true, rather than merely useful to the speaker. The next verses keep that teaching connected with mercy and moral goodness."
+          ],
+          [
+            "All day long",
+            "The prayer gives waiting a daily texture. It names sustained dependence without providing a schedule for rescue or a measure of someone's faith."
+          ]
+        ],
+        "reflect": "What helps you stay open to learning while an answer takes time? Is there one honest and manageable step you can take today?",
+        "related": [
+          "Psalm 25:3",
+          "Psalm 86:11",
+          "Isaiah 40:31"
+        ],
+        "alt": "An anonymous traveler sits beside an unmarked stone milestone as a valley path stretches ahead in late afternoon light.",
+        "art": "assets/psalm25/verse-5-watercolor.webp"
+      },
+      {
+        "title": "Remember Your compassion",
+        "heading": "The appeal rests on God's enduring loving devotion",
+        "meaning": "The speaker asks the LORD to remember compassion and loving devotion. In prayer, this is an appeal for God to act according to His enduring character, not a claim that He has suffered a lapse of memory. The reason given reaches beyond the current crisis: these mercies are from age to age. Verse 7 will contrast remembering mercy with not remembering past sins. Together the lines ask that God's goodness, rather than the speaker's failures, shape the response. The appeal does not hide responsibility; it locates hope in compassion that precedes the present need.",
+        "contextTitle": "Remembering mercy before naming old sins",
+        "context": "Verses 6–7 form a connected appeal about remembrance, mercy and past wrongdoing. Psalm 103:8–14 also joins compassion, loving devotion and God's knowledge of human frailty, offering a companion passage for this prayer.",
+        "explore": [
+          [
+            "Remember",
+            "The speaker asks for a response consistent with the LORD's character. The language belongs to relationship and petition, not an explanation of divine memory."
+          ],
+          [
+            "From age to age",
+            "The appeal rests on enduring compassion rather than a newly earned favor. The psalm will still ask for forgiveness and instruction in a changed way of life."
+          ]
+        ],
+        "reflect": "What helps you remember compassion when the present feels overwhelming? Is there a kindness you want to bring back into view today?",
+        "related": [
+          "Psalm 25:7",
+          "Psalm 103:8",
+          "Psalm 103:14"
+        ],
+        "alt": "An old olive tree with weathered roots and healthy leaves grows among hillside wildflowers.",
+        "art": "assets/psalm25/verse-6-watercolor.webp"
+      },
+      {
+        "title": "Remember me according to Your love",
+        "heading": "The speaker names past wrongdoing and appeals to goodness",
+        "meaning": "The prayer now names sins of youth and rebellious acts. Instead of denying them, the speaker asks not to be remembered by those failures, but according to the LORD's loving devotion and goodness. The contrast is between different grounds for God's response, not between honesty and forgetting responsibility. Nothing in the heading tells us which acts are in view, so David's later stories must not be inserted as this verse's hidden setting. The request offers words for repentance that looks beyond self-condemnation toward mercy, without requiring harmed people to dismiss what happened.",
+        "contextTitle": "Honest confession within an appeal for mercy",
+        "context": "Verse 7 follows the plea to remember enduring compassion and precedes the declaration that the LORD teaches sinners. Psalm 32:5 likewise joins acknowledging wrongdoing with forgiveness; it need not identify the same incident or speaker's circumstances.",
+        "explore": [
+          [
+            "Sins of my youth",
+            "The speaker admits a history of wrongdoing but supplies no list. The line should not be turned into an invented story about a particular youthful act."
+          ],
+          [
+            "According to Your loving devotion",
+            "The appeal asks that mercy and goodness shape how the person is received. It does not claim that confession cancels the need for truth, repair or accountability."
+          ]
+        ],
+        "reflect": "Is there something from your past you want to face with honesty and compassion? What might a responsible step toward repair or support look like?",
+        "related": [
+          "Psalm 25:6",
+          "Psalm 32:5",
+          "Psalm 103:10"
+        ],
+        "alt": "A chipped earthen jar holds a fresh olive shoot beside worn linen on a quiet stone ledge.",
+        "art": "assets/psalm25/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Goodness that teaches sinners",
+        "heading": "The declaration of God's character opens a way to learn",
+        "meaning": "After asking for mercy, the speaker declares that the LORD is good and upright. The therefore links that character with teaching sinners the way. God does not need to approve wrongdoing in order to instruct people who have done wrong. Goodness and uprightness belong together: mercy opens toward a changed way of living rather than leaving the person without direction. The next verse describes humility as the posture of learners. The statement offers hope for correction without making a person's worst act the whole of their identity or excusing its consequences.",
+        "contextTitle": "From a plea for mercy to a description of the teacher",
+        "context": "Verse 8 begins a reflection on guidance in verses 8–10, after the petitions of verses 4–7. Psalm 119:68 also joins God's goodness with a request to be taught, connecting praise and the desire to learn obedience.",
+        "explore": [
+          [
+            "Good and upright",
+            "The paired descriptions hold kindness and moral faithfulness together. The verse does not make goodness depend on overlooking harm."
+          ],
+          [
+            "He shows sinners the way",
+            "Instruction is available to people who need correction. The following focus on humility discourages a posture of superiority toward other learners."
+          ]
+        ],
+        "reflect": "Where would you welcome patient correction or a fresh start? What would help you learn without either excusing harm or treating yourself as beyond hope?",
+        "related": [
+          "Psalm 25:9",
+          "Psalm 25:10",
+          "Psalm 119:68"
+        ],
+        "alt": "A gentle path leads from rough stones into an olive grove where two anonymous adults walk together.",
+        "art": "assets/psalm25/verse-8-watercolor.webp"
+      },
+      {
+        "title": "The humble are taught",
+        "heading": "Guidance meets a willingness to learn what is right",
+        "meaning": "The LORD's instruction is now joined to humility. The two lines connect guidance in what is right with learning His way, so humility is more than an outwardly modest manner. It includes openness to correction and a refusal to make one's own view the final measure of right. The line follows the teaching of sinners in verse 8; the learner is not someone who has become superior to everyone else. Humility also need not mean accepting abuse or surrendering judgment to another person. The teacher named by the verse is the LORD, and the direction concerns what is right.",
+        "contextTitle": "The learner's posture follows the teacher's goodness",
+        "context": "Verse 9 continues the guidance reflection in verses 8–10. Proverbs 3:5–7 similarly places trust, acknowledged dependence and turning from evil alongside guidance, rather than treating confidence in one's own understanding as sufficient.",
+        "explore": [
+          [
+            "The humble",
+            "The description concerns a teachable posture before the LORD. It is not a demand to regard oneself as worthless or give every other person's opinion unquestioned authority."
+          ],
+          [
+            "What is right; His way",
+            "The two phrases keep learning tied to moral direction. Guidance in this setting involves conduct, not merely a prediction about which option will prove easiest."
+          ]
+        ],
+        "reflect": "Where have you learned something important by listening or reconsidering? Is there an area where you would welcome patient, trustworthy guidance now?",
+        "related": [
+          "Psalm 25:8",
+          "Proverbs 3:5",
+          "Proverbs 3:7"
+        ],
+        "alt": "Two anonymous adults pause beside a terrace path, one listening attentively to the other.",
+        "art": "assets/psalm25/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Loving and faithful ways",
+        "heading": "The path image is placed within a covenant relationship",
+        "meaning": "The LORD's ways are described as loving and faithful, and the verse speaks of people who keep His covenant and decrees. Guidance is therefore more than finding a pleasing outcome; it involves a relationship with commitments and a pattern of obedience. The surrounding prayer includes confession, distress and waiting, so the declaration does not mean faithful people never face painful circumstances. Nor does keeping the covenant make the LORD's goodness a commodity to purchase. The poem holds His trustworthy character together with the responsibility of those who seek to learn His way.",
+        "contextTitle": "A covenant statement within a prayer for mercy",
+        "context": "Verse 10 concludes the guidance reflection before verse 11 returns to forgiveness. Psalm 103:17–18 likewise joins enduring loving devotion with covenant remembrance and obedience, keeping gift and response in the same passage.",
+        "explore": [
+          [
+            "Loving and faithful",
+            "These qualities describe the LORD's ways. Their place within an anguished prayer discourages measuring faithfulness only by immediate comfort or success."
+          ],
+          [
+            "His covenant and His decrees",
+            "The relationship includes commitments to live by. Deuteronomy 6 connects teaching, love and obedience in Israel's life without making Psalm 25 a report of that earlier setting."
+          ]
+        ],
+        "reflect": "Which commitments help give your life direction? Where might faithfulness take the form of a small action repeated with care?",
+        "related": [
+          "Psalm 103:17",
+          "Psalm 103:18",
+          "Deuteronomy 6:6"
+        ],
+        "alt": "A winding trail follows low stone walls through an olive grove, with a small clay lamp near the foreground.",
+        "art": "assets/psalm25/verse-10-watercolor.webp"
+      },
+      {
+        "title": "Forgive my great iniquity",
+        "heading": "The appeal names the seriousness of wrongdoing and the LORD's name",
+        "meaning": "The prayer interrupts its reflection on guidance with a direct request for forgiveness. The speaker calls the iniquity great rather than minimizing it, and appeals for the sake of the LORD's name. That appeal looks toward God's character and reputation, not a list of achievements that could cancel the wrong. The verse shows how seeking a right path can include acknowledging where one has seriously failed. It does not identify the wrongdoing or erase responsibility toward those harmed. The heading's David connection is preserved without supplying a specific episode that the psalm itself leaves unnamed.",
+        "contextTitle": "Confession returns in the middle of the guidance passage",
+        "context": "Verse 11 echoes the concern with past sin in verse 7 and precedes further teaching about reverence and covenant. Psalm 32:5 gives a related account of acknowledged sin and forgiveness, without proving that the same incident is in view.",
+        "explore": [
+          [
+            "For the sake of Your name",
+            "The speaker grounds the plea in who the LORD is. Invoking the name does not make forgiveness a way to avoid honest confession or needed repair."
+          ],
+          [
+            "For it is great",
+            "The wording does not soften the wrong into a minor mistake. Naming its seriousness can coexist with asking for mercy rather than concluding that help is impossible."
+          ]
+        ],
+        "reflect": "What would it mean to name a wrong honestly without letting it become your whole identity? Is there a step toward accountability or repair you want to consider?",
+        "related": [
+          "Psalm 25:7",
+          "Psalm 32:5",
+          "Psalm 103:10"
+        ],
+        "alt": "A plain basin of clear water rests beside a folded weathered cloak on a limestone ledge.",
+        "art": "assets/psalm25/verse-11-watercolor.webp"
+      },
+      {
+        "title": "Reverence and the chosen path",
+        "heading": "The question turns toward the person who fears the LORD",
+        "meaning": "A question introduces the person who fears the LORD, and the answer connects reverence with instruction. Fear in this worship setting includes taking God's authority seriously; it is not merely a passing anxious feeling. The path language continues the requests of verses 4–5. The bundled wording speaks of instruction in the path chosen for the person, without supplying a method for discovering secret predictions about every decision. Read with verses 9–10, the way involves humility, right conduct and faithfulness. The question invites attention to the learner's relationship with God before attention to the destination.",
+        "contextTitle": "Instruction follows the prayer for pardon",
+        "context": "Verses 12–14 describe reverence, provision and covenant relationship after the confession of verse 11. Psalm 34:11–14 connects learning the fear of the LORD with truthful speech, doing good and pursuing peace, giving practical shape to reverence.",
+        "explore": [
+          [
+            "Who fears the LORD?",
+            "The question identifies a posture of reverence and accountability. It need not be read as praising constant panic or judging the intensity of someone's emotions."
+          ],
+          [
+            "He will instruct him",
+            "The promised action is teaching. The verse describes no magical sign, private map or guarantee that one will never need counsel or further learning."
+          ]
+        ],
+        "reflect": "What values or commitments help you weigh a difficult choice? How might reverence, wise counsel and a willingness to learn shape your next step?",
+        "related": [
+          "Psalm 25:4",
+          "Psalm 34:11",
+          "Psalm 34:14"
+        ],
+        "alt": "A small anonymous traveler pauses where two paths divide around a rugged olive hillside.",
+        "art": "assets/psalm25/verse-12-watercolor.webp"
+      },
+      {
+        "title": "Provision beyond one lifetime",
+        "heading": "Well-being and descendants are named in the language of the land",
+        "meaning": "The description of the reverent person includes dwelling in prosperity and descendants inheriting the land. The BSB wording should remain intact, while its setting in Israel's covenant life keeps it from becoming a promise that every faithful reader will acquire property or great wealth. The verse looks beyond one person's moment to the continuity of a household and people. Psalm 37 also joins the land, meekness and provision in wisdom-shaped encouragement. Psalm 25's own petitions for rescue remain unfinished. Its hope should not be used to blame poverty, childlessness or displacement on a failure to trust God.",
+        "contextTitle": "Land language belongs to the covenant setting",
+        "context": "Verse 13 sits between reverent instruction and covenant disclosure. Deuteronomy 6:1–12 addresses Israel's life in the promised land, while Psalm 37:9–11 uses inheritance language in counsel about patience and wrongdoing; neither is a financial forecast for every reader.",
+        "explore": [
+          [
+            "Dwell in prosperity",
+            "The source names well-being positively. Its wisdom and covenant context matters; the continuing distress of the prayer prevents treating it as an instant prosperity formula."
+          ],
+          [
+            "His descendants; the land",
+            "The line widens the horizon beyond an individual lifetime. It does not authorize taking another person's home or treating people without descendants as outside God's care."
+          ]
+        ],
+        "reflect": "When you think about a good future, what do you hope to pass on beyond possessions? Who or what has helped you experience a sense of belonging?",
+        "related": [
+          "Psalm 37:11",
+          "Psalm 37:16",
+          "Deuteronomy 6:10"
+        ],
+        "alt": "An old olive tree and a young sapling grow above modest tended fields and a distant stone home.",
+        "art": "assets/psalm25/verse-13-watercolor.webp"
+      },
+      {
+        "title": "The LORD confides",
+        "heading": "Reverence is joined to closeness and covenant understanding",
+        "meaning": "The language of confiding brings warmth and closeness to the description of those who fear the LORD. Reverence and relationship are held together rather than set against each other. The second line specifies covenant knowledge, so the verse is not a promise of secret information that makes one person superior to others. To know the covenant also involves learning its obligations, as verse 10 has already said. The prayer portrays a God who teaches and welcomes reverent attention. The symbolic open doorway in the painting invites reflection on relationship without claiming to show a private meeting with God.",
+        "contextTitle": "Closeness remains connected with covenant teaching",
+        "context": "Verse 14 completes the reflection begun in verse 12. Proverbs 3:32 similarly speaks of the LORD as a friend to the upright, within a passage opposing violence and injustice; the comparison concerns relationship and moral direction.",
+        "explore": [
+          [
+            "Confides in those who fear Him",
+            "The BSB presents a close relationship alongside reverence. The line does not grant unquestionable authority to someone who claims special private knowledge."
+          ],
+          [
+            "Reveals His covenant",
+            "The object of this disclosure is named. Read with verse 10, understanding is connected with faithful living rather than collecting hidden predictions."
+          ]
+        ],
+        "reflect": "What helps you develop trust in a relationship without losing respect or accountability? Where would you like deeper understanding of the commitments you live by?",
+        "related": [
+          "Psalm 25:10",
+          "Proverbs 3:32",
+          "Deuteronomy 6:7"
+        ],
+        "alt": "An open stone doorway reveals an empty table, two stools and a plain rolled scroll in warm natural light.",
+        "art": "assets/psalm25/verse-14-watercolor.webp"
+      },
+      {
+        "title": "Eyes lifted, feet awaiting freedom",
+        "heading": "Attention to the LORD is expressed through an image of rescue",
+        "meaning": "The speaker returns to a personal declaration. Eyes remain on the LORD while feet need to be freed from a mesh, bringing upward attention and earthly vulnerability into one image. The snare is poetic language for entangling danger; the psalm does not require us to invent a literal trap, hunter or escape scene. The speaker expects help while the next verses still plead for grace and relief. Trust is therefore voiced within trouble rather than after every threat has vanished. The image can hold hope for release without telling a distressed person that prayer must replace practical support.",
+        "contextTitle": "A personal declaration leads back into petition",
+        "context": "Verse 15 shifts from descriptions of the reverent person to the speaker's own dependence. Verses 16–20 then name loneliness, distress, affliction and hostile enemies. Proverbs 3:26 provides a related foot-and-snare image in its counsel about confidence.",
+        "explore": [
+          [
+            "My eyes are always on the LORD",
+            "The line describes sustained attention and reliance. It is poetic commitment, not a claim that ordinary tasks or seeking help are unfaithful distractions."
+          ],
+          [
+            "My feet from the mesh",
+            "The net image gives danger a physical shape. The picture's abandoned cord is symbolic art and should not be mistaken for a documented event in David's life."
+          ]
+        ],
+        "reflect": "What feels entangling or difficult to move through at the moment? What sources of practical help and steady hope could support a next step?",
+        "related": [
+          "Psalm 25:16",
+          "Psalm 25:20",
+          "Proverbs 3:26"
+        ],
+        "alt": "A traveler's sandaled feet stand on clear stones beside an abandoned loose cord net, with a valley beyond.",
+        "art": "assets/psalm25/verse-15-watercolor.webp"
+      },
+      {
+        "title": "Lonely and afflicted",
+        "heading": "The prayer asks for a gracious turning toward personal distress",
+        "meaning": "The plea becomes especially direct: turn to me and be gracious. The speaker names loneliness and affliction without treating those experiences as proof of being abandoned or morally inferior. Turn to me is relational prayer language, not a description of a divine body physically changing direction. This verse follows the trust of verse 15 and precedes more requests for release, showing that confidence and an honest cry for attention can live together. Its words make room for someone who feels isolated. They offer companionship in prayer without denying the value of reaching toward safe human support.",
+        "contextTitle": "Loneliness is named within a trusting prayer",
+        "context": "Verses 16–18 bring loneliness, growing inner trouble, affliction and sin into the same prayer without reducing all suffering to one cause. Psalm 34:18 similarly speaks of nearness to the brokenhearted, while verse 19 acknowledges the afflictions of the righteous.",
+        "explore": [
+          [
+            "Turn to me and be gracious",
+            "The request asks for attentive mercy. The illustration remains an anonymous person's solitude, without inventing a visible divine visitor."
+          ],
+          [
+            "Lonely and afflicted",
+            "The speaker names experience plainly. The phrase is not a diagnosis or evidence that faithful people must never feel alone."
+          ]
+        ],
+        "reflect": "When loneliness feels strongest, what kind of presence or contact would be welcome? Is there a safe person, place or practice you could reach toward today?",
+        "related": [
+          "Psalm 25:17",
+          "Psalm 34:18",
+          "Psalm 34:19"
+        ],
+        "alt": "A solitary anonymous adult sits on a stone step beside an empty courtyard and distant olive hills at dusk.",
+        "art": "assets/psalm25/verse-16-watercolor.webp"
+      },
+      {
+        "title": "Room within distress",
+        "heading": "The growing troubles of the heart are brought into prayer",
+        "meaning": "The speaker names increasing inner trouble and asks to be freed from distress. This is an appeal for relief, not a report that the difficulty has already ended. It follows loneliness and affliction in verse 16, so the prayer attends to both isolation and the pressure felt within. The verse offers words for need without diagnosing its medical cause or measuring the person's faith by how quickly the trouble lifts. The poem's trust remains present alongside this honest plea. Seeking practical help can belong with such prayer; distress does not have to be hidden in order to ask for care.",
+        "contextTitle": "Inner trouble follows the plea about loneliness",
+        "context": "Verses 16–18 move through loneliness, increasing heart trouble, affliction and the request for forgiveness. Psalm 31:9 also names distress in prayer, while the same psalm continues to express trust and ask for deliverance.",
+        "explore": [
+          [
+            "Troubles of my heart",
+            "The phrase gives inward distress a voice. The psalm offers no diagnosis and does not make the experience evidence of moral failure."
+          ],
+          [
+            "Free me from my distress",
+            "This is a request made within unresolved need. The ravine opening in the watercolor is symbolic hope, not proof of a documented escape."
+          ]
+        ],
+        "reflect": "Where do you need more room to breathe or speak honestly? What kind of practical care or trusted support might help you carry today's pressure?",
+        "related": [
+          "Psalm 25:16",
+          "Psalm 31:9",
+          "Psalm 34:18"
+        ],
+        "alt": "A shaded narrow ravine opens toward a broad green valley, with a tiny anonymous traveler near the opening.",
+        "art": "assets/psalm25/verse-17-watercolor.webp"
+      },
+      {
+        "title": "Consider my trouble and forgive",
+        "heading": "Affliction and confession are held in one appeal",
+        "meaning": "The speaker asks the LORD to consider affliction and trouble, then asks for all sins to be taken away. Holding these needs together does not explain every painful experience as punishment for a particular act. The prayer has already named hostile enemies as well as personal wrongdoing, and it does not supply one simple cause for everything. Confession remains honest, while suffering is also brought for compassionate attention. The request for all sins widens the earlier plea about youth and great iniquity. No specific event is named, so the notes do not turn David's heading into an invented setting.",
+        "contextTitle": "The earlier requests for mercy return",
+        "context": "Verse 18 recalls the forgiveness sought in verses 7 and 11 while continuing the distress of verses 16–17. Psalm 130:1–4 similarly places a cry from the depths beside the hope of forgiveness, without identifying the same circumstances.",
+        "explore": [
+          [
+            "Consider my affliction",
+            "The speaker asks for attentive care rather than offering a theory about the cause of all suffering. The next verse again names hostility from others."
+          ],
+          [
+            "All my sins",
+            "The request is comprehensive. It neither invents a list of wrongdoing nor removes the importance of truth and repair where another person has been harmed."
+          ]
+        ],
+        "reflect": "Are there different needs you have been trying to separate that you could bring honestly into one prayer? What would compassion and accountability each look like?",
+        "related": [
+          "Psalm 25:7",
+          "Psalm 25:11",
+          "Psalm 130:4"
+        ],
+        "alt": "An anonymous adult kneels quietly on an olive terrace beside a plain clay bowl and distant hills.",
+        "art": "assets/psalm25/verse-18-watercolor.webp"
+      },
+      {
+        "title": "Hostility is named plainly",
+        "heading": "The prayer asks God to see the number and hatred of the enemies",
+        "meaning": "The speaker asks the LORD to consider the enemies, naming both their number and the viciousness of their hatred. This line does not soften hostility into an ordinary inconvenience, but it also does not identify particular people, peoples or modern opponents. The act in the verse is an appeal for God to see, not an instruction for personal retaliation. The next line asks for guarding and deliverance. Readers can acknowledge real harm while keeping the poem's unnamed enemies distinct from anyone they are tempted to label too quickly. The artwork remains symbolic and does not reconstruct a battle.",
+        "contextTitle": "Attention to affliction turns toward those causing harm",
+        "context": "The repeated request to consider links verses 18 and 19, moving from personal trouble to hostile opposition. Romans 12:17–21 later counsels against revenge while taking evil seriously; that is a related ethical reading, not the psalm's historical setting.",
+        "explore": [
+          [
+            "They are many",
+            "The speaker experiences opposition as overwhelming. The poem supplies no count or named group, so a painting cannot claim to depict its actual participants."
+          ],
+          [
+            "Vicious hatred",
+            "The language names the severity of hostility. Bringing it to God does not require a person to deny harm or take revenge into their own hands."
+          ]
+        ],
+        "reflect": "When conflict feels overwhelming, what helps you describe the harm accurately? What boundaries or support could help you respond without being drawn into retaliation?",
+        "related": [
+          "Psalm 25:20",
+          "Psalm 31:13",
+          "Romans 12:19"
+        ],
+        "alt": "A small anonymous traveler stands on an exposed ridge with indistinct figures far away across another ridge.",
+        "art": "assets/psalm25/verse-19-watercolor.webp"
+      },
+      {
+        "title": "Guard my soul and deliver me",
+        "heading": "The closing petitions return to refuge and the fear of shame",
+        "meaning": "The prayer asks for the speaker's life to be guarded and delivered. It returns to the fear of being put to shame from verses 2–3, giving the later petitions a connection with the opening trust. Taking refuge is the reason offered for this appeal, rather than a claim that the speaker has no need or has acted flawlessly. The psalm can ask for protection and forgiveness together. Its shelter image expresses dependence on the LORD without describing a particular physical hiding place. The verse also does not require a person to remain in danger rather than seek safety and help.",
+        "contextTitle": "The opening concern is heard again near the end",
+        "context": "Verse 20 echoes shame and trust from verses 1–3, now after the fuller account of loneliness, trouble and enemies. Psalm 31:1 similarly joins refuge, a plea not to be put to shame and a request for saving help.",
+        "explore": [
+          [
+            "Guard my soul",
+            "In this prayer the concern embraces the person's life and well-being. It does not set inner care against the need for bodily safety."
+          ],
+          [
+            "I take refuge in You",
+            "The statement names dependence as the prayer continues. The rock shelter is a symbolic picture, not a location identified by the text."
+          ]
+        ],
+        "reflect": "What helps you feel protected enough to be honest about your needs? Is there a step toward safety, rest or support that you want to take?",
+        "related": [
+          "Psalm 25:2",
+          "Psalm 31:1",
+          "Psalm 34:22"
+        ],
+        "alt": "An anonymous traveler rests under a deep rock overhang while windblown leaves move beyond the shelter.",
+        "art": "assets/psalm25/verse-20-watercolor.webp"
+      },
+      {
+        "title": "Integrity while waiting",
+        "heading": "The speaker asks to be preserved in an upright way",
+        "meaning": "Integrity and uprightness appear near the prayer's close, joined to waiting for the LORD. The request does not erase earlier confessions or turn the speaker into someone who has never sinned. It asks that a truthful, faithful way of life help preserve the person amid ongoing pressure. Waiting and responsible conduct therefore belong together rather than competing. The words can guide reflection on staying honest when circumstances make shortcuts tempting. They do not say that moral effort purchases rescue, or that people facing trouble must have failed to be upright enough.",
+        "contextTitle": "An ethical request closes the personal prayer",
+        "context": "Verse 21 returns to waiting from verses 3 and 5, now joined with integrity and uprightness. Psalm 37:34 likewise places waiting beside keeping the LORD's way; the literary connection concerns perseverance rather than a timetable for relief.",
+        "explore": [
+          [
+            "Integrity and uprightness",
+            "These qualities name a direction for living. Their place after confession shows that seeking integrity can include repentance and correction."
+          ],
+          [
+            "Because I wait for You",
+            "Hope is sustained while the person seeks to live faithfully. The verse does not make waiting a substitute for honest action or needed support."
+          ]
+        ],
+        "reflect": "Where might pressure tempt you to act against your values? What small, honest choice could help you remain steady while the outcome is uncertain?",
+        "related": [
+          "Psalm 25:3",
+          "Psalm 25:5",
+          "Psalm 37:34"
+        ],
+        "alt": "Worn sandaled feet take a careful step on a level stone path beside olive terraces and an upright staff.",
+        "art": "assets/psalm25/verse-21-watercolor.webp"
+      },
+      {
+        "title": "A prayer for Israel",
+        "heading": "The final request widens from personal distress to the people",
+        "meaning": "The last verse asks God to redeem Israel from all its distress. The personal prayer opens outward: the speaker's need does not exhaust the concerns brought before God. This communal ending belongs to the exact source and should not be treated as a detachable afterthought. Redemption names a hope for deliverance, while the verse does not narrate the rescue or identify a particular crisis. The historical name Israel remains in place. A present-day reflection can learn from the widening concern without turning the line into an endorsement of a current policy, conflict or territorial claim.",
+        "contextTitle": "The final line changes the scope of the appeal",
+        "context": "After the singular petitions of verses 16–21, verse 22 names Israel. Psalm 130:7–8 also moves from an individual's waiting toward hope and redemption for Israel, offering a related pattern without proving that the songs share an occasion.",
+        "explore": [
+          [
+            "Redeem Israel",
+            "The prayer names a people rather than continuing only with the individual. Its historical wording is preserved without substituting a different community into the Scripture."
+          ],
+          [
+            "All its distress",
+            "The closing request embraces a broad need for deliverance. It provides no account of a completed rescue or prediction that can simply be assigned to current events."
+          ]
+        ],
+        "reflect": "Whose distress would you like to remember alongside your own today? How might that wider concern lead to a prayer, an act of care or a practical contribution?",
+        "related": [
+          "Psalm 130:7",
+          "Psalm 130:8",
+          "Psalm 25:16"
+        ],
+        "alt": "An anonymous community gathers on an olive hillside above a modest village and cultivated fields in morning light.",
+        "art": "assets/psalm25/verse-22-watercolor.webp"
+      }
+    ]
+  }
+}
