@@ -1,0 +1,538 @@
+{
+  "chapter": 72,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 72 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "direction": [
+      "Psalm 72:1"
+    ],
+    "strength": [
+      "Psalm 72:12"
+    ],
+    "gratitude": [
+      "Psalm 72:18"
+    ]
+  },
+  "study": {
+    "number": 72,
+    "coverVerse": 1,
+    "title": "Endow the king with Your justice, O God",
+    "intro": "A royal prayer asks God to give the king justice, so that he defends the poor, brings peace like rain on the land and blesses all nations, before Book II closes with a doxology.",
+    "context": "Psalm 72 is headed 'Of Solomon' and is a prayer for the king, perhaps written by or for Solomon at the start of his reign, and closely tied to David's hopes for his son. It pictures an ideal ruler whose power serves the afflicted and needy, whose reign brings fruitful land and peace, and whose rule reaches 'from sea to sea.' No earthly king fully lived up to it, so Jews and Christians alike came to read it as a hope for the Messiah. Verses 18–19 are a doxology closing Book II of the Psalter, and verse 20 notes the end of 'the prayers of David son of Jesse.'",
+    "peopleNote": "The heading names Solomon, David's son and successor, and verse 20 names David son of Jesse; the app has no Solomon profile yet, so David's profile gives the family background. Christians have long seen this ideal king fulfilled in Jesus, the Son of David. Planned paintings show anonymous villagers, fields, rain and distant caravans; God is never portrayed as a human body.",
+    "people": [
+      {
+        "id": "david",
+        "name": "David",
+        "ref": "Psalm 72:1"
+      },
+      {
+        "id": "jesus",
+        "name": "Jesus",
+        "ref": "Psalm 72:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Endow the king",
+        "heading": "A prayer for a just ruler",
+        "meaning": "The psalm begins 'Of Solomon' and asks, 'Endow the king with Your justice, O God, and the son of the king with Your righteousness.' The 'son of the king' fits Solomon, the son of David. The request is not for wealth or victories first, but for God's own justice to be given to the ruler. A king cannot invent true justice; it must come from God. When Solomon later asked for wisdom to govern rightly, God was pleased, because a just ruler blesses everyone under his care.",
+        "contextTitle": "Solomon's request",
+        "context": "1 Kings 3:9 records Solomon asking for 'an understanding heart to judge Your people.' Proverbs 16:12 says a throne is established through righteousness. Isaiah 11:1–4 describes a coming king from Jesse's line who will judge with righteousness.",
+        "explore": [
+          [
+            "Endow",
+            "Give or supply as a gift, like equipping someone with qualities they need for a task."
+          ],
+          [
+            "Son of the king",
+            "The heir to the throne, here likely Solomon as the son and successor of King David."
+          ]
+        ],
+        "reflect": "Which leaders in your life could you pray for to have God's justice and wisdom?",
+        "related": [
+          "1 Kings 3:9",
+          "Proverbs 16:12",
+          "Isaiah 11:4"
+        ],
+        "alt": "A young ruler kneels in prayer in a plain stone hall with early light from a high opening.",
+        "art": "assets/psalm72/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Your afflicted",
+        "heading": "Justice for God's people",
+        "meaning": "Verse 2 shows what justice looks like: 'May he judge Your people with righteousness and Your afflicted with justice.' Notice the word 'Your.' The people and the afflicted belong to God, not to the king. A ruler is a steward caring for someone else's flock. The afflicted are the poor, weak and easily overlooked. A good king makes sure they receive fair judgment in court and are not crushed by those with money or influence. God's concern for the vulnerable sets the standard.",
+        "contextTitle": "Belonging to God",
+        "context": "Deuteronomy 17:18–20 tells Israel's king to read God's law so he will not consider himself above his brothers. Jeremiah 22:15–16 says defending the poor and needy is what it means to know the LORD. Proverbs 31:9 calls rulers to defend the rights of the afflicted.",
+        "explore": [
+          [
+            "Afflicted",
+            "People who are poor, oppressed or suffering, often lacking power to defend themselves."
+          ],
+          [
+            "Judge",
+            "Decide disputes and rule fairly, as a king acting as the highest court in the land."
+          ]
+        ],
+        "reflect": "Who are 'God's afflicted' in your community that deserve justice and care?",
+        "related": [
+          "Deuteronomy 17:20",
+          "Jeremiah 22:16",
+          "Proverbs 31:9"
+        ],
+        "alt": "A ruler sits at a city gate listening to a poor widow while elders stand nearby.",
+        "art": "assets/psalm72/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Mountains bring peace",
+        "heading": "Righteousness across the land",
+        "meaning": "Verse 3 uses a beautiful picture: 'May the mountains bring peace to the people, and the hills bring righteousness.' In Israel, hills and mountains covered much of the land. The prayer imagines the whole landscape yielding peace the way it yields crops. The Hebrew word for peace, shalom, means wholeness and well-being, not only the absence of war. When justice reigns, the land itself seems to flourish, and every hillside village shares in the blessing of good rule.",
+        "contextTitle": "Shalom in the land",
+        "context": "Isaiah 52:7 says, 'How beautiful on the mountains are the feet of those who bring good news, who proclaim peace.' Isaiah 32:17 says the work of righteousness will be peace. Psalm 85:10 pictures righteousness and peace kissing each other.",
+        "explore": [
+          [
+            "Peace",
+            "Wholeness and well-being (shalom), including safety, health, plenty and right relationships."
+          ],
+          [
+            "Hills",
+            "The rolling high ground of Israel where villages, farms and vineyards spread across the land."
+          ]
+        ],
+        "reflect": "Where would you love to see God's peace and righteousness spread in your community?",
+        "related": [
+          "Isaiah 52:7",
+          "Isaiah 32:17",
+          "Psalm 85:10"
+        ],
+        "alt": "Terraced green hills with small stone villages stretch toward mountains under a calm sky.",
+        "art": "assets/psalm72/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Crush the oppressor",
+        "heading": "Vindicating the needy",
+        "meaning": "The king's justice has two sides. He will 'vindicate the afflicted among the people' and 'save the children of the needy.' At the same time, he will 'crush the oppressor.' Real care for the weak requires stopping those who exploit them. A ruler who only speaks kindly without confronting oppression has not done justice. The phrase 'children of the needy' shows concern reaching to families and the next generation, not only to adults standing in court.",
+        "contextTitle": "Defending and confronting",
+        "context": "Isaiah 11:4 says the coming king will judge the poor with righteousness and strike the earth with the rod of His mouth. Psalm 82:3 commands defending the cause of the weak and fatherless. Luke 1:52 says God has brought down rulers and exalted the humble.",
+        "explore": [
+          [
+            "Vindicate",
+            "Prove someone right and defend their cause, clearing them and securing justice for them."
+          ],
+          [
+            "Oppressor",
+            "Someone who uses power to crush, exploit or cheat others who cannot resist."
+          ]
+        ],
+        "reflect": "How can caring for the weak include standing against what harms them?",
+        "related": [
+          "Isaiah 11:4",
+          "Psalm 82:3",
+          "Luke 1:52"
+        ],
+        "alt": "A father holds his child's hand as a guard escorts a cruel tax collector away from the market.",
+        "art": "assets/psalm72/verse-4-watercolor.webp"
+      },
+      {
+        "title": "As long as the sun shines",
+        "heading": "Through all generations",
+        "meaning": "Verse 5 prays, 'May they fear him as long as the sun shines, as long as the moon remains, through all generations.' 'Fear' here means deep respect and reverence. The prayer reaches far beyond one lifetime, using the sun and moon as pictures of something lasting. Some ancient translations read 'May he endure' instead of 'May they fear him.' Either way, the hope is for a reign that never ends, which no ordinary king could fulfill.",
+        "contextTitle": "An endless reign",
+        "context": "2 Samuel 7:16 promises David that his throne will be established forever. Psalm 89:36–37 says David's line will endure like the sun and moon. Luke 1:32–33 says of Jesus, 'His kingdom will never end.'",
+        "explore": [
+          [
+            "Fear",
+            "Reverent respect and awe, honoring a ruler or God with seriousness and loyalty."
+          ],
+          [
+            "Through all generations",
+            "From one age to the next without end, beyond the span of any single lifetime."
+          ]
+        ],
+        "reflect": "What does it mean to you that God's kingdom lasts through all generations?",
+        "related": [
+          "2 Samuel 7:16",
+          "Psalm 89:36",
+          "Luke 1:33"
+        ],
+        "alt": "The sun rises over a quiet hill town while a pale moon still hangs in the western sky.",
+        "art": "assets/psalm72/verse-5-watercolor.webp"
+      },
+      {
+        "title": "Rain on cut grass",
+        "heading": "A refreshing reign",
+        "meaning": "The king's rule is pictured as 'rain that falls on freshly cut grass, like spring showers that water the earth.' After a field is mowed, it needs rain to grow back. A good ruler refreshes people the way rain revives a field. In a dry land like Israel, rain meant life, harvest and hope. Harsh rulers leave people dry and exhausted; a just king brings renewal. The image is gentle, showing that power can bless rather than burden.",
+        "contextTitle": "Rain as blessing",
+        "context": "2 Samuel 23:3–4 says one who rules justly is like the light of morning and rain that makes grass sprout. Hosea 6:3 says the LORD will come like spring rain. Deuteronomy 32:2 compares God's teaching to showers on new grass.",
+        "explore": [
+          [
+            "Freshly cut grass",
+            "A field that has just been mowed, needing rain to grow back green and full."
+          ],
+          [
+            "Spring showers",
+            "The rains of early spring that ripened crops in Israel and were vital for harvest."
+          ]
+        ],
+        "reflect": "How could you be like refreshing rain to someone who feels worn down?",
+        "related": [
+          "2 Samuel 23:4",
+          "Hosea 6:3",
+          "Deuteronomy 32:2"
+        ],
+        "alt": "Gentle rain falls on a freshly mown meadow beside a small farmhouse in soft grey light.",
+        "art": "assets/psalm72/verse-6-watercolor.webp"
+      },
+      {
+        "title": "The righteous flourish",
+        "heading": "Prosperity until the moon is no more",
+        "meaning": "Verse 7 prays, 'May the righteous flourish in his days and prosperity abound until the moon is no more.' Under a just king, good people thrive instead of being pushed down. 'Prosperity' translates shalom again, meaning broad well-being. The phrase 'until the moon is no more' stretches the hope to the very end of time. Righteousness and peace grow together. When leaders honor what is right, ordinary people who live honestly can flourish without fear.",
+        "contextTitle": "Flourishing people",
+        "context": "Psalm 92:12 says the righteous will flourish like a palm tree. Proverbs 29:2 says, 'When the righteous flourish, the people rejoice.' Isaiah 9:7 promises no end to the increase of the Messiah's government and peace.",
+        "explore": [
+          [
+            "Flourish",
+            "Grow strong and healthy, thriving like a well-watered plant full of leaves and fruit."
+          ],
+          [
+            "Abound",
+            "Exist in great quantity, overflowing beyond what is merely enough."
+          ]
+        ],
+        "reflect": "What helps righteous people flourish where you live, and how could you contribute?",
+        "related": [
+          "Psalm 92:12",
+          "Proverbs 29:2",
+          "Isaiah 9:7"
+        ],
+        "alt": "Families gather fruit in a thriving orchard of fig and olive trees at golden evening light.",
+        "art": "assets/psalm72/verse-7-watercolor.webp"
+      },
+      {
+        "title": "From sea to sea",
+        "heading": "A worldwide reign",
+        "meaning": "The prayer widens: 'May he rule from sea to sea, and from the Euphrates to the ends of the earth.' The Euphrates River was a far boundary of the land God promised to Abraham. 'Sea to sea' may mean from the Mediterranean to distant waters. Then the vision goes further, to 'the ends of the earth.' Solomon's kingdom was large, but this hope reaches beyond any human empire, pointing toward a king whose rule covers the whole world.",
+        "contextTitle": "Boundaries of promise",
+        "context": "Genesis 15:18 promises Abraham's offspring land from the river of Egypt to the Euphrates. Zechariah 9:10 repeats 'from sea to sea, and from the Euphrates to the ends of the earth' about a coming king. Philippians 2:10–11 says every knee will bow to Jesus.",
+        "explore": [
+          [
+            "Euphrates",
+            "The great river of Mesopotamia, a far northeastern boundary of the land promised to Abraham."
+          ],
+          [
+            "Ends of the earth",
+            "The farthest places of the world, showing a rule that covers every nation and land."
+          ]
+        ],
+        "reflect": "How does picturing God's reign over the whole world shape your prayers?",
+        "related": [
+          "Genesis 15:18",
+          "Zechariah 9:10",
+          "Philippians 2:10"
+        ],
+        "alt": "A wide river winds through a broad plain toward distant hills and a far horizon.",
+        "art": "assets/psalm72/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Lick the dust",
+        "heading": "Enemies brought low",
+        "meaning": "Verse 9 says, 'May the nomads bow before him, and his enemies lick the dust.' Nomads were desert tribes who moved with their flocks and were hard to rule. Even they will bow. 'Lick the dust' was a vivid ancient way of describing total surrender, as people bowed with faces to the ground before a conqueror. The picture is not cruelty for its own sake but the end of rebellion against a just ruler.",
+        "contextTitle": "Surrender language",
+        "context": "Isaiah 49:23 says kings will bow with faces to the ground and lick the dust of your feet. Micah 7:17 says nations will lick the dust like a snake. Psalm 2:10–12 warns kings to serve the LORD with fear.",
+        "explore": [
+          [
+            "Nomads",
+            "Desert peoples who traveled with herds and lived in tents rather than settled towns."
+          ],
+          [
+            "Lick the dust",
+            "A picture of complete surrender, bowing so low that one's face touches the ground."
+          ]
+        ],
+        "reflect": "What areas of rebellion in your own heart need to bow before God?",
+        "related": [
+          "Isaiah 49:23",
+          "Micah 7:17",
+          "Psalm 2:11"
+        ],
+        "alt": "Desert herders bow at the edge of a tent camp as a messenger arrives on a camel.",
+        "art": "assets/psalm72/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Tarshish and Sheba",
+        "heading": "Gifts from distant kings",
+        "meaning": "Verse 10 names faraway places: 'May the kings of Tarshish and distant shores bring tribute; may the kings of Sheba and Seba offer gifts.' Tarshish was a distant port to the west, perhaps in Spain. Sheba and Seba were in southern Arabia or Africa. The prayer pictures rulers from every direction honoring Israel's king. In Solomon's day, the queen of Sheba really did come with gifts, and later the wise men brought gifts to the child Jesus.",
+        "contextTitle": "Gifts from afar",
+        "context": "1 Kings 10:1–2 tells of the queen of Sheba bringing spices, gold and precious stones to Solomon. Isaiah 60:6 says those from Sheba will bring gold and frankincense. Matthew 2:11 records the Magi offering gold, frankincense and myrrh.",
+        "explore": [
+          [
+            "Tarshish",
+            "A distant seaport, probably far west in the Mediterranean, used as a symbol of the world's far edges."
+          ],
+          [
+            "Tribute",
+            "Payments or gifts given by one ruler to another as a sign of honor and loyalty."
+          ]
+        ],
+        "reflect": "What gift of honor could you bring to God from your own life this week?",
+        "related": [
+          "1 Kings 10:2",
+          "Isaiah 60:6",
+          "Matthew 2:11"
+        ],
+        "alt": "Merchant ships with square sails approach a harbor while camels carry chests along the shore.",
+        "art": "assets/psalm72/verse-10-watercolor.webp"
+      },
+      {
+        "title": "All nations serve him",
+        "heading": "A universal kingdom",
+        "meaning": "Verse 11 summarizes the vision: 'May all kings bow down to him and all nations serve him.' This is the highest hope a royal psalm could express. No king of Israel ever received the bow of all kings. The prayer outgrows Solomon and looks for a greater Son of David. Christians see here the reign of Jesus, to whom all authority has been given. The verse also invites every nation, not only Israel, into the blessing of His rule.",
+        "contextTitle": "Every knee bowing",
+        "context": "Isaiah 2:2–3 pictures all nations streaming to the LORD's house. Daniel 7:14 says all peoples, nations and languages will serve the Son of Man. Revelation 11:15 announces the kingdom of the world has become the kingdom of our Lord.",
+        "explore": [
+          [
+            "Bow down",
+            "Kneel or lower oneself in honor and submission before someone of greater authority."
+          ],
+          [
+            "Nations",
+            "Peoples and countries of the whole world, including those outside Israel."
+          ]
+        ],
+        "reflect": "How does the hope of all nations serving God encourage you about the future?",
+        "related": [
+          "Isaiah 2:2",
+          "Daniel 7:14",
+          "Revelation 11:15"
+        ],
+        "alt": "People in varied clothing from many lands walk together along a road toward a hill city.",
+        "art": "assets/psalm72/verse-11-watercolor.webp"
+      },
+      {
+        "title": "No helper",
+        "heading": "Why the king is honored",
+        "meaning": "Verse 12 begins with 'For,' explaining why nations would honor this king: 'he will deliver the needy who cry out and the afflicted who have no helper.' His greatness is measured by how he treats the powerless. Many rulers gain fame through wars or buildings; this king is honored for hearing the cries of people nobody else helps. His power listens. Those with no helper find in him the protector they lacked.",
+        "contextTitle": "Greatness in mercy",
+        "context": "Job 29:12 says, 'I rescued the poor who cried out and the fatherless who had no helper.' Psalm 10:14 calls God the helper of the fatherless. Matthew 11:5 lists the good news preached to the poor as a sign of Jesus' ministry.",
+        "explore": [
+          [
+            "Needy",
+            "People lacking food, shelter, money or protection, who depend on others for help."
+          ],
+          [
+            "Cry out",
+            "Call loudly for help in distress, a desperate plea for rescue."
+          ]
+        ],
+        "reflect": "Who around you has no helper, and how could you respond to their cry?",
+        "related": [
+          "Job 29:12",
+          "Psalm 10:14",
+          "Matthew 11:5"
+        ],
+        "alt": "A ruler stoops to lift an elderly beggar from the roadside outside a city gate.",
+        "art": "assets/psalm72/verse-12-watercolor.webp"
+      },
+      {
+        "title": "Pity on the poor",
+        "heading": "Saving the oppressed",
+        "meaning": "The king 'will take pity on the poor and needy and save the lives of the oppressed.' Pity here is active compassion, a heart moved to act. The verse repeats the themes of verse 12, stressing again that the king's priority is the weak. 'Save the lives' shows the stakes are high: oppression can kill through hunger, violence or injustice. A ruler with compassion stands between the vulnerable and those who would destroy them.",
+        "contextTitle": "Compassion that acts",
+        "context": "Proverbs 19:17 says kindness to the poor is a loan to the LORD. Matthew 9:36 says Jesus had compassion on the crowds because they were harassed and helpless. Psalm 113:7 says God raises the poor from the dust.",
+        "explore": [
+          [
+            "Pity",
+            "Compassion moved by another's suffering, leading to action rather than mere feeling."
+          ],
+          [
+            "Oppressed",
+            "People kept down by harsh treatment, unfair laws or abuse of power."
+          ]
+        ],
+        "reflect": "How could compassion move you to practical action for someone in need?",
+        "related": [
+          "Proverbs 19:17",
+          "Matthew 9:36",
+          "Psalm 113:7"
+        ],
+        "alt": "A kindly official hands bread to a mother and children at a simple village grain store.",
+        "art": "assets/psalm72/verse-13-watercolor.webp"
+      },
+      {
+        "title": "Blood is precious",
+        "heading": "The worth of the vulnerable",
+        "meaning": "Verse 14 contains one of the most moving lines in the psalm: 'He will redeem them from oppression and violence, for their blood is precious in his sight.' To the king, the lives of the poor are not cheap. Oppressors treat the weak as expendable, but this ruler sees each life as valuable. 'Redeem' means to buy back or rescue as a family member would. The king acts like a relative who refuses to let his own be destroyed.",
+        "contextTitle": "Precious lives",
+        "context": "Psalm 116:15 says, 'Precious in the sight of the LORD is the death of His saints.' Leviticus 25:25 describes a kinsman-redeemer buying back a relative's land. Genesis 9:6 rests the value of human life on being made in God's image.",
+        "explore": [
+          [
+            "Redeem",
+            "Rescue or buy back, like a close relative paying to free a family member from slavery or debt."
+          ],
+          [
+            "Precious",
+            "Of great value and worth, treasured rather than treated as cheap or disposable."
+          ]
+        ],
+        "reflect": "How might seeing every life as precious change the way you treat people?",
+        "related": [
+          "Psalm 116:15",
+          "Leviticus 25:25",
+          "Genesis 9:6"
+        ],
+        "alt": "A man unlocks a wooden gate to free a family who step out into bright morning light.",
+        "art": "assets/psalm72/verse-14-watercolor.webp"
+      },
+      {
+        "title": "Long may he live!",
+        "heading": "Gold and prayer for the king",
+        "meaning": "Verse 15 bursts into a royal cheer: 'Long may he live!' The people respond to such a good king with gifts and prayer. 'May gold from Sheba be given him' pictures wealth flowing to him from distant lands. 'May people ever pray for him; may they bless him all day long' shows a loving relationship between ruler and people. When leaders serve the weak, people gladly support them. Praying for those in authority remains a calling for believers.",
+        "contextTitle": "Praying for rulers",
+        "context": "1 Kings 1:39 records the people shouting 'Long live King Solomon!' 1 Timothy 2:1–2 urges prayers for kings and all in authority. 1 Kings 10:10 says the queen of Sheba gave Solomon much gold.",
+        "explore": [
+          [
+            "Long may he live",
+            "A royal acclamation wishing the king a long, healthy reign, like 'Long live the king!'"
+          ],
+          [
+            "Sheba",
+            "A wealthy kingdom in southern Arabia known for gold, spices and trade caravans."
+          ]
+        ],
+        "reflect": "How could you regularly pray for and bless the leaders over you?",
+        "related": [
+          "1 Kings 1:39",
+          "1 Timothy 2:2",
+          "1 Kings 10:10"
+        ],
+        "alt": "Crowds wave palm branches in a city square as a camel caravan arrives laden with goods.",
+        "art": "assets/psalm72/verse-15-watercolor.webp"
+      },
+      {
+        "title": "Grain atop the hills",
+        "heading": "Abundance in the land",
+        "meaning": "Verse 16 pictures overflowing harvest: 'May there be an abundance of grain in the land; may it sway atop the hills.' Normally grain grew in valleys, and hilltops were rocky. Here the harvest is so rich it covers even the heights. Fruit trees flourish 'like the forests of Lebanon', famous for great cedars, and city people grow 'like the grass of the field.' A just reign brings blessing to farms and towns alike, as Eden-like plenty returns.",
+        "contextTitle": "Plenty under God's king",
+        "context": "Amos 9:13 promises a harvest so great the plowman overtakes the reaper. Joel 2:24 says threshing floors will be full of grain. Isaiah 35:2 says the wilderness will be given the glory of Lebanon.",
+        "explore": [
+          [
+            "Abundance",
+            "A large and generous supply, more than enough for everyone's needs."
+          ],
+          [
+            "Forests of Lebanon",
+            "The famous cedar forests to Israel's north, symbols of strength, beauty and lush growth."
+          ]
+        ],
+        "reflect": "Where have you seen God's abundance, and how can you share it with others?",
+        "related": [
+          "Amos 9:13",
+          "Joel 2:24",
+          "Isaiah 35:2"
+        ],
+        "alt": "Golden wheat sways on high terraced hills with orchards and a walled town below.",
+        "art": "assets/psalm72/verse-16-watercolor.webp"
+      },
+      {
+        "title": "All nations blessed",
+        "heading": "His name forever",
+        "meaning": "Verse 17 prays, 'May his name endure forever; may his name continue as long as the sun shines.' Then it echoes God's promise to Abraham: 'In him may all nations be blessed; may they call him blessed.' God told Abraham that through his offspring all nations would be blessed. This royal prayer connects that promise to the king. Christians see the promise fulfilled in Jesus, through whom blessing spreads to every people on earth.",
+        "contextTitle": "The promise to Abraham",
+        "context": "Genesis 12:3 says, 'All the families of the earth will be blessed through you.' Genesis 22:18 says all nations will be blessed through Abraham's offspring. Galatians 3:8 says Scripture announced the gospel in advance to Abraham.",
+        "explore": [
+          [
+            "Name",
+            "Reputation and identity, the honor and memory of a person that lives on in others."
+          ],
+          [
+            "Blessed",
+            "Favored by God and filled with good, the opposite of being under a curse."
+          ]
+        ],
+        "reflect": "How are you part of God's plan to bless all nations?",
+        "related": [
+          "Genesis 12:3",
+          "Genesis 22:18",
+          "Galatians 3:8"
+        ],
+        "alt": "People of many nations share a meal together at long tables beneath an evening sky.",
+        "art": "assets/psalm72/verse-17-watercolor.webp"
+      },
+      {
+        "title": "Who alone does wonders",
+        "heading": "Blessed be the LORD",
+        "meaning": "Verses 18 and 19 form a doxology that closes Book II of the Psalms. After praying for an earthly king, the writer turns praise to the true King: 'Blessed be the LORD God, the God of Israel, who alone does marvelous deeds.' Every good thing a human ruler might do comes from God. The word 'alone' guards against giving final glory to any person. Kings come and go, but the LORD is the one who works wonders.",
+        "contextTitle": "Book II doxology",
+        "context": "Psalm 41:13 closes Book I with 'Blessed be the LORD, the God of Israel.' Psalm 86:10 says, 'You are great and perform wonders; You alone are God.' Psalm 136:4 praises Him who alone does great wonders.",
+        "explore": [
+          [
+            "Doxology",
+            "A short hymn or statement of praise to God, often used to close a section of worship."
+          ],
+          [
+            "Marvelous deeds",
+            "Wonderful acts of God that cause amazement, beyond what any human could do."
+          ]
+        ],
+        "reflect": "What 'marvelous deed' of God would you like to bless Him for today?",
+        "related": [
+          "Psalm 41:13",
+          "Psalm 86:10",
+          "Psalm 136:4"
+        ],
+        "alt": "Worshipers raise their hands on a hillside at sunrise as light spreads across the valley.",
+        "art": "assets/psalm72/verse-18-watercolor.webp"
+      },
+      {
+        "title": "Earth filled with glory",
+        "heading": "Amen and amen",
+        "meaning": "Verse 19 continues the praise: 'And blessed be His glorious name forever; may all the earth be filled with His glory.' The prayer for the king's worldwide rule becomes a prayer for God's glory to fill the whole earth. This is the final goal of history. The doubled 'Amen and amen' is the congregation's strong agreement, like saying 'Yes, truly, let it be so!' Every reader is invited to add their own amen.",
+        "contextTitle": "Glory filling the earth",
+        "context": "Numbers 14:21 says, 'All the earth will be filled with the glory of the LORD.' Isaiah 6:3 says the whole earth is full of His glory. Habakkuk 2:14 says the earth will be filled with the knowledge of the LORD's glory as the waters cover the sea.",
+        "explore": [
+          [
+            "Glory",
+            "The weight and radiance of God's greatness, the visible display of who He is."
+          ],
+          [
+            "Amen",
+            "A Hebrew word meaning 'truly' or 'so be it', used to agree strongly with prayer or praise."
+          ]
+        ],
+        "reflect": "What would it look like for God's glory to fill your home, work and town?",
+        "related": [
+          "Numbers 14:21",
+          "Isaiah 6:3",
+          "Habakkuk 2:14"
+        ],
+        "alt": "Sunlight floods over mountains, valleys and the sea, lighting the whole landscape in gold.",
+        "art": "assets/psalm72/verse-19-watercolor.webp"
+      },
+      {
+        "title": "David son of Jesse",
+        "heading": "The prayers conclude",
+        "meaning": "The final verse is an editorial note: 'Thus conclude the prayers of David son of Jesse.' It marks the end of a collection of David's prayers, though more psalms of David appear later in the Psalter. Calling him 'son of Jesse' recalls his humble start as a shepherd boy from Bethlehem. The prayers of a shepherd who became king end with a prayer for his son's reign and praise to God, a fitting close.",
+        "contextTitle": "Ending a collection",
+        "context": "1 Samuel 16:11–13 tells how David, Jesse's youngest son, was anointed while tending sheep. Isaiah 11:1 speaks of a shoot from the stump of Jesse. Acts 13:22 says God found David son of Jesse, a man after His own heart.",
+        "explore": [
+          [
+            "Conclude",
+            "Bring to an end, marking the finish of a collection or section of writings."
+          ],
+          [
+            "Son of Jesse",
+            "David's family title, recalling his roots in the house of Jesse of Bethlehem."
+          ]
+        ],
+        "reflect": "What would you want your own collected prayers to say about God?",
+        "related": [
+          "1 Samuel 16:13",
+          "Isaiah 11:1",
+          "Acts 13:22"
+        ],
+        "alt": "A shepherd boy rests with his flock on a hillside near Bethlehem in evening light.",
+        "art": "assets/psalm72/verse-20-watercolor.webp"
+      }
+    ]
+  }
+}
