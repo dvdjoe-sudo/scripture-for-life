@@ -1,0 +1,205 @@
+{
+  "tool": "GenerateImage (aspect 4:3, style reference image)",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "productionFormat": "WebP 1024x683 (center crop of 1024x768), quality 75",
+  "status": "complete",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 1: A villager in a plain head cloth, clean-shaven, stands alone with open hands lowered before a murmuring hostile crowd in an ancient stone courtyard under grey skies, soft even light, no beam of light, no weapons, conveying asking God to contend for them.",
+      "production": "assets/psalm35/verse-1-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "01ec4080de86ca218bf103fb871385cfa7d43612ec806c03c2f2de920644f058.jpg"
+    },
+    {
+      "verse": 2,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 2: An ancient round bronze shield and a small buckler lean against a rock on a quiet hillside in morning light, no people, conveying God arising to protect and defend.",
+      "production": "assets/psalm35/verse-2-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "3bfbf09e39692709dfc6292c255721c0e46466cb7f4917ed91b157e0f6356dfe.jpg"
+    },
+    {
+      "verse": 3,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 3: A traveler rests by a small campfire in a sheltered hollow at night, looking up at a calm starry sky, distant hills dark, conveying the inner assurance 'I am your salvation.'",
+      "production": "assets/psalm35/verse-3-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "9293d01863253f720c0ddefb6a31f14cab3f4dc703ae884f8341b2fc6cc889fe.jpg"
+    },
+    {
+      "verse": 4,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 4: Seen from a small safe stone shelter on a high ridge, a pack of wild dogs runs away downhill, tails low, fleeing down a narrow mountain pass into the distance under a darkening sky, no people, no blood or violence, conveying harmful plans driven back.",
+      "production": "assets/psalm35/verse-4-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "5b32adc07644b4f812b5d04f36ba19e688993b7566287c212a16d55504d8f93d.jpg"
+    },
+    {
+      "verse": 5,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 5: Wind blows golden chaff high into the evening sky from an ancient stone threshing floor on a hilltop, the heavy grain left behind, no people, conveying enemies scattered like chaff.",
+      "production": "assets/psalm35/verse-5-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "1f4d654f3cba5bc9e9c4a4b690ba3dd441495fd64be288c5f7eea2d63ff1b2a6.jpg"
+    },
+    {
+      "verse": 6,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 6: A steep muddy mountain path glistens darkly after rain under a stormy night sky, slick stones and shadows, no people, conveying a dark and slippery path for pursuers.",
+      "production": "assets/psalm35/verse-6-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "ed57c396919092f4357a8b50c436213ef90f4064e188c548e0a75f4c89289d6c.jpg"
+    },
+    {
+      "verse": 7,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 7: A hidden pit loosely covered with branches and leaves lies on a quiet forest trail, a hunter's net strung nearby in shadow, no people, conveying traps laid without cause.",
+      "production": "assets/psalm35/verse-7-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "b804695d3f4e8e3348a59c42f8053b01f1cf58e01f8d8a85eebfe81c9d009464.jpg"
+    },
+    {
+      "verse": 8,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 8: An empty fowler's net lies tangled in brush at the edge of a field, caught on the hunter's own discarded stick and pouch, no people or animals harmed, conveying traps turning back on their makers.",
+      "production": "assets/psalm35/verse-8-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "2233a247aee4d1884d691d311c6bfbd818ead46318f7ec759e46d00d40f04b09.jpg"
+    },
+    {
+      "verse": 9,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 9: A person in simple ancient clothing dances joyfully alone on a sunlit hilltop of wildflowers, arms wide, conveying the soul rejoicing in God's salvation.",
+      "production": "assets/psalm35/verse-9-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "df4b3b51333618db4008ad7fef6c55c547818602ec750e2e5b8e13664e16b18a.jpg"
+    },
+    {
+      "verse": 10,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 10: A poor anonymous family shelters safely under a large spreading sycamore tree as a storm passes over the fields, light breaking behind them, conveying God delivering the poor and needy.",
+      "production": "assets/psalm35/verse-10-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "6e42fe79e75450a8ab40a90b100b57e697c1bbe8a3e64e5dbb3d2d0a3b870716.jpg"
+    },
+    {
+      "verse": 11,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 11: A lone anonymous figure stands silently at an ancient city gate while shadowy anonymous accusers point and speak, elders seated nearby, conveying false witnesses making baseless charges.",
+      "production": "assets/psalm35/verse-11-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "f569058b8bdeafe74fe6060b66e42bc1928ba06060d23e327c5a62cefe49caec.jpg"
+    },
+    {
+      "verse": 12,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 12: A woven basket of round flat loaves, figs and grapes lies overturned on the stone doorstep of a closed plain plank door in a quiet village street at dusk, no baguettes, no apples, no metal hardware, no people, conveying kindness repaid with evil.",
+      "production": "assets/psalm35/verse-12-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "2068a6b2e64cdbab2a2bbcec2dbbe0887318f1fc3d02ab741a9d265686050c24.jpg"
+    },
+    {
+      "verse": 13,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 13: A villager in rough dark sackcloth and a head cloth kneels in prayer beside an elderly sick woman in a headscarf resting on a straw sleeping mat on the floor of a dim ancient stone room, a small clay oil lamp glowing, no bed frame, no pillows, conveying fasting and intercession for those who were ill.",
+      "production": "assets/psalm35/verse-13-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "8a199e97014920867bbae5a42426489fde2a44250a42f5f7e0e73b445f330ad4.jpg"
+    },
+    {
+      "verse": 14,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 14: A man walks slowly with bowed head along a quiet rocky hillside path past ancient rock-cut tomb openings in the cliff at dusk, cloak drawn close, no carved headstones, conveying grief like mourning for a mother or brother.",
+      "production": "assets/psalm35/verse-14-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "0dd90215d0710b12f493072bb30b502de56c9da96d4ed12850c0b5c125e5fd54.jpg"
+    },
+    {
+      "verse": 15,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 15: A person who has stumbled lies on a dusty village road while a gathering of anonymous onlookers whispers and gestures from doorways, conveying glee at another's fall, no violence.",
+      "production": "assets/psalm35/verse-15-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "90b6ce551ece9ed6f003912c089dfc28b09821a6e31d15bb44fe2b75d1458c12.jpg"
+    },
+    {
+      "verse": 16,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 16: Shadowy anonymous figures laugh cruelly around a low lamp-lit table of food on woven mats in an ancient room, while one empty cushion lies apart in the dim corner, no chairs, no glass, conveying godless mockers at a feast.",
+      "production": "assets/psalm35/verse-16-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "ba264badbfe1f6c6294e2eacf313e0214f763de8d7e37dfb37d60f4360a80485.jpg"
+    },
+    {
+      "verse": 17,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 17: A villager in a head cloth crouches safely in a narrow rocky cleft high on a cliff face at dusk, while far below in the shadowy valley two lions prowl among rocks, all part of one continuous landscape, no attack shown, conveying a cry for rescue from lions.",
+      "production": "assets/psalm35/verse-17-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "c052d5d85cf72172099de756b72dacabae1ee9329ceb74331e4d2ce9ecd6dcf4.jpg"
+    },
+    {
+      "verse": 18,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 18: A large gathering of anonymous worshipers fills an ancient stone courtyard with raised hands in warm morning light, conveying thanks in the great assembly.",
+      "production": "assets/psalm35/verse-18-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "63fe98b8b2c9a1be7f406459a82f2dbd237e69e268f20ecbf60bda39fbba3798.jpg"
+    },
+    {
+      "verse": 19,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 19: Two shadowy anonymous figures exchange a sly glance in a dim doorway while a lone traveler passes unaware in the sunlit street, conveying malicious winks and gloating.",
+      "production": "assets/psalm35/verse-19-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "dc5dddd925d52caec8b37a57e119ca99a35b43d9cfdab6ec0dcb44f545e49d2b.jpg"
+    },
+    {
+      "verse": 20,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 20: A peaceful farming village lies quietly in a green valley while shadowy anonymous figures confer on a dark ridge above it, no weapons shown, conveying deceitful schemes against the quiet in the land.",
+      "production": "assets/psalm35/verse-20-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "9cc80f46b7929d0307c0c2b25ba95252a999c0ac58dc95e898ebb9a5bad1bd8d.jpg"
+    },
+    {
+      "verse": 21,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 21: Anonymous onlookers lean over a stone wall staring down with open mouths at a road below in harsh afternoon light, shadows long, conveying gaping mockery.",
+      "production": "assets/psalm35/verse-21-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "3964992e5967247ae42aef3ae47cf3b5e35863a5c3f4dc80734c421cf26c62f6.jpg"
+    },
+    {
+      "verse": 22,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 22: A figure stands alone on a windy hilltop looking up as heavy clouds begin to part above, light breaking through, conveying a plea that God who sees will not be silent or far.",
+      "production": "assets/psalm35/verse-22-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "9edf7ba4a577e02538db074e2fbad46b93a933804044519b236d85b0807895b6.jpg"
+    },
+    {
+      "verse": 23,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 23: Dawn light floods over a sleeping ancient village as a rooster crows on a stone wall, the first rays striking a courtyard where an anonymous person stands waiting, conveying the plea 'awake and rise.'",
+      "production": "assets/psalm35/verse-23-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "04f431597969b68965d717091c2b56987e31b0fec232e6de41d01b4d55c7a1c1.jpg"
+    },
+    {
+      "verse": 24,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 24: An ancient stone courtyard stands quiet and cleared in bright morning sun after a crowd has gone, an elder's seat empty and a single figure walking away free, conveying vindication by God's righteousness.",
+      "production": "assets/psalm35/verse-24-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "04a6eb9d3417ffb2ba7f0d278066b39503a3c9e14acb140d4f52ca36138b65d5.jpg"
+    },
+    {
+      "verse": 25,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 25: A great dark crack opens in a barren plain while a villager in a head cloth walks safely past along a firm path in warm light, conveying enemies denied the triumph of swallowing up.",
+      "production": "assets/psalm35/verse-25-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "4bda065c160143215635c9ecfb5b1429fa5a18e4d8f6728a8637db00a0781148.jpg"
+    },
+    {
+      "verse": 26,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 26: A rich embroidered robe lies torn and muddy on a weathered palace step in grey light, no people, conveying the proud clothed in shame and reproach.",
+      "production": "assets/psalm35/verse-26-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "67b7c8c529a4889850ad8da34a85d5569fa9c4daaf3947e3f4c44c2f9b46c1c9.jpg"
+    },
+    {
+      "verse": 27,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 27: Anonymous friends in simple ancient clothing embrace and celebrate joyfully in a sunlit village square, children clapping, conveying joy that the LORD delights in His servant's well-being.",
+      "production": "assets/psalm35/verse-27-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "47985f992f6dff2c46cf86eb09cc92a9c424a0e3163e026c93cf9a5e1d110940.jpg"
+    },
+    {
+      "verse": 28,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 35 verse 28: A person sings joyfully while walking through golden fields, the sky shifting from morning to evening light across the scene, conveying praise all day long.",
+      "production": "assets/psalm35/verse-28-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "a2a5d225f9a5f2a0b0129e541111dcf1c6f34c15afdf17f533b1e4f5ad85e015.jpg"
+    }
+  ],
+  "pendingVerses": []
+}

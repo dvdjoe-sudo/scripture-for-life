@@ -40,10 +40,11 @@ Approved goal: extend the Psalm 1 / original Psalm 23 format across all 150 Psal
 | 32 | 11 | `#/study/32/1` |
 | 33 | 22 | `#/study/33/1` |
 | 34 | 22 | `#/study/34/1` |
+| 35 | 28 | `#/study/35/1` |
 
 Psalm 46 has a six-section study covering all eleven verses; it still needs conversion to individual verse pages to meet the new goal. All other Psalms retain their full chapter pages and chapter introductions, rather than being labeled finished verse studies.
 
-Next sequential unfinished chapter: **Psalm 35**. Preserve the completed original Psalm 23 study and arrange Psalm 46's conversion when reached. No routine chapter approval is needed within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique art, or that work continues after a session ends.
+Next sequential unfinished chapter: **Psalm 36**. Preserve the completed original Psalm 23 study and arrange Psalm 46's conversion when reached. No routine chapter approval is needed within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique art, or that work continues after a session ends.
 
 Psalm 29 passed the whole-chapter gate in PR #67 on 8efb385671032425cd429626959192b4fb138fba (CI 39597752597 and 39597686312): eleven exact BSB verses and heading, seven voice declarations, oaks/Glory wording, original individual notes, twenty-two contextual references and eleven distinct inspected built-in watercolors. Full prompts are in assets/psalm29/generation-prompts.json. Production art totals 2,235,908 bytes (2.13 MiB), packaged offline and for Android. Source/reference/asset/parity checks, every verse/tab/image at 390px on source website and packaged webview, reflection reload/Saved/dialog, isolated Psalm 28/29 resume, gratitude/fear/strength round trips, 28→29→30 navigation and Capacitor creation/sync passed. Resume PR #67 first if open; publication follows final PR CI, authorized merge, main CI, Pages and live verification. Story manuscripts, scene data, renderers and original Psalm 23 are preserved. Native APK/device testing is separate.
 
@@ -102,3 +103,5 @@ Psalm 30 passed the whole-chapter gate in PR #71 on 7f314f40a5d23d403f7ac119394b
 Psalms 31–32 went live in one batch: 24 and 11 exact bundled BSB verses including headings; original reviewed notes from drafts/psalm31 and drafts/psalm32; 35 distinct visually inspected watercolors (assets/psalm31, assets/psalm32, prompts in each generation-prompts.json); topics, offline cache and Android parity; navigation 30→31→32→33.
 
 Psalms 33–34 went live in one batch: 22 and 22 exact bundled BSB verses including headings; original reviewed notes from drafts/psalm33 and drafts/psalm34; 44 distinct visually inspected watercolors (assets/psalm33, assets/psalm34; WebP 1024x683 q75) with regenerations recorded in their generation-prompts.json; 32→33→34→35 navigation, topics, offline cache and Android build wired; npm run check, smoke:web and a 420px headless check passed.
+
+Psalm 35 went live alone: 28 exact bundled BSB verses including heading; original reviewed notes from drafts/psalm35; 28 distinct visually inspected watercolors (assets/psalm35; WebP 1024x683 q75) with regenerations recorded in generation-prompts.json; 34→35→36 navigation, topics, offline cache and Android build wired; npm run check, smoke:web and a 420px headless check passed.
