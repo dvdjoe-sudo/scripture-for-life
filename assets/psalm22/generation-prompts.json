@@ -1,7 +1,7 @@
 {
   "tool": "built-in image_gen.imagegen",
   "styleReference": "assets/psalm23/verse-2-watercolor.webp",
-  "status": "UNPUBLISHED checkpoint: verses 1–24 have distinct generated, visually inspected production watercolors; verses 25–31 pending",
+  "status": "All 31 distinct production paintings generated and visually inspected; publication requires the whole-chapter release gate",
   "paintings": [
     {
       "verse": 1,
@@ -170,15 +170,56 @@
       "production": "assets/psalm22/verse-24-watercolor.webp",
       "status": "generated and visually inspected",
       "generatedOriginal": "exec-9d8b7d31-cf8b-458b-9717-4b0e11437aad.png"
+    },
+    {
+      "verse": 25,
+      "prompt": "Use case: illustration-story. Asset: ONE original 3:2 landscape watercolor for Psalm 22 verse study. Input image is the approved Psalm 23:2 STYLE reference only: match painterly naturalism, translucent watercolor washes, softly textured ivory paper, careful natural detail, atmospheric distance, muted forest/sage green and restrained ochre. Do not copy its sheep, river or exact composition. This is symbolic devotional art, not a reconstruction of a named historical event. No text, lettering, numerals, watermark, panels, border, halos, angels, human-shaped God, divine hands or divine faces. People if any are anonymous modestly clothed adults, naturally proportioned, no named biblical portrait. Calm dignified general-audience illustration. Psalm 22:25 speaks of praise in the great assembly and fulfilling vows before those who fear God. An anonymous adult stands among a broad quiet gathering on an imagined ivory-stone terrace, one hand naturally open toward the listening peers. A foreground clay bowl with olives on a low ledge, olive trees and muted hills beyond. Wider and more spacious than an intimate group conversation. No temple reconstruction, altar, ritual action or visible deity. The artist evokes a public commitment without inventing its ritual.",
+      "production": "assets/psalm22/verse-25-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-5f90e571-a8ad-43b4-88f9-fa05af37b973.png"
+    },
+    {
+      "verse": 26,
+      "prompt": "Use case: illustration-story. Asset: ONE original 3:2 landscape watercolor for Psalm 22 verse study. Input image is the approved Psalm 23:2 STYLE reference only: match painterly naturalism, translucent watercolor washes, softly textured ivory paper, careful natural detail, atmospheric distance, muted forest/sage green and restrained ochre. Do not copy its sheep, river or exact composition. This is symbolic devotional art, not a reconstruction of a named historical event. No text, lettering, numerals, watermark, panels, border, halos, angels, human-shaped God, divine hands or divine faces. People if any are anonymous modestly clothed adults, naturally proportioned, no named biblical portrait. Calm dignified general-audience illustration. Psalm 22:26 says the poor will eat and be satisfied, seekers praise, may your hearts live forever. Show anonymous adults of modest means sharing flatbread, olives and a plain clay water jug at a low outdoor table beneath an olive canopy. Everyone seated at equal level, hands natural and food accessible, no rich benefactor spotlight, no named biblical gathering, no miracles or divine body. Intimate welcoming scene of enough food and shared dignity, gentle afternoon light.",
+      "production": "assets/psalm22/verse-26-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-a9aac4b8-df51-47d8-bf84-c9c859c55c61.png"
+    },
+    {
+      "verse": 27,
+      "prompt": "Use case: illustration-story. Asset: ONE original 3:2 landscape watercolor for Psalm 22 verse study. Input image is the approved Psalm 23:2 STYLE reference only: match painterly naturalism, translucent watercolor washes, softly textured ivory paper, careful natural detail, atmospheric distance, muted forest/sage green and restrained ochre. Do not copy its sheep, river or exact composition. This is symbolic devotional art, not a reconstruction of a named historical event. No text, lettering, numerals, watermark, panels, border, halos, angels, human-shaped God, divine hands or divine faces. People if any are anonymous modestly clothed adults, naturally proportioned, no named biblical portrait. Calm dignified general-audience illustration. Psalm 22:27 widens toward all ends of the earth and families of the nations turning to the LORD. Expansive symbolic landscape of converging paths across varied gentle hills leading toward an open olive grove. Small groups of anonymous adults with varied skin tones and modest naturally varied clothing walk or stand together across the paths, no flags, labels, stereotypes, conquest or named city. Landscape dominates; ordinary clear sky, God unseen. A broad horizon conveying widening remembrance.",
+      "production": "assets/psalm22/verse-27-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-5fc30156-8dbf-4ff0-b7d7-6d1fd50a1686.png"
+    },
+    {
+      "verse": 28,
+      "prompt": "Use case: illustration-story. Asset: ONE original 3:2 landscape watercolor for Psalm 22 verse study. Input image is the approved Psalm 23:2 STYLE reference only: match painterly naturalism, translucent watercolor washes, softly textured ivory paper, careful natural detail, atmospheric distance, muted forest/sage green and restrained ochre. Do not copy its sheep, river or exact composition. This is symbolic devotional art, not a reconstruction of a named historical event. No text, lettering, numerals, watermark, panels, border, halos, angels, human-shaped God, divine hands or divine faces. People if any are anonymous modestly clothed adults, naturally proportioned, no named biblical portrait. Calm dignified general-audience illustration. Psalm 22:28 affirms that dominion belongs to the LORD who rules over the nations. Show an expansive unoccupied landscape seen from a high limestone ridge, cultivated green valleys and several distant small settlements beneath a vast pale clouded sky. A simple weathered unoccupied stone seat in the foreground is only a symbol of rule, not an actual divine throne; no crown, ruler, human God, mystical figure, banners or weapons. Quiet sovereignty conveyed through scale and open light, very distinct from the path-and-people scene.",
+      "production": "assets/psalm22/verse-28-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-32c27ae6-ec29-4d31-bbb3-456d78248393.png"
+    },
+    {
+      "verse": 29,
+      "prompt": "Use case: illustration-story. Asset: ONE original 3:2 landscape watercolor for Psalm 22 verse study. Input image is the approved Psalm 23:2 STYLE reference only: match painterly naturalism, translucent watercolor washes, softly textured ivory paper, careful natural detail, atmospheric distance, muted forest/sage green and restrained ochre. Do not copy its sheep, river or exact composition. This is symbolic devotional art, not a reconstruction of a named historical event. No text, lettering, numerals, watermark, panels, border, halos, angels, human-shaped God, divine hands or divine faces. People if any are anonymous modestly clothed adults, naturally proportioned, no named biblical portrait. Calm dignified general-audience illustration. Psalm 22:29 holds feasting and worship alongside mortality and inability to preserve life. Symbolic still life with a simple table bearing bread, grapes and two clay cups in the left foreground, a folded ivory cloth; on the right a clear path leads across dry pale earth toward a distant hillside. A few fallen olive leaves, warm restrained light moving into cool distance. No bodies, skulls, bones, tomb labels, human God, resurrection spectacle or text. Show abundance beside fragile earth without depicting death graphically.",
+      "production": "assets/psalm22/verse-29-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-7f2429d2-b60a-4f1d-9866-9766774ff9a7.png"
+    },
+    {
+      "verse": 30,
+      "prompt": "Use case: illustration-story. Asset: ONE original 3:2 landscape watercolor for Psalm 22 verse study. Input image is the approved Psalm 23:2 STYLE reference only: match painterly naturalism, translucent watercolor washes, softly textured ivory paper, careful natural detail, atmospheric distance, muted forest/sage green and restrained ochre. Do not copy its sheep, river or exact composition. This is symbolic devotional art, not a reconstruction of a named historical event. No text, lettering, numerals, watermark, panels, border, halos, angels, human-shaped God, divine hands or divine faces. People if any are anonymous modestly clothed adults, naturally proportioned, no named biblical portrait. Calm dignified general-audience illustration. Psalm 22:30 looks toward posterity serving God and declaring the Lord to a new generation. Two anonymous adults of different generations, an older gray-haired adult and a younger adult, sit together beneath an old olive tree, the elder gently speaking with one open hand and the younger listening. A small sapling grows nearby, distant cultivated hills. No children needed, no named biblical portrait or divine figure, no book text. Distinct intimate diagonal composition suggesting testimony carried forward, calm sage and ivory clothes.",
+      "production": "assets/psalm22/verse-30-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-38b133f2-4b18-410d-90c2-6793557e0f3a.png"
+    },
+    {
+      "verse": 31,
+      "prompt": "Use case: illustration-story. Asset: ONE original 3:2 landscape watercolor for Psalm 22 verse study. Input image is the approved Psalm 23:2 STYLE reference only: match painterly naturalism, translucent watercolor washes, softly textured ivory paper, careful natural detail, atmospheric distance, muted forest/sage green and restrained ochre. Do not copy its sheep, river or exact composition. This is symbolic devotional art, not a reconstruction of a named historical event. No text, lettering, numerals, watermark, panels, border, halos, angels, human-shaped God, divine hands or divine faces. People if any are anonymous modestly clothed adults, naturally proportioned, no named biblical portrait. Calm dignified general-audience illustration. Psalm 22:31 anticipates proclaiming righteousness to people yet unborn and all God has done. Symbolic close-to-wide landscape: a mature olive tree at left with a branch of ripe olives reaching above several new young olive saplings rooted in fertile earth at right; a winding path reaches a distant dawn-lit horizon. No people, baby, scroll, text or divine body. Rich organic watercolor detail on old bark and new leaves, sage greens and ivory-gold sky. Hope beyond the present generation; no invented event or triumphal conquest.",
+      "production": "assets/psalm22/verse-31-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-5f0dd4af-3ab4-49db-ba39-3d9ea3e4a933.png"
     }
   ],
-  "pendingVerses": [
-    25,
-    26,
-    27,
-    28,
-    29,
-    30,
-    31
-  ]
+  "pendingVerses": []
 }

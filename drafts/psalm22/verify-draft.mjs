@@ -27,7 +27,9 @@ assert.equal(hashes.size,rows.length);assert.equal(originals.size,rows.length);
 assert(source.verses[6][1].endsWith(':'));assert(source.verses[7][1].startsWith('“'),'Preserve mockers’ quotation and boundary');
 assert(rows[6].meaning.includes('colon'));assert(rows[7].meaning.includes('mockers'));assert(rows[0].meaning.includes('Matthew 27:46')&&rows[0].meaning.includes('Mark 15:34'));
 assert(rows[5].meaning.includes('not a statement that any person has no human dignity'));
-assert(!fs.existsSync('psalm22.js'),'Do not register a partial chapter');
-assert(!fs.readFileSync('index.html','utf8').includes('psalm22.js'));
-assert(!fs.readFileSync('sw.js','utf8').includes('assets/psalm22/'),'Offline release gate still pending');
-console.log('PASS — unpublished Psalm 22 checkpoint: '+rows.length+'/31 individual notes/art, exact bundled chapter and heading, valid contextual references, distinct inspected assets, explicit remaining verses and no partial registration.');
+if(rows.length<31){
+ assert(!fs.existsSync('psalm22.js'),'Do not register a partial chapter');
+ assert(!fs.readFileSync('index.html','utf8').includes('psalm22.js'));
+ assert(!fs.readFileSync('sw.js','utf8').includes('assets/psalm22/'),'Offline release gate still pending');
+}else assert.equal(rows.length,31,'Whole chapter required for integration');
+console.log('PASS — Psalm 22 editorial/art checkpoint: '+rows.length+'/31 exact source-backed individual notes and distinct inspected paintings; whole-chapter release checks remain separate.');
