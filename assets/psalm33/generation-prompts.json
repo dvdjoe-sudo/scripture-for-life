@@ -1,0 +1,163 @@
+{
+  "tool": "GenerateImage (aspect 4:3, style reference image)",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "productionFormat": "WebP 1024x683 (center crop of 1024x768), quality 75",
+  "status": "complete",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 1: A mixed group of small villagers, women in headscarves, children and short-haired men in plain work tunics, stand on a dew-covered hillside at dawn seen from a little distance, hands open and lifted, soft golden light, conveying rejoicing as fitting praise.",
+      "production": "assets/psalm33/verse-1-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "c8eda8f324c50fbb23ce599e095cdc103c264e84858c1dd54cf512eccfd37153.jpg"
+    },
+    {
+      "verse": 2,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 2: A finely carved ancient wooden harp and a ten-stringed lyre rest on a stone ledge beside an open window in morning sunlight, olive trees outside, no people, conveying music offered in praise.",
+      "production": "assets/psalm33/verse-2-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "c5ca340bba8e2f87164b307917e8412d33ed204ce12632e85c37a15eb0cedfdc.jpg"
+    },
+    {
+      "verse": 3,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 3: Anonymous musicians in simple ancient clothing play lyres, flutes and hand drums together joyfully beneath a spreading oak tree in bright morning light, conveying a new song played with skill and joy.",
+      "production": "assets/psalm33/verse-3-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "980ba3eb2c1e715b3d5df714f5ddcf1deb1b7124c4adfd5cf13e5bb2e711737f.jpg"
+    },
+    {
+      "verse": 4,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 4: A straight well-kept path runs through orderly terraced fields and vineyards toward distant hills in clear light, no people, conveying an upright word and trustworthy work.",
+      "production": "assets/psalm33/verse-4-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "f22ee43eff728d879dd7ef9c5b5e41897836291ae04c7ad91c50f67e4345ce12.jpg"
+    },
+    {
+      "verse": 5,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 5: A wide fertile landscape of fields, orchards, streams and grazing animals glowing in soft morning light, a village in the distance, conveying the earth full of God's loving devotion.",
+      "production": "assets/psalm33/verse-5-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "9cbd38460324202859d3d9c49617e63c2323f5459ed0b64a85e79fbeba118a9a.jpg"
+    },
+    {
+      "verse": 6,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 6: A vast star-filled night sky with the Milky Way arching over quiet desert hills and a single small tent, deep blues and soft gold, conveying the heavens made by the word of the LORD.",
+      "production": "assets/psalm33/verse-6-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "3d2c4843f6b98029dc599a3bc489a39b73224725f6cfb70575ca56bf6387e454.jpg"
+    },
+    {
+      "verse": 7,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 7: Great ocean waves rise and curl as though held back at the edge of a rocky shore under a dramatic sky, sunlight breaking on the water, no people, conveying God governing the sea.",
+      "production": "assets/psalm33/verse-7-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "91de87f5ca54f58f61c5aafddb53e452938e216e016dfe8180f7cce328e5b9b7.jpg"
+    },
+    {
+      "verse": 8,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 8: Diverse groups of anonymous people in varied ancient clothing stand together before a vast mountain range at sunrise, small in the landscape, conveying all the earth revering God.",
+      "production": "assets/psalm33/verse-8-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "54d88403dcf5689d539a991dc6946cde5c016f377b3b29ecf4deb16b650bcf06.jpg"
+    },
+    {
+      "verse": 9,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 9: Dawn light breaks over towering ancient rock formations standing firm above a vast plain, mist below, conveying creation standing firm at God's command, no figures.",
+      "production": "assets/psalm33/verse-9-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "aa27e6a49447c34ea8ef2b21bd6247ea24e54713bc7005e39e6d00820a1025d3.jpg"
+    },
+    {
+      "verse": 10,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 10: Abandoned broken siege ladders and scattered tents of a departed army lie beneath a calm clear sky outside quiet city walls, no people, conveying the plans of nations frustrated.",
+      "production": "assets/psalm33/verse-10-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "4e330bed1c1c96237981c676ce2daa9cf732cff44089ef5067349e8326004540.jpg"
+    },
+    {
+      "verse": 11,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 11: A vast ancient oak tree stands tall and steady over a village green where anonymous children, adults and elders gather beneath it in warm light, conveying God's counsel standing through generations.",
+      "production": "assets/psalm33/verse-11-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "eff490741d226a1e64190c4a1135344ee76d7067a98b8c1cc1a06c5b1ccf883c.jpg"
+    },
+    {
+      "verse": 12,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 12: Anonymous families in simple ancient clothing gather around a village well in warm evening light, children playing, flocks returning, conveying a blessed people belonging to God.",
+      "production": "assets/psalm33/verse-12-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "f45aa81e1000a39d85e17e5c7e38a1e939b44f3cdbe6fda6a4f2f06226112187.jpg"
+    },
+    {
+      "verse": 13,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 13: A wide high view looks down on scattered villages, roads and tiny anonymous travelers across a vast valley in soft sunlight and cloud shadow, no figure in the sky, conveying God seeing all people.",
+      "production": "assets/psalm33/verse-13-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "6b64869d05b689712d2e00d0114b2683960330dc95c9c27e4c9da16937bf02ce.jpg"
+    },
+    {
+      "verse": 14,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 14: Clouds part high above a sweeping view of mountains, coastline and plains at golden hour, soft light falling on the whole land, no figure, conveying God gazing from His dwelling over all the earth.",
+      "production": "assets/psalm33/verse-14-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "4dd2a12f55d13291fdbc0666a5653f3fc0e2ce601cb146e1be61445d0bce5a8a.jpg"
+    },
+    {
+      "verse": 15,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 15: A simple ancient potter's wheel holds a freshly shaped clay vessel in warm workshop light, anonymous potter's hands gently forming it, conveying God shaping each heart. Hands human and ordinary.",
+      "production": "assets/psalm33/verse-15-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "425cb84e1c56e393ce702096ee6caf1f614ffe0fe05f9097cbe563c141b724ea.jpg"
+    },
+    {
+      "verse": 16,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 16: An empty royal tent and a discarded bronze helmet lie in a quiet field at dusk beside abandoned spears planted in the ground, no people, no violence, conveying that no king is saved by his army.",
+      "production": "assets/psalm33/verse-16-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "993890c99b59e0300affe9c39c24352273c48390e2bb69b6fe379d547af96039.jpg"
+    },
+    {
+      "verse": 17,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 17: A powerful riderless war horse in bronze-age harness stands alone in an empty windswept field under a cloudy sky, conveying that a horse is a vain hope for salvation.",
+      "production": "assets/psalm33/verse-17-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "dfa7cf8450bf21dd72072553d2f4f5eaa58b3246fe3c1d5170615b08fdde69ac.jpg"
+    },
+    {
+      "verse": 18,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 18: A shepherd sits watching over a resting flock beside a low stone fold under a starry sky, small fire glowing, conveying God's watchful care for those who fear Him.",
+      "production": "assets/psalm33/verse-18-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "66b6e9b87c1f0fb73ee0d90bc2e4e0dc2da1f87ee7cf9b810028057efc01bac0.jpg"
+    },
+    {
+      "verse": 19,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 19: A small clay jar of flour and a jug of oil sit on a bare wooden table in a simple house while a dry cracked landscape stretches outside the doorway, conveying being kept alive in famine.",
+      "production": "assets/psalm33/verse-19-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "067508d3cc8d3d7af4fb9d0ec15411ca880f486ef52eba2e73c278fef8392d2f.jpg"
+    },
+    {
+      "verse": 20,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 20: A small community of anonymous people in simple ancient clothing waits together at a city gate at dawn, some sitting, some standing, looking toward the brightening road, conveying waiting together on the LORD.",
+      "production": "assets/psalm33/verse-20-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "2e7bd4d342f8faafdfef93d69d4be3369aa73693df62aad70c0f4ccaa4ba2692.jpg"
+    },
+    {
+      "verse": 21,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 21: Anonymous villagers smile and sing as they work together among sunny vineyard rows, baskets of grapes beside them, conveying joy rooted in trust while waiting.",
+      "production": "assets/psalm33/verse-21-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "30cb70d599a7207c36b2ca451a58a3af6e888e3e3bfe9eb53c5236079ea70cb2.jpg"
+    },
+    {
+      "verse": 22,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 33 verse 22: Seen from a hillside above, a quiet village of flat-roofed stone houses rests in soft golden evening light among green hills, thin cooking smoke rising from courtyards, oil lamps glowing in a few doorways and the first stars appearing, no sheep, conveying God's loving devotion resting on His people.",
+      "production": "assets/psalm33/verse-22-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "232a31753df41499a1072e277e59d710f7cea4ed53f6c6b3bdf23496b656ccb4.jpg"
+    }
+  ],
+  "pendingVerses": []
+}

@@ -1,0 +1,571 @@
+/* Original editorial notes and symbolic illustrations. Scripture loads unchanged from bundled BSB. */
+(function(){
+"use strict";
+window.SFL_VERSE_STUDIES.register({
+  "number": 34,
+  "coverVerse": 8,
+  "title": "Taste and see that the LORD is good.",
+  "intro": "Twenty-two verses bless the LORD at all times, invite others to taste His goodness, teach the fear of the LORD, and promise His nearness to the brokenhearted.",
+  "context": "The heading connects the psalm with David pretending to be insane before Abimelech; the account in 1 Samuel 21:10–15 names the king Achish, and Abimelech may be a royal title, so the heading is read alongside that story without forcing every line onto it. The psalm is an acrostic in Hebrew, with verses following the alphabet. Verses 1–3 call others to praise; verses 4–10 testify to answered prayer and invite readers to taste God's goodness. Verses 11–14 teach like a wise parent. Verses 15–22 describe God's attention to the righteous, His nearness to the brokenhearted and His redemption of His servants. John 19:36 links verse 20 with Jesus' crucifixion, and 1 Peter 3:10–12 quotes verses 12–16. The Scripture is loaded unchanged from the bundled BSB, including the heading.",
+  "peopleNote": "David is named in the heading, which recalls his escape from Gath in 1 Samuel 21:10–15. His profile offers background about that period without claiming every line describes it. Planned paintings show anonymous people and symbolic landscapes; God and the angel of the LORD are never portrayed as human bodies.",
+  "people": [
+    {
+      "id": "david",
+      "name": "David",
+      "ref": "Psalm 34:1"
+    }
+  ],
+  "verses": [
+    {
+      "title": "At all times",
+      "heading": "Praise that does not depend on circumstances",
+      "meaning": "The psalm opens with a resolve: I will bless the LORD at all times; His praise will always be on my lips. The heading ties this to a humiliating escape, when David pretended to be insane before a foreign king to save his life. Praise at all times is therefore not the praise of easy days. It is chosen gratitude that keeps speaking well of God through fear, shame and rescue. The verse invites a habit of praise rather than a passing feeling.",
+      "contextTitle": "A heading tied to David's escape",
+      "context": "1 Samuel 21:10–15 tells how David feigned madness before Achish of Gath. The heading's Abimelech may be a royal title. Psalm 56 also comes from David's time among the Philistines.",
+      "explore": [
+        [
+          "At all times",
+          "Praise is not limited to good moments. It is a steady habit of the heart."
+        ],
+        [
+          "Pretended to be insane",
+          "The heading recalls a desperate, undignified escape. Praise grows from rescue in humiliating circumstances."
+        ]
+      ],
+      "reflect": "Could you bless God today even if your circumstances are not what you hoped? What would you say?",
+      "related": [
+        "1 Samuel 21:13",
+        "Psalm 56:1",
+        "1 Thessalonians 5:18"
+      ],
+      "alt": "An anonymous traveler walks away from a foreign city gate at dawn, lifting his hands.",
+      "art": "assets/psalm34/verse-1-watercolor.webp"
+    },
+    {
+      "title": "Let the oppressed hear",
+      "heading": "Boasting in God that encourages the humble",
+      "meaning": "My soul boasts in the LORD; let the oppressed hear and rejoice. Boasting is usually self-centered, but here it is aimed at God. The speaker does not brag about cleverness in escaping; they boast in God's help. The oppressed, or humble, are invited to listen and be glad, because the story shows that God cares for the weak. One person's testimony becomes good news for others who are struggling.",
+      "contextTitle": "Boasting rightly",
+      "context": "Jeremiah 9:23–24 says let the one who boasts boast in knowing the LORD, and 1 Corinthians 1:31 repeats it. Psalm 34:2 shows boasting turned toward God.",
+      "explore": [
+        [
+          "My soul boasts",
+          "The whole self takes pride in God. It is gratitude, not arrogance."
+        ],
+        [
+          "The oppressed",
+          "The word means the humble or afflicted. Testimony is meant to encourage them."
+        ]
+      ],
+      "reflect": "Who in your life needs to hear a story of God's help? How could you share it humbly?",
+      "related": [
+        "Jeremiah 9:24",
+        "1 Corinthians 1:31",
+        "Psalm 69:32"
+      ],
+      "alt": "A traveler tells a story to a small circle of poor villagers who listen intently.",
+      "art": "assets/psalm34/verse-2-watercolor.webp"
+    },
+    {
+      "title": "Magnify the LORD with me",
+      "heading": "An invitation to shared praise",
+      "meaning": "Magnify the LORD with me; let us exalt His name together. To magnify God is not to make Him bigger but to make His greatness more visible, as a lens makes something appear clearer. The speaker wants company in praise. Worship is meant to be shared. The verse invites readers to join a community that honors God together, making His goodness known.",
+      "contextTitle": "Shared praise",
+      "context": "Psalm 30:4 calls the saints to sing to the LORD, and Luke 1:46 records Mary saying, 'My soul magnifies the Lord.' Psalm 34:3 asks others to join.",
+      "explore": [
+        [
+          "Magnify",
+          "Magnifying makes greatness visible. Praise helps others see who God is."
+        ],
+        [
+          "Together",
+          "Praise is shared, not only private. The speaker wants companions in worship."
+        ]
+      ],
+      "reflect": "Who could you invite to thank God with you this week? What could you thank Him for together?",
+      "related": [
+        "Psalm 30:4",
+        "Luke 1:46",
+        "Psalm 95:1"
+      ],
+      "alt": "Anonymous friends stand side by side on a hilltop, arms raised toward the sky.",
+      "art": "assets/psalm34/verse-3-watercolor.webp"
+    },
+    {
+      "title": "Delivered from all my fears",
+      "heading": "Testimony of answered prayer",
+      "meaning": "The speaker gives the reason for praise: I sought the LORD, and He answered me; He delivered me from all my fears. Seeking God means turning to Him in need. The answer is described as deliverance from fears, which may include both the danger and the inner terror it caused. The verse does not claim that fear will never return, but it testifies that God met the speaker in it.",
+      "contextTitle": "Fear answered",
+      "context": "Psalm 27:1 asks whom shall I fear, and Isaiah 41:10 says, 'Do not fear, for I am with you.' Psalm 34:4 is personal testimony of deliverance from fear.",
+      "explore": [
+        [
+          "I sought the LORD",
+          "Seeking is active turning to God. The speaker reached out in need."
+        ],
+        [
+          "All my fears",
+          "God's deliverance reached the inner terror as well as the outer threat."
+        ]
+      ],
+      "reflect": "What fear would you like to bring to God today? What might it look like to seek Him with it?",
+      "related": [
+        "Psalm 27:1",
+        "Isaiah 41:10",
+        "Philippians 4:6"
+      ],
+      "alt": "A lone traveler emerges from a dark forest into a bright clearing.",
+      "art": "assets/psalm34/verse-4-watercolor.webp"
+    },
+    {
+      "title": "Radiant with joy",
+      "heading": "Faces lifted without shame",
+      "meaning": "Those who look to Him are radiant with joy; their faces shall never be ashamed. Looking to God brings light to the face, a picture of joy and confidence. Shame would cover the face; radiance lifts it. The verse invites readers to turn their gaze toward God rather than toward their fears or failures. It describes the inner change that comes from trust.",
+      "contextTitle": "Radiant faces",
+      "context": "Exodus 34:29 tells how Moses' face shone after being with God, and 2 Corinthians 3:18 speaks of reflecting the Lord's glory. Psalm 34:5 applies radiance to all who look to God.",
+      "explore": [
+        [
+          "Look to Him",
+          "The gaze turns toward God. Trust begins with where we look."
+        ],
+        [
+          "Never be ashamed",
+          "Shame hides the face. Looking to God lifts it with confidence."
+        ]
+      ],
+      "reflect": "Where is your gaze fixed today? What would it look like to look to God instead?",
+      "related": [
+        "Exodus 34:29",
+        "2 Corinthians 3:18",
+        "Psalm 25:3"
+      ],
+      "alt": "An anonymous woman lifts her face toward the morning sun, eyes bright.",
+      "art": "assets/psalm34/verse-5-watercolor.webp"
+    },
+    {
+      "title": "This poor man called out",
+      "heading": "A humble testimony of rescue",
+      "meaning": "This poor man called out, and the LORD heard him; He saved him from all his troubles. The speaker refers to himself as a poor man, someone with no power or resources. That humility makes the testimony stronger. God hears the cry of the weak and acts. The verse invites anyone who feels small or helpless to call out, trusting that God listens.",
+      "contextTitle": "God hears the poor",
+      "context": "Psalm 40:17 says, 'I am poor and needy; may the Lord think of me,' and Luke 1:52 says God lifts up the humble. Psalm 34:6 testifies that God heard.",
+      "explore": [
+        [
+          "This poor man",
+          "The speaker describes himself as humble and needy. Weakness does not prevent God from hearing."
+        ],
+        [
+          "All his troubles",
+          "Rescue reached the whole situation. God did not leave him halfway."
+        ]
+      ],
+      "reflect": "Do you feel small or powerless in any area? How might you call out to God from there?",
+      "related": [
+        "Psalm 40:17",
+        "Luke 1:52",
+        "Psalm 34:17"
+      ],
+      "alt": "A ragged traveler kneels and calls out on a lonely road at dusk.",
+      "art": "assets/psalm34/verse-6-watercolor.webp"
+    },
+    {
+      "title": "The angel encamps around",
+      "heading": "God's protection pictured as a guarding camp",
+      "meaning": "The angel of the LORD encamps around those who fear Him, and he delivers them. The image is of a protective army camp surrounding God's people. The angel of the LORD appears in Israel's story as God's messenger who protects and delivers. The verse does not promise that no harm will ever come, but it pictures God's protective presence surrounding the faithful.",
+      "contextTitle": "Encamping protection",
+      "context": "2 Kings 6:17 tells of Elisha's servant seeing hills full of horses and chariots of fire around them, and Genesis 32:1–2 describes angels of God meeting Jacob as God's camp.",
+      "explore": [
+        [
+          "The angel of the LORD",
+          "This messenger represents God's protective presence in Israel's story. The verse does not invite a portrait of the angel."
+        ],
+        [
+          "Encamps around",
+          "The image is of a guarding camp. God's people are surrounded by protection."
+        ]
+      ],
+      "reflect": "Where do you need to know you are surrounded by God's protection today?",
+      "related": [
+        "2 Kings 6:17",
+        "Genesis 32:2",
+        "Psalm 91:11"
+      ],
+      "alt": "A small sleeping village is ringed by quiet watchfires on the hills around it.",
+      "art": "assets/psalm34/verse-7-watercolor.webp"
+    },
+    {
+      "title": "Taste and see",
+      "heading": "An invitation to experience God's goodness",
+      "meaning": "Taste and see that the LORD is good. The psalm uses the language of the senses, inviting readers to experience God's goodness for themselves rather than hear about it secondhand. Tasting is personal and direct. Blessed, or truly happy, is the one who takes refuge in Him. The verse is an invitation, not a demand, encouraging trust by experience.",
+      "contextTitle": "Tasting goodness",
+      "context": "1 Peter 2:3 echoes this verse, saying, 'now that you have tasted that the Lord is good.' Psalm 119:103 compares God's words to honey on the tongue.",
+      "explore": [
+        [
+          "Taste and see",
+          "The invitation is personal and experiential. Goodness is discovered by trusting."
+        ],
+        [
+          "Takes refuge in Him",
+          "Refuge means trust and shelter. Blessing comes to those who rely on God."
+        ]
+      ],
+      "reflect": "How might you 'taste' God's goodness in a practical way this week?",
+      "related": [
+        "1 Peter 2:3",
+        "Psalm 119:103",
+        "Psalm 2:12"
+      ],
+      "alt": "A table set with bread, honey and figs waits under an open window.",
+      "art": "assets/psalm34/verse-8-watercolor.webp"
+    },
+    {
+      "title": "Those who fear Him lack nothing",
+      "heading": "Reverence and provision",
+      "meaning": "Fear the LORD, you His saints, for those who fear Him lack nothing. Fearing the LORD means reverent trust and loyalty, not terror. Lacking nothing does not mean having every wish, but having what is truly needed. The verse speaks to God's faithful provision for those who honor Him. It echoes Psalm 23:1, 'I shall not want.'",
+      "contextTitle": "Provision and reverence",
+      "context": "Psalm 23:1 says, 'I shall not want,' and Matthew 6:33 promises that those who seek God's kingdom will have what they need. Psalm 34:9 joins reverence with confidence in that provision.",
+      "explore": [
+        [
+          "Fear the LORD",
+          "Reverent trust is the heart of wisdom. It shapes the whole life."
+        ],
+        [
+          "Lack nothing",
+          "Needs are met, not every desire. God provides what is truly good."
+        ]
+      ],
+      "reflect": "What do you truly need right now? How might you trust God to provide it?",
+      "related": [
+        "Psalm 23:1",
+        "Matthew 6:33",
+        "Proverbs 1:7"
+      ],
+      "alt": "A shepherd's simple bag, bread and waterskin lie beside a resting flock.",
+      "art": "assets/psalm34/verse-9-watercolor.webp"
+    },
+    {
+      "title": "Young lions go hungry",
+      "heading": "Strength fails, but seekers are provided for",
+      "meaning": "Young lions go lacking and hungry, but those who seek the LORD lack no good thing. Young lions were symbols of strength and self-sufficiency. Even they can go hungry. By contrast, those who seek God lack no good thing. The verse humbles human strength and honors dependence. It invites seeking God as the way to true provision.",
+      "contextTitle": "Lions and provision",
+      "context": "Job 4:10–11 describes lions perishing for lack of prey, and Psalm 104:21 shows young lions seeking food from God. Psalm 34:10 contrasts strength with trust.",
+      "explore": [
+        [
+          "Young lions",
+          "Lions picture power and independence. Even they can fail."
+        ],
+        [
+          "No good thing",
+          "Seekers of God receive what is truly good. Provision is measured by God's wisdom."
+        ]
+      ],
+      "reflect": "Where are you relying on your own strength? How might seeking God change that?",
+      "related": [
+        "Job 4:11",
+        "Psalm 104:21",
+        "Matthew 7:11"
+      ],
+      "alt": "A thin young lion prowls a dry hillside while a family shares bread below.",
+      "art": "assets/psalm34/verse-10-watercolor.webp"
+    },
+    {
+      "title": "Come, children, listen",
+      "heading": "A teacher invites learners",
+      "meaning": "The tone shifts to teaching: Come, children, listen to me; I will teach you the fear of the LORD. The speaker becomes like a wise parent or teacher, offering what they have learned. The fear of the LORD is not instinct but something learned through instruction and experience. The verse begins a section of practical wisdom about how to live.",
+      "contextTitle": "Teaching the fear of the LORD",
+      "context": "Proverbs 1:8 calls a son to listen to his father's instruction, and Deuteronomy 6:7 commands teaching God's words to children. Psalm 34:11 continues that tradition.",
+      "explore": [
+        [
+          "Come, children",
+          "The speaker addresses learners warmly. Teaching is relational, not cold."
+        ],
+        [
+          "Fear of the LORD",
+          "Reverence for God is learned. It is the beginning of wisdom."
+        ]
+      ],
+      "reflect": "Who has taught you about God? Who might you help to learn?",
+      "related": [
+        "Proverbs 1:8",
+        "Deuteronomy 6:7",
+        "Proverbs 9:10"
+      ],
+      "alt": "An older teacher sits with children beneath a tree, telling them a story.",
+      "art": "assets/psalm34/verse-11-watercolor.webp"
+    },
+    {
+      "title": "Who desires good days?",
+      "heading": "A question that invites wisdom",
+      "meaning": "Who is the man who delights in life, who desires to see good days? The teacher asks a question everyone would answer yes to. Almost everyone wants a full and good life. The question opens the door for the wisdom that follows, which explains how to live in the fear of the LORD. The verse invites readers to consider what a good life really is.",
+      "contextTitle": "Good days",
+      "context": "1 Peter 3:10–12 quotes Psalm 34:12–16 as guidance for Christian living. Deuteronomy 30:19 calls people to choose life. The teacher's question here opens that guidance for any reader.",
+      "explore": [
+        [
+          "Delights in life",
+          "The desire for a full life is natural and good. Wisdom shows the way."
+        ],
+        [
+          "Good days",
+          "The phrase pictures a life well lived. It is about character as much as comfort."
+        ]
+      ],
+      "reflect": "What do you think makes a life truly good? How does that compare with what you usually pursue?",
+      "related": [
+        "1 Peter 3:10",
+        "Deuteronomy 30:19",
+        "Proverbs 3:2"
+      ],
+      "alt": "Anonymous children run joyfully through a sunlit meadow toward a village.",
+      "art": "assets/psalm34/verse-12-watercolor.webp"
+    },
+    {
+      "title": "Guard your tongue",
+      "heading": "Wisdom begins with speech",
+      "meaning": "Keep your tongue from evil and your lips from deceitful speech. The first piece of practical wisdom concerns words. Speech has power to harm or heal, to deceive or tell the truth. The heading's story involved deception to survive, which makes this teaching striking: the mature speaker now urges honest speech. The verse invites careful attention to what we say.",
+      "contextTitle": "Speech and wisdom",
+      "context": "James 3:5–10 warns about the power of the tongue, and Proverbs 21:23 says whoever guards his mouth keeps his soul from trouble. 1 Peter 3:10 quotes this verse.",
+      "explore": [
+        [
+          "Keep your tongue",
+          "Words matter. Guarding speech protects others and oneself."
+        ],
+        [
+          "Deceitful speech",
+          "Lies damage trust. The teacher urges truthful words."
+        ]
+      ],
+      "reflect": "What is one way you could guard your words this week?",
+      "related": [
+        "James 3:5",
+        "Proverbs 21:23",
+        "1 Peter 3:10"
+      ],
+      "alt": "A small fire smolders on dry grass beside a still pool of water.",
+      "art": "assets/psalm34/verse-13-watercolor.webp"
+    },
+    {
+      "title": "Seek peace and pursue it",
+      "heading": "Turning from evil to active good",
+      "meaning": "Turn away from evil and do good; seek peace and pursue it. Wisdom is not only avoiding wrong but actively doing good. Peace is something to seek and pursue, like a traveler following a path or a hunter following a trail. It does not happen by accident. The verse calls readers to make peace an active goal in relationships and communities.",
+      "contextTitle": "Pursuing peace",
+      "context": "Romans 12:18 says, 'If it is possible, live at peace with everyone,' and Matthew 5:9 blesses the peacemakers. 1 Peter 3:11 quotes this verse.",
+      "explore": [
+        [
+          "Turn away and do good",
+          "Turning from evil is only half. Doing good completes it."
+        ],
+        [
+          "Pursue it",
+          "Peace takes effort. It must be actively sought. It does not happen by accident."
+        ]
+      ],
+      "reflect": "Is there a relationship where you could pursue peace this week? What would the first step be?",
+      "related": [
+        "Romans 12:18",
+        "Matthew 5:9",
+        "Hebrews 12:14"
+      ],
+      "alt": "Two anonymous neighbors clasp hands over a low stone wall between their fields.",
+      "art": "assets/psalm34/verse-14-watercolor.webp"
+    },
+    {
+      "title": "His ears are inclined",
+      "heading": "God attends to the righteous",
+      "meaning": "The eyes of the LORD are on the righteous, and His ears are inclined to their cry. God's attention is pictured with eyes that watch and ears that lean in to listen. The righteous are those who seek to live faithfully, as the previous verses described. The verse reassures that God notices and hears. It is poetic language, not a description of God's form.",
+      "contextTitle": "Watched and heard",
+      "context": "1 Peter 3:12 quotes this verse, and Psalm 33:18 says the eyes of the LORD are on those who fear Him. Here the image follows the call to pursue peace and good.",
+      "explore": [
+        [
+          "Eyes of the LORD",
+          "God's eyes picture His attention. He sees the faithful."
+        ],
+        [
+          "Ears inclined",
+          "God leans in to listen. Their cries matter to Him. Their cries are not ignored."
+        ]
+      ],
+      "reflect": "How does it encourage you to know that God listens closely to your cry?",
+      "related": [
+        "1 Peter 3:12",
+        "Psalm 33:18",
+        "Psalm 116:1"
+      ],
+      "alt": "An anonymous person prays quietly at a window as warm light falls on them.",
+      "art": "assets/psalm34/verse-15-watercolor.webp"
+    },
+    {
+      "title": "The face of the LORD is against evil",
+      "heading": "Justice toward evildoers",
+      "meaning": "But the face of the LORD is against those who do evil, to wipe out all memory of them from the earth. God's attention is not neutral; He opposes evil. The face turned against evildoers is the opposite of the shining face of blessing. The verse speaks of final justice, the end of evil's influence. It does not invite people to carry out judgment themselves.",
+      "contextTitle": "God's opposition to evil",
+      "context": "1 Peter 3:12 quotes this verse, and Psalm 9:5–6 describes the memory of the wicked perishing. Justice is left to God. The contrast with verse 15 is deliberate.",
+      "explore": [
+        [
+          "Face against",
+          "God's face can bless or oppose. Here it opposes those who do harm."
+        ],
+        [
+          "Wipe out all memory",
+          "The image pictures evil coming to an end. It is God's work, not human vengeance."
+        ]
+      ],
+      "reflect": "What evil in the world troubles you most? How could you trust God's justice while working for good?",
+      "related": [
+        "1 Peter 3:12",
+        "Psalm 9:5",
+        "Proverbs 10:7"
+      ],
+      "alt": "Wind blows over an abandoned, crumbling fortress in a barren landscape.",
+      "art": "assets/psalm34/verse-16-watercolor.webp"
+    },
+    {
+      "title": "The righteous cry out",
+      "heading": "God hears and delivers",
+      "meaning": "The righteous cry out, and the LORD hears; He delivers them from all their troubles. This echoes verse 6, now applied to all the righteous. Crying out is not a lack of faith; it is how the faithful pray in trouble. God's hearing leads to deliverance. The verse does not promise immediate rescue from every difficulty, but it trusts God's faithful response.",
+      "contextTitle": "Hearing and rescue",
+      "context": "Psalm 34:6 says this poor man called out, and Psalm 145:19 says God hears their cry and saves them. The repetition from verse 6 widens one testimony to many.",
+      "explore": [
+        [
+          "Cry out",
+          "Crying out is honest prayer. The righteous are not ashamed to ask for help."
+        ],
+        [
+          "All their troubles",
+          "God's deliverance reaches the whole of their distress."
+        ]
+      ],
+      "reflect": "What trouble are you carrying today? Could you cry out to God about it now?",
+      "related": [
+        "Psalm 145:19",
+        "Psalm 34:6",
+        "Exodus 3:7"
+      ],
+      "alt": "Anonymous villagers cry out together beneath a dark stormy sky as light breaks.",
+      "art": "assets/psalm34/verse-17-watercolor.webp"
+    },
+    {
+      "title": "Near to the brokenhearted",
+      "heading": "God's closeness in sorrow",
+      "meaning": "The LORD is near to the brokenhearted; He saves the contrite in spirit. This is one of Scripture's most comforting promises. God does not keep His distance from those who are crushed by grief, loss or guilt. He draws near. The contrite in spirit are those humbled by sorrow or repentance. The verse invites anyone who feels broken to know they are not alone.",
+      "contextTitle": "Nearness in sorrow",
+      "context": "Isaiah 57:15 says God dwells with the contrite and lowly, and Matthew 5:4 blesses those who mourn. Psalm 147:3 says He heals the brokenhearted.",
+      "explore": [
+        [
+          "Brokenhearted",
+          "The phrase describes deep sorrow. God draws near rather than away."
+        ],
+        [
+          "Contrite in spirit",
+          "The contrite are crushed and humble. God saves them."
+        ]
+      ],
+      "reflect": "Where does your heart feel broken right now? What would it mean to know God is near?",
+      "related": [
+        "Isaiah 57:15",
+        "Matthew 5:4",
+        "Psalm 147:3"
+      ],
+      "alt": "An anonymous grieving woman sits by a grave with a hand gently resting on her shoulder.",
+      "art": "assets/psalm34/verse-18-watercolor.webp"
+    },
+    {
+      "title": "Many are the afflictions",
+      "heading": "Honest about suffering, confident in deliverance",
+      "meaning": "Many are the afflictions of the righteous, but the LORD delivers him from them all. The psalm does not pretend that faith removes trouble. Afflictions are many. Yet God's deliverance is complete. This verse holds both truths together: suffering is real, and God is faithful. It invites endurance and trust.",
+      "contextTitle": "Suffering and rescue",
+      "context": "2 Timothy 3:11 recalls Paul's persecutions and the Lord's rescue, and John 16:33 says, 'In the world you will have tribulation. But take courage.'",
+      "explore": [
+        [
+          "Many are the afflictions",
+          "Trouble is honestly named. Faith does not remove it."
+        ],
+        [
+          "From them all",
+          "God's deliverance is complete. No affliction is beyond Him."
+        ]
+      ],
+      "reflect": "What afflictions are you facing? How might you trust God's faithfulness through them?",
+      "related": [
+        "2 Timothy 3:11",
+        "John 16:33",
+        "2 Corinthians 4:8"
+      ],
+      "alt": "A weathered traveler walks steadily through rain toward a sheltering village.",
+      "art": "assets/psalm34/verse-19-watercolor.webp"
+    },
+    {
+      "title": "Not one bone broken",
+      "heading": "God's protection of the whole person",
+      "meaning": "He protects all his bones; not one of them will be broken. The image pictures God's careful protection of the whole person, down to the bones. It is poetic, not a promise that no believer will ever suffer injury. John 19:36 links this verse to Jesus, whose legs were not broken at the cross. The verse speaks of God's watchful care over every part of life.",
+      "contextTitle": "Fulfilled at the cross",
+      "context": "John 19:36 cites this verse, noting that none of Jesus' bones were broken. Exodus 12:46 similarly commands that no bone of the Passover lamb be broken.",
+      "explore": [
+        [
+          "Protects all his bones",
+          "Bones picture the deepest structure of a person. God guards the whole self."
+        ],
+        [
+          "Not one broken",
+          "The image expresses complete care. It is poetry, not a guarantee against injury."
+        ]
+      ],
+      "reflect": "What would it mean to trust God's careful protection of your whole life?",
+      "related": [
+        "John 19:36",
+        "Exodus 12:46",
+        "Psalm 91:11"
+      ],
+      "alt": "A shepherd gently carries a lamb across a rocky stream.",
+      "art": "assets/psalm34/verse-20-watercolor.webp"
+    },
+    {
+      "title": "Evil will slay the wicked",
+      "heading": "Evil destroys itself",
+      "meaning": "Evil will slay the wicked, and the haters of the righteous will be condemned. The verse pictures evil turning back on those who practice it. Wrongdoing carries its own consequences. Those who hate the righteous will face judgment. The verse leaves condemnation to God and to the natural consequences of evil, not to human revenge.",
+      "contextTitle": "Evil turning back",
+      "context": "Proverbs 11:5 says the wicked fall by their own wickedness, and Psalm 7:15–16 describes evildoers falling into the pit they dug. The verse leaves judgment with God.",
+      "explore": [
+        [
+          "Evil will slay",
+          "Evil is self-destructive. It turns on those who practice it."
+        ],
+        [
+          "Will be condemned",
+          "Judgment belongs to God. The righteous need not take revenge."
+        ]
+      ],
+      "reflect": "Have you seen wrongdoing harm the one who does it? How does that shape your choices?",
+      "related": [
+        "Proverbs 11:5",
+        "Psalm 7:15",
+        "Galatians 6:7"
+      ],
+      "alt": "A snare springs closed on an empty patch of ground beside an abandoned path.",
+      "art": "assets/psalm34/verse-21-watercolor.webp"
+    },
+    {
+      "title": "None will be condemned",
+      "heading": "Redemption for those who take refuge",
+      "meaning": "The LORD redeems His servants, and none who take refuge in Him will be condemned. The psalm ends with a promise of redemption. To redeem is to rescue and buy back. Those who take refuge in God will not face condemnation. The verse closes on confidence in God's saving love for those who trust Him. It is the psalm's final word.",
+      "contextTitle": "No condemnation",
+      "context": "Romans 8:1 says there is now no condemnation for those in Christ Jesus, echoing this promise. Psalm 31:5 also celebrates God's redemption. The final verse closes the alphabet poem on hope.",
+      "explore": [
+        [
+          "The LORD redeems",
+          "Redemption means rescue and restoration. God takes the initiative."
+        ],
+        [
+          "None will be condemned",
+          "Those who take refuge in God are safe. Condemnation will not have the last word."
+        ]
+      ],
+      "reflect": "What would it mean for you to rest in God's redemption today?",
+      "related": [
+        "Romans 8:1",
+        "Psalm 31:5",
+        "Psalm 130:7"
+      ],
+      "alt": "An anonymous person walks freely out of an open prison gate into sunlight.",
+      "art": "assets/psalm34/verse-22-watercolor.webp"
+    }
+  ]
+});
+})();
