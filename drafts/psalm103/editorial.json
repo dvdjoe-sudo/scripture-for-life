@@ -1,0 +1,591 @@
+{
+  "chapter": 103,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 103 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "forgiveness": [
+      "Psalm 103:12"
+    ],
+    "gratitude": [
+      "Psalm 103:2"
+    ],
+    "health": [
+      "Psalm 103:3"
+    ],
+    "grief": [
+      "Psalm 103:13"
+    ]
+  },
+  "study": {
+    "number": 103,
+    "coverVerse": 1,
+    "title": "Bless the LORD, O my soul",
+    "intro": "Psalm 103 is one of the Bible's best-loved songs of praise. David speaks to his own soul, urging it to remember all of God's kindness: forgiveness, healing, redemption and renewal. He celebrates God's compassion revealed to Moses, His fatherly care for frail people, and His love that outlasts our short lives. It ends with all creation and every angel called to bless the LORD.",
+    "context": "Psalm 103 is titled 'Of David' and sits right after the lament of Psalm 102, answering its sorrow with praise. Both psalms compare human life to grass, but Psalm 103 sets that frailty beside God's everlasting love. Verse 8 quotes God's self-description to Moses in Exodus 34:6, the most repeated confession of God's character in the Old Testament. The psalm begins and ends with the same call, 'Bless the LORD, O my soul.'",
+    "peopleNote": "David is named in the heading as the author, speaking to his own soul. Moses is named in verse 7 as the one to whom God made His ways known at Sinai. God is never portrayed as a human body in planned art.",
+    "people": [
+      {
+        "id": "david",
+        "name": "David",
+        "ref": "Psalm 103:1"
+      },
+      {
+        "id": "moses",
+        "name": "Moses",
+        "ref": "Psalm 103:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Speaking to the soul",
+        "heading": "Bless the LORD, O my soul",
+        "meaning": "The psalm begins, 'Of David. Bless the LORD, O my soul; all that is within me, bless His holy name.' David is not waiting for feelings of praise to arrive; he commands his own soul to worship. He wants every part of himself, mind, emotions, will and body, joined in blessing God. Sometimes faith means preaching truth to yourself until your heart catches up and joins the song.",
+        "contextTitle": "Worship with the whole self",
+        "context": "Deuteronomy 6:5 calls us to love God with all our heart, soul and strength. Psalm 42:5 shows the psalmist questioning his own downcast soul. Psalm 146:1 opens, 'Praise the LORD, O my soul.'",
+        "explore": [
+          [
+            "Bless the LORD",
+            "To praise and honor God gratefully, speaking well of who He is and what He has done."
+          ],
+          [
+            "Holy name",
+            "God's name, representing His set-apart character, which deserves deep reverence."
+          ]
+        ],
+        "reflect": "What would it look like to tell your own soul to praise God today, even if you feel flat?",
+        "related": [
+          "Deuteronomy 6:5",
+          "Psalm 42:5",
+          "Psalm 146:1"
+        ],
+        "alt": "A man stands on a hillside at dawn with hands lifted toward the sky.",
+        "art": "assets/psalm103/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Do not forget",
+        "heading": "All His kind deeds",
+        "meaning": "Verse 2 repeats, 'Bless the LORD, O my soul, and do not forget all His kind deeds.' The danger David sees is not mainly doubt but forgetfulness. People drift from gratitude when they stop remembering. So he deliberately recalls God's goodness. Remembering is a spiritual discipline; listing what God has done keeps praise alive when circumstances try to crowd it out.",
+        "contextTitle": "The discipline of remembering",
+        "context": "Deuteronomy 8:11 warns, 'Be careful not to forget the LORD your God.' Psalm 77:11 says, 'I will remember the works of the LORD.' Luke 17:15-16 shows one healed man returning to give thanks.",
+        "explore": [
+          [
+            "Forget",
+            "To let something slip from mind and heart, which slowly weakens gratitude and trust."
+          ],
+          [
+            "Kind deeds",
+            "God's acts of goodness and benefit toward His people, both great and ordinary."
+          ]
+        ],
+        "reflect": "Which kind deeds of God have you been in danger of forgetting lately?",
+        "related": [
+          "Deuteronomy 8:11",
+          "Psalm 77:11",
+          "Luke 17:15"
+        ],
+        "alt": "A woman writes on a small clay tablet by lamplight, smiling softly.",
+        "art": "assets/psalm103/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Forgiven and healed",
+        "heading": "He forgives all your iniquities",
+        "meaning": "Verse 3 begins the list: 'He who forgives all your iniquities and heals all your diseases.' Forgiveness comes first, because our deepest need is to be right with God. Healing follows. God cares for soul and body alike. Every recovery is His gift, and the full healing of all disease is promised in the new creation where there will be no more pain.",
+        "contextTitle": "Forgiveness before healing",
+        "context": "Mark 2:5-11 shows Jesus forgiving a paralyzed man and then healing him. Exodus 15:26 calls God 'the LORD who heals you.' Revelation 21:4 promises no more death or pain.",
+        "explore": [
+          [
+            "Iniquities",
+            "Sins that twist what is right, the guilt that separates us from God."
+          ],
+          [
+            "Heals",
+            "Restores to health; God's care for the body, given now in part and fully in the end."
+          ]
+        ],
+        "reflect": "Why do you think forgiveness is listed before healing in this verse?",
+        "related": [
+          "Mark 2:5",
+          "Exodus 15:26",
+          "Revelation 21:4"
+        ],
+        "alt": "A man rises from a sleeping mat in a sunlit room, rolling it up.",
+        "art": "assets/psalm103/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Crowned with love",
+        "heading": "Redeemed from the Pit",
+        "meaning": "Verse 4 continues, 'who redeems your life from the Pit and crowns you with loving devotion and compassion.' The Pit means the grave, the place of death. God buys us back from it like a relative rescuing a family member. Then, instead of leaving us merely rescued, He crowns us. The one lifted from death is dressed in royal love and tender mercy.",
+        "contextTitle": "From the grave to a crown",
+        "context": "Psalm 40:2 says, 'He lifted me up from the pit of despair.' Ruth 4:14 praises God for providing a redeemer. 1 Peter 1:18-19 says we were redeemed with the precious blood of Christ.",
+        "explore": [
+          [
+            "Redeems",
+            "Buys back or rescues at a cost, like a family member paying to free a relative."
+          ],
+          [
+            "The Pit",
+            "The grave or realm of death, from which only God can rescue a person."
+          ]
+        ],
+        "reflect": "How does it change your self-image to know God crowns you with love?",
+        "related": [
+          "Psalm 40:2",
+          "Ruth 4:14",
+          "1 Peter 1:18"
+        ],
+        "alt": "A simple woven wreath of olive leaves resting on a wooden table.",
+        "art": "assets/psalm103/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Renewed like the eagle",
+        "heading": "Satisfied with good things",
+        "meaning": "Verse 5 says God is the one 'who satisfies you with good things, so that your youth is renewed like the eagle's.' God fills empty lives with real good. The eagle, soaring strongly on high winds, pictured vigor and freshness. God's goodness restores strength that seemed long gone. Even as bodies age, He gives inner renewal that keeps hope young.",
+        "contextTitle": "Strength renewed",
+        "context": "Isaiah 40:31 says those who wait on the LORD will mount up with wings like eagles. Psalm 107:9 says He satisfies the thirsty. 2 Corinthians 4:16 says our inner self is renewed day by day.",
+        "explore": [
+          [
+            "Satisfies",
+            "Fills fully so that the deepest needs and longings are met."
+          ],
+          [
+            "Eagle",
+            "A powerful soaring bird, a symbol of strength, freedom and renewed energy."
+          ]
+        ],
+        "reflect": "Where do you need God to renew your strength right now?",
+        "related": [
+          "Isaiah 40:31",
+          "Psalm 107:9",
+          "2 Corinthians 4:16"
+        ],
+        "alt": "An eagle soaring high above rugged cliffs in bright morning air.",
+        "art": "assets/psalm103/verse-5-watercolor.webp"
+      },
+      {
+        "title": "Justice for the oppressed",
+        "heading": "The LORD executes righteousness",
+        "meaning": "Verse 6 says, 'The LORD executes righteousness and justice for all the oppressed.' David moves from personal blessings to God's care for the crushed. God is not neutral about injustice. He acts to set things right for those pushed down. His people are called to share that same concern, defending the weak because God Himself defends them.",
+        "contextTitle": "God takes the side of the crushed",
+        "context": "Psalm 146:7 says He executes justice for the oppressed. Exodus 3:9 says God saw the oppression of Israel in Egypt. Isaiah 1:17 calls God's people to seek justice and correct oppression.",
+        "explore": [
+          [
+            "Oppressed",
+            "People crushed or mistreated by those with more power, often without defense."
+          ],
+          [
+            "Righteousness",
+            "What is right according to God's character, put into action in the world."
+          ]
+        ],
+        "reflect": "Who around you is oppressed, and how might God want you to stand with them?",
+        "related": [
+          "Psalm 146:7",
+          "Exodus 3:9",
+          "Isaiah 1:17"
+        ],
+        "alt": "A widow receives a basket of grain from a village elder at a gate.",
+        "art": "assets/psalm103/verse-6-watercolor.webp"
+      },
+      {
+        "title": "Ways made known",
+        "heading": "Revealed to Moses",
+        "meaning": "Verse 7 says, 'He made known His ways to Moses, His deeds to the people of Israel.' Israel saw God's deeds: plagues, the sea parting, manna falling. Moses learned God's ways, the heart and reasons behind those deeds. God does not leave His people guessing; He reveals Himself. Knowing God's ways, not just His works, leads to deeper trust.",
+        "contextTitle": "Knowing God, not only His works",
+        "context": "Exodus 33:13 records Moses praying, 'Let me know Your ways.' Psalm 95:10 laments a generation that did not know His ways. John 1:18 says the Son has made the Father known.",
+        "explore": [
+          [
+            "His ways",
+            "God's character, purposes and manner of acting, revealed to those who seek Him."
+          ],
+          [
+            "His deeds",
+            "God's visible acts in history, such as the rescue from Egypt."
+          ]
+        ],
+        "reflect": "Are you content to see what God does, or do you also seek to know His ways?",
+        "related": [
+          "Exodus 33:13",
+          "Psalm 95:10",
+          "John 1:18"
+        ],
+        "alt": "A shepherd stands alone on a rocky mountain slope in swirling cloud.",
+        "art": "assets/psalm103/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Compassionate and gracious",
+        "heading": "Slow to anger",
+        "meaning": "Verse 8 declares, 'The LORD is compassionate and gracious, slow to anger, abounding in loving devotion.' These are the words God spoke about Himself to Moses after Israel worshiped the golden calf. At the very moment of His people's failure, God revealed His mercy. This is who God is: tender, generous, patient and overflowing with faithful love.",
+        "contextTitle": "God's own self-description",
+        "context": "Exodus 34:6 is where God first proclaims these words. Jonah 4:2 quotes them about God's mercy to Nineveh. Joel 2:13 calls people to return because God is gracious and compassionate.",
+        "explore": [
+          [
+            "Gracious",
+            "Giving undeserved favor freely, out of goodness rather than obligation."
+          ],
+          [
+            "Slow to anger",
+            "Patient, holding back judgment and giving time for repentance."
+          ]
+        ],
+        "reflect": "Which of these four qualities of God do you most need to believe today?",
+        "related": [
+          "Exodus 34:6",
+          "Jonah 4:2",
+          "Joel 2:13"
+        ],
+        "alt": "Two tablets of stone rest on a rock at the foot of a misty mountain.",
+        "art": "assets/psalm103/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Anger that ends",
+        "heading": "He will not always accuse",
+        "meaning": "Verse 9 says, 'He will not always accuse us, nor harbor His anger forever.' God does confront sin; He is not indifferent to wrong. But His anger is not a grudge He nurses. Unlike people who keep score and replay old offenses, God lets His anger give way to mercy when we turn to Him. His last word for His people is not accusation.",
+        "contextTitle": "No grudges in God",
+        "context": "Micah 7:18 asks, 'Who is a God like You... You do not stay angry forever.' Isaiah 57:16 says, 'I will not accuse forever.' Romans 8:1 says there is no condemnation for those in Christ.",
+        "explore": [
+          [
+            "Accuse",
+            "To bring charges against someone, pointing out guilt; God does not do this endlessly."
+          ],
+          [
+            "Harbor",
+            "To hold on to and keep, as a person might nurse a grudge."
+          ]
+        ],
+        "reflect": "Do you picture God as holding grudges? How does this verse correct that?",
+        "related": [
+          "Micah 7:18",
+          "Isaiah 57:16",
+          "Romans 8:1"
+        ],
+        "alt": "A father opens his arms at a doorway as a son approaches on a path.",
+        "art": "assets/psalm103/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Not what we deserve",
+        "heading": "He has not dealt with us by our sins",
+        "meaning": "Verse 10 says, 'He has not dealt with us according to our sins or repaid us according to our iniquities.' If God gave us exactly what we earned, no one could stand. Instead, He gives mercy. This is not because sin is small, but because God would one day place its full cost on His Son, so that we could receive grace instead.",
+        "contextTitle": "Mercy instead of payment",
+        "context": "Ezra 9:13 admits God punished less than Israel's sins deserved. Romans 6:23 says the wages of sin is death, but the gift of God is eternal life. Isaiah 53:5 says He was pierced for our transgressions.",
+        "explore": [
+          [
+            "Dealt with us",
+            "Treated us; God's response to us is shaped by mercy rather than strict payback."
+          ],
+          [
+            "Repaid",
+            "Given back what is owed; here, the punishment God has chosen not to give."
+          ]
+        ],
+        "reflect": "How would your relationships change if you treated others as God has treated you?",
+        "related": [
+          "Ezra 9:13",
+          "Romans 6:23",
+          "Isaiah 53:5"
+        ],
+        "alt": "A cancelled debt record on a clay tablet lies broken in two.",
+        "art": "assets/psalm103/verse-10-watercolor.webp"
+      },
+      {
+        "title": "As high as the heavens",
+        "heading": "So great is His loving devotion",
+        "meaning": "Verse 11 says, 'For as high as the heavens are above the earth, so great is His loving devotion for those who fear Him.' Look up at the sky and try to measure its height; you cannot. That is how vast God's faithful love is. It is not a thin, rationed kindness but an immeasurable love poured out on those who honor Him.",
+        "contextTitle": "Love beyond measure",
+        "context": "Ephesians 3:18-19 prays that we grasp the breadth, length, height and depth of Christ's love. Psalm 36:5 says His loving devotion reaches to the heavens. Isaiah 55:9 says His ways are higher than ours.",
+        "explore": [
+          [
+            "Fear Him",
+            "To revere and trust God, honoring Him with humble awe and obedience."
+          ],
+          [
+            "Loving devotion",
+            "God's steadfast covenant love, loyal and kind beyond what we deserve."
+          ]
+        ],
+        "reflect": "Next time you look up at the sky, how could it remind you of God's love?",
+        "related": [
+          "Ephesians 3:18",
+          "Psalm 36:5",
+          "Isaiah 55:9"
+        ],
+        "alt": "A vast blue sky with high clouds above a small figure in a wheat field.",
+        "art": "assets/psalm103/verse-11-watercolor.webp"
+      },
+      {
+        "title": "East from west",
+        "heading": "Our transgressions removed",
+        "meaning": "Verse 12 promises, 'As far as the east is from the west, so far has He removed our transgressions from us.' North and south meet at the poles, but east and west never meet. God does not just cover our sin and keep it nearby; He removes it completely. Forgiven sins are not stored up to be used against us later.",
+        "contextTitle": "Sin removed completely",
+        "context": "Micah 7:19 says God casts our sins into the depths of the sea. Isaiah 38:17 says, 'You have cast all my sins behind Your back.' Hebrews 8:12 says, 'I will remember their sins no more.'",
+        "explore": [
+          [
+            "Transgressions",
+            "Sins that cross God's boundaries, deliberate steps over the line He has drawn."
+          ],
+          [
+            "Removed",
+            "Taken away and separated from us, so that sin no longer defines us."
+          ]
+        ],
+        "reflect": "Is there a forgiven sin you keep dragging back? What does this verse say about it?",
+        "related": [
+          "Micah 7:19",
+          "Isaiah 38:17",
+          "Hebrews 8:12"
+        ],
+        "alt": "A sunrise on one horizon and a sunset glow on the other across a wide plain.",
+        "art": "assets/psalm103/verse-12-watercolor.webp"
+      },
+      {
+        "title": "A father's compassion",
+        "heading": "Compassion on His children",
+        "meaning": "Verse 13 says, 'As a father has compassion on his children, so the LORD has compassion on those who fear Him.' A good father's heart aches when his child is hurt or struggling. God's compassion is like that, personal and tender. Jesus taught us to call God 'Father,' and the parable of the prodigal son shows a father running to embrace his returning child.",
+        "contextTitle": "God as a loving Father",
+        "context": "Luke 15:20 shows the father running to his son, filled with compassion. Matthew 6:9 teaches us to pray 'Our Father.' Romans 8:15 says we cry 'Abba, Father.'",
+        "explore": [
+          [
+            "Compassion",
+            "Deep, tender feeling for another's suffering that moves one to help."
+          ],
+          [
+            "Children",
+            "Those who belong to a father; God's people adopted into His family."
+          ]
+        ],
+        "reflect": "How does picturing God as a compassionate father affect how you come to Him?",
+        "related": [
+          "Luke 15:20",
+          "Matthew 6:9",
+          "Romans 8:15"
+        ],
+        "alt": "A father kneels to comfort a crying child in a village street.",
+        "art": "assets/psalm103/verse-13-watercolor.webp"
+      },
+      {
+        "title": "He knows we are dust",
+        "heading": "Mindful of our frame",
+        "meaning": "Verse 14 says, 'For He knows our frame; He is mindful that we are dust.' God made Adam from dust, and He remembers how fragile we are. He does not expect from us what only He can do. His patience with our weakness flows from understanding how He made us. We can be honest about our limits before Him without fear.",
+        "contextTitle": "God understands our weakness",
+        "context": "Genesis 2:7 says God formed man from the dust of the ground. Hebrews 4:15 says Jesus sympathizes with our weaknesses. Matthew 26:41 says the spirit is willing but the flesh is weak.",
+        "explore": [
+          [
+            "Frame",
+            "Our makeup and form; the way God made us, including our limits."
+          ],
+          [
+            "Dust",
+            "The humble material from which God formed humanity, a reminder of our fragility."
+          ]
+        ],
+        "reflect": "What limit or weakness do you need to stop hiding from God?",
+        "related": [
+          "Genesis 2:7",
+          "Hebrews 4:15",
+          "Matthew 26:41"
+        ],
+        "alt": "Hands holding a mound of fine red earth beside a potter's wheel.",
+        "art": "assets/psalm103/verse-14-watercolor.webp"
+      },
+      {
+        "title": "Like a wildflower",
+        "heading": "His days are like grass",
+        "meaning": "Verse 15 says, 'As for man, his days are like grass—he blooms like a flower of the field.' Wildflowers spring up quickly and look beautiful for a short season. Human lives are similar: real, lovely and brief. David does not say this to make us despair but to set up the contrast with God's lasting love that follows.",
+        "contextTitle": "Brief and beautiful lives",
+        "context": "Isaiah 40:6-8 says all flesh is grass, but the word of our God stands forever. James 1:10-11 compares the rich to a fading flower. Job 14:1-2 says man springs up like a flower and withers.",
+        "explore": [
+          [
+            "Grass",
+            "A plant that grows fast and fades quickly, a picture of human mortality."
+          ],
+          [
+            "Flower of the field",
+            "A wildflower that blooms briefly and beautifully, then is gone."
+          ]
+        ],
+        "reflect": "How does remembering life's brevity help you live more wisely?",
+        "related": [
+          "Isaiah 40:6",
+          "James 1:10",
+          "Job 14:1"
+        ],
+        "alt": "Red wildflowers bloom across a spring hillside in soft light.",
+        "art": "assets/psalm103/verse-15-watercolor.webp"
+      },
+      {
+        "title": "Gone with the wind",
+        "heading": "Its place remembers it no more",
+        "meaning": "Verse 16 continues, 'when the wind passes over, it vanishes, and its place remembers it no more.' A hot desert wind can wither a field of flowers in a day. Afterward, no one could tell they had grown there. Human memory fades too. But the next verse shows that while the earth forgets, God's love does not.",
+        "contextTitle": "Forgotten by the earth",
+        "context": "Job 7:10 says, 'His place remembers him no more.' Ecclesiastes 1:11 says there is no remembrance of earlier things. Isaiah 49:15-16 says God will not forget His people, engraved on His palms.",
+        "explore": [
+          [
+            "Wind",
+            "Here the hot east wind that dries up vegetation quickly."
+          ],
+          [
+            "Remembers it no more",
+            "Leaves no trace, showing how quickly human presence fades from the world."
+          ]
+        ],
+        "reflect": "Where do you find security when you realize the world will eventually forget you?",
+        "related": [
+          "Job 7:10",
+          "Ecclesiastes 1:11",
+          "Isaiah 49:15"
+        ],
+        "alt": "Wind sweeping across a bare field where flowers once grew.",
+        "art": "assets/psalm103/verse-16-watercolor.webp"
+      },
+      {
+        "title": "Everlasting love",
+        "heading": "From everlasting to everlasting",
+        "meaning": "Verse 17 answers, 'But from everlasting to everlasting the loving devotion of the LORD extends to those who fear Him, and His righteousness to their children's children.' Human life fades, but God's love stretches endlessly backward and forward. It outlasts each generation and reaches grandchildren. Our frailty is held inside a love that has no beginning and no end.",
+        "contextTitle": "Love that outlasts us",
+        "context": "Psalm 90:2 says from everlasting to everlasting You are God. Exodus 20:6 speaks of love to a thousand generations. Luke 1:50 says His mercy extends from generation to generation.",
+        "explore": [
+          [
+            "Everlasting",
+            "Without beginning or end; reaching through all time."
+          ],
+          [
+            "Children's children",
+            "Grandchildren and later descendants who inherit God's faithfulness."
+          ]
+        ],
+        "reflect": "How can you pass on knowledge of God's everlasting love to the next generation?",
+        "related": [
+          "Psalm 90:2",
+          "Exodus 20:6",
+          "Luke 1:50"
+        ],
+        "alt": "A grandmother tells a story to two small children by a courtyard fire.",
+        "art": "assets/psalm103/verse-17-watercolor.webp"
+      },
+      {
+        "title": "Keeping covenant",
+        "heading": "Remember to obey",
+        "meaning": "Verse 18 describes those who receive this love: 'to those who keep His covenant and remember to obey His precepts.' God's love is freely given, yet it shapes a life. Those who know His love respond by remembering and obeying His instructions. Obedience is not how we earn God's love but how we walk in the covenant relationship He offers.",
+        "contextTitle": "Love that leads to obedience",
+        "context": "John 14:15 says, 'If you love Me, you will keep My commandments.' Deuteronomy 7:9 says God keeps covenant with those who love Him. James 1:25 blesses those who look into the law and do it.",
+        "explore": [
+          [
+            "Covenant",
+            "A binding relationship God establishes with His people, with promises and commitments."
+          ],
+          [
+            "Precepts",
+            "God's specific instructions that guide everyday life and conduct."
+          ]
+        ],
+        "reflect": "Which of God's instructions do you most need to remember and obey this week?",
+        "related": [
+          "John 14:15",
+          "Deuteronomy 7:9",
+          "James 1:25"
+        ],
+        "alt": "A young man reads a scroll aloud to a family seated on a rooftop.",
+        "art": "assets/psalm103/verse-18-watercolor.webp"
+      },
+      {
+        "title": "Throne in heaven",
+        "heading": "His kingdom rules over all",
+        "meaning": "Verse 19 declares, 'The LORD has established His throne in heaven, and His kingdom rules over all.' After all this tenderness, David reminds us that the compassionate Father is also the supreme King. Nothing lies outside His rule. That is why His love is so trustworthy: it belongs to the One who governs everything.",
+        "contextTitle": "The universal King",
+        "context": "Daniel 4:34-35 says His dominion is everlasting and none can stay His hand. Psalm 47:8 says God reigns over the nations. Matthew 28:18 says all authority has been given to Jesus.",
+        "explore": [
+          [
+            "Established",
+            "Set firmly in place so that it cannot be shaken or removed."
+          ],
+          [
+            "Kingdom",
+            "God's royal rule and authority, extending over all creation."
+          ]
+        ],
+        "reflect": "How does God's rule over all things give you peace in uncertain times?",
+        "related": [
+          "Daniel 4:34",
+          "Psalm 47:8",
+          "Matthew 28:18"
+        ],
+        "alt": "A night sky full of stars above dark mountain peaks.",
+        "art": "assets/psalm103/verse-19-watercolor.webp"
+      },
+      {
+        "title": "Angels mighty in strength",
+        "heading": "Who carry out His word",
+        "meaning": "Verse 20 calls, 'Bless the LORD, all His angels mighty in strength who carry out His word, who hearken to the voice of His command.' David invites heaven's powerful servants to join his praise. The angels' greatness shows in obedience; they listen and act on God's word. Our worship joins a heavenly chorus far bigger than we are.",
+        "contextTitle": "Heaven joins the song",
+        "context": "Hebrews 1:14 calls angels ministering spirits sent to serve. Isaiah 6:3 records seraphim crying 'Holy, holy, holy.' Luke 2:13-14 shows a heavenly host praising God at Jesus' birth.",
+        "explore": [
+          [
+            "Angels",
+            "Spiritual servants of God, created to worship Him and carry out His will."
+          ],
+          [
+            "Hearken",
+            "To listen closely with readiness to obey, giving full attention to a command."
+          ]
+        ],
+        "reflect": "How does knowing angels worship alongside you shape your view of worship?",
+        "related": [
+          "Hebrews 1:14",
+          "Isaiah 6:3",
+          "Luke 2:13"
+        ],
+        "alt": "Bright light fills a night sky above shepherds' fields.",
+        "art": "assets/psalm103/verse-20-watercolor.webp"
+      },
+      {
+        "title": "All His hosts",
+        "heading": "Servants who do His will",
+        "meaning": "Verse 21 widens the call: 'Bless the LORD, all His hosts, you servants who do His will.' The hosts are the armies of heaven, the vast ranks serving God. Their worship is shown in doing His will. Jesus taught us to pray, 'Your will be done, on earth as it is in heaven,' joining earth to this heavenly obedience.",
+        "contextTitle": "Heaven's armies",
+        "context": "Matthew 6:10 prays, 'Your will be done, on earth as it is in heaven.' Psalm 148:2 says, 'Praise Him, all His heavenly hosts.' 1 Kings 22:19 pictures the host of heaven standing by God's throne.",
+        "explore": [
+          [
+            "Hosts",
+            "The great armies of heaven, angelic ranks devoted to God's service."
+          ],
+          [
+            "Do His will",
+            "Carry out what God desires, the purest expression of worship."
+          ]
+        ],
+        "reflect": "How can doing God's will today become an act of worship?",
+        "related": [
+          "Matthew 6:10",
+          "Psalm 148:2",
+          "1 Kings 22:19"
+        ],
+        "alt": "Countless stars spread across the heavens over a quiet desert.",
+        "art": "assets/psalm103/verse-21-watercolor.webp"
+      },
+      {
+        "title": "All creation and my soul",
+        "heading": "Bless the LORD, all His works",
+        "meaning": "Verse 22 ends, 'Bless the LORD, all His works in all places of His dominion. Bless the LORD, O my soul!' David calls everything God has made to praise Him everywhere He rules, which is everywhere. Then he returns to where he started, his own soul. The universe joins the song, but David still makes sure his own voice is in it.",
+        "contextTitle": "From the cosmos back to the heart",
+        "context": "Psalm 145:10 says all Your works shall give thanks to You. Revelation 5:13 shows every creature praising God and the Lamb. Psalm 104:1 opens the next psalm with the same words.",
+        "explore": [
+          [
+            "All His works",
+            "Everything God has made, from stars to creatures to people."
+          ],
+          [
+            "Dominion",
+            "The whole realm over which God rules, which includes all of creation."
+          ]
+        ],
+        "reflect": "After reading this psalm, what would you like to bless the LORD for right now?",
+        "related": [
+          "Psalm 145:10",
+          "Revelation 5:13",
+          "Psalm 104:1"
+        ],
+        "alt": "Birds, trees, hills and a sunlit sky in a wide spring landscape.",
+        "art": "assets/psalm103/verse-22-watercolor.webp"
+      }
+    ]
+  }
+}
