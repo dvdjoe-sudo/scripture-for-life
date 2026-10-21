@@ -37,6 +37,10 @@ for (const item of required) localFile(www, item, 'Android web bundle');
 for (const item of ['genesis.js', 'genesis-people.js', 'exodus.js', 'exodus-people.js', 'deuteronomy.js', 'data/deuteronomy-episodes.json', 'data/deuteronomy-scenes.json', 'joshua.js', 'joshua-people.js', 'data/joshua-episodes.json', 'data/joshua-scenes.json', 'judges.js', 'judges-people.js', 'data/judges-episodes.json', 'data/judges-scenes.json']) {
   assert(read(root, item) === read(www, item), 'Story asset differs in Android bundle: ' + item);
 }
+for (const item of ['ruth.js', 'ruth-people.js', 'data/ruth-episodes.json', 'data/ruth-scenes.json']) {
+  assert(read(root, item) === read(www, item), 'Ruth asset differs in Android bundle: ' + item);
+  assert(read(www, 'sw.js').includes(item), 'Ruth asset missing from offline cache: ' + item);
+}
 
 // Verify actual index.html links (the old build copied different legacy filenames).
 for (const match of html.matchAll(/<(?:script|link)\b[^>]*(?:src|href)=["']([^"']+)["']/g)) {
