@@ -33,12 +33,13 @@ Approved goal: extend the Psalm 1 / original Psalm 23 format across all 150 Psal
 | 25 | 22 | `#/study/25/1` |
 | 26 | 12 | `#/study/26/1` |
 | 27 | 14 | `#/study/27/1` |
+| 28 | 9 | `#/study/28/1` |
 
 Psalm 46 has a six-section study covering all eleven verses; it still needs conversion to individual verse pages to meet the new goal. All other Psalms retain their full chapter pages and chapter introductions, rather than being labeled finished verse studies.
 
-Next sequential unfinished chapter: **Psalm 28**. Preserve the completed original Psalm 23 study and arrange Psalm 46's conversion when reached. No routine chapter approval is needed within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique art, or that work continues after a session ends.
+Next sequential unfinished chapter: **Psalm 29**. Preserve the completed original Psalm 23 study and arrange Psalm 46's conversion when reached. No routine chapter approval is needed within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique art, or that work continues after a session ends.
 
-Psalm 28 is an unpublished whole-chapter candidate on `feature/psalm-28-verse-study`: nine exact BSB verses with David's heading, individual notes, eighteen related references read in context, nine distinct inspected built-in watercolors and alone/gratitude/strength/direction links. The source and Android packaging checks pass locally. Full prompts are in assets/psalm28/generation-prompts.json; the production art totals 2,010,232 bytes (1.92 MiB). Resume its PR first if open. Publication remains gated by phone-width tests, Capacitor, CI, authorized merge, main CI, Pages and live verification. Story manuscripts, scene data, renderers and Psalm 23 are unchanged.
+Psalm 28 passed the whole-chapter gate in PR #66 on c8eff98455c72049c0e9971f8ca4eae1c7f35c18 (CI 39587636678 and 39587612156): nine exact BSB verses with David's heading, individual notes, eighteen related references read in context, nine distinct inspected built-in watercolors and alone/gratitude/strength/direction links. Source/reference/asset/offline/Android parity checks passed, along with every verse/tab/image at 390px in source website and packaged webview, reflection reload/Saved/dialog, isolated Psalm 27/28 resume, topic round trips and 27→28→29 navigation. Capacitor creation/sync passed. Full prompts are in assets/psalm28/generation-prompts.json; the production art totals 2,010,232 bytes (1.92 MiB). Resume PR #66 first if open. Publication follows final PR CI, authorized merge, main CI, Pages and live verification. Story manuscripts, scene data, renderers and Psalm 23 are unchanged. Native APK/device testing is separate.
 
 Psalm 27 was published through PR #65 at 8030a1105e2a0ed271112383d90826768d0a23d2 after final PR CI 39584822891, main CI 39585280951 and Pages 39585279955 passed. All eighteen live files matched the tested bytes, including fourteen paintings. The earlier candidate note below records its pre-publication gate.
 
