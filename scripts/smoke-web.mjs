@@ -80,8 +80,9 @@ try {
     await page.locator('.psalm-navigation a[href="#/psalms"]').click();
     await page.locator('.psalms-all-grid .psalms-study-card').first().waitFor();
     assert.equal(await page.locator('.psalms-all-grid .psalms-study-card').count(),150,'All 150 Psalm chapter cards remain available');
-    assert.equal(await page.locator('.psalms-detailed > .psalms-study-grid .psalms-study-card').count(),2,'Psalm 23 deeper-reading cards remain available');
-    assert.equal(await page.locator('.psalms-detailed .ps46-card').count(),1,'Psalm 46 deeper-reading card remains available');
+    assert.equal(await page.locator('.psalms-detailed a[href^="#/study/23/"]').count(),1,'Original Psalm 23 detailed study remains available');
+    assert.equal(await page.locator('.psalms-detailed a[href^="#/study/46/"]').count(),1,'Psalm 46 detailed study remains available');
+    assert.equal(await page.locator('.psalms-detailed a[href^="#/study/25/"]').count(),1,'Psalm 25 detailed study is discoverable');
     await visit('#/walk/23/4','.psalm-verse-art');
     assert.ok(page.url().endsWith('#/study/23/4'),'Old walk links open the verse illustration');
     await page.getByRole('tab',{name:'Reflect',exact:true}).click();
