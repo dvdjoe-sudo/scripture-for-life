@@ -1,56 +1,64 @@
 {
-  "tool": "not yet generated",
+  "tool": "built-in image_gen.imagegen",
   "styleReference": "assets/psalm23/verse-2-watercolor.webp",
   "productionFormat": "WebP, 1024px wide (3:2), quality 75",
-  "status": "Prompts drafted only; no images generated",
+  "status": "Verses 1–8 generated, packaged and visually inspected; verses 9–40 remain prompt-only",
   "paintings": [
     {
       "verse": 1,
-      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 1: An anonymous villager quietly tends a small vegetable garden in soft light while a large ostentatious villa rises on the hill behind, conveying the counsel not to fret or envy those who do wrong.",
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 1: An anonymous gardener calmly tends a small healthy vegetable plot while, beyond a low wall, a lush but thorn-covered vine spreads aggressively and casts a restless shadow, conveying refusal to fret over or envy wrongdoing without equating wealth with evil.",
       "production": "assets/psalm37/verse-1-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-46a71162-4514-43dd-9ac0-4fb5bf8d8500.png"
     },
     {
       "verse": 2,
       "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 2: Fresh green grass on a hillside wilts and turns brown under a scorching midday sun, a few tender plants drooping, no people, conveying the wicked withering quickly like grass.",
       "production": "assets/psalm37/verse-2-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-098b0a99-3063-47ed-bed5-c67b850941b1.png"
     },
     {
       "verse": 3,
       "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 3: An anonymous farmer patiently tills a small terraced field with a simple wooden plow at dawn, olive trees and a modest stone house nearby, conveying trust in the LORD and cultivating faithfulness.",
       "production": "assets/psalm37/verse-3-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-f573ed71-d40d-4e95-9b4e-616aa18f77d5.png"
     },
     {
       "verse": 4,
       "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 4: An anonymous person sits contentedly beneath blossoming almond trees in a spring orchard, face lifted in quiet joy, petals drifting, conveying delight in the LORD.",
       "production": "assets/psalm37/verse-4-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-d344eba9-58fd-422c-bea5-04b5f29d1bf6.png"
     },
     {
       "verse": 5,
       "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 5: An anonymous traveler rolls a heavy stone burden onto a sturdy wooden cart at the start of a winding road at dawn, relieved posture, conveying committing one's way to the LORD.",
       "production": "assets/psalm37/verse-5-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-52803a16-ffdb-4bc3-acbe-09a95768cd37.png"
     },
     {
       "verse": 6,
       "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 6: A panoramic valley transitioning from soft dawn light on the left to brilliant noonday sun on the right, fields and a village fully lit, conveying righteousness revealed like the dawn and noonday sun.",
       "production": "assets/psalm37/verse-6-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-fad643fb-710b-45e0-afab-39aaf5141589.png"
     },
     {
       "verse": 7,
       "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 7: An anonymous person sits quietly on a rock beside a calm mirror-like lake at dawn, mist rising, hands resting open, conveying stillness and patient waiting before the LORD.",
       "production": "assets/psalm37/verse-7-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-c87f8bcf-b47f-4966-8f28-917281332b64.png"
     },
     {
       "verse": 8,
       "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 8: An anonymous person's clenched hand slowly opens to release a sharp stone into a flowing stream in soft light, conveying refraining from anger and abandoning wrath. Hand ordinary and human.",
       "production": "assets/psalm37/verse-8-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-684328ac-651e-4388-bb6d-40f02c276ed8.png"
     },
     {
       "verse": 9,
@@ -246,14 +254,6 @@
     }
   ],
   "pendingVerses": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
     9,
     10,
     11,

@@ -1,0 +1,16 @@
+{
+  "chapter": 37,
+  "status": "partial unpublished checkpoint; not wired",
+  "completedThrough": 8,
+  "totalVerses": 40,
+  "groups": [
+    {
+      "file": "verses-1-8.json",
+      "from": 1,
+      "through": 8,
+      "status": "editorial and individual art reviewed"
+    }
+  ],
+  "nextVerse": 9
+}
+
