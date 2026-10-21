@@ -1,0 +1,235 @@
+{
+  "chapter": 101,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 101 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "direction": [
+      "Psalm 101:2"
+    ],
+    "strength": [
+      "Psalm 101:3"
+    ]
+  },
+  "study": {
+    "number": 101,
+    "coverVerse": 1,
+    "title": "A king's pledge of integrity",
+    "intro": "Psalm 101 is David's personal pledge to rule with integrity. He begins by singing of God's love and justice, then promises to walk blamelessly at home, refuse worthless things, reject slander, pride and deceit, and surround himself with faithful people. It is a model of leadership shaped by God's own character.",
+    "context": "Psalm 101 is titled 'A Psalm of David' and is often called a royal psalm, like an oath a king might make when taking the throne. Verses 1-4 address his own heart and household; verses 5-8 address the people he allows near him and the justice he will carry out in the land. Its standards echo God's own love and justice in verse 1. No human king fully kept it, but it points to the perfectly righteous King, Jesus.",
+    "peopleNote": "David is named in the heading as the psalm's author, making it a king's personal vow. Jesus is linked as the King who perfectly fulfills this pledge of blameless rule. God is never portrayed as a human body in planned art.",
+    "people": [
+      {
+        "id": "david",
+        "name": "David",
+        "ref": "Psalm 101:1"
+      },
+      {
+        "id": "jesus",
+        "name": "Jesus",
+        "ref": "Psalm 101:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Love and justice",
+        "heading": "I will sing to You",
+        "meaning": "The psalm opens, 'A Psalm of David. I will sing of Your loving devotion and justice; to You, O LORD, I will sing praises.' Before David makes any promises, he sings of God's character. God's loyal love and His justice will be the pattern for David's reign. A good leader begins by worshiping, because only a heart shaped by God can rule rightly.",
+        "contextTitle": "The pattern for rule",
+        "context": "Jeremiah 9:24 says God delights in loving devotion, justice and righteousness. Psalm 89:14 says loving devotion and faithfulness go before His throne. Micah 6:8 joins justice and mercy as what God requires.",
+        "explore": [
+          [
+            "Loving devotion",
+            "God's covenant love, faithful and kind toward His people."
+          ],
+          [
+            "Justice",
+            "Doing what is right and fair, protecting the innocent and opposing wrong."
+          ]
+        ],
+        "reflect": "Which of God's qualities do you most want to shape your leadership or influence?",
+        "related": [
+          "Jeremiah 9:24",
+          "Psalm 89:14",
+          "Micah 6:8"
+        ],
+        "alt": "A young man plays a lyre beside a window overlooking a city.",
+        "art": "assets/psalm101/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Integrity at home",
+        "heading": "When will You come to me?",
+        "meaning": "Verse 2 says, 'I will ponder the way that is blameless—when will You come to me? I will walk in my house with integrity of heart.' David's commitment starts at home, behind closed doors, where no crowd is watching. He thinks carefully about how to live blamelessly. His question, 'When will You come to me?', shows he knows he needs God's presence to keep this vow.",
+        "contextTitle": "Private faithfulness",
+        "context": "Proverbs 20:7 says the righteous man walks with integrity and his children are blessed. 1 Kings 9:4 records God urging Solomon to walk 'with integrity of heart' as David did. 1 Timothy 3:4-5 links a leader's care for his household with caring for God's church.",
+        "explore": [
+          [
+            "Blameless",
+            "Whole and consistent, with no hidden life that contradicts the public one."
+          ],
+          [
+            "Integrity of heart",
+            "Inner honesty, where motives match words and actions."
+          ]
+        ],
+        "reflect": "Is your character at home the same as your character in public?",
+        "related": [
+          "Proverbs 20:7",
+          "1 Kings 9:4",
+          "1 Timothy 3:4"
+        ],
+        "alt": "A father sits with his children at a simple wooden table in lamplight.",
+        "art": "assets/psalm101/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Nothing worthless before my eyes",
+        "heading": "It shall not cling to me",
+        "meaning": "Verse 3 says, 'I will set no worthless thing before my eyes. I hate the work of those who fall away; it shall not cling to me.' What we look at shapes what we love. David refuses to fix his eyes on what is base or empty. He also rejects the ways of those who turn from God, knowing that sin can stick to a person like dirt.",
+        "contextTitle": "Guarding the eyes",
+        "context": "Job 31:1 says, 'I have made a covenant with my eyes.' Matthew 6:22-23 records Jesus teaching that the eye is the lamp of the body. Philippians 4:8 urges thinking about whatever is true, honorable, pure and lovely.",
+        "explore": [
+          [
+            "Worthless thing",
+            "Something base or evil, literally 'a thing of Belial,' empty and corrupting."
+          ],
+          [
+            "Cling",
+            "Stick tightly, like something hard to shake off once allowed close."
+          ]
+        ],
+        "reflect": "What do you regularly set before your eyes, and is it helping your soul?",
+        "related": [
+          "Job 31:1",
+          "Matthew 6:22",
+          "Philippians 4:8"
+        ],
+        "alt": "A man turns away from a noisy crowd toward a quiet open road.",
+        "art": "assets/psalm101/verse-3-watercolor.webp"
+      },
+      {
+        "title": "A perverse heart departs",
+        "heading": "I will know nothing of evil",
+        "meaning": "Verse 4 says, 'A perverse heart shall depart from me; I will know nothing of evil.' David wants a crooked heart far away, whether in himself or in those around him. To 'know nothing of evil' does not mean being naive, but refusing close friendship with evil. He will not become familiar or comfortable with what God hates.",
+        "contextTitle": "Distance from crookedness",
+        "context": "Proverbs 11:20 says the perverse in heart are detestable to the LORD. Romans 16:19 urges being wise about what is good and innocent about what is evil. Psalm 1:1 blesses the one who does not walk in the counsel of the wicked.",
+        "explore": [
+          [
+            "Perverse",
+            "Twisted or crooked in heart, bent away from what is right."
+          ],
+          [
+            "Know",
+            "Here, to be intimately involved with, not simply aware of."
+          ]
+        ],
+        "reflect": "What would it look like to become 'innocent about evil' in one area of your life?",
+        "related": [
+          "Proverbs 11:20",
+          "Romans 16:19",
+          "Psalm 1:1"
+        ],
+        "alt": "A traveler steps off a winding crooked path onto a straight one.",
+        "art": "assets/psalm101/verse-4-watercolor.webp"
+      },
+      {
+        "title": "No secret slander",
+        "heading": "No room for pride",
+        "meaning": "Verse 5 says, 'Whoever slanders his neighbor in secret, I will put to silence; the one with haughty eyes and a proud heart, I will not endure.' A king's court is full of whispers. David will not let gossip and secret accusations poison his kingdom. He also refuses to tolerate arrogance, knowing that proud people trample others and resist God.",
+        "contextTitle": "Courtly gossip",
+        "context": "Proverbs 6:16-17 lists haughty eyes and a lying tongue among things the LORD hates. James 4:11 says, 'Do not slander one another.' Proverbs 16:5 says everyone proud in heart is detestable to the LORD.",
+        "explore": [
+          [
+            "Slander",
+            "Spreading damaging falsehoods or harmful talk about someone behind their back."
+          ],
+          [
+            "Haughty eyes",
+            "A proud look that looks down on others as inferior."
+          ]
+        ],
+        "reflect": "How can you refuse to listen to or pass on secret gossip?",
+        "related": [
+          "Proverbs 6:16",
+          "James 4:11",
+          "Proverbs 16:5"
+        ],
+        "alt": "Two men whisper in a shadowed corner of a palace hall.",
+        "art": "assets/psalm101/verse-5-watercolor.webp"
+      },
+      {
+        "title": "Favor the faithful",
+        "heading": "Walking with integrity",
+        "meaning": "Verse 6 says, 'My eyes favor the faithful of the land, that they may dwell with me; he who walks in the way of integrity shall minister to me.' David chooses his companions and servants carefully. Instead of rewarding flatterers, he looks for trustworthy people of integrity. The people closest to a leader shape the whole kingdom, so he wants faithful ones near him.",
+        "contextTitle": "Choosing companions",
+        "context": "Proverbs 13:20 says, 'He who walks with the wise will become wise.' 1 Corinthians 15:33 warns that bad company corrupts good character. 2 Timothy 2:2 tells Timothy to entrust teaching to faithful people.",
+        "explore": [
+          [
+            "Faithful",
+            "Reliable and trustworthy people who stay loyal to God and others."
+          ],
+          [
+            "Minister",
+            "To serve, especially in close attendance on a king."
+          ]
+        ],
+        "reflect": "Who are the faithful people you could draw closer to in this season?",
+        "related": [
+          "Proverbs 13:20",
+          "1 Corinthians 15:33",
+          "2 Timothy 2:2"
+        ],
+        "alt": "A king welcomes a plainly dressed honest servant into his hall.",
+        "art": "assets/psalm101/verse-6-watercolor.webp"
+      },
+      {
+        "title": "No deceit in my house",
+        "heading": "Liars will not stand",
+        "meaning": "Verse 7 says, 'No one who practices deceit shall dwell in my house; no one who tells lies shall stand in my presence.' Lies destroy trust, and a household or kingdom without trust collapses. David draws a firm line: deceivers will not live with him or serve before him. Truthfulness is essential for anyone who would stand near the king.",
+        "contextTitle": "Truth at court",
+        "context": "Proverbs 12:22 says lying lips are detestable to the LORD. Psalm 15:1-2 says the one who may dwell in God's tent speaks truth from the heart. Ephesians 4:25 says, 'Put off falsehood and speak truthfully to your neighbor.'",
+        "explore": [
+          [
+            "Deceit",
+            "Trickery and misleading behavior meant to fool or take advantage of others."
+          ],
+          [
+            "Stand in my presence",
+            "To serve before the king as a close and trusted official."
+          ]
+        ],
+        "reflect": "Where might small deceptions be creeping into your words?",
+        "related": [
+          "Proverbs 12:22",
+          "Psalm 15:1",
+          "Ephesians 4:25"
+        ],
+        "alt": "A palace doorway guarded by a watchman who turns away a schemer.",
+        "art": "assets/psalm101/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Every morning",
+        "heading": "The city of the LORD",
+        "meaning": "The psalm ends, 'Every morning I will remove all the wicked of the land, that I may cut off every evildoer from the city of the LORD.' In Israel, kings often heard cases in the morning. David pledges daily, steady justice so that Jerusalem, the city of God, will be a place of peace. Only Jesus fully fulfills this, as the King who will one day remove all evil.",
+        "contextTitle": "Morning justice",
+        "context": "Jeremiah 21:12 says, 'Administer justice every morning.' 2 Samuel 15:2 describes people coming early to the gate for the king's judgment. Revelation 21:27 says nothing unclean will ever enter the holy city.",
+        "explore": [
+          [
+            "Every morning",
+            "Daily and consistently, as a steady habit, not just occasionally."
+          ],
+          [
+            "City of the LORD",
+            "Jerusalem, where God's name dwelt, meant to reflect His holiness."
+          ]
+        ],
+        "reflect": "What daily habit could help you deal with wrong in your own life quickly?",
+        "related": [
+          "Jeremiah 21:12",
+          "2 Samuel 15:2",
+          "Revelation 21:27"
+        ],
+        "alt": "Early morning light falls on a city gate where elders hear cases.",
+        "art": "assets/psalm101/verse-8-watercolor.webp"
+      }
+    ]
+  }
+}
