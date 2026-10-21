@@ -1,0 +1,70 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Use case: illustration-story. Asset type: original verse-specific watercolor for Scripture for Life, Psalm 28. Input image: approved Psalm 23:2 watercolor, STYLE REFERENCE ONLY; create an entirely new composition. Hand-painted fine watercolor on ivory paper, forest green and muted sage foliage, warm earth pigments, soft golden light, textured washes and delicate detail, peaceful spacious landscape, same gentle naturalism as reference. Landscape 3:2. This is a symbolic illustration, not a reconstruction of an event or a depiction of God. No divine human figure, divine face or hands, no halos, no angels, no modern objects, no writing, letters, logos or watermark. A quiet broad weathered rock beside a deep shadowed ravine at dawn, a small folded travel cloak resting securely on the rock. Emphasize the solid rock contrasted with the silent depth, olive branches framing the upper edge. Psalm 28:1, a plea not to be met with silence. No person falling, no horror.",
+      "production": "assets/psalm28/verse-1-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-2e80dd8d-def7-4f99-ba0c-39b772a6bbec.png"
+    },
+    {
+      "verse": 2,
+      "prompt": "Use case: illustration-story. Asset type: original verse-specific watercolor for Scripture for Life, Psalm 28. Input image: approved Psalm 23:2 watercolor, STYLE REFERENCE ONLY; create an entirely new composition. Hand-painted fine watercolor on ivory paper, forest green and muted sage foliage, warm earth pigments, soft golden light, textured washes and delicate detail, peaceful spacious landscape, same gentle naturalism as reference. Landscape 3:2. This is a symbolic illustration, not a reconstruction of an event or a depiction of God. No divine human figure, divine face or hands, no halos, no angels, no modern objects, no writing, letters, logos or watermark. An anonymous ancient worshiper seen from far behind, modest linen clothing, both hands raised gently toward a simple curtained sanctuary courtyard. Wide framing with warm stone, muted olive trees and soft morning light; no depiction inside the sanctuary. Psalm 28:2, seeking mercy in prayer. Anatomically natural small hands.",
+      "production": "assets/psalm28/verse-2-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-0cdea2b6-2f6c-43d7-97dc-a17932bddc56.png"
+    },
+    {
+      "verse": 3,
+      "prompt": "Use case: illustration-story. Asset type: original verse-specific watercolor for Scripture for Life, Psalm 28. Input image: approved Psalm 23:2 watercolor, STYLE REFERENCE ONLY; create an entirely new composition. Hand-painted fine watercolor on ivory paper, forest green and muted sage foliage, warm earth pigments, soft golden light, textured washes and delicate detail, peaceful spacious landscape, same gentle naturalism as reference. Landscape 3:2. This is a symbolic illustration, not a reconstruction of an event or a depiction of God. No divine human figure, divine face or hands, no halos, no angels, no modern objects, no writing, letters, logos or watermark. Two simple ancient clay cups set near each other on a low stone wall, with a thorny vine concealed in the deep shadow behind one cup; an olive branch and open path beyond. Symbolic contrast of peaceful outward words and hidden malice, Psalm 28:3. No faces or villains, no text, no dramatic violence.",
+      "production": "assets/psalm28/verse-3-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-f86f5c5f-66ed-452a-929d-d5a85127e5d4.png"
+    },
+    {
+      "verse": 4,
+      "prompt": "Use case: illustration-story. Asset type: original verse-specific watercolor for Scripture for Life, Psalm 28. Input image: approved Psalm 23:2 watercolor, STYLE REFERENCE ONLY; create an entirely new composition. Hand-painted fine watercolor on ivory paper, forest green and muted sage foliage, warm earth pigments, soft golden light, textured washes and delicate detail, peaceful spacious landscape, same gentle naturalism as reference. Landscape 3:2. This is a symbolic illustration, not a reconstruction of an event or a depiction of God. No divine human figure, divine face or hands, no halos, no angels, no modern objects, no writing, letters, logos or watermark. An empty ancient balance scale, clearly level and gently resting on a broad stone table, with plain stones and a sealed blank scroll nearby; restrained ochre shadows and olive trees beyond. Symbolic appeal for deeds to be judged fairly in Psalm 28:4, not personal revenge. No human or divine judge, no punishment scene.",
+      "production": "assets/psalm28/verse-4-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-92db16e0-5fa1-49fa-a37c-da8b238aad4f.png"
+    },
+    {
+      "verse": 5,
+      "prompt": "Use case: illustration-story. Asset type: original verse-specific watercolor for Scripture for Life, Psalm 28. Input image: approved Psalm 23:2 watercolor, STYLE REFERENCE ONLY; create an entirely new composition. Hand-painted fine watercolor on ivory paper, forest green and muted sage foliage, warm earth pigments, soft golden light, textured washes and delicate detail, peaceful spacious landscape, same gentle naturalism as reference. Landscape 3:2. This is a symbolic illustration, not a reconstruction of an event or a depiction of God. No divine human figure, divine face or hands, no halos, no angels, no modern objects, no writing, letters, logos or watermark. An abandoned crumbling dry-stone wall lies in the foreground, fallen blocks scattered beneath tangled neglected vines; beyond it a living olive hillside and clear sky. Psalm 28:5 contrasts destructive disregard and the works of the LORD. Symbolic ruins, no destroyed inhabited houses, no people, no divine figure.",
+      "production": "assets/psalm28/verse-5-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-c9213a4b-49a0-41f9-a10b-12e6aa71b517.png"
+    },
+    {
+      "verse": 6,
+      "prompt": "Use case: illustration-story. Asset type: original verse-specific watercolor for Scripture for Life, Psalm 28. Input image: approved Psalm 23:2 watercolor, STYLE REFERENCE ONLY; create an entirely new composition. Hand-painted fine watercolor on ivory paper, forest green and muted sage foliage, warm earth pigments, soft golden light, textured washes and delicate detail, peaceful spacious landscape, same gentle naturalism as reference. Landscape 3:2. This is a symbolic illustration, not a reconstruction of an event or a depiction of God. No divine human figure, divine face or hands, no halos, no angels, no modern objects, no writing, letters, logos or watermark. A small clay oil lamp still burning as sunrise reaches an open stone courtyard, a rolled plain prayer mat beside it and a fresh olive sprig. Psalm 28:6 moves from pleading to thanksgiving for being heard. Warm clear light, intimate still life, no visible writing or person.",
+      "production": "assets/psalm28/verse-6-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-cf46d122-e5bc-4ea2-bcbb-946c37d69283.png"
+    },
+    {
+      "verse": 7,
+      "prompt": "Use case: illustration-story. Asset type: original verse-specific watercolor for Scripture for Life, Psalm 28. Input image: approved Psalm 23:2 watercolor, STYLE REFERENCE ONLY; create an entirely new composition. Hand-painted fine watercolor on ivory paper, forest green and muted sage foliage, warm earth pigments, soft golden light, textured washes and delicate detail, peaceful spacious landscape, same gentle naturalism as reference. Landscape 3:2. This is a symbolic illustration, not a reconstruction of an event or a depiction of God. No divine human figure, divine face or hands, no halos, no angels, no modern objects, no writing, letters, logos or watermark. A round weathered wooden shield leans against a sturdy olive tree beside a simple ancient lyre resting on a linen cloth. Open meadow and warm morning horizon behind. Psalm 28:7 strength, shield and joyful song; a symbolic peaceful still life without battle or divinity.",
+      "production": "assets/psalm28/verse-7-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-19178fcc-7eeb-4990-bfb1-81f9237f56e0.png"
+    },
+    {
+      "verse": 8,
+      "prompt": "Use case: illustration-story. Asset type: original verse-specific watercolor for Scripture for Life, Psalm 28. Input image: approved Psalm 23:2 watercolor, STYLE REFERENCE ONLY; create an entirely new composition. Hand-painted fine watercolor on ivory paper, forest green and muted sage foliage, warm earth pigments, soft golden light, textured washes and delicate detail, peaceful spacious landscape, same gentle naturalism as reference. Landscape 3:2. This is a symbolic illustration, not a reconstruction of an event or a depiction of God. No divine human figure, divine face or hands, no halos, no angels, no modern objects, no writing, letters, logos or watermark. A broad ancient hilltop stone refuge shelters several modest tents in a wide valley; an unadorned clay oil flask rests on a foreground rock, subtly suggesting anointing. Psalm 28:8 strength for the people and their anointed leader. Wide communal landscape, no crowned divine figure, no armies, no individual portrait.",
+      "production": "assets/psalm28/verse-8-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-4fb8115d-5be9-4945-86e9-30245a0ef2b2.png"
+    },
+    {
+      "verse": 9,
+      "prompt": "Use case: illustration-story. Asset type: original verse-specific watercolor for Scripture for Life, Psalm 28. Input image: approved Psalm 23:2 watercolor, STYLE REFERENCE ONLY; create an entirely new composition. Hand-painted fine watercolor on ivory paper, forest green and muted sage foliage, warm earth pigments, soft golden light, textured washes and delicate detail, peaceful spacious landscape, same gentle naturalism as reference. Landscape 3:2. This is a symbolic illustration, not a reconstruction of an event or a depiction of God. No divine human figure, divine face or hands, no halos, no angels, no modern objects, no writing, letters, logos or watermark. A flock of sheep and small lambs travels together along a broad hillside path between olive trees toward a safe green pasture, one young lamb resting near the flock on a sunlit rock. Psalm 28:9 prayer that God's people be saved, blessed, shepherded and carried. Depict only the flock and landscape, no embodied God or human shepherd; warm spacious panorama.",
+      "production": "assets/psalm28/verse-9-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-5ddaf7d4-4117-4faa-bd45-fef3c22a985d.png"
+    }
+  ],
+  "pendingVerses": []
+}
