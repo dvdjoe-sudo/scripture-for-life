@@ -263,6 +263,24 @@ try {
       await page.getByRole('tab',{name:'Reflect',exact:true}).click();
       assert.equal(await page.locator('#verse-study-panel textarea').inputValue(),'Reflection for Psalm '+number);
     }
+    // Psalm 26 shares reflections across study, dialog and Saved.
+    await visit('#/saved','.saved-list');
+    assert.match(await page.locator('.saved-list').innerText(),/Reflection for Psalm 26/);
+    await page.locator('[data-action="open-verse"][data-ref="Psalm 26:3"]').click();
+    await page.locator('#verse-dialog[open]').waitFor();
+    assert.equal(await page.locator('#verse-dialog [data-note-ref="Psalm 26:3"]').inputValue(),'Reflection for Psalm 26');
+    await page.locator('#verse-dialog textarea').fill('One shared Psalm 26 reflection.');
+    await page.locator('#verse-dialog [data-action="save-note"]').click();
+    await page.locator('#verse-dialog').evaluate(d=>d.close());
+    await visit('#/study/26/3','[data-verse-study="26"]');
+    await page.getByRole('tab',{name:'Reflect',exact:true}).click();
+    assert.equal(await page.locator('#verse-study-panel textarea').inputValue(),'One shared Psalm 26 reflection.');
+    await visit('#/study/26/8','[data-verse-study="26"]');
+    await visit('#/study/25/6','[data-verse-study="25"]');
+    await page.locator('[data-psalm-switch]').selectOption('26');
+    await page.locator('[data-verse-study="26"][data-current-verse="8"]').waitFor();
+    await page.locator('[data-psalm-switch]').selectOption('25');
+    await page.locator('[data-verse-study="25"][data-current-verse="6"]').waitFor();
     // Psalm 25 shares reflections across study, dialog and Saved.
     await visit('#/study/25/3','[data-verse-study="25"]');
     await visit('#/saved','.saved-list');
