@@ -1,0 +1,11 @@
+{
+  "chapter": 36,
+  "status": "whole-chapter candidate; validation pending",
+  "groups": [
+    {
+      "file": "verses-1-12.json",
+      "from": 1,
+      "through": 12
+    }
+  ]
+}

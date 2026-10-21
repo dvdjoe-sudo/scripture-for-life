@@ -1,4 +1,4 @@
-// Checks the unwired Psalms 36–40 text drafts: exact BSB coverage, valid references, complete notes,
+// Checks the unwired Psalms 37–40 text drafts: exact BSB coverage, valid references, complete notes,
 // art prompts only (no images), and that nothing is wired into the live app yet.
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
@@ -12,7 +12,7 @@ const escapeHTML=v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>'
 const checkRef=ref=>{const m=/^(.+?) (\d+):(\d+)$/.exec(ref);assert(m,ref);assert(bible.find(b=>b.name===m[1])?.chapters[+m[2]-1]?.some(([v,t])=>v===+m[3]&&t),'Invalid reference '+ref);};
 const live=['index.html','sw.js','scripts/build-web.mjs','package.json','PSALMS_ROLLOUT.md'].map(f=>[f,fs.readFileSync(f,'utf8')]);
 const counts={};
-for(let n=36;n<=40;n++){
+for(let n=37;n<=40;n++){
   const dir='drafts/psalm'+n+'/',source=psalms[n-1],chapter=Object.fromEntries(source);
   const src=read(dir+'source.json');assert.deepEqual(src.verses,source,'Psalm '+n+' source.json must equal bundled BSB exactly');
   const ed=read(dir+'editorial.json'),study=ed.study;
@@ -38,4 +38,4 @@ for(let n=36;n<=40;n++){
   assert(!(n in engine.studies),'Psalm '+n+' must not be registered in the live app');
   counts[n]=source.length;
 }
-console.log('PASS — Psalms 36–40 text drafts: exact BSB coverage',JSON.stringify(counts),'total',Object.values(counts).reduce((a,b)=>a+b),'verses; valid references/people/topics; art prompts only; not wired.');
+console.log('PASS — Psalms 37–40 text drafts: exact BSB coverage',JSON.stringify(counts),'total',Object.values(counts).reduce((a,b)=>a+b),'verses; valid references/people/topics; art prompts only; not wired.');

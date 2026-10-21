@@ -1,6 +1,6 @@
 {
   "chapter": 36,
-  "status": "unwired text draft; awaiting art and wiring",
+  "status": "whole-chapter candidate; source, writing and twelve illustrations reviewed; validation pending",
   "sourceReview": "Read bundled BSB Psalm 36 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
   "topicPlan": {
     "fear": [
@@ -16,8 +16,8 @@
     "coverVerse": 9,
     "title": "In Your light we see light.",
     "intro": "Twelve verses contrast the self-deceived wicked with the vast loving devotion of God, His sheltering wings, abundant house and fountain of life.",
-    "context": "The heading names David as the servant of the LORD and the choirmaster, without identifying an event. Verses 1–4 describe the inner life of the wicked: no fear of God, self-flattery, deceitful speech and plotting even in bed. Verses 5–9 turn sharply to praise God's loving devotion, faithfulness, righteousness and judgments, which reach from heaven to the depths and preserve both people and animals; they picture refuge under His wings, feasting in His house and drinking from His river. Verses 10–12 pray for that love to continue and see evildoers fallen. Paul quotes verse 1 in Romans 3:18. The Scripture is loaded unchanged from the bundled BSB, including the heading.",
-    "peopleNote": "David is named in the heading as the servant of the LORD. His profile offers background without claiming any one story is the occasion of this psalm. Planned paintings show anonymous people and symbolic landscapes; God is never portrayed as a human body, and the image of wings remains a natural or symbolic picture.",
+    "context": "The heading addresses the choirmaster and names David as the servant of the LORD, without identifying an event. Verses 1–4 describe the inner life of the wicked: no fear of God, self-flattery, deceitful speech and plotting even in bed. Verses 5–9 turn sharply to praise God's loving devotion, faithfulness, righteousness and judgments, which reach from heaven to the depths and preserve both people and animals; they picture refuge under His wings, feasting in His house and drinking from His river. Verses 10–12 pray for that love to continue and see evildoers fallen. Paul quotes verse 1 in Romans 3:18. The Scripture is loaded unchanged from the bundled BSB, including the heading.",
+    "peopleNote": "David is named in the heading as the servant of the LORD. His profile gives background without assigning an event to this psalm. The paintings are symbolic artistic responses, not portraits of David or historical reconstructions. The mirror, vineyard, feast, gateway and fallen ruler statue are artistic choices. The mother bird illustrates the wings metaphor; it is not an image of God. God is never portrayed as a human body.",
     "people": [
       {
         "id": "david",
@@ -29,9 +29,9 @@
       {
         "title": "No fear of God",
         "heading": "An oracle about the heart of the wicked",
-        "meaning": "The heading calls David the servant of the LORD, and the psalm begins with an oracle, a solemn message, in the speaker's heart about the transgression of the wicked man. The core diagnosis is simple: there is no fear of God before his eyes. Without reverence for God, nothing restrains wrongdoing. The verse is less about outward crimes than about an inner orientation that leaves God out of view. Paul quotes this line in Romans 3:18 when describing humanity's need.",
+        "meaning": "The heading calls David the servant of the LORD, and the psalm begins with an oracle, a solemn message, in the speaker's heart about the transgression of the wicked man. The core diagnosis is simple: there is no fear of God before his eyes. The portrait is of someone who refuses to let reverence for God challenge his wrongdoing. The verse is less about outward crimes than about an inner orientation that leaves God out of view. Paul quotes this line in Romans 3:18 when describing humanity's need.",
         "contextTitle": "A line quoted by Paul",
-        "context": "Romans 3:18 quotes this verse at the end of a list describing human sin. Proverbs 8:13 says the fear of the LORD is to hate evil, showing why its absence matters.",
+        "context": "Romans 3:9–20 places this line at the end of a chain of quotations, applying the diagnosis of sin broadly to Jews and Greeks. Proverbs 8:13 links fearing the LORD with hating evil. Psalm 14:1–3 likewise exposes corruption rather than excusing the reader from self-examination.",
         "explore": [
           [
             "An oracle in my heart",
@@ -64,7 +64,7 @@
           ],
           [
             "Detect or hate",
-            "Self-flattery prevents both noticing and rejecting sin. The person cannot repent."
+            "Self-flattery obstructs both recognizing wrongdoing and rejecting it. The warning calls for honesty rather than declaring repentance forever impossible."
           ]
         ],
         "reflect": "Is there an area where pride may be blinding you? How could you invite God to show you?",
@@ -79,9 +79,9 @@
       {
         "title": "Ceased to be wise",
         "heading": "Words and actions turned away from good",
-        "meaning": "The words of his mouth are wicked and deceitful; he has ceased to be wise and well-doing. The inner blindness shows itself in speech and action. His words deceive, and he has stopped acting wisely or doing good. The phrase 'ceased' suggests that he once did better. The verse describes a drift away from wisdom, a warning that goodness can be abandoned.",
+        "meaning": "The inner blindness of verse 2 becomes audible in wicked, deceitful speech and visible in the abandonment of wise, good action. The phrase has ceased describes a failure to practice wisdom; the poem gives no biography of this person or account of earlier achievements. Words and conduct belong together in this portrait. The verse asks readers to notice what their speech accomplishes and whether their choices still serve what is good.",
         "contextTitle": "Drifting from wisdom",
-        "context": "Proverbs 1:7 says fools despise wisdom, and Hebrews 2:1 warns against drifting away. Psalm 36:3 describes someone who has stopped practicing wisdom.",
+        "context": "Proverbs 1:7 introduces wisdom grounded in reverence. Hebrews 2:1–3 warns its Christian hearers against neglecting the salvation they heard; that is a later comparison, not the setting of this psalm. Matthew 12:33–36 connects harmful speech with the heart that produces it.",
         "explore": [
           [
             "Wicked and deceitful",
@@ -89,7 +89,7 @@
           ],
           [
             "Ceased to be wise",
-            "He once may have done better. Wisdom can be abandoned through neglect."
+            "The verse describes an abandonment of wise conduct. It gives no details about an earlier stage of this person’s life."
           ]
         ],
         "reflect": "Is there a good habit or wisdom you have let slip? How could you return to it?",
@@ -131,7 +131,7 @@
         "heading": "God's vast loving devotion",
         "meaning": "Your loving devotion, O LORD, reaches to the heavens, Your faithfulness to the clouds. The psalm turns abruptly from the wicked to God. After the narrow, self-absorbed world of the wicked, God's love is vast, reaching as high as the sky. His faithfulness extends to the clouds. The contrast is deliberate. God's covenant love is greater than any human evil.",
         "contextTitle": "Love as high as the heavens",
-        "context": "Psalm 103:11 says as high as the heavens are above the earth, so great is His loving devotion, and Psalm 57:10 uses similar words. Psalm 36:5 sets that love directly against the darkness of verses 1–4.",
+        "context": "Psalm 57:9–11 praises this same sky-reaching love amid a plea for rescue. Psalm 103:8–13 joins its height with mercy and forgiveness. Ephesians 3:16–19 prays for believers to grasp Christ’s love in every dimension, a later Christian comparison with its own setting.",
         "explore": [
           [
             "Reaches to the heavens",
@@ -139,7 +139,7 @@
           ],
           [
             "Faithfulness to the clouds",
-            "God's reliability is vast. It cannot be outgrown. He will not let us down."
+            "The height of the clouds pictures the reach of God’s faithfulness. It does not promise that those who trust Him will never experience distress."
           ]
         ],
         "reflect": "How does it change your perspective to see God's love as larger than the evil around you?",
@@ -154,7 +154,7 @@
       {
         "title": "Highest mountains, deepest sea",
         "heading": "God's righteousness and care for all life",
-        "meaning": "Your righteousness is like the highest mountains; Your judgments are like the deepest sea. O LORD, You preserve man and beast. God's justice is as solid as mountains, His decisions as deep as the ocean. His care extends to both humans and animals. The verse moves from sky to mountains to sea, covering all creation. God's goodness is comprehensive.",
+        "meaning": "Righteousness is compared with the highest mountains, and judgments with the deepest sea. The paired images stretch from what towers overhead to depths beyond easy human measure. They praise the firmness and depth of God’s just rule rather than explaining every decision He makes. The final sentence brings that vastness close: the LORD preserves both people and animals. Trust in His justice is joined with attention to the living creatures who depend on Him.",
         "contextTitle": "Care for all creatures",
         "context": "Psalm 104:14 says God makes grass grow for the cattle, and Jonah 4:11 records God's concern for both people and animals in Nineveh. Psalm 36:6 includes all living things.",
         "explore": [
@@ -204,9 +204,9 @@
       {
         "title": "River of delights",
         "heading": "Abundance in God's house",
-        "meaning": "They feast on the abundance of Your house, and You give them drink from Your river of delights. Those who take refuge in God are not merely protected but richly provided for. They feast and drink. The house suggests the temple, where worshipers shared in sacrificial meals. The river of delights may echo the rivers of Eden. The verse pictures God as a generous host.",
+        "meaning": "Those who seek shelter under God’s wings are pictured next as guests who feast and drink abundantly. Your house can suggest the sanctuary and the richness of life in God’s presence, but the verse does not describe a particular temple meal. The river makes generosity flow through the whole picture. A possible echo of Eden is a literary comparison, not an identified location. Protection in verse 7 opens into delight and provision here.",
         "contextTitle": "God as host",
-        "context": "Psalm 23:5 says, 'You prepare a table before me,' and Genesis 2:10 describes a river flowing from Eden. Psalm 46:4 speaks of a river that gladdens the city of God.",
+        "context": "Psalm 23:5 portrays God’s generosity through a prepared table even amid enemies. Genesis 2:8–14 describes Eden’s river, while Psalm 46:4–5 pictures a river gladdening God’s city. These settings illuminate the imagery without locating Psalm 36’s river on a map.",
         "explore": [
           [
             "Abundance of Your house",
@@ -231,11 +231,11 @@
         "heading": "In God's light we see light",
         "meaning": "For with You is the fountain of life; in Your light we see light. God is the source of all life, like a spring that never runs dry. In His light, people can see truly. Light here means understanding, joy and life. Without God, everything is dark. The verse contrasts with the blindness of the wicked in verse 2. It invites drawing life and clarity from God.",
         "contextTitle": "Living water and light",
-        "context": "Jeremiah 2:13 calls God the spring of living water, and John 8:12 records Jesus saying, 'I am the light of the world.' Psalm 36:9 joins both images.",
+        "context": "Jeremiah 2:11–13 rebukes Israel for abandoning the fountain of living water for broken cisterns. John 4:13–15 speaks of Jesus’ gift of water springing to eternal life; John 8:12 identifies Him as the light of the world. These later connections develop life and light in distinct settings.",
         "explore": [
           [
             "Fountain of life",
-            "God is the source of life. His supply never runs dry."
+            "A fountain is a source from which water rises. The image confesses dependence on God for life rather than describing a literal divine body."
           ],
           [
             "In Your light we see light",
@@ -256,7 +256,7 @@
         "heading": "A prayer for continued blessing",
         "meaning": "Extend Your loving devotion to those who know You, and Your righteousness to the upright in heart. After praise comes a prayer: continue to show Your love and justice. Those who know God are those in relationship with Him. The upright in heart are those whose inner lives are honest. The verse asks God to keep pouring out what the psalm has praised.",
         "contextTitle": "Continued love",
-        "context": "Jeremiah 31:3 says, 'I have loved you with an everlasting love,' and Psalm 103:17 says His loving devotion is from everlasting to everlasting on those who fear Him.",
+        "context": "Jeremiah 31:1–5 speaks to Israel of enduring love and restoration. Psalm 103:15–18 contrasts brief human life with covenant faithfulness. John 17:1–5 places knowing God within Jesus’ prayer about eternal life. Each deepens the theme without replacing this psalm’s prayer.",
         "explore": [
           [
             "Those who know You",
@@ -264,7 +264,7 @@
           ],
           [
             "Upright in heart",
-            "Honest hearts receive God's righteousness. Inner integrity matters."
+            "The appeal joins knowing God with an upright heart. It asks for continuing care, rather than treating integrity as a way to purchase love."
           ]
         ],
         "reflect": "How could you deepen your relationship with God so that you know Him more?",
@@ -279,7 +279,7 @@
       {
         "title": "Let not the proud",
         "heading": "A plea for protection",
-        "meaning": "Let not the foot of the proud come against me, nor the hand of the wicked drive me away. The speaker asks for protection from the arrogant and the wicked described at the start of the psalm. The foot pictures trampling, the hand pictures pushing away. The request is to remain under God's protection, not driven from His presence. The verse brings the contrast back to personal need.",
+        "meaning": "The prayer names a concrete fear: the foot of the proud coming against the speaker and the hand of the wicked driving the speaker away. Foot and hand picture domination and force. The psalm does not identify the attackers or specify the place from which the speaker fears displacement. After praising the refuge available in God, the speaker still needs protection from harm. Confidence and urgent prayer are held together rather than treating trust as immunity from danger.",
         "contextTitle": "Protection from the proud",
         "context": "Psalm 140:4 asks to be guarded from the hands of the wicked, and Proverbs 16:18 says pride goes before destruction. The speaker's plea returns to the threat described in verses 1–4.",
         "explore": [
@@ -289,10 +289,10 @@
           ],
           [
             "Drive me away",
-            "The fear is being pushed from God's presence. The speaker wants to remain sheltered."
+            "The speaker fears being forced out or displaced by the wicked. The verse does not name a particular home, sanctuary or place of exile."
           ]
         ],
-        "reflect": "What forces try to push you away from God? How could you ask for His protection?",
+        "reflect": "Where do you feel pressured, threatened or pushed aside? What help or protection could you seek while bringing that need to God?",
         "related": [
           "Psalm 140:4",
           "Proverbs 16:18",
@@ -304,13 +304,13 @@
       {
         "title": "Unable to rise",
         "heading": "The end of the evildoers",
-        "meaning": "There the evildoers lie fallen, thrown down and unable to rise. The psalm closes with a vision of the wicked fallen. 'There' points to a place as if the speaker sees it. The evildoers who seemed so powerful are thrown down and cannot get up. The verse expresses confidence in God's final justice. It is a vision, not a call for the speaker to act.",
+        "meaning": "The final line pictures evildoers already lying fallen, unable to rise. There makes the outcome vivid, but no location or battle is named. Read after the plea in verse 11, this can express confidence in the defeat of those who threaten the speaker. The poem does not explain when that outcome occurs or give readers permission to bring it about through revenge. Its closing contrast places oppressive power beneath the justice of the God whose loving devotion has just been praised.",
         "contextTitle": "The fall of the wicked",
-        "context": "Psalm 1:6 says the way of the wicked will perish, and Proverbs 24:16 says the wicked stumble in calamity. The psalm ends with this vision of fallen evildoers, leaving the judgment with God.",
+        "context": "Psalm 1:6 contrasts guarded and perishing paths; Psalm 37:35–40 contrasts temporary wicked power with refuge in the LORD. Proverbs 24:15–18 warns against attacking the righteous and then forbids gloating at an enemy’s fall. Trust in judgment need not become cruelty.",
         "explore": [
           [
             "There",
-            "The speaker seems to see the outcome. It is a vision of justice."
+            "There gives the closing picture immediacy. The poem supplies no coordinates and does not identify a specific historical defeat."
           ],
           [
             "Unable to rise",
