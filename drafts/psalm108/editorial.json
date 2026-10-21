@@ -1,0 +1,361 @@
+{
+  "chapter": 108,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 108 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "strength": [
+      "Psalm 108:13"
+    ],
+    "gratitude": [
+      "Psalm 108:3"
+    ],
+    "fear": [
+      "Psalm 108:12"
+    ],
+    "direction": [
+      "Psalm 108:10"
+    ]
+  },
+  "study": {
+    "number": 108,
+    "coverVerse": 1,
+    "title": "With God we will perform with valor",
+    "intro": "Psalm 108 joins two earlier songs of David into a new prayer. Its first half (verses 1-5) repeats the confident praise that closed Psalm 57, and its second half (verses 6-13) repeats God's promise and Israel's plea from Psalm 60. Put together, the psalm moves from a steady heart that wakes the dawn with music to a prayer for victory that trusts God rather than human strength.",
+    "context": "Psalm 108 opens a small group of three psalms of David (108-110) near the start of Book V. Psalm 57 was first a prayer from the cave while Saul hunted David, and Psalm 60 a prayer after a military setback. Here the lament sections of both are left out, and only the praise and the promise remain. Later worshipers reused older songs this way to meet new needs, showing that God's earlier words still hold.",
+    "peopleNote": "David is named in the heading. The psalm also names tribes and neighboring lands: Shechem, Succoth, Gilead, Manasseh, Ephraim, Judah, Moab, Edom and Philistia. God is never portrayed as a human figure in planned art; His rule is shown through the land, the dawn and the people's courage.",
+    "people": [
+      {
+        "id": "david",
+        "name": "David",
+        "ref": "Psalm 108:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "A steadfast heart",
+        "heading": "My heart is steadfast, O God",
+        "meaning": "David begins, 'My heart is steadfast, O God; I will sing and make music with all my being.' A steadfast heart is fixed and settled, not swinging between hope and panic. In Psalm 57 these words came after a cry for mercy in danger; here they stand at the very front. The psalm starts from a decision to trust and praise, and then brings its requests from that settled place.",
+        "contextTitle": "Borrowed from the cave",
+        "context": "Verses 1-5 repeat Psalm 57:7-11, a psalm headed 'when he fled from Saul into the cave.' Placing those words first shows that confidence learned in one crisis can become the starting point for facing the next.",
+        "explore": [
+          [
+            "Steadfast",
+            "Firmly fixed and unwavering; a heart that has settled on trusting God rather than shifting with every fear."
+          ],
+          [
+            "With all my being",
+            "Literally 'with my glory,' meaning the whole self, the deepest and best part of a person given to worship."
+          ]
+        ],
+        "reflect": "What would it look like for your heart to be steady before God today, before anything has changed?",
+        "related": [
+          "Psalm 57:7",
+          "Psalm 112:7",
+          "Isaiah 26:3"
+        ],
+        "alt": "A man seated on a hillside at first light tuning a wooden lyre.",
+        "art": "assets/psalm108/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Waking the dawn",
+        "heading": "Awake, O harp and lyre",
+        "meaning": "'Awake, O harp and lyre! I will awaken the dawn.' Usually the sunrise wakes people up, but David says his praise will wake the morning. It is a bold, joyful picture. Before the day has begun and before any battle is won, he is already singing. Praise is not just a response to good news; it can be the first act of the day, setting its tone.",
+        "contextTitle": "Morning songs",
+        "context": "Morning prayer and praise appear often in the Psalms (5:3, 59:16, 92:2). The harp and lyre were stringed instruments used in temple worship and by David himself, who soothed Saul with his playing in 1 Samuel 16:23.",
+        "explore": [
+          [
+            "Harp and lyre",
+            "Two hand-held stringed instruments of ancient Israel, used together for joyful worship at the temple and at home."
+          ],
+          [
+            "Awaken the dawn",
+            "A poetic boast that the singer's praise will rise even before the sun, greeting the day with worship."
+          ]
+        ],
+        "reflect": "How might you begin tomorrow morning with praise before you check the news or your messages?",
+        "related": [
+          "Psalm 5:3",
+          "Psalm 92:2",
+          "1 Samuel 16:23"
+        ],
+        "alt": "Pale dawn sky over hills with a lyre resting on a stone wall.",
+        "art": "assets/psalm108/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Praise among the nations",
+        "heading": "I will praise You among the peoples",
+        "meaning": "'I will praise You, O LORD, among the nations; I will sing Your praises among the peoples.' David's worship is not kept private or limited to Israel. He intends to speak of the LORD where other gods are worshiped. This fits the second half of the psalm, where neighboring nations are named. God's rule is wide, so His praise should travel wide as well.",
+        "contextTitle": "A song for the world",
+        "context": "Paul quotes a similar line from Psalm 18:49 in Romans 15:9 to show that God always intended the nations to glorify Him. The Psalms repeatedly call all peoples to praise (Psalm 67:3, 117:1).",
+        "explore": [
+          [
+            "Nations",
+            "The peoples outside Israel, each with its own land, language and gods, whom the psalm invites to hear of the LORD."
+          ],
+          [
+            "Peoples",
+            "A parallel word to nations; Hebrew poetry often repeats an idea with a second, similar term for emphasis."
+          ]
+        ],
+        "reflect": "Where outside your usual circle could you speak honestly about what God has done?",
+        "related": [
+          "Romans 15:9",
+          "Psalm 67:3",
+          "Psalm 117:1"
+        ],
+        "alt": "Travelers from many lands gathered at a well as a man sings.",
+        "art": "assets/psalm108/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Love beyond the heavens",
+        "heading": "Your faithfulness reaches to the clouds",
+        "meaning": "'For Your loving devotion extends beyond the heavens, and Your faithfulness reaches to the clouds.' This is the reason for David's praise. God's covenant love is bigger than the largest thing a person can see, the sky itself. His faithfulness is as high as the clouds. No matter how large the trouble, His love and reliability are larger still.",
+        "contextTitle": "Measuring the immeasurable",
+        "context": "Psalm 57:10 says His love reaches 'to the heavens'; Psalm 108 says 'beyond the heavens,' a slight intensifying change. Psalm 103:11 uses the same height picture: as high as the heavens are above the earth, so great is His love.",
+        "explore": [
+          [
+            "Loving devotion",
+            "The Hebrew hesed: loyal, covenant-keeping love that stays faithful to a promise even when it is not deserved."
+          ],
+          [
+            "Faithfulness",
+            "God's dependability; He does what He says and remains true to His people over time."
+          ]
+        ],
+        "reflect": "What is one trouble in your life that you can picture as smaller than the sky of God's love?",
+        "related": [
+          "Psalm 57:10",
+          "Psalm 103:11",
+          "Psalm 36:5"
+        ],
+        "alt": "Wide sky with towering clouds over a small walled village.",
+        "art": "assets/psalm108/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Glory over the earth",
+        "heading": "Be exalted, O God, above the heavens",
+        "meaning": "'Be exalted, O God, above the heavens; may Your glory cover all the earth.' David turns from describing God to praying that God would be seen as high and great everywhere. It is a prayer that comes before any request about his own needs. Wanting God's glory first puts personal hopes in their right place, like the Lord's Prayer beginning 'hallowed be Your name.'",
+        "contextTitle": "A hinge verse",
+        "context": "This line closes the first borrowed section and leads into the request of verse 6. It was also the refrain of Psalm 57 (verses 5 and 11). Habakkuk 2:14 looks ahead to the earth being filled with the knowledge of the LORD's glory.",
+        "explore": [
+          [
+            "Exalted",
+            "Lifted up and honored as supreme; to pray that God be exalted is to ask that His greatness be recognized."
+          ],
+          [
+            "Glory",
+            "The weight and shining splendor of God's presence and character, made visible in what He does."
+          ]
+        ],
+        "reflect": "Before you ask God for anything today, how could you first pray for His name to be honored?",
+        "related": [
+          "Psalm 57:11",
+          "Habakkuk 2:14",
+          "Matthew 6:9"
+        ],
+        "alt": "Sunlight spreading across fields and hills from horizon to horizon.",
+        "art": "assets/psalm108/verse-5-watercolor.webp"
+      },
+      {
+        "title": "Saved by His right hand",
+        "heading": "That Your beloved may be delivered",
+        "meaning": "'Respond and save us with Your right hand, that Your beloved may be delivered.' Here the psalm shifts into the words of Psalm 60. The people call themselves God's beloved and ask Him to act with His right hand, the hand of strength. They do not base the plea on their own record but on God's love for them.",
+        "contextTitle": "From lament to request",
+        "context": "Psalm 60 begins with a long lament over defeat. Psalm 108 skips that and goes straight to the request in Psalm 60:5. The 'right hand' is a frequent image of God's saving power, as in Exodus 15:6.",
+        "explore": [
+          [
+            "Right hand",
+            "The stronger, active hand; a picture of God's power put to work in rescue, not a claim that He has a body."
+          ],
+          [
+            "Beloved",
+            "Those loved by God; Israel as a people dear to Him and under His care."
+          ]
+        ],
+        "reflect": "How does knowing you are loved by God change the way you ask Him for help?",
+        "related": [
+          "Psalm 60:5",
+          "Exodus 15:6",
+          "Deuteronomy 33:12"
+        ],
+        "alt": "A family sheltering beneath a strong old olive tree in wind.",
+        "art": "assets/psalm108/verse-6-watercolor.webp"
+      },
+      {
+        "title": "God speaks from His sanctuary",
+        "heading": "I will parcel out Shechem",
+        "meaning": "'God has spoken from His sanctuary: I will triumph! I will parcel out Shechem and apportion the Valley of Succoth.' The answer to the plea is a word from God Himself. Like a victorious king dividing land, He claims the territory as His to give. Shechem lay west of the Jordan and Succoth east of it, so both sides belong to Him.",
+        "contextTitle": "Places with history",
+        "context": "Jacob camped at Succoth and then bought land at Shechem on his return to Canaan (Genesis 33:17-18). Joshua later gathered the tribes at Shechem to renew the covenant (Joshua 24:1). God's promise reaches back to the patriarchs.",
+        "explore": [
+          [
+            "Sanctuary",
+            "God's holy dwelling place; His word 'from His sanctuary' carries the authority of His throne."
+          ],
+          [
+            "Parcel out",
+            "To divide and assign land, as a ruler or conqueror distributes territory he controls."
+          ]
+        ],
+        "reflect": "Which promise from God's word do you most need to hear spoken over your situation?",
+        "related": [
+          "Genesis 33:18",
+          "Joshua 24:1",
+          "Psalm 60:6"
+        ],
+        "alt": "Surveyors' stones marking fields in a green valley beside a river.",
+        "art": "assets/psalm108/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Every tribe is His",
+        "heading": "Ephraim is My helmet, Judah is My scepter",
+        "meaning": "'Gilead is Mine, and Manasseh is Mine; Ephraim is My helmet, Judah is My scepter.' God names the tribes and regions of Israel as His own. Ephraim, a large northern tribe, is like His helmet, giving strength and defense. Judah, the tribe of David, is His scepter, the sign of royal rule. Each part of the people has its role in His purposes.",
+        "contextTitle": "Jacob's blessing echoed",
+        "context": "Genesis 49:10 promised that the scepter would not depart from Judah. Ephraim and Manasseh were Joseph's sons, blessed by Jacob in Genesis 48. Gilead was the land east of the Jordan settled by Gad, Reuben and half of Manasseh.",
+        "explore": [
+          [
+            "Helmet",
+            "Head protection in battle; Ephraim as God's helmet pictures a strong tribe used in His defense."
+          ],
+          [
+            "Scepter",
+            "A ruler's staff, the symbol of royal authority; Judah is the tribe through which God's king would reign."
+          ]
+        ],
+        "reflect": "What role might God be giving you among His people, and how can you embrace it?",
+        "related": [
+          "Genesis 49:10",
+          "Genesis 48:5",
+          "1 Corinthians 12:18"
+        ],
+        "alt": "A bronze helmet and a carved wooden staff resting on a cloth.",
+        "art": "assets/psalm108/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Washbasin and sandal",
+        "heading": "Upon Edom I toss My sandal",
+        "meaning": "'Moab is My washbasin; upon Edom I toss My sandal; over Philistia I shout in triumph.' God now speaks of Israel's neighbors and enemies. Moab becomes a lowly washbasin for His feet. Throwing a sandal on Edom claims it as His possession. Over Philistia He gives a victory shout. The proud nations are not beyond His rule.",
+        "contextTitle": "Gestures of ownership",
+        "context": "Tossing a sandal over land may echo customs of claiming property (compare Ruth 4:7). Moab, Edom and Philistia all troubled Israel, and David later subdued them (2 Samuel 8:1-2, 14).",
+        "explore": [
+          [
+            "Washbasin",
+            "A humble basin for washing dusty feet, picturing Moab in a lowly, servant position."
+          ],
+          [
+            "Toss My sandal",
+            "A gesture of taking possession or showing mastery over land, marking it as one's own."
+          ]
+        ],
+        "reflect": "Is there any power or problem you have treated as bigger than God's rule?",
+        "related": [
+          "2 Samuel 8:2",
+          "2 Samuel 8:14",
+          "Ruth 4:7"
+        ],
+        "alt": "A plain clay washbasin and a worn sandal on dry rocky ground.",
+        "art": "assets/psalm108/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Who will lead me",
+        "heading": "Who will lead me to Edom?",
+        "meaning": "'Who will bring me to the fortified city? Who will lead me to Edom?' After God's promise, the king asks a practical question. Edom's capital was built high in the rocks and hard to attack. David knows he cannot take it by his own plans. The question is really a confession that only God can lead him there.",
+        "contextTitle": "The rock city",
+        "context": "Edom's strongholds such as Sela were set in high cliffs (Obadiah 1:3 describes Edom dwelling in the clefts of the rock). Asking 'who will lead me' sets up the honest admission of the next verse.",
+        "explore": [
+          [
+            "Fortified city",
+            "A town protected by walls and natural defenses, very difficult to capture in ancient warfare."
+          ],
+          [
+            "Edom",
+            "The nation descended from Esau, south-east of the Dead Sea, often hostile to Israel."
+          ]
+        ],
+        "reflect": "Where do you need God to lead you into something you cannot reach on your own?",
+        "related": [
+          "Obadiah 1:3",
+          "Psalm 60:9",
+          "Psalm 31:3"
+        ],
+        "alt": "Towering red sandstone cliffs with a narrow path climbing upward.",
+        "art": "assets/psalm108/verse-10-watercolor.webp"
+      },
+      {
+        "title": "An honest question",
+        "heading": "Will You no longer march out with us?",
+        "meaning": "'Have You not rejected us, O God? Will You no longer march out, O God, with our armies?' Even in a psalm of confidence, David keeps one hard question from Psalm 60. Recent defeat felt like God had stepped away. Faith does not hide that feeling. It brings the question to God directly, asking Him to go out with His people again.",
+        "contextTitle": "Keeping the hard line",
+        "context": "Psalm 60:10 contains this same question. In Numbers 10:35, when the ark set out, Moses prayed for the LORD to rise and scatter His enemies. Israel knew victory depended on God going with them.",
+        "explore": [
+          [
+            "Rejected",
+            "Pushed away or set aside; the feeling that God has withdrawn His favor after a defeat."
+          ],
+          [
+            "March out",
+            "To go out to battle at the head of an army; God was pictured as leading Israel's forces."
+          ]
+        ],
+        "reflect": "What hard question would you be willing to bring honestly to God in prayer?",
+        "related": [
+          "Psalm 60:10",
+          "Numbers 10:35",
+          "Psalm 44:9"
+        ],
+        "alt": "An empty army camp at dusk with tents and a banner lowered.",
+        "art": "assets/psalm108/verse-11-watercolor.webp"
+      },
+      {
+        "title": "Human help is worthless",
+        "heading": "Give us aid against the enemy",
+        "meaning": "'Give us aid against the enemy, for the help of man is worthless.' David asks plainly for God's help and admits that human help cannot save. Alliances, numbers and clever plans have their limits. This is not despair but clarity: when the real need is beyond human reach, the only sensible prayer is to the One who is not limited.",
+        "contextTitle": "Trust placed rightly",
+        "context": "Psalm 146:3 warns not to trust in princes who cannot save, and Jeremiah 17:5-7 contrasts the one who trusts in man with the one who trusts in the LORD. Israel's prophets warned kings against relying on Egypt (Isaiah 31:1).",
+        "explore": [
+          [
+            "Aid",
+            "Help that brings relief in trouble; here, God's active intervention against a stronger enemy."
+          ],
+          [
+            "Worthless",
+            "Empty or vain; human help is unable to produce the deliverance that is truly needed."
+          ]
+        ],
+        "reflect": "Where are you tempted to lean on people or plans instead of asking God first?",
+        "related": [
+          "Psalm 146:3",
+          "Jeremiah 17:7",
+          "Isaiah 31:1"
+        ],
+        "alt": "A broken reed lying beside a sturdy stone pillar on a path.",
+        "art": "assets/psalm108/verse-12-watercolor.webp"
+      },
+      {
+        "title": "Valor with God",
+        "heading": "He will trample our enemies",
+        "meaning": "'With God we will perform with valor, and He will trample our enemies.' The psalm ends with courage restored. 'With God' is the key phrase. The people will still act and fight bravely, but their strength comes from His presence, and the victory is His. Confidence that began in a steady heart ends in a steady hope for the battle ahead.",
+        "contextTitle": "The final word",
+        "context": "This verse matches Psalm 60:12, which also ends that psalm. Paul's words in Philippians 4:13, 'I can do all things through Christ who gives me strength,' carry the same spirit of courage grounded in God.",
+        "explore": [
+          [
+            "Valor",
+            "Courage and strength shown in action, especially boldness in facing danger."
+          ],
+          [
+            "Trample",
+            "To tread down underfoot, a picture of complete victory over opposing forces."
+          ]
+        ],
+        "reflect": "What step of courage could you take this week, trusting that God goes with you?",
+        "related": [
+          "Psalm 60:12",
+          "Philippians 4:13",
+          "Romans 8:31"
+        ],
+        "alt": "Villagers walking out together at sunrise with heads lifted.",
+        "art": "assets/psalm108/verse-13-watercolor.webp"
+      }
+    ]
+  }
+}
