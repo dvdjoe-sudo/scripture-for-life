@@ -1,6 +1,6 @@
 /* Scripture for Life offline support for the WEB build.
    Capacitor Android carries its web assets inside the application. */
-const VERSION = 'scripture-for-life-shell-v42-psalm25';
+const VERSION = 'scripture-for-life-shell-v43-kings1';
 const CORE = [
   './psalm25.js',
   './assets/psalm25/verse-1-watercolor.webp',
@@ -186,7 +186,7 @@ const CORE = [
   './assets/psalm16/verse-9-watercolor.webp',
   './assets/psalm16/verse-10-watercolor.webp',
   './assets/psalm16/verse-11-watercolor.webp',
-  './', './index.html', './app.js', './styles.css', './genesis.js', './exodus.js', './exodus-people.js', './judges-people.js', './genesis-people.js', './joshua-people.js', './ruth-people.js', './samuel1-people.js', './samuel2-people.js', './leviticus.js', './numbers.js', './deuteronomy.js', './joshua.js', './judges.js', './ruth.js', './samuel1.js', './samuel2.js', './data/exodus-episodes.json', './data/exodus-scenes.json', './data/leviticus-episodes.json', './data/leviticus-scenes.json', './data/numbers-episodes.json', './data/numbers-scenes.json', './data/deuteronomy-episodes.json', './data/deuteronomy-scenes.json', './data/joshua-episodes.json', './data/joshua-scenes.json', './data/judges-episodes.json', './data/judges-scenes.json', './data/ruth-episodes.json', './data/ruth-scenes.json', './data/samuel1-episodes.json', './data/samuel1-scenes.json', './data/samuel2-episodes.json', './data/samuel2-scenes.json',
+  './', './index.html', './app.js', './styles.css', './genesis.js', './exodus.js', './exodus-people.js', './judges-people.js', './genesis-people.js', './joshua-people.js', './ruth-people.js', './samuel1-people.js', './samuel2-people.js', './kings1-people.js', './leviticus.js', './numbers.js', './deuteronomy.js', './joshua.js', './judges.js', './ruth.js', './samuel1.js', './samuel2.js', './kings1.js', './data/exodus-episodes.json', './data/exodus-scenes.json', './data/leviticus-episodes.json', './data/leviticus-scenes.json', './data/numbers-episodes.json', './data/numbers-scenes.json', './data/deuteronomy-episodes.json', './data/deuteronomy-scenes.json', './data/joshua-episodes.json', './data/joshua-scenes.json', './data/judges-episodes.json', './data/judges-scenes.json', './data/ruth-episodes.json', './data/ruth-scenes.json', './data/samuel1-episodes.json', './data/samuel1-scenes.json', './data/samuel2-episodes.json', './data/samuel2-scenes.json', './data/kings1-episodes.json', './data/kings1-scenes.json',
   './genesis.css', './psalm-walk.js', './psalm-walk.css', './psalm46.js', './data.js', './content.js', './icon.svg',
   './assets/psalm23/verse-1-watercolor.webp', './assets/psalm23/verse-2-watercolor.webp',
   './assets/psalm23/verse-3-watercolor.webp', './assets/psalm23/verse-4-watercolor.webp',
