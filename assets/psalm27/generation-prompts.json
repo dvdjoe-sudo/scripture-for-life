@@ -1,0 +1,105 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Use case: illustration-story. Asset: one Psalm 27 verse illustration, landscape 3:2. Input image is STYLE REFERENCE ONLY: delicate watercolor on ivory paper, forest-green and muted sage foliage, warm ochre, transparent washes, natural brushwork, quiet devotional atmosphere. Entirely new composition. Symbolic art, not a historical reconstruction or a portrait of David. Never portray God as a body, face, hand, silhouette or glowing figure; natural light is only light. Anonymous humans if any, small and in simple ancient linen robes and head coverings. No halos, modern items, text, lettering or watermark. No sheep or copied riverbank.\nVerse-specific composition: A hilltop stone refuge at the end of a rocky footpath, first morning light illuminating its entrance while the valley remains shadowed. No people. Respond to verse 1's light, salvation and stronghold.",
+      "production": "assets/psalm27/verse-1-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-542d68f1-3325-419a-bdd5-def56c348a36.png"
+    },
+    {
+      "verse": 2,
+      "prompt": "Use case: illustration-story. Asset: one Psalm 27 verse illustration, landscape 3:2. Input image is STYLE REFERENCE ONLY: delicate watercolor on ivory paper, forest-green and muted sage foliage, warm ochre, transparent washes, natural brushwork, quiet devotional atmosphere. Entirely new composition. Symbolic art, not a historical reconstruction or a portrait of David. Never portray God as a body, face, hand, silhouette or glowing figure; natural light is only light. Anonymous humans if any, small and in simple ancient linen robes and head coverings. No halos, modern items, text, lettering or watermark. No sheep or copied riverbank.\nVerse-specific composition: Broken loose stones and a fallen thorn branch across a rough hillside track; beyond the obstruction, a clear path opens into an olive grove. No people or injuries. Respond symbolically to verse 2's enemies stumbling; no literal flesh-eating.",
+      "production": "assets/psalm27/verse-2-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-cc96cd8c-ca45-41ee-ab44-23b7b4f996cf.png"
+    },
+    {
+      "verse": 3,
+      "prompt": "Use case: illustration-story. Asset: one Psalm 27 verse illustration, landscape 3:2. Input image is STYLE REFERENCE ONLY: delicate watercolor on ivory paper, forest-green and muted sage foliage, warm ochre, transparent washes, natural brushwork, quiet devotional atmosphere. Entirely new composition. Symbolic art, not a historical reconstruction or a portrait of David. Never portray God as a body, face, hand, silhouette or glowing figure; natural light is only light. Anonymous humans if any, small and in simple ancient linen robes and head coverings. No halos, modern items, text, lettering or watermark. No sheep or copied riverbank.\nVerse-specific composition: A small, anonymous hooded traveler stands firmly on a broad rock, with distant unoccupied tents barely visible beyond mist in the valley. No battle or weapons. Respond to verse 3's trust amid the threat of an encampment.",
+      "production": "assets/psalm27/verse-3-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-37b987a1-2f29-4f9a-92ae-4ba36a9d9c37.png"
+    },
+    {
+      "verse": 4,
+      "prompt": "Use case: illustration-story. Asset: one Psalm 27 verse illustration, landscape 3:2. Input image is STYLE REFERENCE ONLY: delicate watercolor on ivory paper, forest-green and muted sage foliage, warm ochre, transparent washes, natural brushwork, quiet devotional atmosphere. Entirely new composition. Symbolic art, not a historical reconstruction or a portrait of David. Never portray God as a body, face, hand, silhouette or glowing figure; natural light is only light. Anonymous humans if any, small and in simple ancient linen robes and head coverings. No halos, modern items, text, lettering or watermark. No sheep or copied riverbank.\nVerse-specific composition: An intimate view from a shaded courtyard toward plain linen sanctuary curtains, an empty wooden bench and olive leaves, with soft daylight through the fabric. No figures, no ornate temple reconstruction. Respond to verse 4's longing to dwell and seek.",
+      "production": "assets/psalm27/verse-4-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-bfd5dbea-b40c-4591-98a5-fa76a08343dc.png"
+    },
+    {
+      "verse": 5,
+      "prompt": "Use case: illustration-story. Asset: one Psalm 27 verse illustration, landscape 3:2. Input image is STYLE REFERENCE ONLY: delicate watercolor on ivory paper, forest-green and muted sage foliage, warm ochre, transparent washes, natural brushwork, quiet devotional atmosphere. Entirely new composition. Symbolic art, not a historical reconstruction or a portrait of David. Never portray God as a body, face, hand, silhouette or glowing figure; natural light is only light. Anonymous humans if any, small and in simple ancient linen robes and head coverings. No halos, modern items, text, lettering or watermark. No sheep or copied riverbank.\nVerse-specific composition: A simple linen tent pitched safely on a wide high rock ledge, sheltering against distant rain clouds, olive trees below. No people. Respond to verse 5's shelter, tent and rock.",
+      "production": "assets/psalm27/verse-5-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-816b77c7-9805-4b41-9993-9a5cb77749ca.png"
+    },
+    {
+      "verse": 6,
+      "prompt": "Use case: illustration-story. Asset: one Psalm 27 verse illustration, landscape 3:2. Input image is STYLE REFERENCE ONLY: delicate watercolor on ivory paper, forest-green and muted sage foliage, warm ochre, transparent washes, natural brushwork, quiet devotional atmosphere. Entirely new composition. Symbolic art, not a historical reconstruction or a portrait of David. Never portray God as a body, face, hand, silhouette or glowing figure; natural light is only light. Anonymous humans if any, small and in simple ancient linen robes and head coverings. No halos, modern items, text, lettering or watermark. No sheep or copied riverbank.\nVerse-specific composition: A small anonymous worshiper seen from behind plays a wooden lyre beside a modest linen tent on a sunny hillside. Head covered, no face visible. Respond to verse 6's music and thanksgiving after danger.",
+      "production": "assets/psalm27/verse-6-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-00d69c09-2bce-456c-8a68-84b07a568153.png"
+    },
+    {
+      "verse": 7,
+      "prompt": "Use case: illustration-story. Asset: one Psalm 27 verse illustration, landscape 3:2. Input image is STYLE REFERENCE ONLY: delicate watercolor on ivory paper, forest-green and muted sage foliage, warm ochre, transparent washes, natural brushwork, quiet devotional atmosphere. Entirely new composition. Symbolic art, not a historical reconstruction or a portrait of David. Never portray God as a body, face, hand, silhouette or glowing figure; natural light is only light. Anonymous humans if any, small and in simple ancient linen robes and head coverings. No halos, modern items, text, lettering or watermark. No sheep or copied riverbank.\nVerse-specific composition: A close still life: a simple oil lamp beside a folded earth-tone prayer shawl on a low stone ledge at twilight, distant hills beyond. No people. Symbolic response to verse 7's urgent plea to be heard.",
+      "production": "assets/psalm27/verse-7-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-21afc6b9-b051-4959-9701-9fcf277b425d.png"
+    },
+    {
+      "verse": 8,
+      "prompt": "Use case: illustration-story. Asset: one Psalm 27 verse illustration, landscape 3:2. Input image is STYLE REFERENCE ONLY: delicate watercolor on ivory paper, forest-green and muted sage foliage, warm ochre, transparent washes, natural brushwork, quiet devotional atmosphere. Entirely new composition. Symbolic art, not a historical reconstruction or a portrait of David. Never portray God as a body, face, hand, silhouette or glowing figure; natural light is only light. Anonymous humans if any, small and in simple ancient linen robes and head coverings. No halos, modern items, text, lettering or watermark. No sheep or copied riverbank.\nVerse-specific composition: A narrow winding footpath leads inward through an olive grove to a quiet opening in morning light; no person, no human face or divine representation. Symbolic response to verse 8's seeking God's face.",
+      "production": "assets/psalm27/verse-8-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-10a6a546-6fdd-4b07-90dc-aaac5807c7a6.png"
+    },
+    {
+      "verse": 9,
+      "prompt": "Use case: illustration-story. Asset: one Psalm 27 verse illustration, landscape 3:2. Input image is STYLE REFERENCE ONLY: delicate watercolor on ivory paper, forest-green and muted sage foliage, warm ochre, transparent washes, natural brushwork, quiet devotional atmosphere. Entirely new composition. Symbolic art, not a historical reconstruction or a portrait of David. Never portray God as a body, face, hand, silhouette or glowing figure; natural light is only light. Anonymous humans if any, small and in simple ancient linen robes and head coverings. No halos, modern items, text, lettering or watermark. No sheep or copied riverbank.\nVerse-specific composition: A small hooded traveler waits at the threshold of a simple stone shelter in muted late-evening light; a lit oil lamp stands inside, no other person. No divine figure. Respond to verse 9's plea not to be abandoned.",
+      "production": "assets/psalm27/verse-9-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-63f937a2-11a4-44b1-8339-6bd5cdfc3ace.png"
+    },
+    {
+      "verse": 10,
+      "prompt": "Use case: illustration-story. Asset: one Psalm 27 verse illustration, landscape 3:2. Input image is STYLE REFERENCE ONLY: delicate watercolor on ivory paper, forest-green and muted sage foliage, warm ochre, transparent washes, natural brushwork, quiet devotional atmosphere. Entirely new composition. Symbolic art, not a historical reconstruction or a portrait of David. Never portray God as a body, face, hand, silhouette or glowing figure; natural light is only light. Anonymous humans if any, small and in simple ancient linen robes and head coverings. No halos, modern items, text, lettering or watermark. No sheep or copied riverbank.\nVerse-specific composition: A solitary young olive sapling protected inside a low stone courtyard from wind, with an open doorway onto a welcoming interior. No people. Symbolic response to verse 10's receiving and belonging amid family abandonment.",
+      "production": "assets/psalm27/verse-10-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-a7df483e-af23-4be3-905a-f5871178e0a6.png"
+    },
+    {
+      "verse": 11,
+      "prompt": "Use case: illustration-story. Asset: one Psalm 27 verse illustration, landscape 3:2. Input image is STYLE REFERENCE ONLY: delicate watercolor on ivory paper, forest-green and muted sage foliage, warm ochre, transparent washes, natural brushwork, quiet devotional atmosphere. Entirely new composition. Symbolic art, not a historical reconstruction or a portrait of David. Never portray God as a body, face, hand, silhouette or glowing figure; natural light is only light. Anonymous humans if any, small and in simple ancient linen robes and head coverings. No halos, modern items, text, lettering or watermark. No sheep or copied riverbank.\nVerse-specific composition: A broad level footpath crosses a rocky hillside, a simple wooden walking staff resting against a trail-side stone; no people. Gentle morning light, clear footing. Respond to verse 11's request for teaching and a level path.",
+      "production": "assets/psalm27/verse-11-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-2f0e56c3-1249-4391-bcff-e5461f9bd984.png"
+    },
+    {
+      "verse": 12,
+      "prompt": "Use case: illustration-story. Asset: one Psalm 27 verse illustration, landscape 3:2. Input image is STYLE REFERENCE ONLY: delicate watercolor on ivory paper, forest-green and muted sage foliage, warm ochre, transparent washes, natural brushwork, quiet devotional atmosphere. Entirely new composition. Symbolic art, not a historical reconstruction or a portrait of David. Never portray God as a body, face, hand, silhouette or glowing figure; natural light is only light. Anonymous humans if any, small and in simple ancient linen robes and head coverings. No halos, modern items, text, lettering or watermark. No sheep or copied riverbank.\nVerse-specific composition: An empty ancient courtyard with a clay seal, closed blank scroll and a pair of simple wooden stools; tangled thorn branches cast uneasy shadows beyond its wall, while the center remains calm. No people or writing. Symbolic response to verse 12's false testimony and threat.",
+      "production": "assets/psalm27/verse-12-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-6b0dac83-7724-4e5a-8972-ad04fb001ac0.png"
+    },
+    {
+      "verse": 13,
+      "prompt": "Use case: illustration-story. Asset: one Psalm 27 verse illustration, landscape 3:2. Input image is STYLE REFERENCE ONLY: delicate watercolor on ivory paper, forest-green and muted sage foliage, warm ochre, transparent washes, natural brushwork, quiet devotional atmosphere. Entirely new composition. Symbolic art, not a historical reconstruction or a portrait of David. Never portray God as a body, face, hand, silhouette or glowing figure; natural light is only light. Anonymous humans if any, small and in simple ancient linen robes and head coverings. No halos, modern items, text, lettering or watermark. No sheep or copied riverbank.\nVerse-specific composition: A green hillside coming to life after rain, olive buds and tiny wildflowers in foreground, sunlit fields inhabited only by distant modest stone houses. No people. Respond to verse 13's hope for goodness in the land of the living.",
+      "production": "assets/psalm27/verse-13-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-0cd05283-3dff-4190-b52e-a65f1dd819d8.png"
+    },
+    {
+      "verse": 14,
+      "prompt": "Use case: illustration-story. Asset: one Psalm 27 verse illustration, landscape 3:2. Input image is STYLE REFERENCE ONLY: delicate watercolor on ivory paper, forest-green and muted sage foliage, warm ochre, transparent washes, natural brushwork, quiet devotional atmosphere. Entirely new composition. Symbolic art, not a historical reconstruction or a portrait of David. Never portray God as a body, face, hand, silhouette or glowing figure; natural light is only light. Anonymous humans if any, small and in simple ancient linen robes and head coverings. No halos, modern items, text, lettering or watermark. No sheep or copied riverbank.\nVerse-specific composition: An ancient olive tree with deep roots gripping a rocky slope at the first hint of dawn; a small folded cloak rests on a stone beneath it, no person. Quiet patient strength rather than instant sunrise spectacle. Respond to verse 14's repeated waiting and courage.",
+      "production": "assets/psalm27/verse-14-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-7337eb52-8cd8-48da-8dbb-f924f76958a8.png"
+    }
+  ],
+  "pendingVerses": []
+}

@@ -238,7 +238,7 @@ try {
     await visit('#/study/1/6','[data-verse-study="1"]');
     assert.equal(await page.locator('.study-bottom a[href="#/study/2/1"]').count(),1);
     const fullPsalms=JSON.parse(fs.readFileSync(path.join(root,'data/bible.json'),'utf8')).books[18].chapters;
-    for(const number of [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,25,26]){
+    for(const number of [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,25,26,27]){
       const verses=Object.fromEntries(fullPsalms[number-1]),images=[],meanings=[];
       for(let n=1;n<=Object.keys(verses).length;n++){
         await visit('#/study/'+number+'/'+n,'[data-verse-study="'+number+'"]');
@@ -263,6 +263,24 @@ try {
       await page.getByRole('tab',{name:'Reflect',exact:true}).click();
       assert.equal(await page.locator('#verse-study-panel textarea').inputValue(),'Reflection for Psalm '+number);
     }
+    // Psalm 27 shares reflections across study, dialog and Saved.
+    await visit('#/saved','.saved-list');
+    assert.match(await page.locator('.saved-list').innerText(),/Reflection for Psalm 27/);
+    await page.locator('[data-action="open-verse"][data-ref="Psalm 27:3"]').click();
+    await page.locator('#verse-dialog[open]').waitFor();
+    assert.equal(await page.locator('#verse-dialog [data-note-ref="Psalm 27:3"]').inputValue(),'Reflection for Psalm 27');
+    await page.locator('#verse-dialog textarea').fill('One shared Psalm 27 reflection.');
+    await page.locator('#verse-dialog [data-action="save-note"]').click();
+    await page.locator('#verse-dialog').evaluate(d=>d.close());
+    await visit('#/study/27/3','[data-verse-study="27"]');
+    await page.getByRole('tab',{name:'Reflect',exact:true}).click();
+    assert.equal(await page.locator('#verse-study-panel textarea').inputValue(),'One shared Psalm 27 reflection.');
+    await visit('#/study/27/8','[data-verse-study="27"]');
+    await visit('#/study/26/6','[data-verse-study="26"]');
+    await page.locator('[data-psalm-switch]').selectOption('27');
+    await page.locator('[data-verse-study="27"][data-current-verse="8"]').waitFor();
+    await page.locator('[data-psalm-switch]').selectOption('26');
+    await page.locator('[data-verse-study="26"][data-current-verse="6"]').waitFor();
     // Psalm 26 shares reflections across study, dialog and Saved.
     await visit('#/saved','.saved-list');
     assert.match(await page.locator('.saved-list').innerText(),/Reflection for Psalm 26/);
@@ -452,8 +470,18 @@ try {
     await page.locator('[data-verse-study="26"][data-current-verse="1"]').waitFor();
     assert.equal(await page.locator('.study-context a[href="#/people/david"]').count(),1);
     await visit('#/study/26/12','[data-verse-study="26"]');
-    await page.locator('.study-bottom a[href="#/psalms/27"]').click();
-    await page.locator('[data-psalm-chapter="27"]').waitFor();
+    await page.locator('.study-bottom a[href="#/study/27/1"]').click();
+    await page.locator('[data-verse-study="27"][data-current-verse="1"]').waitFor();
+    await visit('#/study/27/14','[data-verse-study="27"]');
+    await page.locator('.study-bottom a[href="#/psalms/28"]').click();
+    await page.locator('[data-psalm-chapter="28"]').waitFor();
+    for(const [id,verse] of [['fear',1],['alone',10],['direction',11],['strength',14]]){
+      await visit('#/help/'+id,'[data-topic-connections="'+id+'"]');
+      await page.locator('[data-topic-connections] a[href="#/study/27/'+verse+'"]').click();
+      await page.locator('[data-verse-study="27"][data-current-verse="'+verse+'"]').waitFor();
+      await page.locator('[data-related-needs] a[href="#/help/'+id+'"]').click();
+      await page.locator('[data-topic-connections="'+id+'"]').waitFor();
+    }
     for(const [id,verse] of [['direction',3],['gratitude',7],['forgiveness',11],['strength',12]]){
       await visit('#/help/'+id,'[data-topic-connections="'+id+'"]');
       await page.locator('[data-topic-connections] a[href="#/study/26/'+verse+'"]').click();
