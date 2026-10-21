@@ -1,0 +1,621 @@
+/* Original editorial notes and symbolic illustrations. Scripture loads unchanged from bundled BSB. */
+(function(){
+"use strict";
+window.SFL_VERSE_STUDIES.register({
+  "number": 31,
+  "coverVerse": 15,
+  "title": "My times are in Your hands.",
+  "intro": "Twenty-four verses move between refuge, deep distress, isolation and trust, ending with a call for all who hope in the LORD to be strong.",
+  "context": "The heading names David and the choirmaster without identifying an event. Verses 1–8 seek refuge and recall God's care; verses 9–13 describe grief, weakness, rejection by neighbors and plots against the speaker's life. Verses 14–18 turn back to trust and ask that lying lips be silenced. Verses 19–24 praise God's hidden goodness, remember an answered cry and call the faithful to love the LORD and take courage. Requests for enemies to be shamed are prayers handed to God, not instructions for revenge. Verse 5 is later echoed by Jesus on the cross in Luke 23:46 and by Stephen, but the psalm's own words concern the speaker's trust. The Scripture is loaded unchanged from the bundled BSB, including the heading.",
+  "peopleNote": "David is named in the heading. His profile offers background without claiming that any one story is the occasion of this psalm. Planned paintings show anonymous people and symbolic landscapes; God is never portrayed as a human body.",
+  "people": [
+    {
+      "id": "david",
+      "name": "David",
+      "ref": "Psalm 31:1"
+    }
+  ],
+  "verses": [
+    {
+      "title": "I have taken refuge",
+      "heading": "The prayer opens from a place of shelter",
+      "meaning": "The first words declare where the speaker has already run: In You, O LORD, I have taken refuge. From that place come requests: never let me be put to shame, and save me by Your righteousness. Shame here is the public collapse of hope, being shown to have trusted in vain. Appealing to God's righteousness means trusting that God will act rightly and faithfully, not that the speaker deserves rescue. The heading names David but not the circumstance.",
+      "contextTitle": "An opening shared with other psalms",
+      "context": "Psalm 71:1–3 opens with nearly the same words, showing that this prayer of refuge was reused in Israel's worship. Psalm 25:2 also asks not to be put to shame.",
+      "explore": [
+        [
+          "Taken refuge",
+          "Refuge means a shelter from danger. The speaker has already chosen to hide in God before asking for help."
+        ],
+        [
+          "By Your righteousness",
+          "The appeal rests on God's faithful character. Righteousness here includes God's commitment to set things right."
+        ]
+      ],
+      "reflect": "Where do you go first when you feel unsafe? What would it mean to take refuge in God there?",
+      "related": [
+        "Psalm 71:1",
+        "Psalm 25:2",
+        "Psalm 7:1"
+      ],
+      "alt": "An anonymous traveler enters a sheltering cave mouth in a rocky hillside as rain begins.",
+      "art": "assets/psalm31/verse-1-watercolor.webp"
+    },
+    {
+      "title": "Come quickly",
+      "heading": "An urgent plea for God's attention and protection",
+      "meaning": "The speaker asks God to lean close and listen: incline Your ear. The request is urgent: come quickly to my rescue. Two strong images follow, a rock of refuge and a stronghold of deliverance. In the hill country, high rocks and fortified places offered safety from attack. The prayer asks God to be that kind of secure place. Urgency in prayer is not a lack of faith; it is honesty about danger that feels close.",
+      "contextTitle": "Rock and stronghold imagery",
+      "context": "Psalm 18:2 calls the LORD my rock and fortress, and Psalm 62:7 calls God my rock of strength and refuge. These images were well known in Israel's songs.",
+      "explore": [
+        [
+          "Incline Your ear",
+          "This pictures God bending down to hear. It expresses a desire to be personally noticed."
+        ],
+        [
+          "Rock of refuge",
+          "A high rock offered protection and a clear view. The image speaks of stability and safety in God."
+        ]
+      ],
+      "reflect": "What feels urgent in your life right now? How might you ask God to come quickly without hiding your fear?",
+      "related": [
+        "Psalm 18:2",
+        "Psalm 62:7",
+        "Psalm 40:13"
+      ],
+      "alt": "A massive rock outcrop rises above a valley with a small path leading up to it.",
+      "art": "assets/psalm31/verse-2-watercolor.webp"
+    },
+    {
+      "title": "Lead me and guide me",
+      "heading": "Trust that becomes a request for direction",
+      "meaning": "Verse 3 reasons from who God is to what the speaker needs. Because You are my rock and fortress, lead me and guide me. Protection and guidance belong together; the God who shelters also shows the way forward. The phrase 'for the sake of Your name' grounds the request in God's reputation and character rather than the speaker's merit. The verse invites trust that God's guidance is consistent with who He is.",
+      "contextTitle": "Guidance for His name's sake",
+      "context": "Psalm 23:3 also speaks of guidance for the sake of God's name. Psalm 25:11 uses the same phrase in a prayer for forgiveness, showing how often Israel appealed to God's character.",
+      "explore": [
+        [
+          "Lead me and guide me",
+          "Two verbs stress the request for direction. The speaker wants a path, not only a hiding place."
+        ],
+        [
+          "For the sake of Your name",
+          "God's name stands for His revealed character. The appeal asks God to act in keeping with who He is."
+        ]
+      ],
+      "reflect": "Where do you need guidance as well as protection? What would trusting God's character look like in that decision?",
+      "related": [
+        "Psalm 23:3",
+        "Psalm 25:11",
+        "Proverbs 3:6"
+      ],
+      "alt": "A fortified hilltop overlooks a winding road through the valley below.",
+      "art": "assets/psalm31/verse-3-watercolor.webp"
+    },
+    {
+      "title": "Freed from the net",
+      "heading": "Escape from a hidden trap",
+      "meaning": "The speaker pictures danger as a net laid out in secret, like a hunter's trap for birds. The confidence is that God frees the speaker from it, because God is the speaker's refuge. The verse does not describe the exact plot, but it captures the feeling of being targeted by hidden schemes. The word 'You free' can be read as present trust or as a request already confident of answer. Either way, release is credited to God, not to the speaker's cleverness.",
+      "contextTitle": "Nets and snares in the Psalms",
+      "context": "Psalm 25:15 trusts that the LORD will free my feet from the net, and Psalm 124:7 celebrates escape like a bird from the fowler's snare. The image here is poetic and names no specific plot.",
+      "explore": [
+        [
+          "The net laid out",
+          "A net hidden on the ground caught unsuspecting birds. It pictures schemes the speaker could not see."
+        ],
+        [
+          "You are my refuge",
+          "The reason for freedom is relationship. The speaker trusts God because God is already their shelter."
+        ]
+      ],
+      "reflect": "Is there a hidden pressure or trap you feel caught in? How could you ask God for a way out?",
+      "related": [
+        "Psalm 124:7",
+        "Psalm 25:15",
+        "Psalm 91:3"
+      ],
+      "alt": "A small bird flies free from a torn fowler's net in a field.",
+      "art": "assets/psalm31/verse-4-watercolor.webp"
+    },
+    {
+      "title": "Into Your hands",
+      "heading": "Committing one's life to the faithful God",
+      "meaning": "These words are among the most trusting in the Psalms: Into Your hands I commit my spirit. To commit is to entrust something precious for safekeeping. The speaker places their very life in God's care, confident because God has already redeemed them. Calling God the God of truth means He is faithful and reliable. In the New Testament, Jesus speaks this line from the cross (Luke 23:46), giving it deep resonance for Christian readers, but in the psalm it is first a prayer of trust in danger.",
+      "contextTitle": "Words later spoken by Jesus and Stephen",
+      "context": "Luke 23:46 records Jesus praying this verse as He died, and Acts 7:59 echoes it in Stephen's prayer. Their use shows how this trust carried into the New Testament.",
+      "explore": [
+        [
+          "I commit my spirit",
+          "To commit means to entrust for safekeeping. The speaker hands over their life to God's care."
+        ],
+        [
+          "God of truth",
+          "Truth here means faithfulness. The speaker trusts God because He keeps His word."
+        ]
+      ],
+      "reflect": "What would it mean to entrust your life, or one worry, into God's hands today?",
+      "related": [
+        "Luke 23:46",
+        "Acts 7:59",
+        "1 Peter 4:19"
+      ],
+      "alt": "Open cupped hands hold a small flickering oil lamp in the dark.",
+      "art": "assets/psalm31/verse-5-watercolor.webp"
+    },
+    {
+      "title": "But in the LORD I trust",
+      "heading": "A firm contrast between idols and trust",
+      "meaning": "The speaker draws a sharp line. On one side are those who cling to worthless idols, things that cannot help. On the other side is the speaker, who trusts in the LORD. Hate here expresses decisive rejection of idolatry and its devotees as a path, not permission for personal cruelty. Worthless idols can be read as empty vanities, anything treated as ultimate that cannot save. The verse asks where trust is truly placed.",
+      "contextTitle": "Empty idols",
+      "context": "Jonah 2:8 says those who cling to worthless idols forfeit grace, using closely related language. Psalm 115:4–8 describes idols that cannot see or hear.",
+      "explore": [
+        [
+          "Worthless idols",
+          "The phrase suggests vapor or emptiness. Idols are trusted but cannot deliver."
+        ],
+        [
+          "But in the LORD I trust",
+          "The speaker's decision is personal and clear. Trust is the heart of the whole psalm."
+        ]
+      ],
+      "reflect": "What do you find yourself relying on that cannot truly save? What would shifting that trust look like?",
+      "related": [
+        "Jonah 2:8",
+        "Psalm 115:4",
+        "1 John 5:21"
+      ],
+      "alt": "Crumbling idol figurines lie in dust while a path leads toward open hills.",
+      "art": "assets/psalm31/verse-6-watercolor.webp"
+    },
+    {
+      "title": "You have seen my affliction",
+      "heading": "Joy rooted in being seen",
+      "meaning": "The speaker promises joy and gladness in God's loving devotion, giving a deeply personal reason: You have seen my affliction; You have known the anguish of my soul. Being seen and known in suffering is itself a gift. The verse does not say that the trouble has ended; it says God has noticed. Joy here is not denial of pain but delight that God's covenant love pays attention to it.",
+      "contextTitle": "God who sees",
+      "context": "Exodus 3:7 records the LORD seeing the misery of His people and knowing their sufferings. Genesis 16:13 names God as the one who sees. Psalm 31:7 makes that attention a reason for joy.",
+      "explore": [
+        [
+          "Seen my affliction",
+          "God's attention to suffering is a theme of Israel's story. Being seen is the beginning of comfort."
+        ],
+        [
+          "Anguish of my soul",
+          "The phrase describes deep inner distress. The speaker trusts that God knows it from the inside."
+        ]
+      ],
+      "reflect": "What do you most want God to see in your life right now? How does it feel to know that He does?",
+      "related": [
+        "Exodus 3:7",
+        "Genesis 16:13",
+        "Psalm 10:14"
+      ],
+      "alt": "A tearful anonymous person sits by a spring as soft light falls on her shoulders.",
+      "art": "assets/psalm31/verse-7-watercolor.webp"
+    },
+    {
+      "title": "Set in the open",
+      "heading": "Room to move after being hemmed in",
+      "meaning": "Instead of being handed over to the enemy, the speaker has been set in an open place. The open place contrasts with the net of verse 4 and pictures freedom and room to move. The verse looks back on a rescue that has already happened, which gives courage for the troubles described next. The enemy remains unnamed, and the focus stays on what God has done rather than on the opponents.",
+      "contextTitle": "Spacious places",
+      "context": "Psalm 18:19 says God brought me out into the open, and Psalm 118:5 speaks of being set in a broad place. Both use space as a picture of salvation.",
+      "explore": [
+        [
+          "Not delivered to the enemy",
+          "The speaker was not abandoned to hostile power. God's protection stood between them."
+        ],
+        [
+          "In the open",
+          "Open space suggests freedom and safety. It is the opposite of being trapped or cornered."
+        ]
+      ],
+      "reflect": "Where do you feel hemmed in? What would open space look like there?",
+      "related": [
+        "Psalm 18:19",
+        "Psalm 118:5",
+        "Psalm 4:1"
+      ],
+      "alt": "An anonymous traveler stands on a wide open plateau under a broad sky.",
+      "art": "assets/psalm31/verse-8-watercolor.webp"
+    },
+    {
+      "title": "My eyes fail from sorrow",
+      "heading": "Distress that reaches body and soul",
+      "meaning": "The mood changes abruptly. The speaker asks for mercy because of distress so deep that the eyes grow dim from sorrow, and soul and body both suffer. The Psalms often describe grief as something felt physically, in tears, weakness and exhaustion. This honesty gives readers permission to name the bodily weight of sorrow in prayer. The verse does not explain the cause; it simply asks for mercy in the middle of it.",
+      "contextTitle": "Grief felt in the body",
+      "context": "Psalm 6:7 says my eyes waste away with grief, and Psalm 88:9 speaks of eyes dimmed by sorrow. The language is shared across psalms of lament.",
+      "explore": [
+        [
+          "Be merciful to me",
+          "Mercy is undeserved kindness. The request comes from weakness, not strength."
+        ],
+        [
+          "Soul and body",
+          "Sorrow affects the whole person. The psalm does not separate inner pain from physical exhaustion."
+        ]
+      ],
+      "reflect": "Where is sorrow showing up in your body? Can you name it honestly before God?",
+      "related": [
+        "Psalm 6:7",
+        "Psalm 88:9",
+        "Lamentations 2:11"
+      ],
+      "alt": "An anonymous person sits slumped against a wall in dim grey evening light.",
+      "art": "assets/psalm31/verse-9-watercolor.webp"
+    },
+    {
+      "title": "Consumed with grief",
+      "heading": "Long sorrow and acknowledged sin",
+      "meaning": "The speaker describes life as being used up by grief and years spent in groaning. Strength is drained, and the bones waste away. One line adds that the speaker's iniquity has drained their strength, an honest admission that personal wrongdoing is part of the burden. The psalm does not claim that all suffering comes from sin, but here the speaker owns their part. Confession and lament can belong in the same prayer.",
+      "contextTitle": "Sin and weakness",
+      "context": "Psalm 32:3–4 also links unconfessed sin with failing strength, and Psalm 38:3 describes no rest in the bones because of sin. These are personal confessions, not rules for every illness.",
+      "explore": [
+        [
+          "My years with groaning",
+          "Sorrow has lasted a long time. The speaker is worn down by its length."
+        ],
+        [
+          "My iniquity has drained my strength",
+          "The speaker names personal wrongdoing honestly. This does not mean all suffering is punishment."
+        ]
+      ],
+      "reflect": "Is there anything you need to own before God as part of your burden? What would honesty bring?",
+      "related": [
+        "Psalm 32:3",
+        "Psalm 38:3",
+        "Psalm 102:3"
+      ],
+      "alt": "A withered tree stands in a dry field under a pale sky.",
+      "art": "assets/psalm31/verse-10-watercolor.webp"
+    },
+    {
+      "title": "Avoided on the street",
+      "heading": "The pain of social rejection",
+      "meaning": "The suffering now becomes social. The speaker is a disgrace among enemies, and even more among neighbors. Friends dread them and flee when they see them on the street. Isolation can wound as deeply as physical pain. The verse names the experience of being avoided by people who once were close. It does not explain why they flee, whether out of fear, shame or self-protection, but it captures the loneliness honestly.",
+      "contextTitle": "Abandoned by friends",
+      "context": "Psalm 38:11 says friends stand aloof from my wounds, and Job 19:13–14 laments being estranged from kin and friends. Such isolation is a recurring biblical lament.",
+      "explore": [
+        [
+          "A disgrace among neighbors",
+          "The rejection is closest to home. Neighbors who should help instead keep their distance."
+        ],
+        [
+          "They flee when they see me",
+          "The image is painfully specific. Friends avoid even a chance meeting on the street."
+        ]
+      ],
+      "reflect": "Have you ever felt avoided or forgotten by people close to you? Who might you reach out to now?",
+      "related": [
+        "Psalm 38:11",
+        "Job 19:14",
+        "Psalm 88:8"
+      ],
+      "alt": "An anonymous person stands alone in a village street as others turn away.",
+      "art": "assets/psalm31/verse-11-watercolor.webp"
+    },
+    {
+      "title": "Like a broken vessel",
+      "heading": "Feeling forgotten and useless",
+      "meaning": "The speaker feels forgotten as though already dead, out of mind. Then comes a striking image: I am like a broken vessel. A cracked clay pot was useless and thrown away. The speaker feels discarded and worthless. The verse gives words to people who feel overlooked or broken. It is a lament, not a final judgment; the very next lines turn to trust. God has room for prayers that begin with feeling broken.",
+      "contextTitle": "Broken pottery",
+      "context": "Jeremiah 22:28 uses the image of a despised, broken pot, and Jeremiah 18:4 shows the potter reshaping a marred vessel, a picture of hope beyond brokenness.",
+      "explore": [
+        [
+          "Out of mind",
+          "To be out of mind is to be forgotten. The speaker feels erased from others' thoughts."
+        ],
+        [
+          "A broken vessel",
+          "Broken pottery was common rubbish. The image captures feeling useless and discarded."
+        ]
+      ],
+      "reflect": "Do you ever feel like a broken vessel? What would it mean to bring that brokenness to God as it is?",
+      "related": [
+        "Jeremiah 22:28",
+        "Jeremiah 18:4",
+        "2 Corinthians 4:7"
+      ],
+      "alt": "A cracked clay pot lies among stones in a quiet courtyard.",
+      "art": "assets/psalm31/verse-12-watercolor.webp"
+    },
+    {
+      "title": "Terror on every side",
+      "heading": "Slander and plots against life",
+      "meaning": "The speaker hears whispered slander and senses terror on every side. Others conspire and plot to take the speaker's life. The phrase 'terror on every side' later appears often in Jeremiah, describing a man surrounded by threats. The verse names a real danger without identifying the plotters. It shows how fear can surround a person from every direction, and it brings that fear into prayer rather than hiding it.",
+      "contextTitle": "A phrase shared with Jeremiah",
+      "context": "Jeremiah 20:10 uses the same words, 'terror on every side,' when describing whispering enemies. The shared phrase links the psalm to the prophet's own sufferings.",
+      "explore": [
+        [
+          "The slander of many",
+          "Harmful words are spreading. The speaker feels surrounded by gossip and accusations."
+        ],
+        [
+          "Terror on every side",
+          "Danger seems to come from all directions. The phrase captures overwhelming fear."
+        ]
+      ],
+      "reflect": "What fears feel like they surround you? How can you name them in prayer?",
+      "related": [
+        "Jeremiah 20:10",
+        "Psalm 31:4",
+        "Psalm 56:5"
+      ],
+      "alt": "Shadowy figures whisper in corners of a dim walled courtyard.",
+      "art": "assets/psalm31/verse-13-watercolor.webp"
+    },
+    {
+      "title": "You are my God",
+      "heading": "Trust spoken against the tide",
+      "meaning": "The word 'But' marks a turn. Against slander and fear, the speaker says: I trust in You, O LORD. Then a simple confession: You are my God. This is the hinge of the psalm. Trust is not a feeling that removes the danger; it is a decision spoken out loud in the middle of it. Naming God as 'my God' affirms a personal relationship that enemies cannot take away.",
+      "contextTitle": "Confession in the middle of fear",
+      "context": "Psalm 140:6 also says, 'You are my God.' Psalm 56:3–4 shows the same movement from fear to trust. Here trust is spoken directly against the slander and fear just described in verse 13.",
+      "explore": [
+        [
+          "But I trust",
+          "The word but signals defiance against fear. Trust is chosen, not merely felt."
+        ],
+        [
+          "You are my God",
+          "These words claim a personal relationship. They are a confession of loyalty and belonging."
+        ]
+      ],
+      "reflect": "What would it mean for you to say 'You are my God' today, even if fear remains?",
+      "related": [
+        "Psalm 140:6",
+        "Psalm 56:3",
+        "Psalm 91:2"
+      ],
+      "alt": "An anonymous person stands upright with open hands as storm clouds part.",
+      "art": "assets/psalm31/verse-14-watercolor.webp"
+    },
+    {
+      "title": "My times are in Your hands",
+      "heading": "Entrusting one's whole life story to God",
+      "meaning": "The speaker declares: My times are in Your hands. 'Times' includes the seasons and events of a life, the moments of danger and rescue, the length of days. Everything that happens is held within God's care. From that trust comes a request: deliver me from enemies and pursuers. Trust in God's sovereignty does not end prayer; it makes prayer possible. The verse comforts without promising that hard times will never come.",
+      "contextTitle": "Times held by God",
+      "context": "Ecclesiastes 3:1–8 speaks of a time for everything, and Job 14:5 says our days are determined by God. Psalm 31:15 makes this a personal trust.",
+      "explore": [
+        [
+          "My times",
+          "The word covers the moments and seasons of life. All of them belong to God."
+        ],
+        [
+          "Deliver me",
+          "Trust in God's control leads to a request, not passivity. The speaker still asks for help."
+        ]
+      ],
+      "reflect": "Which season or moment of your life do you most need to place in God's hands?",
+      "related": [
+        "Ecclesiastes 3:1",
+        "Job 14:5",
+        "Psalm 139:16"
+      ],
+      "alt": "Open weathered hands hold a small hourglass in warm light.",
+      "art": "assets/psalm31/verse-15-watercolor.webp"
+    },
+    {
+      "title": "Make Your face shine",
+      "heading": "Asking for God's favor and loving devotion",
+      "meaning": "The speaker asks God to make His face shine on His servant. This echoes the priestly blessing of Numbers 6:25, where God's shining face means favor, kindness and grace. The request is joined to another: save me by Your loving devotion. Salvation is grounded in God's covenant love, not in the speaker's worth. Calling oneself a servant expresses humble loyalty.",
+      "contextTitle": "The priestly blessing",
+      "context": "Numbers 6:25 says, 'May the LORD cause His face to shine upon you.' Psalm 80:3 also prays for God's face to shine so that we may be saved. Here the blessing becomes a personal plea.",
+      "explore": [
+        [
+          "Make Your face shine",
+          "A shining face shows favor and warmth. It is the opposite of a hidden face."
+        ],
+        [
+          "Your servant",
+          "The speaker identifies as God's servant. The title expresses loyalty and dependence."
+        ]
+      ],
+      "reflect": "How would it change your day to know God looks on you with favor? What would you ask Him?",
+      "related": [
+        "Numbers 6:25",
+        "Psalm 80:3",
+        "Psalm 67:1"
+      ],
+      "alt": "Warm sunlight breaks over the face of an anonymous traveler on a hill.",
+      "art": "assets/psalm31/verse-16-watercolor.webp"
+    },
+    {
+      "title": "Let me not be ashamed",
+      "heading": "Shame handed back to the wicked",
+      "meaning": "The speaker asks again not to be ashamed, because they have called on the LORD. Then the request turns: let the wicked be put to shame and lie silent in Sheol. This is the language of lament, asking God to do justice, not of personal revenge. Silence in Sheol pictures the end of hostile voices. Readers can bring their own sense of injustice to God without taking vengeance into their own hands.",
+      "contextTitle": "Prayer for justice",
+      "context": "Psalm 25:3 says those who wait on the LORD will not be ashamed, and Romans 12:19 leaves vengeance to God. Requests like this are handed over rather than carried out.",
+      "explore": [
+        [
+          "I have called on You",
+          "Calling on God is the speaker's ground of hope. Shame would mean that trust was pointless."
+        ],
+        [
+          "Silent in Sheol",
+          "Sheol is the realm of the dead. The image pictures hostile voices ended."
+        ]
+      ],
+      "reflect": "Is there an injustice you need to hand to God rather than carry yourself? How could you pray about it?",
+      "related": [
+        "Psalm 25:3",
+        "Romans 12:19",
+        "Psalm 35:26"
+      ],
+      "alt": "Dark storm clouds move off a valley while a lone figure watches in quiet light.",
+      "art": "assets/psalm31/verse-17-watercolor.webp"
+    },
+    {
+      "title": "Silence lying lips",
+      "heading": "A prayer against arrogant speech",
+      "meaning": "The speaker asks that lying lips be silenced. These lips speak arrogantly against the righteous, full of pride and contempt. Words can wound and destroy reputations. The verse names arrogance, pride and contempt as the attitudes behind such speech. It asks God to stop it, not to take matters into one's own hands. It also invites self-examination about our own words.",
+      "contextTitle": "Speech in the Psalms",
+      "context": "Psalm 12:3 asks the LORD to cut off flattering lips, and Proverbs 12:22 says lying lips are detestable to the LORD. Truthful speech is a constant concern in Scripture.",
+      "explore": [
+        [
+          "Lying lips",
+          "Deceitful speech is named as a real harm. The request asks God to end it."
+        ],
+        [
+          "Pride and contempt",
+          "The attitude behind the words is arrogance. Contempt treats others as worthless."
+        ]
+      ],
+      "reflect": "Have words been used against you? Have you used words carelessly? How might you pray about both?",
+      "related": [
+        "Psalm 12:3",
+        "Proverbs 12:22",
+        "James 3:5"
+      ],
+      "alt": "A small oil lamp burns quietly in a still, empty room with a closed door.",
+      "art": "assets/psalm31/verse-18-watercolor.webp"
+    },
+    {
+      "title": "Goodness laid up",
+      "heading": "Wonder at God's stored-up goodness",
+      "meaning": "The speaker breaks into praise: How great is Your goodness! God's goodness is described as something laid up, stored like treasure, for those who fear Him. It is also given openly, before others, to those who take refuge in Him. Fearing God means reverent trust, not terror. The verse turns from danger to wonder at a God who prepares good things in advance for His people.",
+      "contextTitle": "Treasure prepared",
+      "context": "1 Corinthians 2:9 speaks of what God has prepared for those who love Him, and Psalm 27:13 expresses confidence in seeing the LORD's goodness.",
+      "explore": [
+        [
+          "Laid up",
+          "Goodness is pictured as stored treasure. God prepares good things before they are needed."
+        ],
+        [
+          "Those who fear You",
+          "Fearing God means reverent trust. It describes those who take God seriously."
+        ]
+      ],
+      "reflect": "What good things has God given you that you did not expect? How could you thank Him for them?",
+      "related": [
+        "1 Corinthians 2:9",
+        "Psalm 27:13",
+        "Psalm 34:8"
+      ],
+      "alt": "An open storeroom brims with jars of oil, grain and fruit in warm light.",
+      "art": "assets/psalm31/verse-19-watercolor.webp"
+    },
+    {
+      "title": "Hidden in Your presence",
+      "heading": "Shelter from schemes and accusing tongues",
+      "meaning": "Those who trust God are hidden in the secret place of His presence. They are concealed in His shelter, safe from the schemes of men and accusing tongues. The images are of a protected inner room or tent. God's presence itself becomes the refuge. This does not mean believers never face accusation, but that their deepest security lies in God, out of reach of harmful words.",
+      "contextTitle": "The secret place",
+      "context": "Psalm 27:5 speaks of being hidden in God's shelter and tent, and Psalm 91:1 of dwelling in the shelter of the Most High. Psalm 31:20 applies that shelter to hostile words.",
+      "explore": [
+        [
+          "Secret place of Your presence",
+          "The image is of an inner, protected place. God's nearness is the hiding place."
+        ],
+        [
+          "Accusing tongues",
+          "Words of blame and attack are named. God's shelter guards against their deepest harm."
+        ]
+      ],
+      "reflect": "Where are you hearing accusing voices? What would it mean to rest in God's presence instead?",
+      "related": [
+        "Psalm 27:5",
+        "Psalm 91:1",
+        "Psalm 32:7"
+      ],
+      "alt": "A quiet shelter tent glows softly among dark trees at night.",
+      "art": "assets/psalm31/verse-20-watercolor.webp"
+    },
+    {
+      "title": "A city under siege",
+      "heading": "Remembered love in a besieged place",
+      "meaning": "The speaker blesses the LORD, who showed loving devotion in a city under siege. The siege may be literal or a picture of feeling surrounded, as the speaker has described. Either way, God's covenant love reached the speaker inside the walls. The verse remembers that God's kindness can be experienced in the most confined and threatening places.",
+      "contextTitle": "Love in besieged places",
+      "context": "2 Kings 19:34 records God's promise to defend a besieged Jerusalem. Psalm 46:4–5 speaks of God in the midst of the city so that it will not be moved.",
+      "explore": [
+        [
+          "Blessed be the LORD",
+          "To bless God is to praise Him with gratitude. Praise flows from remembered rescue."
+        ],
+        [
+          "A city under siege",
+          "The image pictures being surrounded and cut off. Love reached the speaker even there."
+        ]
+      ],
+      "reflect": "Is there a situation where you feel surrounded? How might you watch for God's loving devotion there?",
+      "related": [
+        "2 Kings 19:34",
+        "Psalm 46:5",
+        "Psalm 18:29"
+      ],
+      "alt": "A walled city glows at dawn while encampments surround it below.",
+      "art": "assets/psalm31/verse-21-watercolor.webp"
+    },
+    {
+      "title": "I am cut off",
+      "heading": "A confession of panic and a remembered answer",
+      "meaning": "The speaker admits a moment of alarm: I am cut off from Your sight! In panic, the speaker believed God could no longer see them. But God heard the plea for mercy anyway. The verse honestly confesses that faith can falter. It shows that God's hearing does not depend on our feelings in the moment. Remembering past answers can steady a person when panic returns.",
+      "contextTitle": "Panic and answer",
+      "context": "Jonah 2:4 says, 'I have been banished from Your sight,' yet Jonah was heard. Psalm 116:11 also recalls words spoken in alarm. The psalm remembers both the panic and the answer.",
+      "explore": [
+        [
+          "In my alarm",
+          "Panic distorted the speaker's view. The verse admits that faith can falter."
+        ],
+        [
+          "But You heard",
+          "God's hearing did not depend on the speaker's feelings. Mercy came anyway."
+        ]
+      ],
+      "reflect": "Have you ever felt cut off from God? What do you remember about how He answered?",
+      "related": [
+        "Jonah 2:4",
+        "Psalm 116:11",
+        "Psalm 34:6"
+      ],
+      "alt": "An anonymous person peers out of a dark ravine toward a narrow beam of daylight.",
+      "art": "assets/psalm31/verse-22-watercolor.webp"
+    },
+    {
+      "title": "Love the LORD",
+      "heading": "A call to the faithful",
+      "meaning": "The speaker turns to address all God's saints: Love the LORD. Love is the fitting response to the goodness the psalm has described. The reason follows: the LORD preserves the faithful but fully repays the arrogant. The verse sets loyalty and pride side by side, trusting God to do justice. It does not promise that the faithful never suffer, but that God keeps them.",
+      "contextTitle": "The great command",
+      "context": "Deuteronomy 6:5 calls Israel to love the LORD with all heart, soul and strength. Psalm 97:10 tells those who love the LORD to hate evil. The call to love follows naturally from the praise just given.",
+      "explore": [
+        [
+          "Love the LORD",
+          "Love is commanded as a response to God's goodness. It involves loyalty and devotion."
+        ],
+        [
+          "Fully repays the arrogant",
+          "God's justice reaches the proud. The faithful can leave repayment to Him."
+        ]
+      ],
+      "reflect": "What would loving God look like in your choices this week?",
+      "related": [
+        "Deuteronomy 6:5",
+        "Psalm 97:10",
+        "Psalm 145:20"
+      ],
+      "alt": "Anonymous worshipers gather in a sunlit grove with lifted hands.",
+      "art": "assets/psalm31/verse-23-watercolor.webp"
+    },
+    {
+      "title": "Be strong and courageous",
+      "heading": "Courage for all who hope",
+      "meaning": "The psalm ends with encouragement: Be strong and courageous, all you who hope in the LORD. Courage is not the absence of fear; it is choosing hope in God despite fear. The words echo commands to Joshua and to Israel as they faced uncertain futures. The psalm that began in a plea for refuge ends by sending readers out with strength.",
+      "contextTitle": "Courage in Scripture",
+      "context": "Joshua 1:9 commands strength and courage because the LORD is with you, and Psalm 27:14 says, 'Wait for the LORD; be strong and courageous.' The psalm ends on that note.",
+      "explore": [
+        [
+          "Be strong",
+          "Strength here is inner resolve. It grows from trusting God."
+        ],
+        [
+          "All you who hope",
+          "Hope looks forward to God's help. The encouragement is for anyone waiting on Him."
+        ]
+      ],
+      "reflect": "What would courage look like for you today? Who might you encourage with these words?",
+      "related": [
+        "Joshua 1:9",
+        "Psalm 27:14",
+        "1 Corinthians 16:13"
+      ],
+      "alt": "An anonymous traveler walks confidently along a ridge toward sunrise.",
+      "art": "assets/psalm31/verse-24-watercolor.webp"
+    }
+  ]
+});
+})();
