@@ -1,0 +1,491 @@
+{
+  "chapter": 88,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 88 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "grief": [
+      "Psalm 88:9"
+    ],
+    "alone": [
+      "Psalm 88:18"
+    ],
+    "health": [
+      "Psalm 88:3"
+    ],
+    "fear": [
+      "Psalm 88:15"
+    ]
+  },
+  "study": {
+    "number": 88,
+    "coverVerse": 1,
+    "title": "Darkness is my closest companion",
+    "intro": "Heman the Ezrahite prays from the edge of death, feeling forsaken by friends and overwhelmed by God's hand, yet he keeps crying out to the LORD day and night. It is the darkest psalm, and it gives honest words to those who feel no light at all.",
+    "context": "Psalm 88 carries a long heading: a song of the sons of Korah, for the choirmaster, according to Mahalath Leannoth, a Maskil of Heman the Ezrahite. It is the only lament in the Psalms that never turns to praise or resolution; it ends in darkness. Yet it is addressed to 'the God of my salvation' from its first line, and the very act of praying is its quiet faith. It moves through three cries (verses 1-9, 10-12, 13-18), each beginning with calling to the LORD.",
+    "peopleNote": "The heading credits the sons of Korah, the Levite temple singers, so they are linked. Heman the Ezrahite, a wise man and temple musician (1 Kings 4:31; 1 Chronicles 6:33), has no profile and is mentioned here. Jesus, who was forsaken by friends and went down into death, is linked as the one who has entered this darkness. God is never portrayed as a human body in planned art.",
+    "people": [
+      {
+        "id": "sons-of-korah",
+        "name": "Sons of Korah",
+        "ref": "Psalm 88:1"
+      },
+      {
+        "id": "jesus",
+        "name": "Jesus",
+        "ref": "Psalm 88:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Day and night I cry",
+        "heading": "Prayer that begins with God of my salvation",
+        "meaning": "The heading names Heman the Ezrahite, a famous wise man and temple musician. His first words hold the psalm's hidden hope: 'O LORD, the God of my salvation, day and night I cry out before You.' Everything that follows is bleak, but he still calls God 'my salvation.' He prays around the clock, not because he feels answered, but because he has nowhere else to go. Persistent prayer in darkness is itself an act of faith.",
+        "contextTitle": "Heman the Ezrahite",
+        "context": "1 Kings 4:31 lists Heman among the wisest men before Solomon. 1 Chronicles 15:19 names Heman among the temple singers appointed by David. Luke 18:7 speaks of God's chosen ones who cry to Him day and night.",
+        "explore": [
+          [
+            "Maskil",
+            "A psalm heading of uncertain meaning, often taken as a skillful or instructive song."
+          ],
+          [
+            "Mahalath Leannoth",
+            "A heading term of uncertain meaning, possibly a tune name or a note about suffering and affliction."
+          ]
+        ],
+        "reflect": "When you have no feelings of hope, can you still call God 'the God of my salvation' and keep praying?",
+        "related": [
+          "1 Kings 4:31",
+          "1 Chronicles 15:19",
+          "Luke 18:7"
+        ],
+        "alt": "An oil lamp burns low on a stone floor beside a kneeling figure at night.",
+        "art": "assets/psalm88/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Incline Your ear",
+        "heading": "Asking God simply to hear",
+        "meaning": "Verse 2 is the plea underneath the whole psalm: 'May my prayer come before You; incline Your ear to my cry.' Heman does not yet ask for healing or rescue. He first asks to be heard. To incline the ear is to lean down close, like a parent bending toward a child who is crying. The deepest fear of suffering is often not pain itself but the thought that no one is listening.",
+        "contextTitle": "A God who bends down",
+        "context": "Psalm 116:1-2 says, 'I love the LORD, for He has heard my voice; because He has inclined His ear to me.' Psalm 86:1 opens with the same request. 1 Peter 3:12 says the Lord's ears are open to the prayers of the righteous.",
+        "explore": [
+          [
+            "Incline",
+            "To bend or lean toward someone so as to listen closely and attentively."
+          ],
+          [
+            "Cry",
+            "A loud, urgent call for help, the sound of someone in real distress rather than polite request."
+          ]
+        ],
+        "reflect": "What would it mean to you right now simply to know that God is listening?",
+        "related": [
+          "Psalm 116:2",
+          "Psalm 86:1",
+          "1 Peter 3:12"
+        ],
+        "alt": "A small figure sits on a hillside under a vast starry night sky.",
+        "art": "assets/psalm88/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Near to Sheol",
+        "heading": "A soul full of troubles",
+        "meaning": "'For my soul is full of troubles, and my life draws near to Sheol.' Heman's inner life is filled to the brim, with no room left for anything else. Sheol is the Hebrew word for the realm of the dead, the grave. He may be seriously ill, or simply worn down to the point where death feels close. Scripture does not hide that believers can be pushed to this edge; it gives them words to bring there.",
+        "contextTitle": "Sheol",
+        "context": "Psalm 116:3 says, 'The cords of death entangled me; the anguish of Sheol overcame me.' Jonah 2:2 prays from 'the belly of Sheol.' In Matthew 26:38 Jesus says, 'My soul is consumed with sorrow to the point of death.'",
+        "explore": [
+          [
+            "Sheol",
+            "The Hebrew name for the place of the dead, the grave or underworld, pictured as deep and dark."
+          ],
+          [
+            "Soul",
+            "The whole living self, including life, emotions and desires, not only an inner spiritual part."
+          ]
+        ],
+        "reflect": "Are troubles filling your soul to the brim? Can you name them honestly to God, as Heman does?",
+        "related": [
+          "Psalm 116:3",
+          "Jonah 2:2",
+          "Matthew 26:38"
+        ],
+        "alt": "A cracked clay jar overflows with dark water on a stone step.",
+        "art": "assets/psalm88/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Counted among the dying",
+        "heading": "A man without strength",
+        "meaning": "Verse 4 says, 'I am counted among those descending to the Pit. I am like a man without strength.' Others already treat Heman as good as gone. The Pit is another name for the grave. To be 'without strength' is to have no reserves, no vigor, nothing left to fight with. He feels written off by people around him, as though his name had already been moved to the list of the dead.",
+        "contextTitle": "The Pit",
+        "context": "Psalm 28:1 pleads not to become like those who go down to the Pit. Psalm 143:7 says, 'My spirit fails; hide not Your face from me.' Isaiah 38:18 says those who go down to the pit cannot hope for God's faithfulness.",
+        "explore": [
+          [
+            "Pit",
+            "A poetic name for the grave or the realm of the dead, pictured as a deep hole or cistern."
+          ],
+          [
+            "Without strength",
+            "Utterly weak and spent, with no energy or help left, like someone near death."
+          ]
+        ],
+        "reflect": "Have you felt written off by others? How might you bring that feeling to God instead of carrying it alone?",
+        "related": [
+          "Psalm 28:1",
+          "Psalm 143:7",
+          "Isaiah 38:18"
+        ],
+        "alt": "An empty bedroll lies on the floor of a dim stone room.",
+        "art": "assets/psalm88/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Forsaken among the dead",
+        "heading": "Feeling cut off from God's care",
+        "meaning": "Heman goes further: 'I am forsaken among the dead, like the slain who lie in the grave, whom You remember no more, who are cut off from Your care.' He feels like a fallen soldier left on the field. The words 'whom You remember no more' express his fear, not a final truth about God. In Scripture God's 'remembering' means acting on someone's behalf, and Heman feels God has stopped acting for him.",
+        "contextTitle": "God's remembering",
+        "context": "Genesis 8:1 says God remembered Noah and sent a wind over the earth. Isaiah 49:15-16 says God will not forget His people; they are engraved on His palms. Luke 23:42 records the thief asking Jesus, 'Remember me when You come into Your kingdom.'",
+        "explore": [
+          [
+            "Forsaken",
+            "Abandoned or left behind, with no one coming back to help."
+          ],
+          [
+            "Cut off",
+            "Separated from someone's hand or protection, removed from the circle of care and help."
+          ]
+        ],
+        "reflect": "When you feel forgotten by God, which promise of His remembering can you hold onto?",
+        "related": [
+          "Genesis 8:1",
+          "Isaiah 49:15",
+          "Luke 23:42"
+        ],
+        "alt": "A lone helmet lies in tall grass on an empty battlefield at dusk.",
+        "art": "assets/psalm88/verse-5-watercolor.webp"
+      },
+      {
+        "title": "The lowest pit",
+        "heading": "Placed in the darkest depths",
+        "meaning": "Verse 6 says, 'You have laid me in the lowest Pit, in the darkest of the depths.' Heman does not blame chance or enemies; he speaks directly to God as the one in control. That is painful, but it is also faith: he believes God rules even his suffering. 'Lowest' and 'darkest' are the language of someone who feels he has hit bottom, with no light reaching him at all.",
+        "contextTitle": "God over the depths",
+        "context": "Lamentations 3:55 says, 'I called on Your name, O LORD, from the depths of the Pit.' Psalm 139:8 says even if I make my bed in Sheol, You are there. Jonah 2:6 says, 'You raised my life from the Pit, O LORD my God.'",
+        "explore": [
+          [
+            "Depths",
+            "The deepest places, such as the sea floor or a pit, pictures of distance from light and life."
+          ],
+          [
+            "Laid me",
+            "Placed or set down by another's hand, implying God's control even over hard circumstances."
+          ]
+        ],
+        "reflect": "How does it help, or hurt, to believe God is sovereign even over your lowest place?",
+        "related": [
+          "Lamentations 3:55",
+          "Psalm 139:8",
+          "Jonah 2:6"
+        ],
+        "alt": "A deep stone cistern with a small circle of light far above.",
+        "art": "assets/psalm88/verse-6-watercolor.webp"
+      },
+      {
+        "title": "All Your waves",
+        "heading": "Overwhelmed by God's hand",
+        "meaning": "'Your wrath weighs heavily upon me; all Your waves have submerged me.' Heman feels pressed down by divine displeasure, like a swimmer struck by wave after wave. He does not confess a specific sin here; he simply feels God's hand as heavy. The psalm allows such feelings to be spoken. The 'Selah' marks a pause, as if to catch his breath between breakers.",
+        "contextTitle": "Waves and breakers",
+        "context": "Psalm 42:7 says, 'All Your breakers and waves have rolled over me.' Jonah 2:3 uses nearly the same words. Isaiah 43:2 promises, 'When you pass through the waters, I will be with you.'",
+        "explore": [
+          [
+            "Wrath",
+            "God's settled opposition to evil, here felt by the psalmist as a crushing weight."
+          ],
+          [
+            "Selah",
+            "A musical or liturgical marker of uncertain meaning, often understood as a pause for reflection."
+          ]
+        ],
+        "reflect": "What feels like wave after wave in your life? How can you speak to God about it honestly?",
+        "related": [
+          "Psalm 42:7",
+          "Jonah 2:3",
+          "Isaiah 43:2"
+        ],
+        "alt": "Large dark waves crash over rocks under a stormy grey sky.",
+        "art": "assets/psalm88/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Friends removed",
+        "heading": "Shunned and confined",
+        "meaning": "Verse 8 adds social loss: 'You have removed my friends from me; You have made me repulsive to them; I am confined and cannot escape.' His illness or misfortune has made people avoid him. Perhaps, like those with skin diseases under the law, he was isolated. Being trapped and shunned compounds physical pain with loneliness. Heman again speaks to God directly, refusing to leave Him out of the story.",
+        "contextTitle": "Isolation in suffering",
+        "context": "Job 19:13-14 says, 'He has removed my brothers from me; my acquaintances have turned away.' Leviticus 13:46 says a person with a skin disease must live alone outside the camp. Mark 14:50 says all the disciples deserted Jesus and fled.",
+        "explore": [
+          [
+            "Repulsive",
+            "Something others turn away from in disgust, a source of shame and rejection."
+          ],
+          [
+            "Confined",
+            "Shut in or restricted, unable to leave or move freely, like a prisoner."
+          ]
+        ],
+        "reflect": "Is there someone around you who is isolated by illness or hardship? How could you draw near to them?",
+        "related": [
+          "Job 19:13",
+          "Leviticus 13:46",
+          "Mark 14:50"
+        ],
+        "alt": "A closed wooden door in a stone house with an empty path leading away.",
+        "art": "assets/psalm88/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Hands spread out",
+        "heading": "Eyes dim but still praying",
+        "meaning": "'My eyes grow dim with grief. I call to You daily, O LORD; I spread out my hands to You.' Grief has worn him out physically; his eyes are tired from weeping. Yet he keeps calling, every day. Spreading out the hands was a posture of prayer, an open, empty gesture of need. Heman has nothing to offer God but his emptiness, and he offers it faithfully.",
+        "contextTitle": "Posture of prayer",
+        "context": "1 Kings 8:22 records Solomon spreading out his hands toward heaven. Psalm 143:6 says, 'I stretch out my hands to You; my soul thirsts for You like a parched land.' Lamentations 2:19 urges, 'Lift up your hands to Him.'",
+        "explore": [
+          [
+            "Dim",
+            "Weak or blurred in sight, here from exhaustion and constant weeping."
+          ],
+          [
+            "Spread out my hands",
+            "A Hebrew posture of prayer with open palms raised, showing need and dependence."
+          ]
+        ],
+        "reflect": "Try praying today with open hands. What does that posture say about your need of God?",
+        "related": [
+          "1 Kings 8:22",
+          "Psalm 143:6",
+          "Lamentations 2:19"
+        ],
+        "alt": "Two open weathered hands raised upward against a grey morning sky.",
+        "art": "assets/psalm88/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Wonders for the dead?",
+        "heading": "An argument from God's own glory",
+        "meaning": "Verses 10-12 shift to questions: 'Do You work wonders for the dead? Do departed spirits rise up to praise You?' Heman is reasoning with God. If he dies, he can no longer testify to God's goodness among the living. It is a bold plea based on God's honor. In the fuller light of the New Testament, God's answer is astonishing: yes, He does work wonders for the dead, in the resurrection of Jesus.",
+        "contextTitle": "Praise in the land of the living",
+        "context": "Psalm 6:5 says, 'For there is no mention of You in death.' Isaiah 26:19 promises, 'Your dead will live; their bodies will rise.' 1 Corinthians 15:20 says Christ has been raised from the dead, the firstfruits of those who sleep.",
+        "explore": [
+          [
+            "Departed spirits",
+            "The shades or dead in the underworld, pictured as weak, silent shadows."
+          ],
+          [
+            "Selah",
+            "A musical or liturgical marker of uncertain meaning, often understood as a pause for reflection."
+          ]
+        ],
+        "reflect": "How does the resurrection of Jesus answer Heman's question for you?",
+        "related": [
+          "Psalm 6:5",
+          "Isaiah 26:19",
+          "1 Corinthians 15:20"
+        ],
+        "alt": "An empty stone tomb opening with soft early light falling across the ground.",
+        "art": "assets/psalm88/verse-10-watercolor.webp"
+      },
+      {
+        "title": "Love in the grave?",
+        "heading": "Faithfulness in Abaddon",
+        "meaning": "Verse 11 continues the questions: 'Can Your loving devotion be proclaimed in the grave, Your faithfulness in Abaddon?' Heman names God's two great covenant qualities: steadfast love and faithfulness. He wants to live so he can keep proclaiming them. Abaddon means destruction, a name for the place of the dead. His argument assumes something hopeful: that God's love and faithfulness are real and worth telling.",
+        "contextTitle": "Abaddon",
+        "context": "Job 26:6 says, 'Sheol is naked before God, and Abaddon has no covering.' Proverbs 15:11 says Sheol and Abaddon lie open before the LORD. Romans 8:38-39 says neither death nor life can separate us from God's love.",
+        "explore": [
+          [
+            "Abaddon",
+            "A Hebrew word meaning destruction, used as a name for the realm of the dead."
+          ],
+          [
+            "Loving devotion",
+            "God's steadfast covenant love, loyal and kind, which He never abandons."
+          ]
+        ],
+        "reflect": "Which of God's qualities do you most want to keep proclaiming while you live?",
+        "related": [
+          "Job 26:6",
+          "Proverbs 15:11",
+          "Romans 8:38"
+        ],
+        "alt": "A deep shadowed ravine with a thin line of light at its rim.",
+        "art": "assets/psalm88/verse-11-watercolor.webp"
+      },
+      {
+        "title": "Land of oblivion",
+        "heading": "Will God's wonders be known in darkness?",
+        "meaning": "'Will Your wonders be known in the darkness, or Your righteousness in the land of oblivion?' The grave is pictured as a place of forgetting, where no one remembers and nothing is known. Heman longs for God's saving acts to be seen and told. Darkness and oblivion are opposites of what he wants for God: light, memory and praise. His questions are really a longing to see God's righteousness break through.",
+        "contextTitle": "Light into darkness",
+        "context": "Isaiah 9:2 says, 'The people walking in darkness have seen a great light.' John 1:5 says, 'The Light shines in the darkness, and the darkness has not overcome it.' Psalm 139:12 says even darkness is not dark to God.",
+        "explore": [
+          [
+            "Oblivion",
+            "A state of being completely forgotten, with no memory left of a person."
+          ],
+          [
+            "Righteousness",
+            "God's rightness and faithfulness in setting things right and keeping His promises."
+          ]
+        ],
+        "reflect": "Where do you long to see God's light break into darkness, in your life or in the world?",
+        "related": [
+          "Isaiah 9:2",
+          "John 1:5",
+          "Psalm 139:12"
+        ],
+        "alt": "A single beam of light falls into a dark cave interior.",
+        "art": "assets/psalm88/verse-12-watercolor.webp"
+      },
+      {
+        "title": "In the morning",
+        "heading": "Prayer that rises early",
+        "meaning": "Verse 13 begins the third cry: 'But to You, O LORD, I cry for help; in the morning my prayer comes before You.' The word 'But' signals defiance against despair. Whatever the night was like, the first thing he does in the morning is pray. Morning was a time of offerings and of hope for God's help. Heman has no answer yet, but he keeps showing up.",
+        "contextTitle": "Morning prayer",
+        "context": "Psalm 5:3 says, 'In the morning I lay my petitions before You and wait in expectation.' Lamentations 3:22-23 says God's mercies are new every morning. Mark 1:35 says Jesus rose very early to pray in a solitary place.",
+        "explore": [
+          [
+            "Cry for help",
+            "A loud plea for rescue, the call of someone who knows they cannot save themselves."
+          ],
+          [
+            "Morning",
+            "The start of the day, linked in Scripture with God's fresh mercies and help."
+          ]
+        ],
+        "reflect": "What would it look like to make prayer the first thing you do each morning this week?",
+        "related": [
+          "Psalm 5:3",
+          "Lamentations 3:23",
+          "Mark 1:35"
+        ],
+        "alt": "Dawn light rises over dark hills while a figure kneels at the edge of a field.",
+        "art": "assets/psalm88/verse-13-watercolor.webp"
+      },
+      {
+        "title": "Why do You hide?",
+        "heading": "The hardest question",
+        "meaning": "'Why, O LORD, do You reject me? Why do You hide Your face from me?' To see God's face is to know His favor and presence, as in the priestly blessing. Heman feels the opposite: rejection and hiddenness. He asks 'why' and receives no reply within the psalm. Scripture lets such questions stand, and Jesus Himself would cry, 'My God, My God, why have You forsaken Me?'",
+        "contextTitle": "God's hidden face",
+        "context": "Numbers 6:25 prays, 'May the LORD make His face shine upon you.' Psalm 13:1 asks, 'How long will You hide Your face from me?' Matthew 27:46 records Jesus crying, 'My God, My God, why have You forsaken Me?'",
+        "explore": [
+          [
+            "Hide Your face",
+            "To withdraw favor and attention, so that a person feels unseen and unhelped."
+          ],
+          [
+            "Reject",
+            "To push away or cast off someone, refusing to accept them."
+          ]
+        ],
+        "reflect": "What 'why' question are you carrying? Can you bring it to God without needing an immediate answer?",
+        "related": [
+          "Numbers 6:25",
+          "Psalm 13:1",
+          "Matthew 27:46"
+        ],
+        "alt": "A heavy curtain hangs across a stone doorway with faint light behind it.",
+        "art": "assets/psalm88/verse-14-watercolor.webp"
+      },
+      {
+        "title": "From my youth",
+        "heading": "A lifetime of affliction",
+        "meaning": "Verse 15 says, 'From my youth I was afflicted and near death. I have borne Your terrors; I am in despair.' Heman's suffering is not a short season; it has shadowed him since he was young. Long illness or trouble wears down hope. 'Despair' is an honest word here. Scripture does not shame people for reaching it. It gives them a place to say it in God's presence.",
+        "contextTitle": "Lifelong suffering",
+        "context": "2 Corinthians 1:8 says Paul despaired even of life. Job 3:26 says, 'I have no peace, no quietness, no rest, but only turmoil.' Isaiah 53:3 describes the Servant as a man of sorrows, acquainted with grief.",
+        "explore": [
+          [
+            "Afflicted",
+            "Weighed down by suffering, illness or oppression over a long time."
+          ],
+          [
+            "Despair",
+            "A state of having no hope left, feeling that nothing will change."
+          ]
+        ],
+        "reflect": "If you have carried a struggle for a long time, how can you speak honestly to God about the weariness?",
+        "related": [
+          "2 Corinthians 1:8",
+          "Job 3:26",
+          "Isaiah 53:3"
+        ],
+        "alt": "A worn wooden staff leans against a weathered stone wall.",
+        "art": "assets/psalm88/verse-15-watercolor.webp"
+      },
+      {
+        "title": "Swept over",
+        "heading": "Terrors that destroy",
+        "meaning": "'Your wrath has swept over me; Your terrors have destroyed me.' The language is of a flood or a fire passing through and leaving ruin. Heman feels completely undone. These words are extreme because his experience is extreme. The psalm gives permission to speak the full weight of pain rather than softening it. Faith here is not pretending things are fine; it is saying the worst to God.",
+        "contextTitle": "Honest lament",
+        "context": "Job 6:4 says, 'The arrows of the Almighty are within me; God's terrors are arrayed against me.' Psalm 90:7 says, 'We are consumed by Your anger.' Romans 8:1 says there is now no condemnation for those in Christ Jesus.",
+        "explore": [
+          [
+            "Terrors",
+            "Overwhelming fears and dreadful experiences felt as coming from God's hand."
+          ],
+          [
+            "Swept over",
+            "Passed over and through like a flood or storm, leaving damage behind."
+          ]
+        ],
+        "reflect": "Is there pain you have been softening when you pray? What would it be like to say it plainly?",
+        "related": [
+          "Job 6:4",
+          "Psalm 90:7",
+          "Romans 8:1"
+        ],
+        "alt": "A flash flood rushes through a dry valley, carrying branches.",
+        "art": "assets/psalm88/verse-16-watercolor.webp"
+      },
+      {
+        "title": "Engulfed on every side",
+        "heading": "Troubles like rising water",
+        "meaning": "Verse 17 says, 'All day long they engulf me like water; they enclose me on every side.' The terrors of the previous verse are pictured as floodwaters that surround and rise. There is no direction of escape. 'All day long' answers the earlier 'day and night' prayers: his suffering is as constant as his praying. He is surrounded, but he is still speaking to God.",
+        "contextTitle": "Surrounded by waters",
+        "context": "Psalm 69:1-2 says, 'The waters are up to my neck; I sink in the miry depths.' Psalm 18:16 says, 'He reached down from on high and drew me out of deep waters.' Lamentations 3:54 says, 'The waters flowed over my head.'",
+        "explore": [
+          [
+            "Engulf",
+            "To swallow up or surround completely, as water closes over something."
+          ],
+          [
+            "Enclose",
+            "To shut in on every side so that there is no way out."
+          ]
+        ],
+        "reflect": "When you feel surrounded, what helps you keep speaking to God instead of going silent?",
+        "related": [
+          "Psalm 69:1",
+          "Psalm 18:16",
+          "Lamentations 3:54"
+        ],
+        "alt": "Floodwater surrounds a small stone house on all sides under grey clouds.",
+        "art": "assets/psalm88/verse-17-watercolor.webp"
+      },
+      {
+        "title": "Darkness my companion",
+        "heading": "Ending without resolution",
+        "meaning": "The psalm closes: 'You have removed my beloved and my friend; darkness is my closest companion.' There is no turn to praise, no 'yet I will trust.' The last word in Hebrew is 'darkness.' This honesty is a gift: Scripture includes a prayer for those who cannot yet see the light. Heman's faith is shown in that he prayed at all. Jesus, abandoned by friends in Gethsemane, entered this darkness so that it would not be the final word.",
+        "contextTitle": "A psalm for the darkest night",
+        "context": "Lamentations 3:2 says, 'He has driven me away and made me walk in darkness instead of light.' John 16:32 records Jesus saying the disciples would leave Him alone. Hebrews 13:5 promises, 'Never will I leave you, never will I forsake you.'",
+        "explore": [
+          [
+            "Beloved",
+            "A dear companion or loved one, someone whose closeness brings comfort."
+          ],
+          [
+            "Companion",
+            "One who stays near and shares life with another, here grimly replaced by darkness."
+          ]
+        ],
+        "reflect": "If darkness feels like your closest companion, can you still pray this psalm as a way of staying with God?",
+        "related": [
+          "Lamentations 3:2",
+          "John 16:32",
+          "Hebrews 13:5"
+        ],
+        "alt": "A single figure sits on a stone bench in a dark courtyard under a moonless sky.",
+        "art": "assets/psalm88/verse-18-watercolor.webp"
+      }
+    ]
+  }
+}
