@@ -1,11 +1,12 @@
 {
   "chapter": 30,
-  "status": "whole-chapter candidate; validation pending",
+  "status": "whole-chapter gate passed on 7f314f40a5d23d403f7ac119394b806e89c04e71; publication pending final CI, merge, main CI, Pages and live verification",
   "groups": [
     {
       "file": "verses-1-12.json",
       "from": 1,
       "through": 12
     }
-  ]
+  ],
+  "ci": "https://github.com/dvdjoe-sudo/scripture-for-life/actions/runs/39617549260"
 }
