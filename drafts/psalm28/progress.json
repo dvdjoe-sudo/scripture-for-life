@@ -1,0 +1,11 @@
+{
+  "chapter": 28,
+  "status": "whole-chapter gate passed on c8eff98455c72049c0e9971f8ca4eae1c7f35c18; final CI and publication pending",
+  "groups": [
+    {
+      "file": "verses-1-9.json",
+      "from": 1,
+      "through": 9
+    }
+  ]
+}

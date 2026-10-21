@@ -1,0 +1,400 @@
+{
+  "source": "data/bible.json",
+  "status": "all passages and surrounding verses read before drafting",
+  "references": [
+    {
+      "ref": "Psalm 22:1",
+      "context": [
+        [
+          1,
+          "For the choirmaster. To the tune of “The Doe of the Dawn.” A Psalm of David. My God, my God, why have You forsaken me? Why are You so far from saving me, so far from my words of groaning?"
+        ],
+        [
+          2,
+          "I cry out by day, O my God, but You do not answer, and by night, but I have no rest."
+        ],
+        [
+          3,
+          "Yet You are holy, enthroned on the praises of Israel."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 143:7",
+      "context": [
+        [
+          5,
+          "I remember the days of old; I meditate on all Your works; I consider the work of Your hands."
+        ],
+        [
+          6,
+          "I stretch out my hands to You; my soul thirsts for You like a parched land. Selah"
+        ],
+        [
+          7,
+          "Answer me quickly, O LORD; my spirit fails. Do not hide Your face from me, or I will be like those who descend to the Pit."
+        ],
+        [
+          8,
+          "Let me hear Your loving devotion in the morning, for I have put my trust in You. Teach me the way I should walk, for to You I lift up my soul."
+        ],
+        [
+          9,
+          "Deliver me from my enemies, O LORD; I flee to You for refuge."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 5:7",
+      "context": [
+        [
+          5,
+          "The boastful cannot stand in Your presence; You hate all workers of iniquity."
+        ],
+        [
+          6,
+          "You destroy those who tell lies; the LORD abhors the man of bloodshed and deceit."
+        ],
+        [
+          7,
+          "But I will enter Your house by the abundance of Your loving devotion; in reverence I will bow down toward Your holy temple."
+        ],
+        [
+          8,
+          "Lead me, O LORD, in Your righteousness because of my enemies; make straight Your way before me."
+        ],
+        [
+          9,
+          "For not a word they speak can be trusted; destruction lies within them. Their throats are open graves; their tongues practice deceit."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 134:2",
+      "context": [
+        [
+          1,
+          "A song of ascents. Come, bless the LORD, all you servants of the LORD who serve by night in the house of the LORD!"
+        ],
+        [
+          2,
+          "Lift up your hands to the sanctuary and bless the LORD!"
+        ],
+        [
+          3,
+          "May the LORD, the Maker of heaven and earth, bless you from Zion."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 12:2",
+      "context": [
+        [
+          1,
+          "For the choirmaster. According to Sheminith. A Psalm of David. Help, O LORD, for the godly are no more; the faithful have vanished from among men."
+        ],
+        [
+          2,
+          "They lie to one another; they speak with flattering lips and a double heart."
+        ],
+        [
+          3,
+          "May the LORD cut off all flattering lips and every boastful tongue."
+        ],
+        [
+          4,
+          "They say, “With our tongues we will prevail. We own our lips—who can be our master?”"
+        ]
+      ]
+    },
+    {
+      "ref": "Jeremiah 9:8",
+      "context": [
+        [
+          6,
+          "You dwell in the midst of deception; in their deceit they refuse to know Me,” declares the LORD."
+        ],
+        [
+          7,
+          "Therefore this is what the LORD of Hosts says: “Behold, I will refine them and test them, for what else can I do because of the daughter of My people?"
+        ],
+        [
+          8,
+          "Their tongues are deadly arrows; they speak deception. With his mouth a man speaks peace to his neighbor, but in his heart he sets a trap for him."
+        ],
+        [
+          9,
+          "Should I not punish them for these things? declares the LORD. Should I not avenge Myself on such a nation as this?”"
+        ],
+        [
+          10,
+          "I will take up a weeping and wailing for the mountains, a dirge over the wilderness pasture, for they have been scorched so no one passes through, and the lowing of cattle is not heard. Both the birds of the air and the beasts have fled; they have gone away."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 62:12",
+      "context": [
+        [
+          10,
+          "Place no trust in extortion or false hope in stolen goods. If your riches increase, do not set your heart upon them."
+        ],
+        [
+          11,
+          "God has spoken once; I have heard this twice: that power belongs to God,"
+        ],
+        [
+          12,
+          "and loving devotion to You, O Lord. For You will repay each man according to his deeds."
+        ]
+      ]
+    },
+    {
+      "ref": "Romans 12:19",
+      "context": [
+        [
+          17,
+          "Do not repay anyone evil for evil. Carefully consider what is right in the eyes of everybody."
+        ],
+        [
+          18,
+          "If it is possible on your part, live at peace with everyone."
+        ],
+        [
+          19,
+          "Do not avenge yourselves, beloved, but leave room for God’s wrath. For it is written: “Vengeance is Mine; I will repay, says the Lord.”"
+        ],
+        [
+          20,
+          "On the contrary, “If your enemy is hungry, feed him; if he is thirsty, give him a drink. For in so doing, you will heap burning coals on his head.”"
+        ],
+        [
+          21,
+          "Do not be overcome by evil, but overcome evil with good."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 92:4",
+      "context": [
+        [
+          2,
+          "to proclaim Your loving devotion in the morning and Your faithfulness at night"
+        ],
+        [
+          3,
+          "with the ten-stringed harp and the melody of the lyre."
+        ],
+        [
+          4,
+          "For You, O LORD, have made me glad by Your deeds; I sing for joy at the works of Your hands."
+        ],
+        [
+          5,
+          "How great are Your works, O LORD, how deep are Your thoughts!"
+        ],
+        [
+          6,
+          "A senseless man does not know, and a fool does not understand,"
+        ]
+      ]
+    },
+    {
+      "ref": "Isaiah 5:12",
+      "context": [
+        [
+          10,
+          "For ten acres of vineyard will yield but a bath of wine, and a homer of seed only an ephah of grain.”"
+        ],
+        [
+          11,
+          "Woe to those who rise early in the morning in pursuit of strong drink, who linger into the evening, to be inflamed by wine."
+        ],
+        [
+          12,
+          "At their feasts are the lyre and harp, tambourines and flutes and wine. They disregard the actions of the LORD and fail to see the work of His hands."
+        ],
+        [
+          13,
+          "Therefore My people will go into exile for their lack of understanding; their dignitaries are starving and their masses are parched with thirst."
+        ],
+        [
+          14,
+          "Therefore Sheol enlarges its throat and opens wide its enormous jaws, and down go Zion’s nobles and masses, her revelers and carousers!"
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 66:19",
+      "context": [
+        [
+          17,
+          "I cried out to Him with my mouth and praised Him with my tongue."
+        ],
+        [
+          18,
+          "If I had cherished iniquity in my heart, the Lord would not have listened."
+        ],
+        [
+          19,
+          "But God has surely heard; He has attended to the sound of my prayer."
+        ],
+        [
+          20,
+          "Blessed be God, who has not rejected my prayer or withheld from me His loving devotion!"
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 116:1",
+      "context": [
+        [
+          1,
+          "I love the LORD, for He has heard my voice—my appeal for mercy."
+        ],
+        [
+          2,
+          "Because He has inclined His ear to me, I will call on Him as long as I live."
+        ],
+        [
+          3,
+          "The ropes of death entangled me; the anguish of Sheol overcame me; I was confronted by trouble and sorrow."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 18:2",
+      "context": [
+        [
+          1,
+          "For the choirmaster. Of David the servant of the LORD, who sang this song to the LORD on the day the LORD had delivered him from the hand of all his enemies and from the hand of Saul. He said: I love You, O LORD, my strength."
+        ],
+        [
+          2,
+          "The LORD is my rock, my fortress, and my deliverer. My God is my rock, in whom I take refuge, my shield, and the horn of my salvation, my stronghold."
+        ],
+        [
+          3,
+          "I will call upon the LORD, who is worthy to be praised; so shall I be saved from my enemies."
+        ],
+        [
+          4,
+          "The cords of death encompassed me; the torrents of chaos overwhelmed me."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 13:5",
+      "context": [
+        [
+          3,
+          "Consider me and respond, O LORD my God. Give light to my eyes, lest I sleep in death,"
+        ],
+        [
+          4,
+          "lest my enemy say, “I have overcome him,” and my foes rejoice when I fall."
+        ],
+        [
+          5,
+          "But I have trusted in Your loving devotion; my heart will rejoice in Your salvation."
+        ],
+        [
+          6,
+          "I will sing to the LORD, for He has been good to me."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 20:6",
+      "context": [
+        [
+          4,
+          "May He give you the desires of your heart and make all your plans succeed."
+        ],
+        [
+          5,
+          "May we shout for joy at your victory and raise a banner in the name of our God. May the LORD grant all your petitions."
+        ],
+        [
+          6,
+          "Now I know that the LORD saves His anointed; He answers him from His holy heaven with the saving power of His right hand."
+        ],
+        [
+          7,
+          "Some trust in chariots and others in horses, but we trust in the name of the LORD our God."
+        ],
+        [
+          8,
+          "They collapse and fall, but we rise up and stand firm."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 89:21",
+      "context": [
+        [
+          19,
+          "You once spoke in a vision; to Your godly ones You said, “I have bestowed help on a warrior; I have exalted one chosen from the people."
+        ],
+        [
+          20,
+          "I have found My servant David; with My sacred oil I have anointed him."
+        ],
+        [
+          21,
+          "My hand will sustain him; surely My arm will strengthen him."
+        ],
+        [
+          22,
+          "No enemy will exact tribute; no wicked man will oppress him."
+        ],
+        [
+          23,
+          "I will crush his foes before him and strike down those who hate him."
+        ]
+      ]
+    },
+    {
+      "ref": "Deuteronomy 9:29",
+      "context": [
+        [
+          27,
+          "Remember Your servants Abraham, Isaac, and Jacob. Overlook the stubbornness of this people and the wickedness of their sin."
+        ],
+        [
+          28,
+          "Otherwise, those in the land from which You brought us out will say, ‘Because the LORD was not able to bring them into the land He had promised them, and because He hated them, He has brought them out to kill them in the wilderness.’"
+        ],
+        [
+          29,
+          "But they are Your people, Your inheritance, whom You brought out by Your great power and outstretched arm.”"
+        ]
+      ]
+    },
+    {
+      "ref": "Isaiah 40:11",
+      "context": [
+        [
+          9,
+          "Go up on a high mountain, O Zion, herald of good news. Raise your voice loudly, O Jerusalem, herald of good news. Lift it up, do not be afraid! Say to the cities of Judah, “Here is your God!”"
+        ],
+        [
+          10,
+          "Behold, the Lord GOD comes with might, and His arm establishes His rule. His reward is with Him, and His recompense accompanies Him."
+        ],
+        [
+          11,
+          "He tends His flock like a shepherd; He gathers the lambs in His arms and carries them close to His heart. He gently leads the nursing ewes."
+        ],
+        [
+          12,
+          "Who has measured the waters in the hollow of his hand, or marked off the heavens with the span of his hand? Who has held the dust of the earth in a basket, or weighed the mountains on a scale and the hills with a balance?"
+        ],
+        [
+          13,
+          "Who has directed the Spirit of the LORD, or informed Him as His counselor?"
+        ]
+      ]
+    }
+  ]
+}

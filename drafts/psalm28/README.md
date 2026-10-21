@@ -1,0 +1,9 @@
+# Psalm 28 — whole-chapter gate passed; publication pending
+
+Nine exact bundled BSB verses and the heading Of David are preserved. Original individual Meaning/Context/Explore/Reflect notes follow the movement from urgent pleading through judgment to thanksgiving and communal prayer. All eighteen related passages were read with their surrounding bundled verses before drafting. David is a heading connection; no historical occasion is supplied. Notes distinguish severe judgment requests from personal revenge, royal anointing from modern political claims, and shepherd imagery from bodily depiction of God.
+
+Nine distinct watercolors were generated with the built-in image_gen.imagegen tool using assets/psalm23/verse-2-watercolor.webp as a style reference. Each original and production image was visually inspected. Full prompts and original filenames are in assets/psalm28/generation-prompts.json. Production images are 1024×683 WebP, quality 80, totaling 2,010,232 bytes (1.92 MiB). Website offline and Android web-bundle packaging include every image.
+
+Shared saved reflections, independent Psalm 27/28 resume, David and alone/gratitude/strength/direction connections, and 27→28→29 navigation are covered by checks. Story manuscripts, scene data, renderers and the original Psalm 23 remain unchanged. Publication requires passing source/reference/asset checks, 390px source and packaged-webview tests, Capacitor checks, PR CI, authorized merge, main CI, Pages and live verification. Native APK/device testing is separate.
+
+Implementation c8eff98455c72049c0e9971f8ca4eae1c7f35c18 passed CI 39587636678 and 39587612156, including every verse/tab/image in the source website and packaged webview, shared reflection reload/Saved/dialog, isolated resume, topic links, chapter transitions and Capacitor creation/sync. Final documentation-commit CI and publication evidence remain pending. Next sequential unfinished chapter: Psalm 29.
