@@ -1,0 +1,730 @@
+{
+  "chapter": 73,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 73 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "strength": [
+      "Psalm 73:26"
+    ],
+    "direction": [
+      "Psalm 73:24"
+    ],
+    "alone": [
+      "Psalm 73:23"
+    ],
+    "grief": [
+      "Psalm 73:21"
+    ]
+  },
+  "study": {
+    "number": 73,
+    "coverVerse": 1,
+    "title": "Surely God is good to Israel",
+    "intro": "Asaph confesses that he nearly lost his footing when he envied the prosperity of the wicked, until he entered God's sanctuary and saw their end, and found that God Himself is his portion forever.",
+    "context": "Psalm 73 opens Book III of the Psalter and is the first of eleven psalms headed 'of Asaph' (73–83). Asaph was a Levite musician appointed by David to lead worship (1 Chronicles 16:5), and his family of singers continued for generations. The psalm wrestles honestly with an old problem also raised in Job and Jeremiah: why do the wicked seem to prosper while the faithful suffer? It turns on verse 17, when the writer enters God's sanctuary, and moves from envy and bitterness to one of the most intimate confessions of trust in Scripture: 'Whom have I in heaven but You?'",
+    "peopleNote": "The heading names Asaph, a Levite worship leader in David's time; the app has no Asaph profile yet, so no person card is linked. The 'wicked' are not named individuals but a type of arrogant, prosperous person. Planned paintings show anonymous villagers, markets, fields and a sanctuary courtyard; God is never portrayed as a human body.",
+    "people": [],
+    "verses": [
+      {
+        "title": "God is good",
+        "heading": "A creed to begin with",
+        "meaning": "The psalm begins 'A Psalm of Asaph' and states its conclusion first: 'Surely God is good to Israel, to those who are pure in heart.' Asaph opens with the truth he nearly let go of. Everything that follows is the story of how he almost stopped believing it and how he found it again. The phrase 'pure in heart' narrows the promise to those whose inner lives are honest before God, not merely those who belong to the nation outwardly. Starting with the answer helps the reader walk through the doubts without fear.",
+        "contextTitle": "Purity of heart",
+        "context": "Psalm 24:4 says the one with 'clean hands and a pure heart' may stand in God's holy place. Jesus said in Matthew 5:8, 'Blessed are the pure in heart, for they will see God.' Asaph's family led temple music for generations (1 Chronicles 25:1).",
+        "explore": [
+          [
+            "Asaph",
+            "A Levite singer appointed by David to lead worship with cymbals and song; twelve psalms carry his name."
+          ],
+          [
+            "Pure in heart",
+            "Having an undivided, sincere inner life toward God, not just outward religious behavior."
+          ]
+        ],
+        "reflect": "What truth about God do you hold onto even when your feelings argue against it?",
+        "related": [
+          "Psalm 24:4",
+          "Matthew 5:8",
+          "1 Chronicles 25:1"
+        ],
+        "alt": "A Levite singer stands in a stone courtyard at dawn holding a small lyre.",
+        "art": "assets/psalm73/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Almost stumbled",
+        "heading": "Feet that nearly slipped",
+        "meaning": "Verse 2 turns sharply: 'But as for me, my feet had almost stumbled; my steps had nearly slipped.' Asaph is honest that his faith came close to falling. He uses the picture of walking on a steep, loose path where one wrong step means a fall. He does not pretend he was always strong. That honesty is part of why this psalm has comforted so many people who have doubted. A worship leader admits that he nearly walked away, and God still held him.",
+        "contextTitle": "Slipping feet",
+        "context": "Psalm 94:18 says, 'When I said, “My foot is slipping,” Your loving devotion, O LORD, supported me.' Psalm 121:3 promises God will not let your foot slip. Jude 1:24 praises the One able to keep you from stumbling.",
+        "explore": [
+          [
+            "Stumbled",
+            "Tripped or lost footing; here a picture of nearly falling away from trust in God."
+          ],
+          [
+            "But as for me",
+            "A turning phrase that sets the writer's own struggle against the confident creed of verse 1."
+          ]
+        ],
+        "reflect": "Have you ever come close to giving up on faith? What kept you from falling?",
+        "related": [
+          "Psalm 94:18",
+          "Psalm 121:3",
+          "Jude 1:24"
+        ],
+        "alt": "A villager in a head cloth steadies himself on a steep rocky path with loose stones.",
+        "art": "assets/psalm73/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Envy of the proud",
+        "heading": "The root of the trouble",
+        "meaning": "Verse 3 names the cause: 'For I envied the arrogant when I saw the prosperity of the wicked.' The problem was not only what Asaph saw but what he felt about it. He watched proud people grow rich and comfortable, and he wanted what they had. Envy is quiet but powerful; it slowly turns gratitude into resentment and makes God seem unfair. Asaph names the sin plainly, which is the first step toward healing. Seeing the success of others is not wrong, but wanting their path is dangerous.",
+        "contextTitle": "Do not envy",
+        "context": "Proverbs 23:17 says, 'Do not let your heart envy sinners, but always continue in the fear of the LORD.' Psalm 37:1 warns, 'Do not be envious of those who do wrong.' Jeremiah 12:1 asks God why the way of the wicked prospers.",
+        "explore": [
+          [
+            "Envied",
+            "Felt resentful longing for what another person has, here their wealth and ease."
+          ],
+          [
+            "Arrogant",
+            "Proud and boastful people who trust themselves and treat God and others with contempt."
+          ]
+        ],
+        "reflect": "Whose life or success do you find yourself envying, and what is that envy doing to your heart?",
+        "related": [
+          "Proverbs 23:17",
+          "Psalm 37:1",
+          "Jeremiah 12:1"
+        ],
+        "alt": "A villager watches from a dusty lane as a wealthy man passes with laden donkeys.",
+        "art": "assets/psalm73/verse-3-watercolor.webp"
+      },
+      {
+        "title": "No struggle in death",
+        "heading": "Comfort that seems unfair",
+        "meaning": "Verse 4 describes how it looked: 'They have no struggle in their death; their bodies are well-fed.' To Asaph the wicked seemed to live comfortably and even die peacefully, without the pain others suffered. Their bodies were strong and well-nourished. In the ancient world, a long, healthy life and a quiet death were seen as signs of blessing, so this looked like God was rewarding the wrong people. Asaph is describing appearances, which he will later learn are not the whole story.",
+        "contextTitle": "Appearances of blessing",
+        "context": "Job 21:7 asks, 'Why do the wicked live on, growing old and increasing in power?' and Job 21:13 says they 'spend their days in prosperity and go down to Sheol in peace.' Ecclesiastes 8:14 notes that sometimes the wicked receive what the righteous deserve.",
+        "explore": [
+          [
+            "Well-fed",
+            "Literally 'fat,' a Hebrew picture of health, wealth and abundance."
+          ],
+          [
+            "Struggle in death",
+            "Pain or distress at the end of life; Asaph thinks the wicked escape it."
+          ]
+        ],
+        "reflect": "Why is it so hard to see someone who does wrong live comfortably?",
+        "related": [
+          "Job 21:7",
+          "Job 21:13",
+          "Ecclesiastes 8:14"
+        ],
+        "alt": "A comfortable house with a full grain store and a well-fed family resting in shade.",
+        "art": "assets/psalm73/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Free of burdens",
+        "heading": "Untouched by trouble",
+        "meaning": "Verse 5 continues: 'They are free of the burdens others carry; they are not afflicted like other men.' While ordinary people bent under hard work, illness and loss, the arrogant seemed to float above it all. Their wealth protected them from the troubles that crush the poor. Asaph felt the contrast sharply, because he himself was suffering. This verse captures how unfair life can look when we compare our hardships with someone else's ease. Comparison makes our pain feel even heavier.",
+        "contextTitle": "The burdens of others",
+        "context": "Galatians 6:2 calls believers to carry one another's burdens. Ecclesiastes 4:1 sees the tears of the oppressed with no one to comfort them. Matthew 11:28 invites the weary and burdened to come to Jesus for rest.",
+        "explore": [
+          [
+            "Burdens",
+            "Heavy loads of work, worry and hardship that ordinary people carry."
+          ],
+          [
+            "Afflicted",
+            "Struck or troubled by suffering, sickness or misfortune."
+          ]
+        ],
+        "reflect": "Which burdens are you carrying right now that make other people's lives look easier?",
+        "related": [
+          "Galatians 6:2",
+          "Ecclesiastes 4:1",
+          "Matthew 11:28"
+        ],
+        "alt": "Field workers bend under heavy sheaves while a rich man watches from a shaded seat.",
+        "art": "assets/psalm73/verse-5-watercolor.webp"
+      },
+      {
+        "title": "Necklace of pride",
+        "heading": "Wearing arrogance openly",
+        "meaning": "Verse 6 uses vivid clothing pictures: 'Therefore pride is their necklace; a garment of violence covers them.' Because nothing seems to go wrong for them, the wicked grow bolder. They wear pride like jewelry, showing it off for all to see, and they wrap themselves in violence as easily as putting on a cloak. Success without accountability has made them shameless. What should embarrass them has become their decoration. Asaph sees how easy living can harden a heart against God and people.",
+        "contextTitle": "Clothed in sin",
+        "context": "Proverbs 16:18 warns that pride goes before destruction. Psalm 109:18 speaks of one who 'wore cursing like a garment.' 1 Peter 5:5 tells believers instead to clothe themselves with humility.",
+        "explore": [
+          [
+            "Necklace",
+            "An ornament worn around the neck to display wealth and status."
+          ],
+          [
+            "Garment of violence",
+            "A picture of violence so habitual that it covers a person like clothing."
+          ]
+        ],
+        "reflect": "What attitudes do you 'wear' that others can see? Would you call them pride or humility?",
+        "related": [
+          "Proverbs 16:18",
+          "Psalm 109:18",
+          "1 Peter 5:5"
+        ],
+        "alt": "A proud man in a bright cloak and heavy bronze necklace stands in a busy market.",
+        "art": "assets/psalm73/verse-6-watercolor.webp"
+      },
+      {
+        "title": "Hearts running wild",
+        "heading": "Prosperity feeding sin",
+        "meaning": "Verse 7 says, 'From their prosperity proceeds iniquity; the imaginations of their hearts run wild.' Their wealth does not make them generous; it becomes fuel for more wrongdoing. With every desire satisfied, their imaginations race ahead to new schemes and pleasures. There is no limit or restraint. Asaph observes something true: abundance without God tends to swell desire rather than satisfy it. Unchecked comfort can feed greed instead of gratitude.",
+        "contextTitle": "Wealth and the heart",
+        "context": "Deuteronomy 8:12–14 warns that when Israel became full and rich, they might forget the LORD. 1 Timothy 6:9 says those who want to be rich fall into temptation. Jeremiah 5:28 describes the wicked as fat and sleek, without limits to their deeds.",
+        "explore": [
+          [
+            "Iniquity",
+            "Wickedness or moral crookedness, especially sin that twists what is right."
+          ],
+          [
+            "Imaginations",
+            "The plans and fantasies of the heart, here growing without limit."
+          ]
+        ],
+        "reflect": "How do you keep comfort or success from making your desires grow out of control?",
+        "related": [
+          "Deuteronomy 8:12",
+          "1 Timothy 6:9",
+          "Jeremiah 5:28"
+        ],
+        "alt": "A rich man reclines among piles of goods, gesturing grandly at plans laid on a table.",
+        "art": "assets/psalm73/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Mocking speech",
+        "heading": "Words that threaten",
+        "meaning": "Verse 8 turns to their words: 'They mock and speak with malice; with arrogance they threaten oppression.' The wicked use their tongues as weapons. They scoff at the weak, speak to harm, and openly threaten to crush anyone who stands in their way. Their power makes them feel free to say anything. Words reveal what is inside a person, and these words show contempt for both people and God. Asaph is describing the bullies who seem to face no consequences.",
+        "contextTitle": "The power of the tongue",
+        "context": "James 3:6 calls the tongue a fire. Psalm 10:7 describes the wicked whose mouth is full of cursing and threats. Proverbs 18:21 says death and life are in the power of the tongue.",
+        "explore": [
+          [
+            "Malice",
+            "A desire to harm others, here expressed through cruel speech."
+          ],
+          [
+            "Oppression",
+            "Using power to crush, cheat or control those who are weaker."
+          ]
+        ],
+        "reflect": "Have you been hurt by mocking words? How does God's view of the speaker differ from theirs?",
+        "related": [
+          "James 3:6",
+          "Psalm 10:7",
+          "Proverbs 18:21"
+        ],
+        "alt": "A group of men laugh and point at a poor worker carrying water jars.",
+        "art": "assets/psalm73/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Tongues that strut",
+        "heading": "Pride against heaven",
+        "meaning": "Verse 9 says, 'They set their mouths against the heavens, and their tongues strut across the earth.' Their arrogance reaches up and out. They speak against God Himself, and their boasting swaggers across the land as if they owned it. The picture is of a tongue walking around proudly, claiming everything. Nothing in heaven or on earth seems off limits to their mockery. This is pride at its fullest, setting itself against the Creator.",
+        "contextTitle": "Speaking against heaven",
+        "context": "Revelation 13:6 describes a beast that opened its mouth to blaspheme God. Daniel 7:25 speaks of a king who would speak against the Most High. Isaiah 14:13–14 records the proud boast, 'I will ascend to the heavens.'",
+        "explore": [
+          [
+            "Against the heavens",
+            "Speaking proudly against God, who rules from heaven."
+          ],
+          [
+            "Strut",
+            "Walk with a proud, swaggering step; here pictured of boastful speech."
+          ]
+        ],
+        "reflect": "Where do you hear people speaking as if God did not matter, and how does it affect you?",
+        "related": [
+          "Revelation 13:6",
+          "Daniel 7:25",
+          "Isaiah 14:13"
+        ],
+        "alt": "A boastful man speaks loudly from a raised platform to a gathered crowd under open sky.",
+        "art": "assets/psalm73/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Drinking their words",
+        "heading": "Crowds drawn to the proud",
+        "meaning": "Verse 10 says, 'So their people return to this place and drink up waters in abundance.' The Hebrew is difficult, but the sense is that crowds follow the wicked and eagerly drink in their words and their success, like thirsty people gulping water. Their popularity grows. Others are attracted to their confidence and wealth and start to imitate them. Asaph sees not only proud individuals but a whole following forming around them, which makes faithfulness feel lonely.",
+        "contextTitle": "Following the crowd",
+        "context": "Exodus 23:2 says, 'Do not follow the crowd in wrongdoing.' 2 Timothy 4:3 warns of people gathering teachers who say what their itching ears want to hear. Job 34:7 asks who is like Job, who drinks up mockery like water.",
+        "explore": [
+          [
+            "Return to this place",
+            "Likely the people turning toward the wicked and gathering around them."
+          ],
+          [
+            "Waters in abundance",
+            "A picture of eagerly taking in the wicked's words and lifestyle."
+          ]
+        ],
+        "reflect": "Which popular voices are you most tempted to 'drink in,' and do they lead you closer to God?",
+        "related": [
+          "Exodus 23:2",
+          "2 Timothy 4:3",
+          "Job 34:7"
+        ],
+        "alt": "A crowd gathers eagerly around a wealthy speaker near a village well.",
+        "art": "assets/psalm73/verse-10-watercolor.webp"
+      },
+      {
+        "title": "How can God know?",
+        "heading": "Doubting God's knowledge",
+        "meaning": "Verse 11 records their question: 'How can God know? Does the Most High have knowledge?' The wicked live as if God either does not see or does not care. If no one is watching, there are no consequences. This is practical atheism: they may not deny that God exists, but they act as though He is absent. Asaph quotes them to show how deep their arrogance runs. Ironically, the God they dismiss sees every word they speak.",
+        "contextTitle": "Does God see?",
+        "context": "Psalm 94:7 records the wicked saying, 'The LORD does not see.' Psalm 139:1–4 confesses that God knows every word before it is spoken. Hebrews 4:13 says nothing in all creation is hidden from God's sight.",
+        "explore": [
+          [
+            "Most High",
+            "A title for God emphasizing that He is above all powers and rulers."
+          ],
+          [
+            "Knowledge",
+            "Awareness and understanding; the wicked doubt that God notices their deeds."
+          ]
+        ],
+        "reflect": "Do you ever live as though God does not see? What would change if you remembered that He does?",
+        "related": [
+          "Psalm 94:7",
+          "Psalm 139:4",
+          "Hebrews 4:13"
+        ],
+        "alt": "Two merchants whisper together behind a stack of crates in a shadowed alley.",
+        "art": "assets/psalm73/verse-11-watercolor.webp"
+      },
+      {
+        "title": "Always carefree",
+        "heading": "The summary of the wicked",
+        "meaning": "Verse 12 sums up what Asaph saw: 'Behold, these are the wicked—always carefree as they increase their wealth.' The word 'Behold' invites us to look with him. They are at ease, untroubled, and their riches keep growing. This is the full picture of his complaint, gathered into one sentence. It seems that doing wrong pays well and costs nothing. Asaph has laid out the evidence honestly, and now he will tell us how it made him feel about his own faith.",
+        "contextTitle": "Ease and wealth",
+        "context": "Jeremiah 12:1 asks, 'Why are all the faithless at ease?' Luke 12:19 tells of a rich man saying to himself, 'Take it easy. Eat, drink, and be merry,' just before God called him a fool. Amos 6:1 warns those who are at ease in Zion.",
+        "explore": [
+          [
+            "Behold",
+            "Look and pay attention; a word inviting the reader to see what the writer sees."
+          ],
+          [
+            "Carefree",
+            "At ease and untroubled, without worry or fear of consequences."
+          ]
+        ],
+        "reflect": "When you see someone 'always carefree' while doing wrong, what do you need to remember?",
+        "related": [
+          "Jeremiah 12:1",
+          "Luke 12:19",
+          "Amos 6:1"
+        ],
+        "alt": "A wealthy man sits at ease counting coins on a mat while servants unload goods.",
+        "art": "assets/psalm73/verse-12-watercolor.webp"
+      },
+      {
+        "title": "In vain?",
+        "heading": "Was faithfulness worth it?",
+        "meaning": "Verse 13 is Asaph's lowest point: 'Surely in vain I have kept my heart pure; in innocence I have washed my hands.' He echoes verse 1's 'pure in heart' but now doubts it matters. Washing hands in innocence was a sign of declaring oneself clean of wrongdoing. He wonders whether all his effort to live rightly has been wasted. This is the question of many sincere believers when obedience seems to bring only hardship. Asaph says it out loud before God.",
+        "contextTitle": "Washing in innocence",
+        "context": "Psalm 26:6 says, 'I wash my hands in innocence.' Malachi 3:14 records people saying, 'It is futile to serve God.' Deuteronomy 21:6–7 describes elders washing their hands to declare their innocence of bloodshed.",
+        "explore": [
+          [
+            "In vain",
+            "Without purpose or reward, useless; Asaph fears his faithfulness gained nothing."
+          ],
+          [
+            "Washed my hands",
+            "A ritual sign of claiming innocence and moral cleanness before God and others."
+          ]
+        ],
+        "reflect": "Have you ever wondered if doing the right thing was worth it? What answer did you find?",
+        "related": [
+          "Psalm 26:6",
+          "Malachi 3:14",
+          "Deuteronomy 21:6"
+        ],
+        "alt": "A villager washes his hands in a clay basin, looking downcast.",
+        "art": "assets/psalm73/verse-13-watercolor.webp"
+      },
+      {
+        "title": "Punished every morning",
+        "heading": "Suffering of the faithful",
+        "meaning": "Verse 14 explains why he feels this way: 'For I am afflicted all day long and punished every morning.' While the wicked live in ease, Asaph meets trouble from the moment he wakes. His suffering is constant and seems like discipline he does not deserve. The contrast with verse 5 is sharp: they are 'not afflicted,' but he is afflicted all day long. His complaint is personal and painful, not merely an idea about fairness. He feels singled out.",
+        "contextTitle": "Morning by morning",
+        "context": "Job 7:18 complains that God examines him every morning. Lamentations 3:23 by contrast says God's mercies are new every morning. Hebrews 12:11 says discipline seems painful at the time but later yields peace.",
+        "explore": [
+          [
+            "Afflicted",
+            "Troubled and suffering, here constantly and without relief."
+          ],
+          [
+            "Every morning",
+            "Each day as it begins, showing the suffering never seems to stop."
+          ]
+        ],
+        "reflect": "When trouble greets you every morning, where do you turn first?",
+        "related": [
+          "Job 7:18",
+          "Lamentations 3:23",
+          "Hebrews 12:11"
+        ],
+        "alt": "A villager rises wearily at dawn from a simple mat in a bare room.",
+        "art": "assets/psalm73/verse-14-watercolor.webp"
+      },
+      {
+        "title": "Betraying the children",
+        "heading": "Holding back harmful words",
+        "meaning": "Verse 15 shows restraint: 'If I had said, “I will speak this way,” then I would have betrayed Your children.' Asaph realizes that if he spread his bitter doubts publicly, he would harm God's people. As a worship leader, his words carried weight. He kept his struggle before God rather than broadcasting it in a way that would lead others astray. This is not hiding doubt; it is caring for others while seeking answers. His love for the community kept him from speaking rashly.",
+        "contextTitle": "Guarding others",
+        "context": "Romans 14:13 urges believers not to put a stumbling block in a brother's way. Matthew 18:6 warns against causing little ones to stumble. James 3:1 says teachers will be judged more strictly.",
+        "explore": [
+          [
+            "Betrayed",
+            "Been unfaithful to, here by leading God's people into doubt and bitterness."
+          ],
+          [
+            "Your children",
+            "God's people, the community of faith Asaph served as a worship leader."
+          ]
+        ],
+        "reflect": "How do you handle your doubts in a way that is honest yet does not harm others' faith?",
+        "related": [
+          "Romans 14:13",
+          "Matthew 18:6",
+          "James 3:1"
+        ],
+        "alt": "A singer sits apart from a gathering of families, keeping silent with a thoughtful face.",
+        "art": "assets/psalm73/verse-15-watercolor.webp"
+      },
+      {
+        "title": "Troublesome to understand",
+        "heading": "Thinking it through alone",
+        "meaning": "Verse 16 says, 'When I tried to understand all this, it was troublesome in my sight.' Asaph tried to reason his way to an answer, but the harder he thought, the more painful it became. Human reasoning alone could not make sense of why the wicked prosper. The word 'troublesome' means wearying and burdensome. Some questions cannot be solved simply by thinking harder. Asaph's mind was stuck, and the sentence actually runs on into verse 17, where the answer comes.",
+        "contextTitle": "Limits of reason",
+        "context": "Ecclesiastes 8:17 says no one can comprehend the work that is done under the sun. Proverbs 3:5 says, 'Lean not on your own understanding.' Isaiah 55:9 says God's thoughts are higher than ours.",
+        "explore": [
+          [
+            "Understand",
+            "To grasp the meaning of something; Asaph could not make sense of the wicked's success."
+          ],
+          [
+            "Troublesome",
+            "Wearisome and painful, a burden to the mind and heart."
+          ]
+        ],
+        "reflect": "Which question are you trying to solve on your own that might need God's perspective instead?",
+        "related": [
+          "Ecclesiastes 8:17",
+          "Proverbs 3:5",
+          "Isaiah 55:9"
+        ],
+        "alt": "A villager sits at night on a rooftop, head in hands, under a dim starry sky.",
+        "art": "assets/psalm73/verse-16-watercolor.webp"
+      },
+      {
+        "title": "Into the sanctuary",
+        "heading": "The turning point",
+        "meaning": "Verse 17 is the hinge of the whole psalm: 'until I entered God's sanctuary; then I discerned their end.' Everything changed when Asaph went into God's presence in worship. There he saw the wicked not by their present comfort but by their final destiny. Worship gave him God's perspective. The problem did not disappear, but he understood it differently. The word 'until' marks the turn from despair to clarity. Often what we cannot figure out alone becomes clear when we come near to God.",
+        "contextTitle": "Seeing the end",
+        "context": "Psalm 27:4 longs to gaze on the LORD's beauty in His temple. Hebrews 10:19 invites believers to enter the holy place with confidence through Jesus. Deuteronomy 32:29 wishes that people would discern their end.",
+        "explore": [
+          [
+            "Sanctuary",
+            "God's holy place, the temple where His people came to worship and meet Him."
+          ],
+          [
+            "Discerned",
+            "Perceived or understood clearly, seeing beneath the surface."
+          ]
+        ],
+        "reflect": "How has worship or time with God changed the way you see a painful situation?",
+        "related": [
+          "Psalm 27:4",
+          "Hebrews 10:19",
+          "Deuteronomy 32:29"
+        ],
+        "alt": "A villager steps through a tall stone gateway into a quiet sunlit temple courtyard.",
+        "art": "assets/psalm73/verse-17-watercolor.webp"
+      },
+      {
+        "title": "Slick ground",
+        "heading": "Their footing is unsafe",
+        "meaning": "Verse 18 says, 'Surely You set them on slick ground; You cast them down into ruin.' Earlier Asaph's own feet almost slipped (verse 2); now he sees that it is the wicked who stand on slippery ground. Their success is not solid. God allows them to stand for a time, but their position is unstable and their fall is certain. The word 'Surely' echoes verse 1 and verse 13. Asaph now speaks with renewed confidence about God's justice.",
+        "contextTitle": "Slippery places",
+        "context": "Jeremiah 23:12 says the way of the wicked will be like slippery paths in the darkness. Psalm 35:6 prays that their path be dark and slick. Proverbs 4:19 says the way of the wicked is like deep darkness.",
+        "explore": [
+          [
+            "Slick ground",
+            "Slippery footing, a picture of an unsafe and temporary position."
+          ],
+          [
+            "Ruin",
+            "Destruction and collapse, the final end of those who reject God."
+          ]
+        ],
+        "reflect": "Is your life built on solid ground or on things that could suddenly give way?",
+        "related": [
+          "Jeremiah 23:12",
+          "Psalm 35:6",
+          "Proverbs 4:19"
+        ],
+        "alt": "A steep muddy slope above a ravine glistens after rain, with stones sliding down.",
+        "art": "assets/psalm73/verse-18-watercolor.webp"
+      },
+      {
+        "title": "Suddenly swept away",
+        "heading": "A quick collapse",
+        "meaning": "Verse 19 exclaims, 'How suddenly they are laid waste, completely swept away by terrors!' The fall of the wicked can come in a moment. The wealth that seemed permanent vanishes, and terrors overtake those who lived without fear. Asaph's earlier envy now looks foolish, because what he wanted was never secure. This verse is not gloating but sober recognition. The comfort of a life without God is fragile and can disappear overnight.",
+        "contextTitle": "Sudden ruin",
+        "context": "Proverbs 6:15 says calamity will come on the wicked suddenly. Luke 12:20 tells the rich fool, 'This very night your life will be required of you.' 1 Thessalonians 5:3 says destruction comes suddenly when people say 'peace and security.'",
+        "explore": [
+          [
+            "Laid waste",
+            "Destroyed and made empty, like a ruined city left without people or goods."
+          ],
+          [
+            "Terrors",
+            "Overwhelming fears and disasters that strike without warning."
+          ]
+        ],
+        "reflect": "How does knowing that worldly security can vanish suddenly change what you value?",
+        "related": [
+          "Proverbs 6:15",
+          "Luke 12:20",
+          "1 Thessalonians 5:3"
+        ],
+        "alt": "A flash flood rushes through a dry wadi, carrying away scattered goods and baskets.",
+        "art": "assets/psalm73/verse-19-watercolor.webp"
+      },
+      {
+        "title": "Like a dream",
+        "heading": "Fading like morning",
+        "meaning": "Verse 20 says, 'Like one waking from a dream, so You, O Lord, awaken and despise their form.' A dream feels real while it lasts, but on waking it fades and is forgotten. The success of the wicked is like that. When God rises to act, their image dissolves and is shown to be empty. Their glory was never substantial. The verse pictures God as one who 'awakens,' a way of saying that though He seemed inactive, He will act at the right time.",
+        "contextTitle": "Fading dreams",
+        "context": "Job 20:8 says the wicked will fly away like a dream. Isaiah 29:8 compares enemies to a hungry man who dreams he eats but wakes hungry. Psalm 39:6 says each man walks like a phantom.",
+        "explore": [
+          [
+            "Dream",
+            "An image during sleep that seems real but fades on waking."
+          ],
+          [
+            "Despise their form",
+            "Treat their outward image and appearance as worthless."
+          ]
+        ],
+        "reflect": "What things in your life might feel important now but fade like a dream later?",
+        "related": [
+          "Job 20:8",
+          "Isaiah 29:8",
+          "Psalm 39:6"
+        ],
+        "alt": "A villager sits up on a sleeping mat at first light, the room soft and hazy.",
+        "art": "assets/psalm73/verse-20-watercolor.webp"
+      },
+      {
+        "title": "Heart grieved",
+        "heading": "Admitting bitterness",
+        "meaning": "Verse 21 looks back honestly: 'When my heart was grieved and I was pierced within,' Asaph now names what had been happening inside him. His heart was soured and embittered, and he felt stabbed deep within. Envy and confusion had wounded him. He does not blame others for his feelings but confesses them. This verse begins a short confession that continues into verse 22. Seeing his own heart clearly is part of the healing God gave him in the sanctuary.",
+        "contextTitle": "A bitter heart",
+        "context": "Hebrews 12:15 warns against a root of bitterness springing up. Ephesians 4:31 says to get rid of all bitterness. Proverbs 14:10 says the heart knows its own bitterness.",
+        "explore": [
+          [
+            "Grieved",
+            "Literally 'soured' or embittered; deeply troubled and resentful."
+          ],
+          [
+            "Pierced within",
+            "Stabbed in the inner parts, a picture of sharp inner pain."
+          ]
+        ],
+        "reflect": "Is there bitterness in your heart you need to name honestly before God?",
+        "related": [
+          "Hebrews 12:15",
+          "Ephesians 4:31",
+          "Proverbs 14:10"
+        ],
+        "alt": "A villager sits alone against a mud-brick wall in evening shade, hand pressed to chest.",
+        "art": "assets/psalm73/verse-21-watercolor.webp"
+      },
+      {
+        "title": "A brute beast",
+        "heading": "Humbled confession",
+        "meaning": "Verse 22 continues, 'I was senseless and ignorant; I was a brute beast before You.' Asaph admits that his bitterness made him foolish. He reacted like an animal, driven by instinct and feelings, without understanding. Yet notice the words 'before You.' Even at his worst he was still in God's presence. This is humble self-awareness, not self-hatred. Recognizing how foolishly we thought is often the doorway to wisdom.",
+        "contextTitle": "Like an animal",
+        "context": "Psalm 49:20 says a man who lacks understanding is like the beasts that perish. Daniel 4:34 tells how Nebuchadnezzar's understanding returned after living like an animal. Proverbs 30:2 begins, 'Surely I am the most ignorant of men.'",
+        "explore": [
+          [
+            "Senseless",
+            "Without good judgment or understanding, acting on feeling instead of wisdom."
+          ],
+          [
+            "Brute beast",
+            "An animal acting on instinct rather than reason, a picture of foolish reaction."
+          ]
+        ],
+        "reflect": "When have your emotions made you act without understanding? How did God meet you there?",
+        "related": [
+          "Psalm 49:20",
+          "Daniel 4:34",
+          "Proverbs 30:2"
+        ],
+        "alt": "An ox stands stubbornly in a field beside a shepherd's staff leaning on a stone wall.",
+        "art": "assets/psalm73/verse-22-watercolor.webp"
+      },
+      {
+        "title": "You hold my hand",
+        "heading": "Never let go",
+        "meaning": "Verse 23 begins with a beautiful 'Yet': 'Yet I am always with You; You hold my right hand.' Even when Asaph was senseless, God had not let go of him. His faith almost slipped, but God's grip held. The right hand was the hand of strength and skill, and God holding it pictures guidance and protection, like a parent holding a child's hand on a hard road. The security of the believer rests not on his own grip on God but on God's grip on him.",
+        "contextTitle": "Held by God",
+        "context": "Isaiah 41:13 says, 'For I am the LORD your God, who takes hold of your right hand.' Psalm 139:10 says, 'Your right hand will hold me fast.' John 10:28 promises that no one can snatch Christ's sheep out of His hand.",
+        "explore": [
+          [
+            "Yet",
+            "A turning word that sets God's faithfulness against Asaph's foolishness."
+          ],
+          [
+            "Right hand",
+            "The hand of strength; God holding it signifies personal guidance and protection."
+          ]
+        ],
+        "reflect": "How does it comfort you that God holds onto you even when your grip on Him is weak?",
+        "related": [
+          "Isaiah 41:13",
+          "Psalm 139:10",
+          "John 10:28"
+        ],
+        "alt": "An adult's hand firmly holds a child's hand on a rocky hillside path.",
+        "art": "assets/psalm73/verse-23-watercolor.webp"
+      },
+      {
+        "title": "Guided by counsel",
+        "heading": "Led now, received later",
+        "meaning": "Verse 24 says, 'You guide me with Your counsel, and later receive me in glory.' God's care covers the whole journey. In this life, He guides Asaph by His wise counsel. Afterward, He will receive him in glory. Many readers see here a rare Old Testament hope of life with God beyond death. This answers the problem of the wicked: their end is ruin, but the end of the faithful is to be welcomed by God. The present path and the final destination are both in His hands.",
+        "contextTitle": "Received in glory",
+        "context": "Psalm 32:8 says, 'I will instruct you and teach you the way you should go.' Psalm 49:15 says, 'God will redeem my life from Sheol, for He will surely take me to Himself.' John 14:3 records Jesus promising to receive His followers to Himself.",
+        "explore": [
+          [
+            "Counsel",
+            "Wise advice and direction; God's guidance for daily life."
+          ],
+          [
+            "Glory",
+            "God's honor and presence; being received in glory points to life with Him."
+          ]
+        ],
+        "reflect": "How does the hope of being received into God's glory shape how you face today?",
+        "related": [
+          "Psalm 32:8",
+          "Psalm 49:15",
+          "John 14:3"
+        ],
+        "alt": "A traveler walks a winding road toward a hilltop bathed in golden light.",
+        "art": "assets/psalm73/verse-24-watercolor.webp"
+      },
+      {
+        "title": "Whom have I but You?",
+        "heading": "God Himself is enough",
+        "meaning": "Verse 25 is the heart of the psalm: 'Whom have I in heaven but You? And on earth I desire no one besides You.' Asaph had envied the wealth of the wicked, but now he realizes he has something far better: God Himself. Heaven holds no one he longs for more, and earth offers nothing he wants beside Him. His desire has been purified. The cure for envy is not getting what others have but discovering that God is the greatest treasure.",
+        "contextTitle": "Desiring God",
+        "context": "Philippians 3:8 counts everything as loss compared to knowing Christ. Psalm 16:2 says, 'I have no good apart from You.' Psalm 42:1 says the soul pants for God as a deer for water.",
+        "explore": [
+          [
+            "In heaven",
+            "In the spiritual realm; Asaph has no one there he wants more than God."
+          ],
+          [
+            "Desire",
+            "Longing or delight; his deepest wanting is now for God."
+          ]
+        ],
+        "reflect": "Can you honestly say there is nothing on earth you desire more than God? What competes for that place?",
+        "related": [
+          "Philippians 3:8",
+          "Psalm 16:2",
+          "Psalm 42:1"
+        ],
+        "alt": "A villager kneels on a hill at sunrise with open hands lifted, the valley below in mist.",
+        "art": "assets/psalm73/verse-25-watercolor.webp"
+      },
+      {
+        "title": "My portion forever",
+        "heading": "Strength when all fails",
+        "meaning": "Verse 26 is one of Scripture's most loved promises: 'My flesh and my heart may fail, but God is the strength of my heart and my portion forever.' Asaph admits that his body and inner strength will one day give out. Illness, age and death come for everyone, including the faithful. But God remains. 'Portion' recalls the land shares given to Israel's tribes; the Levites received no land, because the LORD was their portion. Asaph, a Levite, claims God as his inheritance forever.",
+        "contextTitle": "The Levites' portion",
+        "context": "Numbers 18:20 tells Aaron, 'I am your portion and your inheritance.' Lamentations 3:24 says, 'The LORD is my portion; therefore I will hope in Him.' 2 Corinthians 4:16 says though our outer self is wasting away, our inner self is renewed day by day.",
+        "explore": [
+          [
+            "Portion",
+            "A share of an inheritance; God Himself is Asaph's lasting possession."
+          ],
+          [
+            "Fail",
+            "Grow weak and give out, as the body and courage do in sickness and age."
+          ]
+        ],
+        "reflect": "When your body or heart feels weak, how can God be your strength and portion?",
+        "related": [
+          "Numbers 18:20",
+          "Lamentations 3:24",
+          "2 Corinthians 4:16"
+        ],
+        "alt": "An elderly villager rests on a bench at dusk, hands folded, face peaceful.",
+        "art": "assets/psalm73/verse-26-watercolor.webp"
+      },
+      {
+        "title": "Far from God",
+        "heading": "The end of the unfaithful",
+        "meaning": "Verse 27 states the contrast: 'Those far from You will surely perish; You destroy all who are unfaithful to You.' The real problem with the wicked is not their wealth but their distance from God. Being far from Him is the true danger, and it ends in death. The word 'unfaithful' pictures someone breaking a covenant of love, like an unfaithful spouse. Asaph no longer envies them; he sees that apart from God, nothing they have can save them.",
+        "contextTitle": "Distance from God",
+        "context": "Isaiah 59:2 says sins have separated people from God. Ephesians 2:13 says those once far away have been brought near by the blood of Christ. James 4:4 calls friendship with the world unfaithfulness to God.",
+        "explore": [
+          [
+            "Far from You",
+            "Living at a distance from God, outside a relationship with Him."
+          ],
+          [
+            "Unfaithful",
+            "Breaking loyalty and covenant, like turning away from a committed love."
+          ]
+        ],
+        "reflect": "Are there areas of your life where you have drifted far from God? What would drawing near look like?",
+        "related": [
+          "Isaiah 59:2",
+          "Ephesians 2:13",
+          "James 4:4"
+        ],
+        "alt": "An empty, crumbling estate stands abandoned on a barren hillside at dusk.",
+        "art": "assets/psalm73/verse-27-watercolor.webp"
+      },
+      {
+        "title": "Good to draw near",
+        "heading": "Ending with nearness",
+        "meaning": "Verse 28 closes the psalm: 'But as for me, it is good to draw near to God. I have made the Lord GOD my refuge, that I may proclaim all Your works.' 'But as for me' echoes verse 2, where his feet almost slipped. Now the same phrase introduces confident trust. The psalm began with 'God is good'; it ends with 'it is good to draw near to God.' Goodness is found in closeness. Asaph makes God his refuge and resolves to tell others what God has done, the very speaking he held back earlier.",
+        "contextTitle": "Draw near",
+        "context": "James 4:8 says, 'Draw near to God, and He will draw near to you.' Hebrews 10:22 invites believers to draw near with a sincere heart in full assurance of faith. Psalm 9:1 resolves to tell of all God's wonders.",
+        "explore": [
+          [
+            "Draw near",
+            "Come close to God in worship, prayer and trust, seeking His presence personally."
+          ],
+          [
+            "Refuge",
+            "A safe place of shelter; Asaph chooses God as his place of protection."
+          ]
+        ],
+        "reflect": "What is one way you could draw near to God this week and tell someone what He has done?",
+        "related": [
+          "James 4:8",
+          "Hebrews 10:22",
+          "Psalm 9:1"
+        ],
+        "alt": "A villager walks toward a temple gate at dawn while others gather to listen to him.",
+        "art": "assets/psalm73/verse-28-watercolor.webp"
+      }
+    ]
+  }
+}
