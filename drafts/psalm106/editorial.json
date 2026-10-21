@@ -1,0 +1,1241 @@
+{
+  "chapter": 106,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 106 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "gratitude": [
+      "Psalm 106:1"
+    ],
+    "forgiveness": [
+      "Psalm 106:45"
+    ],
+    "direction": [
+      "Psalm 106:13"
+    ],
+    "alone": [
+      "Psalm 106:44"
+    ]
+  },
+  "study": {
+    "number": 106,
+    "coverVerse": 1,
+    "title": "We have sinned like our fathers",
+    "intro": "Psalm 106 tells Israel's history again, but this time as a confession. From the Red Sea to the wilderness, from the golden calf to the idols of Canaan, the people forgot God again and again, and again and again He rescued them. The psalm closes Book IV with a prayer to be gathered from the nations and a doxology of blessing.",
+    "context": "Psalm 106 is the companion of Psalm 105. Where 105 recounts God's faithfulness, 106 recounts Israel's unfaithfulness alongside God's patient mercy. Its closing prayer, 'gather us from the nations,' suggests a time of exile or scattering, and verses 1 and 47-48 appear in 1 Chronicles 16:34-36. Verse 48 also serves as the doxology that ends Book IV of the Psalter.",
+    "peopleNote": "No author is named. The psalm names Moses, Aaron, Dathan, Abiram and Phinehas. God is never portrayed as a human figure in planned art; His judgment and mercy are shown through sea, fire, cloud and the people themselves.",
+    "people": [
+      {
+        "id": "moses",
+        "name": "Moses",
+        "ref": "Psalm 106:1"
+      },
+      {
+        "id": "aaron",
+        "name": "Aaron",
+        "ref": "Psalm 106:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Hallelujah and thanks",
+        "heading": "His loving devotion endures forever",
+        "meaning": "The psalm opens with 'Hallelujah! Give thanks to the LORD, for He is good; His loving devotion endures forever.' Before a single sin is confessed, the singer sets down the ground beneath everything else: God is good, and His covenant love does not run out. The long record of failure that follows is only bearable because it is told inside this frame. Confession begins with remembering who God is, not with staring at ourselves.",
+        "contextTitle": "A refrain of Israel's worship",
+        "context": "These words were a standard refrain in Israel's worship. They appear in 1 Chronicles 16:34 when the ark came to Jerusalem, in 2 Chronicles 5:13 at the temple's dedication, and as the repeated line of Psalm 136. Jeremiah 33:11 says they would be sung again after exile.",
+        "explore": [
+          [
+            "Hallelujah",
+            "A Hebrew call meaning 'praise the LORD,' addressed to a gathered community of worshipers."
+          ],
+          [
+            "Loving devotion",
+            "The Hebrew hesed: God's loyal, covenant love that keeps faith with His people over time."
+          ]
+        ],
+        "reflect": "What helps you remember God's goodness before you look at your own failures?",
+        "related": [
+          "1 Chronicles 16:34",
+          "Psalm 136:1",
+          "Jeremiah 33:11"
+        ],
+        "alt": "Worshipers gathered at a hillside altar at sunrise, hands lifted in thanks.",
+        "art": "assets/psalm106/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Who can tell it all?",
+        "heading": "No one can fully proclaim His praise",
+        "meaning": "Verse 2 asks, 'Who can describe the mighty acts of the LORD or fully proclaim His praise?' The question is not a complaint but an admission of scale. God's works are too many and too great for any person to tell completely. That humility is fitting for a psalm about human failure: the singer knows that even his best praise falls short, yet he still begins to speak, because partial praise is better than silence.",
+        "contextTitle": "Praise beyond telling",
+        "context": "Psalm 40:5 says God's wonders are more than can be numbered, and Psalm 71:15 admits the singer does not know their full measure. John 21:25 makes a similar point about Jesus' deeds, saying the world could not contain the books that would be written.",
+        "explore": [
+          [
+            "Mighty acts",
+            "God's powerful deeds in history, especially His rescues of His people."
+          ],
+          [
+            "Proclaim",
+            "To announce publicly and completely, so that others hear and know what God has done."
+          ]
+        ],
+        "reflect": "What is one of God's acts you can describe today, even if you cannot tell them all?",
+        "related": [
+          "Psalm 40:5",
+          "Psalm 71:15",
+          "John 21:25"
+        ],
+        "alt": "A shepherd on a ridge looking out over hills stretching to the horizon.",
+        "art": "assets/psalm106/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Blessed are the just",
+        "heading": "Those who practice righteousness at all times",
+        "meaning": "Verse 3 says, 'Blessed are those who uphold justice, who practice righteousness at all times.' Set before a long list of Israel's failures, this beatitude describes what the people should have been. The key words are 'at all times.' The history that follows is full of brief faith followed by quick forgetting. Blessing belongs not to a single good moment but to a steady, ongoing life of doing what is right.",
+        "contextTitle": "The blessed life of Psalm 1",
+        "context": "Psalm 1:1-2 opens the Psalter with a similar blessing on the one who delights in God's law. Micah 6:8 sums up what God requires as doing justice and loving mercy, and Isaiah 56:1 calls God's people to keep justice and do what is right.",
+        "explore": [
+          [
+            "Uphold justice",
+            "To keep and guard what is fair and right, especially for those who cannot defend themselves."
+          ],
+          [
+            "At all times",
+            "Consistently, in every season, not only when it is easy or when someone is watching."
+          ]
+        ],
+        "reflect": "Where do you need steady faithfulness rather than a one-time burst of effort?",
+        "related": [
+          "Psalm 1:1",
+          "Micah 6:8",
+          "Isaiah 56:1"
+        ],
+        "alt": "A village elder settling a dispute fairly at the town gate.",
+        "art": "assets/psalm106/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Remember me too",
+        "heading": "Visit me with Your salvation",
+        "meaning": "Verse 4 turns personal: 'Remember me, O LORD, in Your favor to Your people; visit me with Your salvation.' The singer asks to be included when God shows kindness to His people. He does not ask for private blessing apart from the community but for a share in what God gives them all. It is the same humble plea the thief on the cross would make: remember me.",
+        "contextTitle": "A prayer to be included",
+        "context": "Nehemiah repeatedly prays 'Remember me, O my God' (Nehemiah 5:19; 13:31). Luke 23:42 records the criminal asking Jesus, 'Remember me when You come into Your kingdom.' In Luke 1:68, Zechariah praises God for visiting and redeeming His people.",
+        "explore": [
+          [
+            "Remember me",
+            "A plea for God to act in kindness toward someone, not merely to recall them in thought."
+          ],
+          [
+            "Visit",
+            "In Scripture, God's coming near to act, either to rescue or to judge."
+          ]
+        ],
+        "reflect": "How does it change your prayer to ask for a share in what God is doing for others?",
+        "related": [
+          "Nehemiah 13:31",
+          "Luke 23:42",
+          "Luke 1:68"
+        ],
+        "alt": "A lone figure kneeling at the edge of a crowded worship gathering.",
+        "art": "assets/psalm106/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Rejoicing with the people",
+        "heading": "Give glory with Your inheritance",
+        "meaning": "Verse 5 explains the request: 'that I may see the prosperity of Your chosen ones, and rejoice in the gladness of Your nation, and give glory with Your inheritance.' The singer's hope is shared joy. He wants to see God's people flourish and to stand among them in celebration. Personal salvation here is never isolated; it leads into a crowd of people praising together.",
+        "contextTitle": "Chosen ones and inheritance",
+        "context": "Deuteronomy 32:9 calls Israel the LORD's portion and allotted inheritance. Psalm 33:12 blesses the people He chose as His inheritance. Romans 12:15 calls believers to rejoice with those who rejoice.",
+        "explore": [
+          [
+            "Chosen ones",
+            "The people God selected to belong to Him, not because of their merit but by His love."
+          ],
+          [
+            "Inheritance",
+            "Here, God's own people, whom He treasures as a family keeps its land and heritage."
+          ]
+        ],
+        "reflect": "Whose joy can you share in this week, as part of God's people?",
+        "related": [
+          "Deuteronomy 32:9",
+          "Psalm 33:12",
+          "Romans 12:15"
+        ],
+        "alt": "A harvest festival in a village square, families dancing and sharing bread.",
+        "art": "assets/psalm106/verse-5-watercolor.webp"
+      },
+      {
+        "title": "Sinned like our fathers",
+        "heading": "We have done wrong and acted wickedly",
+        "meaning": "Verse 6 is the hinge of the psalm: 'We have sinned like our fathers; we have done wrong and acted wickedly.' The singer does not tell the history as if it were someone else's problem. He stands with his ancestors and confesses that his own generation shares their guilt. Three words pile up, sinned, done wrong, acted wickedly, to show the confession is full and not grudging.",
+        "contextTitle": "Confessing with the generations",
+        "context": "Daniel 9:5 uses nearly the same three-part confession while praying for Israel in exile. Nehemiah 9:33-34 confesses that both the fathers and the present people acted wickedly. Leviticus 26:40 promised mercy when Israel confessed their sin and their fathers' sin.",
+        "explore": [
+          [
+            "Like our fathers",
+            "In the same pattern as earlier generations, admitting a shared family history of failure."
+          ],
+          [
+            "Acted wickedly",
+            "Behaved in a way that is morally wrong and opposed to God, not merely made a mistake."
+          ]
+        ],
+        "reflect": "What would it look like to confess honestly without blaming the people before you?",
+        "related": [
+          "Daniel 9:5",
+          "Nehemiah 9:33",
+          "Leviticus 26:40"
+        ],
+        "alt": "A group of people bowed low together on a dusty plain, heads covered.",
+        "art": "assets/psalm106/verse-6-watercolor.webp"
+      },
+      {
+        "title": "Rebellion at the sea",
+        "heading": "They did not remember His kindness",
+        "meaning": "Verse 7 begins the story: 'Our fathers in Egypt did not grasp Your wonders or remember Your abundant kindness; but they rebelled by the sea, there at the Red Sea.' Even after the plagues, Israel did not understand what God was doing. Trapped between Pharaoh's army and the water, they complained that they would have been better off staying slaves. Failure started at the very first test.",
+        "contextTitle": "Fear at the water's edge",
+        "context": "Exodus 14:10-12 records the people crying out in fear and telling Moses it would have been better to serve the Egyptians. Psalm 78:11 says they forgot His works and wonders. Nehemiah 9:16-17 also recalls how the fathers did not remember God's wonders.",
+        "explore": [
+          [
+            "Grasp",
+            "To understand with insight, seeing what God's acts mean and not just that they happened."
+          ],
+          [
+            "Red Sea",
+            "The body of water, called the Sea of Reeds in Hebrew, that God parted for Israel."
+          ]
+        ],
+        "reflect": "When fear rises, which past kindness of God do you tend to forget?",
+        "related": [
+          "Exodus 14:11",
+          "Psalm 78:11",
+          "Nehemiah 9:17"
+        ],
+        "alt": "A crowd of travelers huddled on a shoreline, chariot dust rising behind them.",
+        "art": "assets/psalm106/verse-7-watercolor.webp"
+      },
+      {
+        "title": "For His name's sake",
+        "heading": "To make His power known",
+        "meaning": "Verse 8 brings the first great 'yet': 'Yet He saved them for the sake of His name, to make His power known.' God did not rescue Israel because they deserved it; they had just rebelled. He saved them because of who He is and so that His power would be seen. This is the steady ground of hope throughout the psalm: God's reasons for mercy come from Himself.",
+        "contextTitle": "Mercy rooted in God's character",
+        "context": "Ezekiel 20:9 says God acted for the sake of His name so it would not be profaned among the nations. Exodus 9:16 says God displayed His power in Egypt so His name would be proclaimed. Isaiah 48:9-11 says He delays His wrath for His own name's sake.",
+        "explore": [
+          [
+            "For the sake of His name",
+            "Because of God's own reputation and character, not the merit of those He rescues."
+          ],
+          [
+            "Make known",
+            "To reveal openly so that people everywhere can recognize who God is."
+          ]
+        ],
+        "reflect": "How does it comfort you that God's mercy depends on His character more than your record?",
+        "related": [
+          "Ezekiel 20:9",
+          "Exodus 9:16",
+          "Isaiah 48:9"
+        ],
+        "alt": "Moonlit sea waters drawn back into towering walls on either side of a dry path.",
+        "art": "assets/psalm106/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Through the depths",
+        "heading": "He rebuked the sea and it dried up",
+        "meaning": "Verse 9 says, 'He rebuked the Red Sea, and it dried up; He led them through the depths as through a desert.' The sea is spoken to like a disobedient servant, and it obeys. The place that should have drowned the people became as dry as a desert road. God not only removed the danger but led them step by step through it.",
+        "contextTitle": "Rebuking the waters",
+        "context": "Exodus 14:21-22 describes the east wind driving back the sea so Israel crossed on dry ground. Isaiah 63:13 speaks of God leading them through the depths like a horse in open country. Jesus also rebuked the wind and waves in Mark 4:39.",
+        "explore": [
+          [
+            "Rebuked",
+            "Spoke a sharp command of correction; here, God's authority over the forces of nature."
+          ],
+          [
+            "The depths",
+            "The deep places of the sea, often a picture of chaos and danger in Scripture."
+          ]
+        ],
+        "reflect": "What 'depths' in your life might God lead you through rather than around?",
+        "related": [
+          "Exodus 14:21",
+          "Isaiah 63:13",
+          "Mark 4:39"
+        ],
+        "alt": "Families walking with livestock along a dry seabed between walls of water.",
+        "art": "assets/psalm106/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Redeemed from the hater",
+        "heading": "Saved from the hand of the enemy",
+        "meaning": "Verse 10 says, 'He saved them from the hand that hated them; He redeemed them from the hand of the enemy.' Pharaoh's grip on Israel was not just political but hostile. God's rescue is called redemption, the word for buying back a family member from slavery. Israel was not simply released; they were claimed by God as His own.",
+        "contextTitle": "Redemption from Egypt",
+        "context": "Exodus 6:6 records God's promise to redeem Israel with an outstretched arm. Exodus 15:13 praises Him for leading the people He redeemed. Luke 1:71 echoes this verse in Zechariah's song about salvation from enemies.",
+        "explore": [
+          [
+            "Redeemed",
+            "Bought back or set free at a cost, like a relative paying to release a family member."
+          ],
+          [
+            "Hand",
+            "A picture of power and control; to be in someone's hand is to be under their power."
+          ]
+        ],
+        "reflect": "What does it mean to you to be not only rescued but claimed by God?",
+        "related": [
+          "Exodus 6:6",
+          "Exodus 15:13",
+          "Luke 1:71"
+        ],
+        "alt": "Freed workers setting down brick molds and walking away from a quarry.",
+        "art": "assets/psalm106/verse-10-watercolor.webp"
+      },
+      {
+        "title": "Not one remained",
+        "heading": "The waters covered their foes",
+        "meaning": "Verse 11 says, 'The waters covered their foes; not one of them remained.' The danger that had chased Israel to the shore was completely ended. The same sea that opened for God's people closed over the army that pursued them. The completeness matters: Israel did not have to look over their shoulder for what God had finished.",
+        "contextTitle": "The sea returns",
+        "context": "Exodus 14:28 says the waters covered the chariots and horsemen and not one of them survived. Exodus 15:5 sings that the depths covered them. Micah 7:19 later uses the image of the sea to say God casts our sins into its depths.",
+        "explore": [
+          [
+            "Foes",
+            "Enemies who actively oppose and pursue; here, Pharaoh's army."
+          ],
+          [
+            "Not one remained",
+            "A complete end to the threat, leaving nothing behind to return later."
+          ]
+        ],
+        "reflect": "Is there a fear God has already ended that you still keep looking back at?",
+        "related": [
+          "Exodus 14:28",
+          "Exodus 15:5",
+          "Micah 7:19"
+        ],
+        "alt": "Calm sea waters at dawn, empty and still, with a crowd watching from the shore.",
+        "art": "assets/psalm106/verse-11-watercolor.webp"
+      },
+      {
+        "title": "Then they believed",
+        "heading": "They believed His promises and sang",
+        "meaning": "Verse 12 says, 'Then they believed His promises and sang His praise.' After the crossing, Israel's faith rose and they sang. The song of Moses in Exodus 15 was real worship. But the word 'then' hints at the problem: their belief came after seeing, and it would not last long. Faith that depends only on the last miracle is easily shaken.",
+        "contextTitle": "The song of Moses and Miriam",
+        "context": "Exodus 14:31 says the people feared the LORD and believed in Him and in Moses. Exodus 15:1 and 15:20-21 record Moses and Miriam leading the people in song. John 20:29 blesses those who believe without seeing.",
+        "explore": [
+          [
+            "Believed His promises",
+            "Trusted that what God said was true and would come to pass."
+          ],
+          [
+            "Sang His praise",
+            "Responded to God's rescue with joyful worship together."
+          ]
+        ],
+        "reflect": "Is your trust in God steadier than the last good thing that happened?",
+        "related": [
+          "Exodus 14:31",
+          "Exodus 15:1",
+          "John 20:29"
+        ],
+        "alt": "Women with tambourines dancing on a beach as the sun rises over the sea.",
+        "art": "assets/psalm106/verse-12-watercolor.webp"
+      },
+      {
+        "title": "Soon they forgot",
+        "heading": "They failed to wait for His counsel",
+        "meaning": "Verse 13 says, 'Yet they soon forgot His works and failed to wait for His counsel.' The word 'soon' is painful. Within days of the sea, the people complained about bitter water and lack of food. Forgetting God's works led to impatience, and impatience meant they made demands instead of waiting for His guidance. Memory and patience are tied together.",
+        "contextTitle": "Three days to complaint",
+        "context": "Exodus 15:22-24 says only three days after the sea the people grumbled at Marah. Exodus 16:2-3 records them wishing they had died in Egypt. Isaiah 40:31 promises renewed strength to those who wait on the LORD.",
+        "explore": [
+          [
+            "Counsel",
+            "Guidance or plan; God's wise direction for how and when to act."
+          ],
+          [
+            "Wait for",
+            "To hold back from acting on one's own and trust God's timing."
+          ]
+        ],
+        "reflect": "What helps you wait for God's guidance instead of rushing ahead?",
+        "related": [
+          "Exodus 15:24",
+          "Exodus 16:3",
+          "Isaiah 40:31"
+        ],
+        "alt": "Travelers resting impatiently around a bitter desert pool.",
+        "art": "assets/psalm106/verse-13-watercolor.webp"
+      },
+      {
+        "title": "Craving in the desert",
+        "heading": "They tested God in the wilderness",
+        "meaning": "Verse 14 says, 'They craved intensely in the wilderness and tested God in the desert.' The issue was not hunger itself but craving, a desire that demanded more than God had given. Israel had manna, yet they longed for meat and the foods of Egypt. To test God is to push Him to prove Himself on our terms, as though His past care were not enough.",
+        "contextTitle": "The graves of craving",
+        "context": "Numbers 11:4-6 records the people's strong craving for meat and the foods of Egypt. Psalm 78:18 says they tested God by demanding the food they craved. Jesus quotes Deuteronomy 6:16 in Matthew 4:7: 'Do not put the Lord your God to the test.'",
+        "explore": [
+          [
+            "Craved intensely",
+            "Desired something with a hunger that overrode trust and contentment."
+          ],
+          [
+            "Tested God",
+            "Challenged God to prove Himself by meeting demands, rather than trusting Him."
+          ]
+        ],
+        "reflect": "Is there something you crave in a way that pushes God to prove Himself?",
+        "related": [
+          "Numbers 11:4",
+          "Psalm 78:18",
+          "Matthew 4:7"
+        ],
+        "alt": "A desert camp at dusk, people gathered around empty cooking pots.",
+        "art": "assets/psalm106/verse-14-watercolor.webp"
+      },
+      {
+        "title": "Request granted, soul wasted",
+        "heading": "He sent a wasting disease",
+        "meaning": "Verse 15 says, 'So He granted their request, but sent a wasting disease upon them.' Sometimes the hardest judgment is getting exactly what we demanded. God gave Israel the quail, but with it came sickness. The verse warns that answered prayers are not always blessings when the request comes from a heart that refuses to trust.",
+        "contextTitle": "Quail and plague",
+        "context": "Numbers 11:31-34 tells of the quail and the plague that followed, at a place named Kibroth-hattaavah, 'graves of craving.' Romans 1:24 describes God giving people over to their desires. James 4:3 warns of asking with wrong motives.",
+        "explore": [
+          [
+            "Granted their request",
+            "Gave them what they demanded, letting them have their own way."
+          ],
+          [
+            "Wasting disease",
+            "A sickness that weakens and thins, a picture of inner emptiness despite outward plenty."
+          ]
+        ],
+        "reflect": "Is there something you want so badly that you would take it even without God's blessing?",
+        "related": [
+          "Numbers 11:33",
+          "Romans 1:24",
+          "James 4:3"
+        ],
+        "alt": "Flocks of quail scattered across a desert camp, people gathering them in baskets.",
+        "art": "assets/psalm106/verse-15-watercolor.webp"
+      },
+      {
+        "title": "Envy in the camp",
+        "heading": "They envied Moses and Aaron",
+        "meaning": "Verse 16 says, 'In the camp they envied Moses, as well as Aaron, the holy one of the LORD.' Envy turned some of the people against the leaders God had appointed. Aaron is called 'the holy one of the LORD,' set apart for priestly service. Their jealousy was not only against two men but against God's choice. Envy often hides a quarrel with God Himself.",
+        "contextTitle": "Korah's rebellion",
+        "context": "Numbers 16:1-3 records Korah, Dathan and Abiram challenging Moses and Aaron, claiming the whole congregation was holy. Numbers 16:11 says their complaint was really against the LORD. James 3:16 warns that where envy exists there is disorder.",
+        "explore": [
+          [
+            "Envied",
+            "Resented others for their position or gifts and wanted it for oneself."
+          ],
+          [
+            "Holy one",
+            "One set apart for God's special service; here, Aaron as priest."
+          ]
+        ],
+        "reflect": "Is there someone whose calling you envy, and what might that say about your trust in God?",
+        "related": [
+          "Numbers 16:3",
+          "Numbers 16:11",
+          "James 3:16"
+        ],
+        "alt": "Two groups facing each other tensely in front of a large desert tent.",
+        "art": "assets/psalm106/verse-16-watercolor.webp"
+      },
+      {
+        "title": "The earth opened",
+        "heading": "Dathan and Abiram swallowed",
+        "meaning": "Verse 17 says, 'The earth opened up and swallowed Dathan; it covered the assembly of Abiram.' The rebellion ended in a shocking judgment. The ground beneath the rebels split open. The verse is sober and brief, reminding Israel that opposing God's appointed order is not a small matter. It was told as a warning for later generations.",
+        "contextTitle": "Judgment in the wilderness",
+        "context": "Numbers 16:31-33 describes the ground splitting and swallowing Dathan, Abiram and their households. Deuteronomy 11:6 recalls this as one of God's great acts Moses' generation saw. Jude 11 cites Korah's rebellion as a warning.",
+        "explore": [
+          [
+            "Dathan and Abiram",
+            "Two leaders from the tribe of Reuben who joined Korah's revolt against Moses."
+          ],
+          [
+            "Assembly",
+            "A gathered group; here, the band of people who joined the rebellion."
+          ]
+        ],
+        "reflect": "How seriously do you take warnings in Scripture about rebellion against God?",
+        "related": [
+          "Numbers 16:32",
+          "Deuteronomy 11:6",
+          "Jude 1:11"
+        ],
+        "alt": "A deep crack in desert ground with tents standing at a distance.",
+        "art": "assets/psalm106/verse-17-watercolor.webp"
+      },
+      {
+        "title": "Fire in their company",
+        "heading": "Flames consumed the wicked",
+        "meaning": "Verse 18 says, 'Then fire blazed through their company; flames consumed the wicked.' The 250 men who offered incense to claim priestly status were consumed. Fire, which so often in Scripture signals God's holy presence, here acts in judgment. The same holiness that welcomes the humble is dangerous to those who grasp at it in pride.",
+        "contextTitle": "The 250 with censers",
+        "context": "Numbers 16:35 says fire came out from the LORD and consumed the 250 men offering incense. Leviticus 10:1-2 tells a similar judgment on Nadab and Abihu. Hebrews 12:29 reminds readers that God is a consuming fire.",
+        "explore": [
+          [
+            "Company",
+            "The group of people gathered together; here, those joined in rebellion."
+          ],
+          [
+            "Consumed",
+            "Burned up completely, a sign of God's holy judgment."
+          ]
+        ],
+        "reflect": "Where might you be tempted to grab at a role God has not given you?",
+        "related": [
+          "Numbers 16:35",
+          "Leviticus 10:2",
+          "Hebrews 12:29"
+        ],
+        "alt": "Scattered bronze incense pans lying on scorched desert ground.",
+        "art": "assets/psalm106/verse-18-watercolor.webp"
+      },
+      {
+        "title": "A calf at Horeb",
+        "heading": "They worshiped a molten image",
+        "meaning": "Verse 19 says, 'At Horeb they made a calf and worshiped a molten image.' At the very mountain where God had spoken the commandments, the people made an idol. The place of covenant became the place of betrayal. The timing makes it worse: while Moses was still receiving God's law, they melted their jewelry into a god they could see.",
+        "contextTitle": "The golden calf",
+        "context": "Exodus 32:1-4 tells how Aaron made the calf from the people's gold. Deuteronomy 9:8 says at Horeb Israel provoked the LORD to wrath. Acts 7:41 recalls the calf in Stephen's speech.",
+        "explore": [
+          [
+            "Horeb",
+            "Another name for Mount Sinai, where God gave Israel the law."
+          ],
+          [
+            "Molten image",
+            "An idol made by melting metal and pouring it into a mold."
+          ]
+        ],
+        "reflect": "What visible thing are you tempted to trust when God seems silent or distant?",
+        "related": [
+          "Exodus 32:4",
+          "Deuteronomy 9:8",
+          "Acts 7:41"
+        ],
+        "alt": "A gold calf statue on a stone base beneath a towering mountain.",
+        "art": "assets/psalm106/verse-19-watercolor.webp"
+      },
+      {
+        "title": "Glory traded for grass",
+        "heading": "The image of a grass-eating ox",
+        "meaning": "Verse 20 says, 'They exchanged their Glory for the image of a grass-eating ox.' The irony is sharp. Israel's Glory was the living God, maker of heaven and earth. They traded Him for a statue of an animal that eats grass. Idolatry always makes this kind of trade: something infinitely great exchanged for something small and lifeless.",
+        "contextTitle": "The great exchange",
+        "context": "Romans 1:23 echoes this verse, saying people exchanged the glory of God for images of creatures. Jeremiah 2:11 says God's people exchanged their Glory for worthless idols. Hosea 4:7 describes exchanging glory for shame.",
+        "explore": [
+          [
+            "Their Glory",
+            "The living God Himself, the honor and splendor of His people."
+          ],
+          [
+            "Exchanged",
+            "Traded one thing for another, here a foolish swap of the greatest for the least."
+          ]
+        ],
+        "reflect": "What lesser thing are you tempted to trade for God's glory?",
+        "related": [
+          "Romans 1:23",
+          "Jeremiah 2:11",
+          "Hosea 4:7"
+        ],
+        "alt": "An ox grazing in a field beside a discarded pile of melted jewelry.",
+        "art": "assets/psalm106/verse-20-watercolor.webp"
+      },
+      {
+        "title": "Forgetting the Savior",
+        "heading": "He did great things in Egypt",
+        "meaning": "Verse 21 says, 'They forgot God their Savior, who did great things in Egypt.' Forgetting is the root problem of this psalm. It is not that Israel never knew God; they had seen His acts with their own eyes. But they let the memory fade until it no longer shaped their choices. God is called 'their Savior,' the very one they had turned from.",
+        "contextTitle": "A warning against forgetting",
+        "context": "Deuteronomy 8:11-14 warns Israel not to forget the LORD when they prosper. Deuteronomy 32:18 says they forgot the God who gave them birth. Judges 3:7 sums up the cycle: Israel forgot the LORD their God.",
+        "explore": [
+          [
+            "Forgot",
+            "Let something slip from active memory so that it no longer guided one's life."
+          ],
+          [
+            "Savior",
+            "The one who rescues; here, God who delivered Israel from slavery."
+          ]
+        ],
+        "reflect": "What practices help you keep God's past works fresh in your memory?",
+        "related": [
+          "Deuteronomy 8:11",
+          "Deuteronomy 32:18",
+          "Judges 3:7"
+        ],
+        "alt": "An old woman telling stories to children around an evening fire.",
+        "art": "assets/psalm106/verse-21-watercolor.webp"
+      },
+      {
+        "title": "Wonders in the land of Ham",
+        "heading": "Awesome deeds by the Red Sea",
+        "meaning": "Verse 22 finishes the thought: 'wondrous works in the land of Ham, and awesome deeds by the Red Sea.' The singer lists what Israel forgot: the plagues in Egypt and the crossing of the sea. These were not small kindnesses but world-shaking acts. The greater the gift forgotten, the deeper the ingratitude.",
+        "contextTitle": "Egypt as the land of Ham",
+        "context": "Psalm 105:23 and 78:51 also call Egypt the land of Ham, from Noah's son whose descendants included Egypt (Genesis 10:6). Exodus 15:11 praises God as awesome in glory and working wonders.",
+        "explore": [
+          [
+            "Land of Ham",
+            "A poetic name for Egypt, linked to Ham, son of Noah, in Genesis 10."
+          ],
+          [
+            "Awesome deeds",
+            "Acts that inspire awe and reverent fear because of their greatness."
+          ]
+        ],
+        "reflect": "Which of God's big works in your life have you started to take for granted?",
+        "related": [
+          "Psalm 105:23",
+          "Genesis 10:6",
+          "Exodus 15:11"
+        ],
+        "alt": "Ancient Egyptian river plains under a darkened sky with a sliver of light.",
+        "art": "assets/psalm106/verse-22-watercolor.webp"
+      },
+      {
+        "title": "Moses in the breach",
+        "heading": "He stood to divert God's wrath",
+        "meaning": "Verse 23 says, 'So He said He would destroy them—had not Moses His chosen one stood before Him in the breach to divert His wrath from destroying them.' The picture is of a broken city wall with one soldier standing in the gap. Moses placed himself between the people and judgment, pleading for them. His intercession turned aside what they deserved.",
+        "contextTitle": "Standing in the gap",
+        "context": "Exodus 32:11-14 records Moses pleading for Israel after the golden calf. Ezekiel 22:30 says God looked for someone to stand in the gap and found none. Hebrews 7:25 says Jesus always lives to intercede for His people.",
+        "explore": [
+          [
+            "Breach",
+            "A break in a wall where enemies could pour in; here, the gap between sinners and judgment."
+          ],
+          [
+            "Divert",
+            "To turn aside or redirect, so that wrath does not fall where it was headed."
+          ]
+        ],
+        "reflect": "Who could you 'stand in the gap' for in prayer this week?",
+        "related": [
+          "Exodus 32:11",
+          "Ezekiel 22:30",
+          "Hebrews 7:25"
+        ],
+        "alt": "A lone man in a head cloth on a mountain path, arms raised in prayer.",
+        "art": "assets/psalm106/verse-23-watercolor.webp"
+      },
+      {
+        "title": "Despising the good land",
+        "heading": "They did not believe His promise",
+        "meaning": "Verse 24 says, 'They despised the pleasant land; they did not believe His promise.' When the spies returned from Canaan, the people refused to go in. They called the gift worthless because they doubted God could bring them into it. Unbelief made them despise what God had prepared for their good, and fear of giants outweighed God's word.",
+        "contextTitle": "The spies' report",
+        "context": "Numbers 13:31-33 records the fearful report about giants in the land. Numbers 14:1-4 tells of the people weeping and wanting to return to Egypt. Hebrews 3:19 says they could not enter because of unbelief.",
+        "explore": [
+          [
+            "Pleasant land",
+            "Canaan, the good land God promised, described as flowing with milk and honey."
+          ],
+          [
+            "Despised",
+            "Treated as worthless or unwanted; here, rejecting God's good gift through fear."
+          ]
+        ],
+        "reflect": "Is there a good thing God is offering that fear makes you reject?",
+        "related": [
+          "Numbers 14:3",
+          "Numbers 13:32",
+          "Hebrews 3:19"
+        ],
+        "alt": "Scouts carrying a large cluster of grapes on a pole between them.",
+        "art": "assets/psalm106/verse-24-watercolor.webp"
+      },
+      {
+        "title": "Grumbling in tents",
+        "heading": "They did not listen to the LORD",
+        "meaning": "Verse 25 says, 'They grumbled in their tents and did not listen to the voice of the LORD.' Their complaint happened behind tent walls, in private conversations. Grumbling spread quietly from family to family until the whole camp refused God's word. The verse shows how unbelief often grows in small, private complaints before it becomes open rebellion.",
+        "contextTitle": "Murmuring in the camp",
+        "context": "Deuteronomy 1:27 records this grumbling in the tents. Numbers 14:2 says the whole congregation grumbled against Moses and Aaron. 1 Corinthians 10:10 warns believers not to grumble as some of them did.",
+        "explore": [
+          [
+            "Grumbled",
+            "Complained in low, discontented talk, often against leaders or circumstances."
+          ],
+          [
+            "Listen to the voice",
+            "To hear and obey; in Scripture, true listening includes doing what is said."
+          ]
+        ],
+        "reflect": "What do your private conversations reveal about your trust in God?",
+        "related": [
+          "Deuteronomy 1:27",
+          "Numbers 14:2",
+          "1 Corinthians 10:10"
+        ],
+        "alt": "Families talking in hushed tones in the doorways of desert tents at night.",
+        "art": "assets/psalm106/verse-25-watercolor.webp"
+      },
+      {
+        "title": "A raised hand",
+        "heading": "He swore they would fall in the wilderness",
+        "meaning": "Verse 26 says, 'So He raised His hand and swore to cast them down in the wilderness.' Raising the hand was the gesture of a solemn oath. God declared that the generation who refused to enter the land would die in the desert. Their own words, 'If only we had died in this wilderness,' became their sentence.",
+        "contextTitle": "Forty years of wandering",
+        "context": "Numbers 14:28-30 records God's oath that the rebellious generation would fall in the wilderness. Hebrews 3:17-18 recalls those whose bodies fell in the desert. Deuteronomy 1:34-35 tells of the oath as well.",
+        "explore": [
+          [
+            "Raised His hand",
+            "A gesture of swearing a solemn oath, binding oneself to act."
+          ],
+          [
+            "Cast them down",
+            "To let them fall; here, the generation dying in the wilderness without entering the land."
+          ]
+        ],
+        "reflect": "How do your words about your situation shape the way you face it?",
+        "related": [
+          "Numbers 14:28",
+          "Hebrews 3:17",
+          "Deuteronomy 1:35"
+        ],
+        "alt": "Simple stone grave markers along a desert trail, a caravan passing by.",
+        "art": "assets/psalm106/verse-26-watercolor.webp"
+      },
+      {
+        "title": "Scattered offspring",
+        "heading": "Dispersed among the nations",
+        "meaning": "Verse 27 continues: 'to disperse their offspring among the nations and scatter them throughout the lands.' The warning reached beyond one generation. If unbelief continued, the people would one day be scattered in exile. For readers praying verse 47, 'gather us from the nations,' this was not a distant threat but their present reality.",
+        "contextTitle": "The warning of exile",
+        "context": "Leviticus 26:33 warned that God would scatter Israel among the nations if they rejected Him. Deuteronomy 28:64 repeats this warning. Ezekiel 20:23 says God swore in the wilderness to disperse them.",
+        "explore": [
+          [
+            "Disperse",
+            "To spread apart and send in many directions, away from home."
+          ],
+          [
+            "Offspring",
+            "Descendants; the children and later generations of a people."
+          ]
+        ],
+        "reflect": "How might your faithfulness today affect those who come after you?",
+        "related": [
+          "Leviticus 26:33",
+          "Deuteronomy 28:64",
+          "Ezekiel 20:23"
+        ],
+        "alt": "Small groups of travelers heading off in different directions across a plain.",
+        "art": "assets/psalm106/verse-27-watercolor.webp"
+      },
+      {
+        "title": "Yoked to Baal of Peor",
+        "heading": "Sacrifices to lifeless gods",
+        "meaning": "Verse 28 says, 'They yoked themselves to Baal of Peor and ate sacrifices offered to lifeless gods.' On the edge of the promised land, Israel joined the Moabites in worshiping their god. The word 'yoked' pictures being harnessed together like oxen. They bound themselves to dead gods in place of the living one.",
+        "contextTitle": "Sin at Shittim",
+        "context": "Numbers 25:1-3 tells how Israel joined in Moab's worship at Peor. Hosea 9:10 recalls how they consecrated themselves to Baal at Peor. 1 Corinthians 10:8 warns against this kind of immorality.",
+        "explore": [
+          [
+            "Baal of Peor",
+            "A Canaanite or Moabite god worshiped at the mountain or town of Peor."
+          ],
+          [
+            "Lifeless gods",
+            "Idols that have no breath or power, unlike the living God."
+          ]
+        ],
+        "reflect": "What are you tempted to bind yourself to that has no life to give?",
+        "related": [
+          "Numbers 25:3",
+          "Hosea 9:10",
+          "1 Corinthians 10:8"
+        ],
+        "alt": "A hilltop shrine with smoke rising, Israelite tents visible on the plain below.",
+        "art": "assets/psalm106/verse-28-watercolor.webp"
+      },
+      {
+        "title": "Provoking the LORD",
+        "heading": "A plague broke out",
+        "meaning": "Verse 29 says, 'So they provoked the LORD to anger with their deeds, and a plague broke out among them.' Their worship of Baal was not a harmless cultural blending. It was covenant unfaithfulness, and it brought serious consequences. The verse shows sin is not merely a private affair; it spreads harm through a whole community.",
+        "contextTitle": "The plague at Peor",
+        "context": "Numbers 25:9 says 24,000 died in the plague at Peor. Deuteronomy 4:3 reminds Israel of what God did at Baal-peor. 1 Corinthians 10:11 says these events were written as warnings for us.",
+        "explore": [
+          [
+            "Provoked",
+            "Stirred up or roused; here, acting in ways that rightly anger God."
+          ],
+          [
+            "Plague",
+            "A spreading sickness or disaster, often a sign of judgment in Scripture."
+          ]
+        ],
+        "reflect": "How might one person's choices affect a whole family or community?",
+        "related": [
+          "Numbers 25:9",
+          "Deuteronomy 4:3",
+          "1 Corinthians 10:11"
+        ],
+        "alt": "A quiet camp under heavy grey clouds, people sitting outside their tents.",
+        "art": "assets/psalm106/verse-29-watercolor.webp"
+      },
+      {
+        "title": "Phinehas stood",
+        "heading": "The plague was restrained",
+        "meaning": "Verse 30 says, 'But Phinehas stood and intervened, and the plague was restrained.' Like Moses earlier, one man stood up when others did nothing. Phinehas, Aaron's grandson, acted with zeal for God's honor, and the plague stopped. His action shows that a single faithful person can make a difference for a whole people.",
+        "contextTitle": "Zeal for God's honor",
+        "context": "Numbers 25:7-8 tells how Phinehas acted and the plague stopped. Numbers 25:11 says he was zealous for God's honor. Proverbs 28:1 says the righteous are as bold as a lion.",
+        "explore": [
+          [
+            "Phinehas",
+            "Son of Eleazar and grandson of Aaron, a priest remembered for his zeal."
+          ],
+          [
+            "Intervened",
+            "Stepped in to act between a danger and those threatened by it."
+          ]
+        ],
+        "reflect": "Where might God be asking you to step in when others stay passive?",
+        "related": [
+          "Numbers 25:7",
+          "Numbers 25:11",
+          "Proverbs 28:1"
+        ],
+        "alt": "A young priest standing firm at the entrance of a large tent.",
+        "art": "assets/psalm106/verse-30-watercolor.webp"
+      },
+      {
+        "title": "Credited as righteousness",
+        "heading": "For endless generations",
+        "meaning": "Verse 31 says, 'It was credited to him as righteousness for endless generations to come.' These words echo what was said of Abraham, whose faith was credited as righteousness. God counted Phinehas's faithful zeal as righteousness and made a lasting covenant of priesthood with his family. God remembers faithfulness long after the moment passes.",
+        "contextTitle": "A covenant of peace",
+        "context": "Genesis 15:6 says Abraham's faith was credited to him as righteousness. Numbers 25:12-13 records God's covenant of peace and lasting priesthood with Phinehas. Malachi 2:5 recalls this covenant of life and peace.",
+        "explore": [
+          [
+            "Credited",
+            "Counted or reckoned to someone's account, as God records a person's standing."
+          ],
+          [
+            "Endless generations",
+            "Through all future generations; a lasting remembrance."
+          ]
+        ],
+        "reflect": "What faithful act today might bless people long after you?",
+        "related": [
+          "Genesis 15:6",
+          "Numbers 25:12",
+          "Malachi 2:5"
+        ],
+        "alt": "An elder priest placing his hand in blessing on the head of a young boy.",
+        "art": "assets/psalm106/verse-31-watercolor.webp"
+      },
+      {
+        "title": "Trouble at Meribah",
+        "heading": "Trouble came to Moses because of them",
+        "meaning": "Verse 32 says, 'At the waters of Meribah they angered the LORD, and trouble came to Moses because of them.' At Meribah the people quarreled again over water. Their constant complaining wore down even Moses. The verse shows that the sins of a community can wound its leaders and lead them into failure too.",
+        "contextTitle": "Waters of quarreling",
+        "context": "Numbers 20:2-13 tells of the people's quarrel and Moses striking the rock. Psalm 95:8 warns, 'Do not harden your hearts, as you did at Meribah.' Deuteronomy 1:37 says Moses was kept from the land because of the people.",
+        "explore": [
+          [
+            "Meribah",
+            "A Hebrew name meaning 'quarreling,' given to the place where Israel argued over water."
+          ],
+          [
+            "Trouble came",
+            "Harm or consequence that fell on Moses as a result of the people's rebellion."
+          ]
+        ],
+        "reflect": "How might your complaints affect the people who lead or care for you?",
+        "related": [
+          "Numbers 20:13",
+          "Psalm 95:8",
+          "Deuteronomy 1:37"
+        ],
+        "alt": "Water streaming from a cracked rock in a dry ravine, a crowd gathered around.",
+        "art": "assets/psalm106/verse-32-watercolor.webp"
+      },
+      {
+        "title": "Rash words",
+        "heading": "They rebelled against His Spirit",
+        "meaning": "Verse 33 says, 'For they rebelled against His Spirit, and Moses spoke rashly with his lips.' The people's rebellion grieved God's Spirit, and Moses, provoked, spoke carelessly. Instead of honoring God before the people, he struck the rock and spoke as if he and Aaron were the ones producing water. Even a great leader can stumble under pressure.",
+        "contextTitle": "Grieving the Spirit",
+        "context": "Isaiah 63:10 says the people rebelled and grieved His Holy Spirit. Numbers 20:10-12 records Moses' angry words, 'Must we bring you water out of this rock?' Ephesians 4:30 warns believers not to grieve the Holy Spirit.",
+        "explore": [
+          [
+            "His Spirit",
+            "God's own presence and power, who was with Israel in the wilderness."
+          ],
+          [
+            "Spoke rashly",
+            "Said something hasty and careless without thinking of its effect."
+          ]
+        ],
+        "reflect": "When you are worn down, how can you guard your words?",
+        "related": [
+          "Isaiah 63:10",
+          "Numbers 20:10",
+          "Ephesians 4:30"
+        ],
+        "alt": "A frustrated leader holding a staff, standing before a rock face.",
+        "art": "assets/psalm106/verse-33-watercolor.webp"
+      },
+      {
+        "title": "Incomplete obedience",
+        "heading": "They did not destroy the peoples",
+        "meaning": "Verse 34 says, 'They did not destroy the peoples as the LORD had commanded them.' The story moves into the promised land. God had told Israel to drive out the nations whose worship was corrupt, lest Israel be drawn into it. Their obedience was partial. Halfway obedience left the door open for the very dangers God had warned about.",
+        "contextTitle": "The unfinished conquest",
+        "context": "Judges 1:21-28 lists tribes who did not drive out the Canaanites. Deuteronomy 7:2-4 warned that these nations would turn Israel's children away from God. Judges 2:2-3 records God's rebuke for this disobedience.",
+        "explore": [
+          [
+            "Commanded",
+            "Gave a clear instruction that was expected to be obeyed fully."
+          ],
+          [
+            "Peoples",
+            "The nations living in Canaan, whose practices included idolatry and child sacrifice."
+          ]
+        ],
+        "reflect": "Is there an area where your obedience to God is only partial?",
+        "related": [
+          "Judges 1:28",
+          "Deuteronomy 7:4",
+          "Judges 2:2"
+        ],
+        "alt": "Israelite and Canaanite farmers working neighboring fields, a hilltop shrine nearby.",
+        "art": "assets/psalm106/verse-34-watercolor.webp"
+      },
+      {
+        "title": "Learning their ways",
+        "heading": "They mingled and adopted customs",
+        "meaning": "Verse 35 says, 'but they mingled with the nations and adopted their customs.' The slide began with closeness and ended with imitation. Israel lived alongside the nations, married into them, and slowly took on their ways. The danger was not contact itself but losing their distinct identity as God's people.",
+        "contextTitle": "Drift by mingling",
+        "context": "Judges 3:5-6 says Israel intermarried with the Canaanites and served their gods. Ezra 9:1-2 laments the same mixing after exile. Romans 12:2 urges believers not to be conformed to this world.",
+        "explore": [
+          [
+            "Mingled",
+            "Mixed in closely with others, so that boundaries blurred."
+          ],
+          [
+            "Customs",
+            "Habits and practices of a people, including their religious rituals."
+          ]
+        ],
+        "reflect": "What customs around you are quietly shaping your life away from God?",
+        "related": [
+          "Judges 3:6",
+          "Ezra 9:2",
+          "Romans 12:2"
+        ],
+        "alt": "A busy Canaanite market with Israelite travelers browsing carved figurines.",
+        "art": "assets/psalm106/verse-35-watercolor.webp"
+      },
+      {
+        "title": "A snare",
+        "heading": "Their idols trapped them",
+        "meaning": "Verse 36 says, 'They worshiped their idols, which became a snare to them.' A snare is a hidden trap that catches an animal unaware. Idols looked attractive, promising rain, fertility and security. But once Israel began to worship them, they found themselves trapped. Idols promise freedom and deliver bondage.",
+        "contextTitle": "Warning of the snare",
+        "context": "Exodus 23:33 and Deuteronomy 7:16 warned that the nations' gods would be a snare to Israel. Judges 2:3 says those gods became a snare. Galatians 5:1 calls believers to stand firm and not submit again to slavery.",
+        "explore": [
+          [
+            "Idols",
+            "Images or objects worshiped as gods, or anything put in God's place."
+          ],
+          [
+            "Snare",
+            "A trap, often a noose or net, that catches its victim unexpectedly."
+          ]
+        ],
+        "reflect": "What looks attractive in your life but might actually be a trap?",
+        "related": [
+          "Deuteronomy 7:16",
+          "Judges 2:3",
+          "Galatians 5:1"
+        ],
+        "alt": "A bird caught in a hunter's net strung between bushes.",
+        "art": "assets/psalm106/verse-36-watercolor.webp"
+      },
+      {
+        "title": "Children given to demons",
+        "heading": "Sacrificing sons and daughters",
+        "meaning": "Verse 37 says, 'They sacrificed their sons and their daughters to demons.' This is the darkest point of the history. Idolatry led Israel to the horror of child sacrifice. The psalm names the idols for what they really were: demons. False worship is not neutral; it is connected to forces that destroy the most vulnerable.",
+        "contextTitle": "Idols behind demons",
+        "context": "Deuteronomy 32:17 says they sacrificed to demons, not to God. 2 Kings 17:17 records Israel making their children pass through the fire. 1 Corinthians 10:20 says pagan sacrifices are offered to demons.",
+        "explore": [
+          [
+            "Demons",
+            "Evil spiritual beings opposed to God, whom Scripture links to idol worship."
+          ],
+          [
+            "Sacrificed",
+            "Offered as a gift to a deity; here, a terrible distortion of worship."
+          ]
+        ],
+        "reflect": "How does this verse show the real cost of turning from God?",
+        "related": [
+          "Deuteronomy 32:17",
+          "2 Kings 17:17",
+          "1 Corinthians 10:20"
+        ],
+        "alt": "A dark empty hillside altar at dusk with storm clouds overhead.",
+        "art": "assets/psalm106/verse-37-watercolor.webp"
+      },
+      {
+        "title": "A polluted land",
+        "heading": "Innocent blood shed",
+        "meaning": "Verse 38 says, 'They shed innocent blood—the blood of their sons and daughters, whom they sacrificed to the idols of Canaan, and the land was polluted with blood.' The verse stresses the innocence of the victims and the effect on the land itself. In Scripture, the land God gave was meant to be holy; shedding innocent blood defiled it.",
+        "contextTitle": "Bloodguilt and the land",
+        "context": "Numbers 35:33 warns that bloodshed pollutes the land. Jeremiah 19:4-5 condemns filling Jerusalem with the blood of the innocent. 2 Kings 21:16 records Manasseh shedding much innocent blood.",
+        "explore": [
+          [
+            "Innocent blood",
+            "The blood of those who had done nothing to deserve harm."
+          ],
+          [
+            "Polluted",
+            "Made unclean or defiled, so that the land itself bore the stain."
+          ]
+        ],
+        "reflect": "How do you care for the most vulnerable people around you?",
+        "related": [
+          "Numbers 35:33",
+          "Jeremiah 19:4",
+          "2 Kings 21:16"
+        ],
+        "alt": "A barren field under a grey sky, an empty cradle by a doorway.",
+        "art": "assets/psalm106/verse-38-watercolor.webp"
+      },
+      {
+        "title": "Unfaithful deeds",
+        "heading": "They prostituted themselves",
+        "meaning": "Verse 39 says, 'They defiled themselves by their actions and prostituted themselves by their deeds.' The language is that of marriage betrayal. God was Israel's husband, and idolatry was unfaithfulness to Him. The verse shows that sin is not only rule-breaking but broken love. It is the language of a heart turned away.",
+        "contextTitle": "The marriage picture",
+        "context": "Hosea 2:2-5 describes Israel as an unfaithful wife. Ezekiel 16:15 uses similar language for Jerusalem's idolatry. Jeremiah 3:1 calls Israel to return even after unfaithfulness.",
+        "explore": [
+          [
+            "Defiled",
+            "Made unclean, losing the purity that belonged to God's people."
+          ],
+          [
+            "Prostituted",
+            "A strong image of spiritual unfaithfulness, giving devotion to others besides God."
+          ]
+        ],
+        "reflect": "How does seeing sin as broken love change the way you think about it?",
+        "related": [
+          "Hosea 2:2",
+          "Ezekiel 16:15",
+          "Jeremiah 3:1"
+        ],
+        "alt": "A wedding ring lying in the dust of a village road.",
+        "art": "assets/psalm106/verse-39-watercolor.webp"
+      },
+      {
+        "title": "God's anger burned",
+        "heading": "He abhorred His own inheritance",
+        "meaning": "Verse 40 says, 'So the anger of the LORD burned against His people, and He abhorred His own inheritance.' This is strong language. God's people, whom He treasured, became repulsive to Him because of what they had done. God's anger is not cold or petty; it is the right response of holy love to evil done by those He loves.",
+        "contextTitle": "Righteous anger",
+        "context": "Judges 2:14 says the LORD's anger burned against Israel and He handed them over to raiders. Deuteronomy 32:19 says the LORD saw and rejected them. Romans 1:18 says God's wrath is revealed against all ungodliness.",
+        "explore": [
+          [
+            "Abhorred",
+            "Felt deep disgust toward; here, God's revulsion at His people's sin."
+          ],
+          [
+            "Inheritance",
+            "God's own people, whom He claimed as His treasured possession."
+          ]
+        ],
+        "reflect": "Why is it good news that God's love includes anger at evil?",
+        "related": [
+          "Judges 2:14",
+          "Deuteronomy 32:19",
+          "Romans 1:18"
+        ],
+        "alt": "Dark storm clouds gathering over a hilltop village.",
+        "art": "assets/psalm106/verse-40-watercolor.webp"
+      },
+      {
+        "title": "Handed to enemies",
+        "heading": "Those who hated them ruled",
+        "meaning": "Verse 41 says, 'He delivered them into the hand of the nations, and those who hated them ruled over them.' The book of Judges tells this cycle again and again. When Israel served other gods, God let them experience the rule of other nations. They chose foreign gods and received foreign masters in return.",
+        "contextTitle": "The cycle of Judges",
+        "context": "Judges 2:14 says God sold them into the hands of their enemies. Judges 3:8 tells of Israel serving the king of Aram. Nehemiah 9:27 recalls how God handed them over and then rescued them.",
+        "explore": [
+          [
+            "Delivered",
+            "Here, handed over; God allowed them to fall under another's power."
+          ],
+          [
+            "Ruled over them",
+            "Governed and controlled them, often harshly and unjustly."
+          ]
+        ],
+        "reflect": "When have your own choices led you into hard circumstances?",
+        "related": [
+          "Judges 2:14",
+          "Judges 3:8",
+          "Nehemiah 9:27"
+        ],
+        "alt": "Foreign soldiers collecting grain from Israelite farmers at a threshing floor.",
+        "art": "assets/psalm106/verse-41-watercolor.webp"
+      },
+      {
+        "title": "Under their hand",
+        "heading": "Their enemies oppressed them",
+        "meaning": "Verse 42 says, 'Their enemies oppressed them and subdued them under their hand.' The oppression was real and painful. Israel was humbled, their crops taken, their freedom lost. The verse does not hurry past their suffering. It names it, because honest confession includes honest acknowledgment of what sin has cost.",
+        "contextTitle": "Seasons of oppression",
+        "context": "Judges 6:1-6 tells how the Midianites oppressed Israel and stripped their land. Judges 4:3 records Jabin's cruel oppression for twenty years. Lamentations 1:5 laments Jerusalem's foes becoming her masters.",
+        "explore": [
+          [
+            "Oppressed",
+            "Crushed down under harsh treatment and unjust power."
+          ],
+          [
+            "Subdued",
+            "Brought under another's control, unable to resist or escape."
+          ]
+        ],
+        "reflect": "What would it look like to name honestly the cost of sin in your life?",
+        "related": [
+          "Judges 6:6",
+          "Judges 4:3",
+          "Lamentations 1:5"
+        ],
+        "alt": "Villagers hiding grain in a winepress, glancing over their shoulders.",
+        "art": "assets/psalm106/verse-42-watercolor.webp"
+      },
+      {
+        "title": "Many times rescued",
+        "heading": "Bent on rebellion",
+        "meaning": "Verse 43 says, 'Many times He rescued them, but they were bent on rebellion and sank down in their iniquity.' The pattern repeats: God rescues, Israel rebels, they sink, and God rescues again. The words 'many times' show both the stubbornness of the people and the astonishing, unwearied patience of God.",
+        "contextTitle": "A repeating pattern",
+        "context": "Judges 2:16-19 describes the repeated cycle of rescue and rebellion. Nehemiah 9:28 says God rescued them many times. Psalm 78:38 says He restrained His anger again and again.",
+        "explore": [
+          [
+            "Bent on rebellion",
+            "Determined to resist, with hearts set in the wrong direction."
+          ],
+          [
+            "Sank down",
+            "Fell lower and lower, drowning in the weight of their sin."
+          ]
+        ],
+        "reflect": "Where do you see God's patience with your repeated struggles?",
+        "related": [
+          "Judges 2:18",
+          "Nehemiah 9:28",
+          "Psalm 78:38"
+        ],
+        "alt": "A man pulled up from a muddy pit by a rope, others watching.",
+        "art": "assets/psalm106/verse-43-watercolor.webp"
+      },
+      {
+        "title": "He heard their cry",
+        "heading": "He took note of their distress",
+        "meaning": "Verse 44 begins with 'Nevertheless': 'Nevertheless He heard their cry; He took note of their distress.' Despite everything, God listened. Their cry came from suffering, not from perfect repentance, yet God paid attention. This is the turning point toward hope in the psalm. God's ears are open even to people who have brought trouble on themselves.",
+        "contextTitle": "God who hears",
+        "context": "Exodus 2:23-25 says God heard Israel's groaning and remembered His covenant. Judges 10:16 says God could bear Israel's misery no longer. Psalm 34:17 says the LORD hears the righteous when they cry out.",
+        "explore": [
+          [
+            "Nevertheless",
+            "In spite of all that came before; a word that turns the story toward grace."
+          ],
+          [
+            "Took note",
+            "Saw with attention and concern, not ignoring what was happening."
+          ]
+        ],
+        "reflect": "Do you believe God still hears you when your trouble is your own fault?",
+        "related": [
+          "Exodus 2:24",
+          "Judges 10:16",
+          "Psalm 34:17"
+        ],
+        "alt": "A woman crying out alone in a field at night under the stars.",
+        "art": "assets/psalm106/verse-44-watercolor.webp"
+      },
+      {
+        "title": "He remembered His covenant",
+        "heading": "He relented in loving devotion",
+        "meaning": "Verse 45 says, 'And He remembered His covenant with them, and relented by the abundance of His loving devotion.' Israel had forgotten God many times, but God never forgot His covenant. His promise, not their performance, was the foundation. He relented, holding back the judgment they deserved, because His loving devotion is abundant.",
+        "contextTitle": "Covenant memory",
+        "context": "Leviticus 26:42 promises God will remember His covenant with Jacob, Isaac and Abraham. Exodus 34:6 describes Him as abounding in loving devotion. Luke 1:72 praises God for remembering His holy covenant.",
+        "explore": [
+          [
+            "Covenant",
+            "A binding promise relationship God made with His people."
+          ],
+          [
+            "Relented",
+            "Turned back from a course of action; here, withholding deserved judgment."
+          ]
+        ],
+        "reflect": "How does God's faithful memory comfort you when you have been forgetful?",
+        "related": [
+          "Leviticus 26:42",
+          "Exodus 34:6",
+          "Luke 1:72"
+        ],
+        "alt": "A rainbow arching over a valley after a storm.",
+        "art": "assets/psalm106/verse-45-watercolor.webp"
+      },
+      {
+        "title": "Compassion from captors",
+        "heading": "Objects of compassion",
+        "meaning": "Verse 46 says, 'He made them objects of compassion to all who held them captive.' Even in exile, God softened the hearts of their captors. People who held Israel captive began to treat them kindly. God's mercy reached into foreign lands and worked through unexpected people, even pagan kings like Cyrus of Persia.",
+        "contextTitle": "Mercy in exile",
+        "context": "1 Kings 8:50 prayed that captors would show God's people compassion. Ezra 1:1-4 tells of Cyrus allowing the exiles to return. Nehemiah 2:8 records the Persian king granting Nehemiah's requests.",
+        "explore": [
+          [
+            "Compassion",
+            "Tender pity that moves someone to show real kindness."
+          ],
+          [
+            "Captive",
+            "Held as a prisoner or exile, especially in a foreign land."
+          ]
+        ],
+        "reflect": "Where might God be working through unexpected people to show you kindness?",
+        "related": [
+          "1 Kings 8:50",
+          "Ezra 1:3",
+          "Nehemiah 2:8"
+        ],
+        "alt": "A foreign official handing a scroll to a kneeling exile in a palace courtyard.",
+        "art": "assets/psalm106/verse-46-watercolor.webp"
+      },
+      {
+        "title": "Gather us",
+        "heading": "That we may give thanks",
+        "meaning": "Verse 47 prays, 'Save us, O LORD our God, and gather us from the nations, that we may give thanks to Your holy name, that we may glory in Your praise.' The confession ends in petition. The scattered people ask to be gathered home. The goal of their rescue is worship: to give thanks and glory in God's praise again.",
+        "contextTitle": "Prayer of the scattered",
+        "context": "1 Chronicles 16:35 uses these words in David's song. Deuteronomy 30:3-4 promises God will gather His people from the nations. John 11:52 says Jesus died to gather the scattered children of God.",
+        "explore": [
+          [
+            "Gather",
+            "To bring back together people who have been scattered."
+          ],
+          [
+            "Glory in",
+            "To boast joyfully, finding one's honor in God's praise."
+          ]
+        ],
+        "reflect": "What would it look like for God to gather what is scattered in your life?",
+        "related": [
+          "1 Chronicles 16:35",
+          "Deuteronomy 30:3",
+          "John 11:52"
+        ],
+        "alt": "Travelers from many directions converging on a road toward a hilltop city.",
+        "art": "assets/psalm106/verse-47-watercolor.webp"
+      },
+      {
+        "title": "Amen and Hallelujah",
+        "heading": "From everlasting to everlasting",
+        "meaning": "Verse 48 ends the psalm and Book IV of the Psalter: 'Blessed be the LORD, the God of Israel, from everlasting to everlasting. Let all the people say, “Amen!” Hallelujah!' After the long history of failure, the final word is praise. God is blessed forever, and all the people are invited to agree with a loud Amen.",
+        "contextTitle": "The doxology of Book IV",
+        "context": "Each book of the Psalms ends with a doxology, like Psalm 41:13, 72:18-19 and 89:52. 1 Chronicles 16:36 records the people saying Amen and praising the LORD. Revelation 5:13-14 ends heavenly worship with Amen.",
+        "explore": [
+          [
+            "Everlasting",
+            "Without beginning or end; God's eternal existence and reign."
+          ],
+          [
+            "Amen",
+            "A Hebrew word meaning 'so be it' or 'truly,' agreeing with what was said."
+          ]
+        ],
+        "reflect": "After honest confession, how can you end your prayer today in praise?",
+        "related": [
+          "Psalm 41:13",
+          "1 Chronicles 16:36",
+          "Revelation 5:14"
+        ],
+        "alt": "A large congregation with hands raised outdoors in an open courtyard.",
+        "art": "assets/psalm106/verse-48-watercolor.webp"
+      }
+    ]
+  }
+}
