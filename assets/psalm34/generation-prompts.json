@@ -1,0 +1,163 @@
+{
+  "tool": "GenerateImage (aspect 4:3, style reference image)",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "productionFormat": "WebP 1024x683 (center crop of 1024x768), quality 75",
+  "status": "complete",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 1: Seen from a distance, a small villager in a striped head cloth and short belted tunic walks away from the massive gate of a foreign Philistine-style city at dawn, hands lifted in quiet thanksgiving on the open road, conveying praise at all times after escape.",
+      "production": "assets/psalm34/verse-1-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "10d272c5c5c60ce6a3eac2218126f3979d61946fc04de4b6dbe378e100d88132.jpg"
+    },
+    {
+      "verse": 2,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 2: A traveler sits telling a story to a small circle of poor villagers who listen intently by an evening fire outside simple huts, faces lit warmly, conveying testimony that encourages the oppressed.",
+      "production": "assets/psalm34/verse-2-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "ba77ffa028c20deec268e5f9446c2b3be963d1c03a3aced5626e64ca8c0535ec.jpg"
+    },
+    {
+      "verse": 3,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 3: Anonymous friends in simple ancient clothing stand side by side on a grassy hilltop at sunrise with arms raised, wind in their cloaks, conveying magnifying the LORD together.",
+      "production": "assets/psalm34/verse-3-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "b73ca3fe0f6696a7ef0f799a3d607cbe0bd7192b880759705cedd54ee213a075.jpg"
+    },
+    {
+      "verse": 4,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 4: A traveler emerges from a dark tangled forest into a bright sunlit clearing with wildflowers, shoulders relaxing, conveying deliverance from fear after seeking God.",
+      "production": "assets/psalm34/verse-4-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "94ceb3e8a3c974b4aed26dbe36badea3af3b271ac49293d0d2721a3d26d2a63d.jpg"
+    },
+    {
+      "verse": 5,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 5: A woman in a simple headscarf lifts her face toward the warm morning sun with bright eyes and a gentle smile in a field of grain, conveying faces radiant with joy and free of shame.",
+      "production": "assets/psalm34/verse-5-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "b8c8c6e9c8dc88417685834567e56400c7d87071ec2148c4287df819c45caeb0.jpg"
+    },
+    {
+      "verse": 6,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 6: A small ragged villager in a patched head cloth kneels on a lonely dusty road at dusk, face lifted, calling out with open arms toward a wide calm sky, conveying a poor man's cry heard by the LORD.",
+      "production": "assets/psalm34/verse-6-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "e0340819942733aeab98aeae479973e1142ab0537930d38ac3b3eb77290a3aee.jpg"
+    },
+    {
+      "verse": 7,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 7: A small sleeping village in a valley at night is ringed by quiet watchfires glowing on all the surrounding hills, no figures shown, conveying the angel of the LORD encamping around God's people.",
+      "production": "assets/psalm34/verse-7-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "2a599a6cb782b5a1d4322172cc15af17ed0a7c2db2511bf89917b9a718a2b0cd.jpg"
+    },
+    {
+      "verse": 8,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 8: A low rough wooden table in a mud-brick room holds round flat loaves of bread, a dripping honeycomb on a clay plate, fresh figs and a small clay cup of water, warm light through an unglazed arched stone window opening onto vineyards, no glass, no people, conveying taste and see that the LORD is good.",
+      "production": "assets/psalm34/verse-8-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "006de63307b517e6861eeaa20b182e47cf677a441ee70b034056032577215b38.jpg"
+    },
+    {
+      "verse": 9,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 9: Close view of a flat sun-warmed rock in a dry upland pasture holding a simple drawstring shepherd's pouch of rough hide, a round flat loaf and a bulging goatskin waterskin, a wooden staff leaning beside it and brown goats grazing on the slope beyond, no river, no people, conveying that those who fear the LORD lack nothing.",
+      "production": "assets/psalm34/verse-9-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "9470bef1a0ca951112e5efa2a99e30302ce01a786c0da6266775b8bf1fbc29a0.jpg"
+    },
+    {
+      "verse": 10,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 10: A thin young lion prowls a dry rocky hillside in harsh light while below in a green valley an anonymous family shares bread outside a small home, conveying strength failing while seekers of the LORD are provided for.",
+      "production": "assets/psalm34/verse-10-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "833798506d295f4a4b5620f0bef8de0cb86283d4ba9281b5874ec3a091ff199a.jpg"
+    },
+    {
+      "verse": 11,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 11: A older teacher sits with a small group of anonymous children beneath a large shade tree in a village, hands gesturing as they listen, conveying instruction in the fear of the LORD.",
+      "production": "assets/psalm34/verse-11-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "762295cb20c291fc99588369135664b217ae7cc0f18ad3ed28acb30901614464.jpg"
+    },
+    {
+      "verse": 12,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 12: Anonymous children run joyfully through a sunlit meadow of wildflowers toward a peaceful village on a hill, an elder watching from a gate, conveying the desire for life and good days.",
+      "production": "assets/psalm34/verse-12-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "b974d596fb122c6191fe7169ad263ddd0a6a975b4a5510bbba1c099af7b15a6b.jpg"
+    },
+    {
+      "verse": 13,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 13: A small smoldering spark on dry grass sits beside a still clear pool of water at the edge of a field in quiet evening light, no people, conveying the power of the tongue to harm or be guarded.",
+      "production": "assets/psalm34/verse-13-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "c4260fc902bace2819d58d66c4aa94059f6549270d7891258eaf9aa2bf258444.jpg"
+    },
+    {
+      "verse": 14,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 14: Two anonymous neighbors in simple ancient clothing clasp hands over a low stone wall between their fields at sunset, a gate opening between them, conveying seeking and pursuing peace.",
+      "production": "assets/psalm34/verse-14-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "ece33f72dcf4049e44e1f799f57ead8edfd2d71ea623c662eff33dab619e2467.jpg"
+    },
+    {
+      "verse": 15,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 15: Seen from inside a dim mud-brick room, a woman in a plain headscarf kneels quietly by an unglazed square window opening at dusk, head bowed, a small clay oil lamp glowing on the sill and warm evening light on her shoulders, no glass, no candles, no divine figure, conveying God's attentive eyes and ears.",
+      "production": "assets/psalm34/verse-15-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "79920e880fcf81531b620b758ad8c7533d9d44cdc1e020e608251ee92e489ac5.jpg"
+    },
+    {
+      "verse": 16,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 16: Wind blows sand over an abandoned crumbling fortress in a barren landscape under a heavy sky, no people, conveying the end of evil's memory under God's justice.",
+      "production": "assets/psalm34/verse-16-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "dc531357473e2f78df98452961d7b35f1bfe1f06351a93a2b9c82885d4e66392.jpg"
+    },
+    {
+      "verse": 17,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 17: Anonymous villagers stand together crying out with lifted hands beneath a dark stormy sky as the first light breaks through on the horizon, conveying the righteous crying out and being heard.",
+      "production": "assets/psalm34/verse-17-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "8314e0228f275987092f24b4271b4ec71354043a0f637a4e3424121a068382de.jpg"
+    },
+    {
+      "verse": 18,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 18: On a quiet rocky hillside at dusk, a grieving woman in a headscarf sits beside a low cairn of piled field stones near an ancient rock-cut tomb opening, while a second woman in a headscarf kneels beside her with a hand on her shoulder, soft light, no carved headstone, conveying the LORD near to the brokenhearted.",
+      "production": "assets/psalm34/verse-18-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "7e2906682131ac353dcde6945192c49f58db17bcabd834289f2dc89f2e223aa0.jpg"
+    },
+    {
+      "verse": 19,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 19: A weathered anonymous traveler walks steadily through driving rain along a muddy road toward a sheltering village with warm lit windows, conveying many afflictions and God's deliverance.",
+      "production": "assets/psalm34/verse-19-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "15e34384483e967b8079be6a16332e0ddc6119167c1c72eb5884ce2f2a660fb2.jpg"
+    },
+    {
+      "verse": 20,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 20: An older shepherd woman in a brown headscarf gently carries a young lamb across a rocky stream in soft evening light, careful steps on smooth stones, conveying God's careful protection of the whole person.",
+      "production": "assets/psalm34/verse-20-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "f4ccf82c96b414b31ad0e48e75dd52a646426df795b5ab6277d94b6d89cd0bc6.jpg"
+    },
+    {
+      "verse": 21,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 21: A primitive hunter's snare of twisted plant-fiber rope tied to a bent sapling has sprung and hangs empty and tangled above a patch of bare ground beside an abandoned overgrown path at dusk, no metal, no springs, no animals, no people, conveying evil turning back on those who practice it.",
+      "production": "assets/psalm34/verse-21-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "851c71d6d370baf08f52af11afd5ed82ca179a3919dc55745527fbbe45a10c3a.jpg"
+    },
+    {
+      "verse": 22,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 34 verse 22: A small villager in a head cloth and plain work tunic walks freely out of an open ancient prison gate into bright sunlight and green fields, broken chains on the ground behind, conveying redemption and freedom from condemnation.",
+      "production": "assets/psalm34/verse-22-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "cbd4483349fd5cd6e2a3d8908fa5453cc569ef035379ee94875863af2232e4f5.jpg"
+    }
+  ],
+  "pendingVerses": []
+}

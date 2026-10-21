@@ -1,0 +1,565 @@
+/* Original editorial notes and symbolic illustrations. Scripture loads unchanged from bundled BSB. */
+(function(){
+"use strict";
+window.SFL_VERSE_STUDIES.register({
+  "number": 33,
+  "coverVerse": 6,
+  "title": "The earth is full of His loving devotion.",
+  "intro": "Twenty-two verses call for a new song to the Creator whose word made the heavens, whose counsel stands, and whose eyes watch over those who hope in Him.",
+  "context": "Psalm 33 has no heading in the bundled BSB and names no author. Verses 1–3 call the righteous to praise with music; verses 4–5 give the reason, God's upright word and loving devotion. Verses 6–9 celebrate creation by God's word. Verses 10–12 contrast the failing plans of nations with the lasting counsel of the LORD and bless the people He has chosen. Verses 13–19 describe God watching all people and show that armies and horses cannot save, while His eyes are on those who fear Him; the sentence runs from verse 18 into verse 19. Verses 20–22 close with communal waiting and hope. The Scripture is loaded unchanged from the bundled BSB.",
+  "peopleNote": "No person is named in this psalm and the bundled BSB gives no heading, so no character profile is linked. Planned paintings show creation, anonymous worshipers and symbolic landscapes; God is never portrayed as a human body.",
+  "people": [],
+  "verses": [
+    {
+      "title": "Praise is fitting",
+      "heading": "A call for the upright to rejoice",
+      "meaning": "Psalm 33 opens with a summons: Rejoice in the LORD, O righteous ones. It follows naturally from the end of Psalm 32, which called the upright to shout for joy. Praise is called fitting, meaning it is the right and beautiful response for those who know God. The righteous are those in right relationship with God, not those who claim perfection. The verse invites worship as the proper shape of a life turned toward God.",
+      "contextTitle": "A psalm without a heading",
+      "context": "Unlike most psalms in this part of the book, Psalm 33 has no heading in the bundled BSB. Its opening echoes Psalm 32:11, and Psalm 147:1 also says praise is fitting and pleasant.",
+      "explore": [
+        [
+          "Rejoice in the LORD",
+          "Joy is centered on God Himself. It is more than general happiness."
+        ],
+        [
+          "It is fitting",
+          "Praise suits those who know God. It is the natural response of the upright."
+        ]
+      ],
+      "reflect": "What makes praise feel natural or difficult for you right now? What could you rejoice in?",
+      "related": [
+        "Psalm 32:11",
+        "Psalm 147:1",
+        "Philippians 4:4"
+      ],
+      "alt": "Anonymous worshipers gather at dawn on a hillside with lifted faces.",
+      "art": "assets/psalm33/verse-1-watercolor.webp"
+    },
+    {
+      "title": "Harp and ten strings",
+      "heading": "Praise offered through music",
+      "meaning": "Verse 2 calls for instruments: praise the LORD with the harp and make music with ten strings. Ancient Israel used lyres and harps of various kinds in worship. Naming the instruments shows that worship engages skill and craft as well as words. The verse does not prescribe particular styles; it celebrates music as a gift offered back to God.",
+      "contextTitle": "Instruments in worship",
+      "context": "Psalm 92:3 mentions the ten-stringed lyre and harp, and 1 Chronicles 15:16 describes musicians appointed for worship with harps and lyres. Music was a central part of Israel's praise.",
+      "explore": [
+        [
+          "The harp",
+          "The harp or lyre was a common instrument of praise. Its music accompanied song."
+        ],
+        [
+          "Ten strings",
+          "A ten-stringed instrument suggests richness and skill. Worship can be crafted with care."
+        ]
+      ],
+      "reflect": "What gift or skill could you offer to God as praise? How might you use it this week?",
+      "related": [
+        "Psalm 92:3",
+        "1 Chronicles 15:16",
+        "Psalm 150:3"
+      ],
+      "alt": "A wooden harp and lyre rest on a stone ledge in morning sunlight.",
+      "art": "assets/psalm33/verse-2-watercolor.webp"
+    },
+    {
+      "title": "A new song",
+      "heading": "Fresh praise, played with skill and joy",
+      "meaning": "The call continues: Sing to Him a new song; play skillfully with a shout of joy. A new song can mean a fresh response to new mercies, or praise that feels renewed. Skillful playing honors God by offering one's best. The shout of joy adds wholehearted celebration. The verse joins care and exuberance, craft and delight.",
+      "contextTitle": "New songs in Scripture",
+      "context": "Psalm 40:3 and Psalm 96:1 also speak of a new song, and Revelation 5:9 pictures a new song before God's throne. Newness often follows fresh acts of deliverance.",
+      "explore": [
+        [
+          "A new song",
+          "Newness responds to fresh mercy. Praise does not have to repeat itself mechanically."
+        ],
+        [
+          "Play skillfully",
+          "Skill honors the one who receives praise. Care and joy go together."
+        ]
+      ],
+      "reflect": "What fresh mercy could inspire a new song or prayer from you today?",
+      "related": [
+        "Psalm 40:3",
+        "Psalm 96:1",
+        "Revelation 5:9"
+      ],
+      "alt": "Anonymous musicians play together joyfully beneath a spreading tree.",
+      "art": "assets/psalm33/verse-3-watercolor.webp"
+    },
+    {
+      "title": "Upright word, trustworthy work",
+      "heading": "The reason for praise",
+      "meaning": "Verse 4 gives the first reason for praise. The word of the LORD is upright, and all His work is trustworthy. God's speech is straight and true, and His actions are faithful. What God says and what God does match. This consistency is the ground for trust and joy. The verse prepares for the celebration of creation by God's word that follows.",
+      "contextTitle": "Faithful word and work",
+      "context": "Psalm 19:8 says the precepts of the LORD are right, and Deuteronomy 32:4 says all His ways are just and He is a God of faithfulness. Psalm 33 joins word and work.",
+      "explore": [
+        [
+          "Upright",
+          "An upright word is straight and true. It does not deceive."
+        ],
+        [
+          "Trustworthy",
+          "God's work is faithful. It can be relied upon. What He makes and does can be relied upon."
+        ]
+      ],
+      "reflect": "Where do you need to trust that God's word and work are reliable? What would that change?",
+      "related": [
+        "Psalm 19:8",
+        "Deuteronomy 32:4",
+        "Psalm 111:7"
+      ],
+      "alt": "A straight path runs through ordered fields toward distant hills.",
+      "art": "assets/psalm33/verse-4-watercolor.webp"
+    },
+    {
+      "title": "Full of loving devotion",
+      "heading": "God's character fills the earth",
+      "meaning": "The LORD loves righteousness and justice, and the earth is full of His loving devotion. God's love for justice reveals what He values: right relationships and fairness. At the same time, His covenant love fills the earth, seen in creation and care. The verse joins justice and love rather than setting them against each other. It invites readers to notice God's kindness throughout the world.",
+      "contextTitle": "Justice and love together",
+      "context": "Psalm 119:64 says the earth is full of Your loving devotion, and Micah 6:8 calls people to do justice and love mercy. Psalm 33:5 holds both in God's character.",
+      "explore": [
+        [
+          "Righteousness and justice",
+          "God cares about what is right and fair. These are not abstract ideals but His delight."
+        ],
+        [
+          "Full of loving devotion",
+          "God's love is everywhere in creation. The verse invites noticing it."
+        ]
+      ],
+      "reflect": "Where have you noticed God's loving devotion in the world around you this week?",
+      "related": [
+        "Psalm 119:64",
+        "Micah 6:8",
+        "Psalm 36:5"
+      ],
+      "alt": "A wide fertile landscape of fields, orchards and streams glows in morning light.",
+      "art": "assets/psalm33/verse-5-watercolor.webp"
+    },
+    {
+      "title": "By the word of the LORD",
+      "heading": "Creation through God's speech",
+      "meaning": "The psalm celebrates creation: by the word of the LORD the heavens were made, and all the stars by the breath of His mouth. This recalls Genesis 1, where God speaks and creation comes to be. Word and breath picture effortless power. The verse invites wonder at the night sky as evidence of God's creative voice. It does not describe how creation happened scientifically; it praises the Creator.",
+      "contextTitle": "Echoes of Genesis",
+      "context": "Genesis 1:3 records God speaking light into being, and Hebrews 11:3 says the universe was formed at God's command. John 1:1–3 links creation to the Word.",
+      "explore": [
+        [
+          "The word of the LORD",
+          "God speaks and things exist. His word has creative power."
+        ],
+        [
+          "Breath of His mouth",
+          "Breath pictures effortless power. The stars came into being at His command."
+        ]
+      ],
+      "reflect": "When did you last look up at the stars and wonder? What might they say to you about God?",
+      "related": [
+        "Genesis 1:3",
+        "Hebrews 11:3",
+        "John 1:3"
+      ],
+      "alt": "A vast starry night sky arches over quiet desert hills.",
+      "art": "assets/psalm33/verse-6-watercolor.webp"
+    },
+    {
+      "title": "Waters in storehouses",
+      "heading": "The Creator governs the sea",
+      "meaning": "God piles up the waters of the sea and puts the depths into storehouses. The sea, often a symbol of chaos in the ancient world, is shown as fully under God's control. Piling up waters may recall the crossing of the Red Sea, where waters stood like a heap. Storehouses picture the depths kept like supplies. The verse invites trust in a God who governs even overwhelming forces.",
+      "contextTitle": "Chaos under control",
+      "context": "Exodus 15:8 describes waters piled up at the Red Sea, and Job 38:22 speaks of storehouses of snow. Psalm 33:7 celebrates God's mastery of the sea.",
+      "explore": [
+        [
+          "Piles up the waters",
+          "The image may recall the parting of the sea. Water obeys its Maker."
+        ],
+        [
+          "Storehouses",
+          "The depths are kept like stored grain. God governs even the deepest chaos."
+        ]
+      ],
+      "reflect": "What feels chaotic or overwhelming to you? What would trusting God's control there look like?",
+      "related": [
+        "Exodus 15:8",
+        "Job 38:8",
+        "Psalm 104:9"
+      ],
+      "alt": "Great ocean waves rise and curl as though held back before a rocky shore.",
+      "art": "assets/psalm33/verse-7-watercolor.webp"
+    },
+    {
+      "title": "Let all the earth fear",
+      "heading": "A call to universal reverence",
+      "meaning": "Because God is Creator, the psalm calls all the earth and all its people to fear and revere Him. Fear here means awe and reverence, a recognition of God's greatness. The call is universal, reaching beyond Israel to every nation. The verse invites humility before the one who made all things. It anticipates the reason given in verse 9.",
+      "contextTitle": "Reverence for all peoples",
+      "context": "Psalm 96:9 says, 'Tremble before Him, all the earth,' and Psalm 67:3 hopes that all peoples will praise God. Psalm 33 extends worship beyond Israel.",
+      "explore": [
+        [
+          "Fear the LORD",
+          "Fear means reverent awe. It is a fitting response to the Creator."
+        ],
+        [
+          "All the people of the world",
+          "The call is universal. Every nation is invited to honor God."
+        ]
+      ],
+      "reflect": "What helps you feel awe toward God? How could you make space for that this week?",
+      "related": [
+        "Psalm 96:9",
+        "Psalm 67:3",
+        "Revelation 15:4"
+      ],
+      "alt": "Diverse anonymous peoples stand before a vast mountain range at sunrise.",
+      "art": "assets/psalm33/verse-8-watercolor.webp"
+    },
+    {
+      "title": "He spoke, and it came to be",
+      "heading": "The power of God's command",
+      "meaning": "The reason for reverence is simple and powerful: He spoke, and it came to be; He commanded, and it stood firm. God's word does not fail. What He says happens, and what He establishes remains. The verse echoes the creation account, where God's speech brings order and stability. It invites confidence that God's word still holds.",
+      "contextTitle": "Command and creation",
+      "context": "Genesis 1:9 says, 'And it was so,' after God commands, and Psalm 148:5 says creation was made at His command. Psalm 33:9 condenses this in two lines.",
+      "explore": [
+        [
+          "He spoke",
+          "God's speech brings things into being. There is no gap between His word and its fulfillment."
+        ],
+        [
+          "It stood firm",
+          "What God makes remains. Creation is stable because of His word."
+        ]
+      ],
+      "reflect": "Which of God's promises do you need to trust will stand firm today?",
+      "related": [
+        "Genesis 1:9",
+        "Psalm 148:5",
+        "Isaiah 55:11"
+      ],
+      "alt": "Dawn light breaks over towering rock formations standing firm above the plain.",
+      "art": "assets/psalm33/verse-9-watercolor.webp"
+    },
+    {
+      "title": "Plans of the nations",
+      "heading": "Human schemes frustrated",
+      "meaning": "The LORD frustrates the plans of the nations and thwarts the devices of the peoples. Human powers may plot and plan, but God is not bound by them. This is not a claim that all national plans are evil, but that none can override God's purposes. The verse comforts those who feel small before powerful forces.",
+      "contextTitle": "God above the nations",
+      "context": "Psalm 2:1–4 pictures God laughing at nations that plot against Him, and Proverbs 19:21 says many are the plans in a man's heart, but the LORD's purpose prevails.",
+      "explore": [
+        [
+          "Frustrates the plans",
+          "God can undo human designs. No scheme is beyond His reach."
+        ],
+        [
+          "Devices of the peoples",
+          "The word suggests schemes and intentions. God sees through them."
+        ]
+      ],
+      "reflect": "What powerful forces feel threatening to you? How could you trust God's purposes above them?",
+      "related": [
+        "Psalm 2:4",
+        "Proverbs 19:21",
+        "Isaiah 8:10"
+      ],
+      "alt": "Scattered blueprints and broken siege ladders lie abandoned beneath a calm sky.",
+      "art": "assets/psalm33/verse-10-watercolor.webp"
+    },
+    {
+      "title": "Counsel that stands forever",
+      "heading": "God's lasting purposes",
+      "meaning": "In contrast to failing human plans, the counsel of the LORD stands forever, and the purposes of His heart last to all generations. God's plans are not temporary or easily broken. They span every generation. The verse invites trust in a God whose intentions remain steady across history. It answers the uncertainty of verse 10.",
+      "contextTitle": "God's lasting purpose",
+      "context": "Isaiah 46:10 says, 'My purpose will stand,' and Proverbs 19:21 contrasts human plans with the LORD's purpose. Psalm 33:11 extends that purpose to all generations.",
+      "explore": [
+        [
+          "Stands forever",
+          "God's counsel does not fail. It outlasts every human plan."
+        ],
+        [
+          "All generations",
+          "God's purposes reach from one generation to the next. They are not limited to one moment."
+        ]
+      ],
+      "reflect": "How does it help you to know that God's purposes last through generations?",
+      "related": [
+        "Isaiah 46:10",
+        "Proverbs 19:21",
+        "Psalm 102:12"
+      ],
+      "alt": "An ancient oak tree stands tall over generations of children playing beneath it.",
+      "art": "assets/psalm33/verse-11-watercolor.webp"
+    },
+    {
+      "title": "Blessed is the nation",
+      "heading": "God's chosen people",
+      "meaning": "Blessed is the nation whose God is the LORD, the people He has chosen as His inheritance. In its first setting this refers to Israel, chosen by God as His treasured people. The verse celebrates belonging to God rather than national power. It is not a promise to any modern country but a statement about the blessing of covenant relationship with the LORD.",
+      "contextTitle": "Chosen as inheritance",
+      "context": "Deuteronomy 7:6 calls Israel a people chosen for God's treasured possession, and 1 Peter 2:9 applies similar language to God's people in Christ. Psalm 33:12 celebrates that belonging.",
+      "explore": [
+        [
+          "Whose God is the LORD",
+          "The blessing rests in relationship with God. It is not about military or economic power."
+        ],
+        [
+          "His inheritance",
+          "God treasures His people. They belong to Him as a cherished possession."
+        ]
+      ],
+      "reflect": "What does it mean for you to belong to God's people? How could you celebrate that belonging?",
+      "related": [
+        "Deuteronomy 7:6",
+        "1 Peter 2:9",
+        "Psalm 144:15"
+      ],
+      "alt": "Anonymous families gather around a village well in evening light.",
+      "art": "assets/psalm33/verse-12-watercolor.webp"
+    },
+    {
+      "title": "He sees all",
+      "heading": "God looks down on humanity",
+      "meaning": "The LORD looks down from heaven and sees all the sons of men. The image is of God's broad gaze over every person. Nothing and no one is hidden from Him. This can be both comforting and sobering: comforting because no one is forgotten, sobering because no deed is unseen. The verse invites living openly before God.",
+      "contextTitle": "God's watchful gaze",
+      "context": "Psalm 14:2 says the LORD looks down from heaven on the sons of men, and Hebrews 4:13 says nothing is hidden from His sight. Psalm 33 adds that this sight is total.",
+      "explore": [
+        [
+          "Looks down from heaven",
+          "The image pictures God's broad view. It is poetic, not a portrait of God."
+        ],
+        [
+          "All the sons of men",
+          "Every person is seen. No one is overlooked. Each life matters to Him."
+        ]
+      ],
+      "reflect": "How does it feel to be fully seen by God? What would living openly before Him look like?",
+      "related": [
+        "Psalm 14:2",
+        "Hebrews 4:13",
+        "Proverbs 15:3"
+      ],
+      "alt": "A wide view looks down on scattered villages and travelers across a vast valley.",
+      "art": "assets/psalm33/verse-13-watercolor.webp"
+    },
+    {
+      "title": "From His dwelling place",
+      "heading": "God's gaze over the whole earth",
+      "meaning": "Verse 14 repeats the thought: from His dwelling place God gazes on all who inhabit the earth. His dwelling place is heaven, pictured as a throne room above the world. The repetition stresses that God's watchfulness is constant and complete. The verse prepares for the next, which explains how deeply God knows each person.",
+      "contextTitle": "God's dwelling",
+      "context": "1 Kings 8:39 speaks of God hearing from heaven, His dwelling place, and Psalm 102:19 says the LORD looked down from His sanctuary on high. The repetition stresses constancy.",
+      "explore": [
+        [
+          "His dwelling place",
+          "Heaven is pictured as God's home. From there He watches over all."
+        ],
+        [
+          "Gazes",
+          "The word suggests careful, attentive watching. God is not distant or careless."
+        ]
+      ],
+      "reflect": "What would change if you remembered that God is watching over you with care today?",
+      "related": [
+        "1 Kings 8:39",
+        "Psalm 102:19",
+        "Isaiah 57:15"
+      ],
+      "alt": "Clouds part above a sweeping view of mountains, coastline and plains.",
+      "art": "assets/psalm33/verse-14-watercolor.webp"
+    },
+    {
+      "title": "He shapes the hearts",
+      "heading": "God knows each person from within",
+      "meaning": "God shapes the hearts of each person and considers all their works. Shapes pictures a potter forming clay, suggesting God as the maker who knows His creation intimately. He also weighs what people do. The verse joins God's creative care with His careful understanding of human actions. It invites honesty before the one who made and knows us.",
+      "contextTitle": "Maker of hearts",
+      "context": "Jeremiah 18:6 pictures God as a potter shaping clay, and Psalm 139:13 says, 'You formed my inmost being.' Psalm 33:15 links that shaping with understanding.",
+      "explore": [
+        [
+          "Shapes the hearts",
+          "The image suggests a potter. God forms each person with care."
+        ],
+        [
+          "Considers all their works",
+          "God weighs human actions. He understands them fully."
+        ]
+      ],
+      "reflect": "What would it mean to trust that God knows you from the inside out?",
+      "related": [
+        "Jeremiah 18:6",
+        "Psalm 139:13",
+        "1 Samuel 16:7"
+      ],
+      "alt": "A potter's wheel holds a freshly shaped clay vessel in warm light.",
+      "art": "assets/psalm33/verse-15-watercolor.webp"
+    },
+    {
+      "title": "No king saved by his army",
+      "heading": "Military power cannot save",
+      "meaning": "No king is saved by his vast army; no warrior is delivered by his great strength. The psalm challenges trust in military power. Even the mightiest forces cannot guarantee salvation. This does not condemn all defense, but it denies that armies are the final source of security. Trust belongs to God. Verse 17 extends the point to horses.",
+      "contextTitle": "Against trust in armies",
+      "context": "Psalm 20:7 says some trust in chariots and horses, but we trust in the name of the LORD. 1 Samuel 17:47 says the LORD saves not by sword or spear.",
+      "explore": [
+        [
+          "No king",
+          "Even kings with great armies are not secure. Power has limits."
+        ],
+        [
+          "Great strength",
+          "Human strength cannot ultimately save. The verse humbles the mighty."
+        ]
+      ],
+      "reflect": "Where are you tempted to trust strength or resources more than God?",
+      "related": [
+        "Psalm 20:7",
+        "1 Samuel 17:47",
+        "Zechariah 4:6"
+      ],
+      "alt": "An abandoned king's tent and helmet lie in a quiet field at dusk.",
+      "art": "assets/psalm33/verse-16-watercolor.webp"
+    },
+    {
+      "title": "A horse is a vain hope",
+      "heading": "Even the strongest resources fail",
+      "meaning": "A horse is a vain hope for salvation; even its great strength cannot save. In the ancient world, war horses and chariots were the most advanced military power. The psalm calls them a false hope. Their strength is real but not ultimate. The verse invites reflection on modern equivalents, the powerful tools we trust to keep us safe.",
+      "contextTitle": "Horses and chariots",
+      "context": "Isaiah 31:1 warns against trusting horses and chariots instead of the LORD, and Proverbs 21:31 says the horse is prepared for battle, but victory belongs to the LORD.",
+      "explore": [
+        [
+          "A vain hope",
+          "False hope disappoints. Horses cannot give what only God gives."
+        ],
+        [
+          "Great strength",
+          "The horse's power was impressive. Yet it cannot deliver from every danger."
+        ]
+      ],
+      "reflect": "What modern 'horse' do you rely on for security? How could you hold it more loosely?",
+      "related": [
+        "Isaiah 31:1",
+        "Proverbs 21:31",
+        "Psalm 147:10"
+      ],
+      "alt": "A powerful war horse stands riderless in an empty field.",
+      "art": "assets/psalm33/verse-17-watercolor.webp"
+    },
+    {
+      "title": "His eyes on those who fear Him",
+      "heading": "God watches over the humble",
+      "meaning": "Surely the eyes of the LORD are on those who fear Him, on those whose hope is in His loving devotion. In contrast to armies and horses, God's attention rests on the humble who trust Him. Fear means reverent trust. Hope rests on God's covenant love. The sentence continues into verse 19, which explains why God watches.",
+      "contextTitle": "God's watchful eyes",
+      "context": "Psalm 34:15 says the eyes of the LORD are on the righteous, and 2 Chronicles 16:9 says His eyes range throughout the earth to strengthen those whose hearts are fully His.",
+      "explore": [
+        [
+          "The eyes of the LORD",
+          "God's attention is a picture of care. It is not a portrait of God."
+        ],
+        [
+          "Hope in His loving devotion",
+          "Hope rests on God's covenant love. It looks to Him, not to power."
+        ]
+      ],
+      "reflect": "Where do you need to know God's eyes are on you today?",
+      "related": [
+        "Psalm 34:15",
+        "2 Chronicles 16:9",
+        "Psalm 147:11"
+      ],
+      "alt": "A lone shepherd watches over a resting flock under a starry sky.",
+      "art": "assets/psalm33/verse-18-watercolor.webp"
+    },
+    {
+      "title": "Kept alive in famine",
+      "heading": "Rescue from death and hunger",
+      "meaning": "Verse 19 completes the sentence: God watches over those who hope in Him to deliver them from death and keep them alive in famine. These were real threats in the ancient world. The verse does not promise that no believer will ever die or go hungry, but it expresses confidence in God's care in desperate times. It honors the deep needs of body and life.",
+      "contextTitle": "Provision in famine",
+      "context": "Psalm 37:19 says in the days of famine the righteous will be satisfied, and 1 Kings 17:14–16 tells of the widow's flour and oil lasting during famine.",
+      "explore": [
+        [
+          "Deliver them from death",
+          "God's care reaches life-and-death danger. The verse expresses trust in His rescue."
+        ],
+        [
+          "Alive in famine",
+          "Hunger was a real threat. God's watchful care includes daily provision."
+        ]
+      ],
+      "reflect": "Where do you need God's provision or rescue today? How could you ask Him?",
+      "related": [
+        "Psalm 37:19",
+        "1 Kings 17:14",
+        "Matthew 6:11"
+      ],
+      "alt": "A small jar of flour and a jug of oil sit on a bare table in a dry land.",
+      "art": "assets/psalm33/verse-19-watercolor.webp"
+    },
+    {
+      "title": "Our help and our shield",
+      "heading": "The community waits together",
+      "meaning": "The psalm moves to the community's voice: Our soul waits for the LORD; He is our help and our shield. Waiting means patient trust, not passive resignation. Help speaks of God coming alongside; shield speaks of protection. The plural 'our' shows that waiting is shared. The verse invites communal trust in God's care.",
+      "contextTitle": "Waiting together",
+      "context": "Psalm 115:9–11 calls Israel to trust the LORD, our help and shield. Isaiah 40:31 says those who wait on the LORD will renew their strength. The plural voice matters here.",
+      "explore": [
+        [
+          "Our soul waits",
+          "Waiting is active trust. The community holds on together."
+        ],
+        [
+          "Help and shield",
+          "Help comes alongside; a shield protects. God is both."
+        ]
+      ],
+      "reflect": "Who are you waiting on God with? How could you encourage each other?",
+      "related": [
+        "Psalm 115:9",
+        "Isaiah 40:31",
+        "Psalm 28:7"
+      ],
+      "alt": "A small community waits together at a city gate at dawn.",
+      "art": "assets/psalm33/verse-20-watercolor.webp"
+    },
+    {
+      "title": "Our hearts rejoice",
+      "heading": "Joy rooted in trust",
+      "meaning": "The community continues: our hearts rejoice in Him, since we trust in His holy name. Joy and trust are linked. Because they rely on God's character, revealed in His name, they can rejoice even while waiting. The verse shows that joy does not have to wait until every trouble is resolved. It is the joy of people still waiting in hope.",
+      "contextTitle": "Joy and trust",
+      "context": "Psalm 28:7 says, 'My heart trusts in Him, and I am helped. My heart rejoices.' Zephaniah 3:17 pictures God rejoicing over His people. Psalm 33:21 joins both ideas in the community's voice.",
+      "explore": [
+        [
+          "Hearts rejoice",
+          "Joy springs from the heart. It is rooted in relationship with God."
+        ],
+        [
+          "His holy name",
+          "God's name stands for His revealed character. Trust in His name is trust in who He is."
+        ]
+      ],
+      "reflect": "How could you rejoice in God today while you are still waiting for something?",
+      "related": [
+        "Psalm 28:7",
+        "Zephaniah 3:17",
+        "Psalm 5:11"
+      ],
+      "alt": "Anonymous villagers smile and sing as they work in a sunny vineyard.",
+      "art": "assets/psalm33/verse-21-watercolor.webp"
+    },
+    {
+      "title": "May Your love rest on us",
+      "heading": "A closing prayer of hope",
+      "meaning": "The psalm ends with a prayer: May Your loving devotion rest on us, O LORD, as we put our hope in You. The request is humble. The community asks for God's covenant love to rest on them in the measure of their hope. The verse sums up the psalm: trust in the Creator, hope in His love, and dependence on His care.",
+      "contextTitle": "A prayer for love",
+      "context": "Psalm 90:17 asks that the favor of the Lord rest on us, and Lamentations 3:22–24 grounds hope in the LORD's steadfast love. Psalm 33:22 closes the psalm with that hope.",
+      "explore": [
+        [
+          "Rest on us",
+          "The prayer asks for love that settles and remains. It is a gentle hope."
+        ],
+        [
+          "As we put our hope in You",
+          "Hope is directed to God. The community leans on Him."
+        ]
+      ],
+      "reflect": "What would it look like for God's love to rest on you and your community today?",
+      "related": [
+        "Psalm 90:17",
+        "Lamentations 3:24",
+        "Psalm 130:7"
+      ],
+      "alt": "Soft evening light rests over a sleeping village in the hills.",
+      "art": "assets/psalm33/verse-22-watercolor.webp"
+    }
+  ]
+});
+})();
