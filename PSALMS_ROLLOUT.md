@@ -27,11 +27,14 @@ Approved goal: extend the Psalm 1 / original Psalm 23 format across all 150 Psal
 | 19 | 14 | `#/study/19/1` |
 | 20 | 9 | `#/study/20/1` |
 | 21 | 13 | `#/study/21/1` |
+| 22 | 31 | `#/study/22/1` |
 | 23 | 6 | `#/study/23/1` |
 
 Psalm 46 has a six-section study covering all eleven verses; it still needs conversion to individual verse pages to meet the new goal. All other Psalms retain their full chapter pages and chapter introductions, rather than being labeled finished verse studies.
 
-Next sequential chapter: **Psalm 22**. Continue in order, keeping the completed Psalm 23 study and arranging Psalm 46's conversion when reached. No new approval is needed for each chapter within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique verse art, or imply that work continues in the background after a session ends.
+Next sequential unfinished chapter: **Psalm 24**. Preserve the completed original Psalm 23 study and arrange Psalm 46's conversion when reached. No routine chapter approval is needed within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique art, or that work continues after a session ends.
+
+Psalm 22 passed the whole-chapter gate in PR #42: all 31 exact BSB verses and musical heading, individual original notes and distinct inspected watercolors, contextual Gospel/Hebrews connections, David/Jesus/Jacob links, shared Saved/dialog reflections, independent resume, alone/grief/gratitude needs links and 21→22→original 23 navigation. CI 39521988286 and 39521983431 passed on 19e265226985f84a5ddc743c5defb5acfd9e7f46, including source/reference/art checks, all-verse/tab/image phone-width website/packaged-webview tests, reload/shared reflections, needs round trips and Capacitor creation/sync. Production art adds 9.78 MiB, packaged for offline and Android. Story manuscripts, scene data, renderers and Psalm 23 are unchanged. The minimal Ruth copy-list/parity repair preserves current main integration. Native APK/device testing is separate. Publication follows tested final PR #42 merge, main CI, Pages deployment and live verification; if PR #42 remains open, finish it before starting Psalm 24.
 
 Psalm 21 passed its whole-chapter gate in PR #41: thirteen exact BSB verses with heading and Selah, individual original notes and distinct inspected paintings, careful royal life/judgment context, David background, shared Saved/dialog reflections, independent resume and gratitude/strength needs links. CI 39507086883 and 39507083938 passed source/reference/art checks, phone-width website and packaged-browser tests, and Capacitor creation/sync. The 20→21→22 transitions, every verse/tab/image, reflection reload and topic round trips passed. Publication follows the tested PR #41 merge and Pages deployment. Production art adds 4.13 MiB. Story manuscripts, scene data, routes, renderers and Psalm 23 are unchanged. Native APK/device testing remains separate. If PR #41 is still open, finish it before starting Psalm 22; its 31 verses may be developed in clearly unpublished groups.
 
