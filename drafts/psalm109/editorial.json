@@ -1,0 +1,819 @@
+{
+  "chapter": 109,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 109 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "alone": [
+      "Psalm 109:22"
+    ],
+    "grief": [
+      "Psalm 109:23"
+    ],
+    "strength": [
+      "Psalm 109:26"
+    ],
+    "gratitude": [
+      "Psalm 109:30"
+    ],
+    "fear": [
+      "Psalm 109:31"
+    ]
+  },
+  "study": {
+    "number": 109,
+    "coverVerse": 1,
+    "title": "He stands at the right hand of the needy",
+    "intro": "Psalm 109 is one of the strongest prayers in the Psalms against an enemy. David, repaid with hatred for his love, pours out a long series of curses against a false accuser, then turns to plead for God's kindness to himself as poor and needy. It ends with praise for the God who stands beside the needy to save them. It shows how to bring raw anger to God instead of taking revenge.",
+    "context": "Psalm 109 belongs to the imprecatory psalms, prayers asking God to judge the wicked. Some scholars read verses 6-19 as the curses David's enemies spoke against him, quoted before he answers; others read them as David's own words. Either way the psalm hands judgment to God rather than to human hands. Peter applied verse 8 to Judas in Acts 1:20, and Jesus later taught His followers to bless those who curse them.",
+    "peopleNote": "David is named in the heading. The enemy is an unnamed accuser, possibly a group led by one man. Peter applies verse 8 to Judas in Acts 1:20. God is never portrayed as a human figure in planned art; His help is shown through the needy one being upheld and the accusers falling silent.",
+    "people": [
+      {
+        "id": "david",
+        "name": "David",
+        "ref": "Psalm 109:1"
+      },
+      {
+        "id": "peter",
+        "name": "Peter",
+        "ref": "Psalm 109:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Do not be silent",
+        "heading": "O God of my praise, be not silent",
+        "meaning": "David begins, 'O God of my praise, be not silent.' He calls God the one he praises, even while asking Him to speak up in a time of attack. Silence from heaven feels unbearable when lies are loud on earth. Rather than answer his enemies with his own words, David asks God to speak and act on his behalf.",
+        "contextTitle": "A prayer against false accusation",
+        "context": "The heading names David and the choirmaster, so this personal complaint was meant for public worship. Psalm 83:1 makes the same plea, 'O God, be not silent,' and Psalm 28:1 fears God turning a deaf ear.",
+        "explore": [
+          [
+            "God of my praise",
+            "The God who is the object of the psalmist's worship; the one he has always praised and still trusts."
+          ],
+          [
+            "Be not silent",
+            "A plea for God to speak and intervene, not to remain inactive while injustice continues."
+          ]
+        ],
+        "reflect": "When people speak against you, how could you first ask God to speak rather than rushing to defend yourself?",
+        "related": [
+          "Psalm 83:1",
+          "Psalm 28:1",
+          "Psalm 35:22"
+        ],
+        "alt": "A man kneeling alone on a rooftop at night, hands open.",
+        "art": "assets/psalm109/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Lying tongues",
+        "heading": "Wicked and deceitful mouths open against me",
+        "meaning": "'For wicked and deceitful mouths open against me; they speak against me with lying tongues.' The attack David faces is made of words: slander, false charges and twisted stories. Words can wound deeply and damage a reputation that took years to build. David names the problem clearly as deception, not just disagreement.",
+        "contextTitle": "The power of the tongue",
+        "context": "Proverbs 18:21 says death and life are in the power of the tongue, and James 3:6 calls the tongue a fire. The ninth commandment forbids false witness against a neighbor (Exodus 20:16).",
+        "explore": [
+          [
+            "Deceitful",
+            "Intended to mislead; using words that hide the truth to harm someone."
+          ],
+          [
+            "Lying tongues",
+            "Speech that states what is false, used here as a weapon against an innocent person."
+          ]
+        ],
+        "reflect": "Have you been hurt by untrue words? Can you name that hurt honestly before God?",
+        "related": [
+          "Exodus 20:16",
+          "James 3:6",
+          "Proverbs 18:21"
+        ],
+        "alt": "Villagers whispering together in a market while a man walks past.",
+        "art": "assets/psalm109/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Attacked without cause",
+        "heading": "They surround me with hateful words",
+        "meaning": "'They surround me with hateful words and attack me without cause.' The enemies encircle David with hostility, and he insists he has given them no reason for it. Unjust hatred is especially painful because it cannot be fixed by apologizing or changing behavior. David's only appeal is to the God who sees the truth.",
+        "contextTitle": "Hated without reason",
+        "context": "Jesus quoted a similar line, 'They hated Me without reason,' from Psalm 35:19 and 69:4 in John 15:25, showing that His own suffering followed this pattern of innocent rejection.",
+        "explore": [
+          [
+            "Surround",
+            "To close in on every side; the feeling of being hemmed in by hostility with no escape."
+          ],
+          [
+            "Without cause",
+            "With no just reason; the attack is unprovoked and unfair."
+          ]
+        ],
+        "reflect": "How does it help to know that Jesus also faced hatred without cause?",
+        "related": [
+          "John 15:25",
+          "Psalm 35:19",
+          "Psalm 69:4"
+        ],
+        "alt": "A lone figure in a narrow street with shadows pressing in.",
+        "art": "assets/psalm109/verse-3-watercolor.webp"
+      },
+      {
+        "title": "A man of prayer",
+        "heading": "But I am a man of prayer",
+        "meaning": "'In return for my love they accuse me, but I am a man of prayer.' David had shown love, yet received accusation. His response is striking: literally, 'but I am prayer.' Prayer is not only something he does; it has become who he is. Instead of fighting back with the same weapons, he takes everything to God.",
+        "contextTitle": "Answering with prayer",
+        "context": "The Hebrew is very short: 'and I, prayer.' Jesus commanded His followers to pray for those who persecute them (Matthew 5:44), and on the cross He prayed for those crucifying Him (Luke 23:34).",
+        "explore": [
+          [
+            "Accuse",
+            "To bring charges against someone; the Hebrew word is related to 'satan,' meaning adversary or accuser."
+          ],
+          [
+            "Man of prayer",
+            "Someone whose whole life turns to God; prayer becomes his identity and his response to attack."
+          ]
+        ],
+        "reflect": "What would change if prayer were your first response to being treated unfairly?",
+        "related": [
+          "Matthew 5:44",
+          "Luke 23:34",
+          "1 Thessalonians 5:17"
+        ],
+        "alt": "A man praying quietly at a doorway while others argue outside.",
+        "art": "assets/psalm109/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Evil for good",
+        "heading": "They repay me evil for good",
+        "meaning": "'They repay me evil for good, and hatred for my love.' David sums up the injustice: kindness answered with harm, love answered with hatred. This reversal is one of the deepest betrayals a person can feel. David does not pretend it is fine. He describes it accurately and lays it before God. The word for love here is the same one used in verse 4.",
+        "contextTitle": "A pattern of betrayal",
+        "context": "Psalm 35:12 and 38:20 voice the same complaint. Proverbs 17:13 warns that evil will not leave the house of one who repays evil for good. Jesus was betrayed by a friend He had loved.",
+        "explore": [
+          [
+            "Repay",
+            "To give back in return; here what is returned is the opposite of what was given."
+          ],
+          [
+            "Hatred for my love",
+            "Hostility given back in exchange for genuine care, a bitter reversal of fair treatment."
+          ]
+        ],
+        "reflect": "Is there a betrayal you need to describe honestly to God instead of burying it?",
+        "related": [
+          "Psalm 35:12",
+          "Proverbs 17:13",
+          "Romans 12:17"
+        ],
+        "alt": "A shared loaf left untouched on a table beside an overturned cup.",
+        "art": "assets/psalm109/verse-5-watercolor.webp"
+      },
+      {
+        "title": "An accuser at his right",
+        "heading": "Set over him a wicked man",
+        "meaning": "'Set over him a wicked man; let an accuser stand at his right hand.' Here the long curse section begins. The request is that the false accuser would face a court like the one he set up: a wicked judge and an accuser at his side. It is a prayer for justice to match the crime, his own scheme turned back upon him.",
+        "contextTitle": "Whose words are these?",
+        "context": "The shift from 'they' to 'him' leads some to read verses 6-19 as the enemies' curse against David, which he then answers in verse 20. Others read them as David's prayer for measure-for-measure justice, like the law of Deuteronomy 19:19.",
+        "explore": [
+          [
+            "Accuser",
+            "One who brings a legal charge; in a courtroom the accuser stood at the right of the defendant."
+          ],
+          [
+            "Right hand",
+            "The position of an accuser in court, and later in the psalm the place where God stands to defend."
+          ]
+        ],
+        "reflect": "How does it help to hand your desire for justice to God rather than seeking revenge yourself?",
+        "related": [
+          "Deuteronomy 19:19",
+          "Zechariah 3:1",
+          "Romans 12:19"
+        ],
+        "alt": "A village court at the gate with elders seated on stone benches.",
+        "art": "assets/psalm109/verse-6-watercolor.webp"
+      },
+      {
+        "title": "Found guilty",
+        "heading": "May his prayer be regarded as sin",
+        "meaning": "'When he is tried, let him be found guilty, and may his prayer be regarded as sin.' The man who brought false charges should himself be truly judged. Even his prayers, if offered while continuing in deceit, would not be accepted. God is not fooled by religious words covering a hard heart. Verse 7 turns the courtroom the accuser misused back on him.",
+        "contextTitle": "Prayer without repentance",
+        "context": "Proverbs 28:9 says that if anyone turns his ear from the law, even his prayer is detestable. Isaiah 1:15 tells Israel that God would not listen to prayers lifted by hands full of blood.",
+        "explore": [
+          [
+            "Tried",
+            "Brought before a court for judgment, with the evidence examined."
+          ],
+          [
+            "Regarded as sin",
+            "Counted as an offense rather than a true prayer, because it comes from an unrepentant heart."
+          ]
+        ],
+        "reflect": "Are there prayers you offer while holding on to something God has asked you to let go?",
+        "related": [
+          "Proverbs 28:9",
+          "Isaiah 1:15",
+          "Psalm 66:18"
+        ],
+        "alt": "An empty judgment seat at a city gate in late afternoon light.",
+        "art": "assets/psalm109/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Another takes his office",
+        "heading": "May another take his position",
+        "meaning": "'May his days be few; may another take his position.' The prayer is that the accuser's power would be short-lived and passed to someone else. Those who misuse their place to harm others do not keep it forever. Peter quoted this verse when the disciples chose someone to replace Judas. The Hebrew word for position can mean office or oversight.",
+        "contextTitle": "Applied to Judas",
+        "context": "In Acts 1:20 Peter cites this line, 'May another take his position,' to explain why the apostles chose Matthias to fill Judas' place after his betrayal of Jesus.",
+        "explore": [
+          [
+            "Position",
+            "An office or role of responsibility; the Greek of Acts uses a word for overseer."
+          ],
+          [
+            "Days be few",
+            "A life or tenure cut short, so that the wrongdoer's influence does not last."
+          ]
+        ],
+        "reflect": "What responsibility has God given you, and how can you use it faithfully?",
+        "related": [
+          "Acts 1:20",
+          "Acts 1:26",
+          "Psalm 55:23"
+        ],
+        "alt": "A staff of office leaning against an empty chair in a hall.",
+        "art": "assets/psalm109/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Fatherless and widowed",
+        "heading": "May his children be fatherless",
+        "meaning": "'May his children be fatherless and his wife a widow.' The curse reaches the accuser's family, which shocks modern readers. In the ancient world a person's household shared his fate. The verse expresses how total the judgment against such evil should be. It is honest anger brought to God, not a model for our own actions.",
+        "contextTitle": "Hard words in Scripture",
+        "context": "The law forbade punishing children for a father's sin (Deuteronomy 24:16), yet curses in that culture often included the household. The New Testament calls believers to bless and not curse (Romans 12:14).",
+        "explore": [
+          [
+            "Fatherless",
+            "Children whose father has died, among the most vulnerable people in ancient society."
+          ],
+          [
+            "Widow",
+            "A woman whose husband has died, often left without income or protection."
+          ]
+        ],
+        "reflect": "How can honest prayer about your anger keep it from turning into harmful action?",
+        "related": [
+          "Deuteronomy 24:16",
+          "Romans 12:14",
+          "Ephesians 4:26"
+        ],
+        "alt": "An empty doorway of a stone house with a small sandal on the step.",
+        "art": "assets/psalm109/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Wandering as beggars",
+        "heading": "Far from their ruined homes",
+        "meaning": "'May his children wander as beggars, seeking sustenance far from their ruined homes.' The picture continues: a household reduced to homelessness. The accuser had driven others into poverty (verse 16), and the prayer is that he would experience the same ruin. The punishment is shaped to fit the wrong done.",
+        "contextTitle": "Measure for measure",
+        "context": "Psalm 37:25 notes that the righteous' children do not beg for bread. Here the reverse is asked for the wicked. Jesus' parable in Luke 16 shows God's concern for the beggar Lazarus.",
+        "explore": [
+          [
+            "Beggars",
+            "People forced to ask others for food or money to survive."
+          ],
+          [
+            "Ruined homes",
+            "Dwellings left in disrepair or destroyed, no longer able to shelter a family."
+          ]
+        ],
+        "reflect": "Who in your community is without a home, and how might you show them kindness?",
+        "related": [
+          "Psalm 37:25",
+          "Luke 16:20",
+          "Job 20:10"
+        ],
+        "alt": "A crumbling house wall overgrown with weeds beside a dusty road.",
+        "art": "assets/psalm109/verse-10-watercolor.webp"
+      },
+      {
+        "title": "The creditor seizes all",
+        "heading": "Strangers plunder the fruits of his labor",
+        "meaning": "'May the creditor seize all he owns, and strangers plunder the fruits of his labor.' The accuser's wealth, gained through oppressing the poor, would be taken by others. What he built by injustice would not last. Scripture often warns that ill-gotten gain slips away. Ancient lenders could take a debtor's land, tools and even family members.",
+        "contextTitle": "Wealth that does not stay",
+        "context": "Proverbs 13:22 says the sinner's wealth is stored up for the righteous. Job 20:15 says the wicked swallow riches and vomit them up. Debt collectors in Israel could seize goods but were to show mercy (Deuteronomy 24:10).",
+        "explore": [
+          [
+            "Creditor",
+            "A person to whom money is owed and who may claim property as payment."
+          ],
+          [
+            "Fruits of his labor",
+            "The results and profit of a person's work, here taken by others."
+          ]
+        ],
+        "reflect": "How do you hold on to what you have earned, and is any of it gained unfairly?",
+        "related": [
+          "Proverbs 13:22",
+          "Job 20:15",
+          "Deuteronomy 24:10"
+        ],
+        "alt": "Strangers loading sacks of grain onto donkeys outside a storehouse.",
+        "art": "assets/psalm109/verse-11-watercolor.webp"
+      },
+      {
+        "title": "No one to show kindness",
+        "heading": "No one to favor his fatherless children",
+        "meaning": "'May there be no one to extend kindness to him, and no one to favor his fatherless children.' Because the man refused kindness to others, the prayer is that no kindness would come back to him. The word for kindness here is hesed, the loyal love that David will later ask God to show him in verse 21. Kindness withheld from others comes back as kindness withheld.",
+        "contextTitle": "Kindness withheld",
+        "context": "James 2:13 says judgment without mercy will be shown to anyone who has not been merciful. Jesus taught that the merciful will be shown mercy (Matthew 5:7).",
+        "explore": [
+          [
+            "Extend kindness",
+            "To show loyal love and help, especially to someone in need."
+          ],
+          [
+            "Favor",
+            "To show grace or goodwill, treating someone with gentle care."
+          ]
+        ],
+        "reflect": "Who could use an act of kindness from you this week?",
+        "related": [
+          "James 2:13",
+          "Matthew 5:7",
+          "Proverbs 21:13"
+        ],
+        "alt": "Closed doors along a village lane at dusk with no one outside.",
+        "art": "assets/psalm109/verse-12-watercolor.webp"
+      },
+      {
+        "title": "Name blotted out",
+        "heading": "May their name be blotted out",
+        "meaning": "'May his descendants be cut off; may their name be blotted out from the next generation.' In Israel, having one's family name carried on was deeply important. To be blotted out meant to be forgotten entirely. The prayer is that the wicked man's legacy would vanish, while God's people are remembered. Verse 13 is the opposite of a blessing.",
+        "contextTitle": "Remembered or forgotten",
+        "context": "Psalm 9:5 says God has blotted out the name of the wicked forever. In contrast, Malachi 3:16 speaks of a book of remembrance for those who fear the LORD. Proverbs 10:7 says the name of the wicked will rot.",
+        "explore": [
+          [
+            "Cut off",
+            "Removed and brought to an end, with no continuation of the family line."
+          ],
+          [
+            "Blotted out",
+            "Erased as if wiped from a written record, so that no memory remains."
+          ]
+        ],
+        "reflect": "What kind of legacy do you hope to leave for the next generation?",
+        "related": [
+          "Psalm 9:5",
+          "Proverbs 10:7",
+          "Malachi 3:16"
+        ],
+        "alt": "A weathered clay tablet with its writing worn smooth.",
+        "art": "assets/psalm109/verse-13-watercolor.webp"
+      },
+      {
+        "title": "Iniquity remembered",
+        "heading": "The iniquity of his fathers be remembered",
+        "meaning": "'May the iniquity of his fathers be remembered before the LORD, and the sin of his mother never be blotted out.' The prayer goes back a generation. It assumes the man continued in his family's wrongs rather than turning from them. Scripture teaches that those who repeat their parents' sins share in their guilt.",
+        "contextTitle": "Generations of sin",
+        "context": "Exodus 20:5 speaks of iniquity visited on those who hate God to the third and fourth generation. Ezekiel 18:20 adds that each person bears his own guilt, so the son who turns away is not punished for his father's sin.",
+        "explore": [
+          [
+            "Iniquity",
+            "Twisted wrongdoing or guilt; deliberate sin that bends away from what is right."
+          ],
+          [
+            "Remembered before the LORD",
+            "Kept in God's sight for judgment rather than forgiven and forgotten."
+          ]
+        ],
+        "reflect": "Is there a family pattern you need to bring to God and ask Him to break?",
+        "related": [
+          "Exodus 20:5",
+          "Ezekiel 18:20",
+          "Lamentations 5:7"
+        ],
+        "alt": "An old family threshing floor with grass growing through the stones.",
+        "art": "assets/psalm109/verse-14-watercolor.webp"
+      },
+      {
+        "title": "Memory cut off",
+        "heading": "Cut off their memory from the earth",
+        "meaning": "'May their sins always remain before the LORD, that He may cut off their memory from the earth.' Unforgiven sin stays before God, and the result is that the wicked are forgotten among people. The opposite is the forgiven, whose sins God removes and remembers no more. Psalm 103:12 shows the other path: sins removed far away.",
+        "contextTitle": "Sins before God",
+        "context": "Psalm 34:16 says the face of the LORD is against evildoers, to cut off their memory from the earth. By contrast, Psalm 103:12 says He removes our sins as far as the east is from the west.",
+        "explore": [
+          [
+            "Remain before the LORD",
+            "Stay in His sight, not covered or cleansed, awaiting judgment."
+          ],
+          [
+            "Memory",
+            "The remembrance of a person among the living; to lose it is to be forgotten."
+          ]
+        ],
+        "reflect": "How does the promise of forgiveness in Psalm 103:12 change the way you see your own sins?",
+        "related": [
+          "Psalm 34:16",
+          "Psalm 103:12",
+          "Jeremiah 31:34"
+        ],
+        "alt": "Wind smoothing footprints from a sandy path.",
+        "art": "assets/psalm109/verse-15-watercolor.webp"
+      },
+      {
+        "title": "Cruelty to the poor",
+        "heading": "He pursued the poor and needy",
+        "meaning": "'For he never thought to show kindness, but pursued the poor and needy and brokenhearted, even to their death.' Here is the reason for the curses. The man was not simply rude; he hunted down the weakest people, crushing those already broken. God's anger in the Psalms burns hottest against cruelty to the vulnerable.",
+        "contextTitle": "God's concern for the needy",
+        "context": "Proverbs 14:31 says whoever oppresses the poor insults their Maker. Psalm 34:18 promises that the LORD is near the brokenhearted, the very people this man pursued.",
+        "explore": [
+          [
+            "Needy",
+            "Lacking what is necessary to live and without power to defend oneself."
+          ],
+          [
+            "Brokenhearted",
+            "Crushed in spirit by grief or suffering, deeply wounded inwardly."
+          ]
+        ],
+        "reflect": "How can you stand with the poor and brokenhearted around you?",
+        "related": [
+          "Proverbs 14:31",
+          "Psalm 34:18",
+          "Isaiah 61:1"
+        ],
+        "alt": "A poor widow gathering grain at the edge of a harvested field.",
+        "art": "assets/psalm109/verse-16-watercolor.webp"
+      },
+      {
+        "title": "He loved cursing",
+        "heading": "The cursing that he loved, may it fall on him",
+        "meaning": "'The cursing that he loved, may it fall on him; the blessing in which he refused to delight, may it be far from him.' The man chose cursing over blessing, so the prayer is that he would receive what he chose. Judgment here is not random; it gives people the outcome of the path they loved. The curse he loved becomes his own.",
+        "contextTitle": "Choosing curse or blessing",
+        "context": "Deuteronomy 30:19 sets before Israel life and death, blessing and curse, urging them to choose life. Galatians 6:7 says a person reaps what he sows.",
+        "explore": [
+          [
+            "Cursing",
+            "Speaking harm against others, calling down evil on them."
+          ],
+          [
+            "Blessing",
+            "Speaking good over others and receiving God's favor; the opposite of cursing."
+          ]
+        ],
+        "reflect": "Do your words more often bless people or tear them down?",
+        "related": [
+          "Deuteronomy 30:19",
+          "Galatians 6:7",
+          "Proverbs 26:2"
+        ],
+        "alt": "Two paths dividing at a field edge, one green, one barren.",
+        "art": "assets/psalm109/verse-17-watercolor.webp"
+      },
+      {
+        "title": "Soaked in cursing",
+        "heading": "He wore cursing like a coat",
+        "meaning": "'The cursing that he wore like a coat, may it soak into his body like water, and into his bones like oil.' The man's cursing had become as natural to him as his clothing. The prayer is that it would go deeper still, seeping into him like water or oil, until it becomes his own experience from within. Water and oil were both used in rites, so the image is vivid.",
+        "contextTitle": "Clothing images",
+        "context": "Psalm 73:6 says pride is the necklace of the wicked and violence their garment. Numbers 5:22 describes a curse that enters the body like water, from Israel's legal practice.",
+        "explore": [
+          [
+            "Coat",
+            "An outer garment worn daily; cursing was as habitual to him as his clothes."
+          ],
+          [
+            "Like oil",
+            "Oil soaks deeply into skin and cloth, a picture of something penetrating completely."
+          ]
+        ],
+        "reflect": "What habits of speech have you worn so long they feel normal? Which might need to change?",
+        "related": [
+          "Psalm 73:6",
+          "Numbers 5:22",
+          "Colossians 3:8"
+        ],
+        "alt": "An oil-stained cloak hanging on a wooden peg.",
+        "art": "assets/psalm109/verse-18-watercolor.webp"
+      },
+      {
+        "title": "A belt forever",
+        "heading": "Like a robe wrapped about him",
+        "meaning": "'May it be like a robe wrapped about him, like a belt tied forever around him.' The clothing picture is extended. A robe covers the whole body and a belt holds it tightly in place. The curse he loved would cling to him permanently. This closes the long section of curses. A belt held a robe in place all day long, never loosening while a person worked or walked.",
+        "contextTitle": "End of the curse section",
+        "context": "After this verse David turns in verse 20 to summarize and then to pray for himself. Isaiah 11:5 offers a contrasting picture: righteousness and faithfulness as the belt of the coming King.",
+        "explore": [
+          [
+            "Robe",
+            "A long outer garment covering the body, worn as a sign of identity or status."
+          ],
+          [
+            "Belt",
+            "A sash tied around the waist to hold clothes in place, a picture of something bound tightly."
+          ]
+        ],
+        "reflect": "In contrast to cursing, what does it mean to clothe yourself with kindness (Colossians 3:12)?",
+        "related": [
+          "Isaiah 11:5",
+          "Colossians 3:12",
+          "Psalm 109:29"
+        ],
+        "alt": "A coarse belt knotted tightly around a rough wool robe.",
+        "art": "assets/psalm109/verse-19-watercolor.webp"
+      },
+      {
+        "title": "The LORD's reward",
+        "heading": "May this be the LORD's reward to my accusers",
+        "meaning": "'May this be the LORD's reward to my accusers, to those who speak evil against me.' David now sums up. Whether he is answering the enemies' curse or finishing his own, he hands the outcome to the LORD. Recompense is God's business. David does not take it into his own hands. He leaves the reward to the LORD alone and asks nothing more for himself.",
+        "contextTitle": "Leaving room for God",
+        "context": "Romans 12:19 says, 'Do not avenge yourselves, but leave room for God's wrath.' David showed this in sparing Saul's life twice (1 Samuel 24 and 26).",
+        "explore": [
+          [
+            "Reward",
+            "A repayment or wage; here the just consequence God gives for wrongdoing."
+          ],
+          [
+            "Accusers",
+            "Those who bring charges or speak against someone, here falsely."
+          ]
+        ],
+        "reflect": "What would it mean for you to leave payback entirely in God's hands?",
+        "related": [
+          "Romans 12:19",
+          "1 Samuel 24:12",
+          "Proverbs 20:22"
+        ],
+        "alt": "A man walking away from a cave entrance, sword sheathed.",
+        "art": "assets/psalm109/verse-20-watercolor.webp"
+      },
+      {
+        "title": "For the sake of Your name",
+        "heading": "Deal kindly with me, O GOD the Lord",
+        "meaning": "'But You, O GOD, the Lord, deal kindly with me for the sake of Your name; deliver me by the goodness of Your loving devotion.' The psalm turns. David asks God for the very kindness the enemy refused to show. He appeals not to his own merit but to God's name and God's loving devotion. David uses two names for God together, GOD and Lord, to stress whom he trusts.",
+        "contextTitle": "The great turn",
+        "context": "'But You' marks the shift from the enemy to God. 'For the sake of Your name' appears in Psalm 23:3 and 25:11. God acts to show who He is, and His reputation is bound up with rescuing those who trust Him.",
+        "explore": [
+          [
+            "For the sake of Your name",
+            "Because of God's reputation and character, so that who He is will be shown."
+          ],
+          [
+            "Goodness",
+            "The generous, kind quality of God's love toward those who rely on Him."
+          ]
+        ],
+        "reflect": "How does it feel to ask God for help based on His goodness rather than yours?",
+        "related": [
+          "Psalm 23:3",
+          "Psalm 25:11",
+          "Ezekiel 36:22"
+        ],
+        "alt": "A man lifting his eyes from a dark alley toward an open sky.",
+        "art": "assets/psalm109/verse-21-watercolor.webp"
+      },
+      {
+        "title": "Poor and wounded",
+        "heading": "My heart is wounded within me",
+        "meaning": "'For I am poor and needy; my heart is wounded within me.' David names himself among the people the accuser hunted in verse 16. Behind his strong words lies a deep inner wound. Honest prayer moves from anger toward the hurt beneath it. Admitting need is the doorway to receiving help from God, who lifts up the lowly and fills the hungry with good things.",
+        "contextTitle": "The needy one",
+        "context": "Psalm 40:17 and 86:1 also use 'poor and needy' for David's humble dependence on God. Psalm 147:3 promises that the LORD heals the brokenhearted and binds up their wounds.",
+        "explore": [
+          [
+            "Poor",
+            "Lacking resources and strength, dependent on help from outside oneself."
+          ],
+          [
+            "Wounded",
+            "Pierced or injured; here the heart is hurt inwardly by betrayal and attack."
+          ]
+        ],
+        "reflect": "What wound beneath your anger might you show to God?",
+        "related": [
+          "Psalm 40:17",
+          "Psalm 86:1",
+          "Psalm 147:3"
+        ],
+        "alt": "A man sitting by a well with his head bowed in his hands.",
+        "art": "assets/psalm109/verse-22-watercolor.webp"
+      },
+      {
+        "title": "A lengthening shadow",
+        "heading": "I am shaken off like a locust",
+        "meaning": "'I am fading away like a lengthening shadow; I am shaken off like a locust.' David feels his life slipping away. A shadow lengthens at evening just before it disappears. A locust can be shaken from a garment with a flick, light and helpless. He feels weak, small and easily dismissed. Both images show a life that seems to be slipping quietly out of sight, but God has not lost track of him.",
+        "contextTitle": "Pictures of frailty",
+        "context": "Psalm 102:11 says, 'My days are like a lengthening shadow.' Job 14:2 compares human life to a fleeting shadow. Locusts clinging to clothing were easily brushed off.",
+        "explore": [
+          [
+            "Lengthening shadow",
+            "A shadow stretching long in late afternoon, just before night swallows it."
+          ],
+          [
+            "Locust",
+            "A large grasshopper; here a picture of something tiny and easily shaken away."
+          ]
+        ],
+        "reflect": "When you feel small and fading, what helps you remember God has not forgotten you?",
+        "related": [
+          "Psalm 102:11",
+          "Job 14:2",
+          "Psalm 144:4"
+        ],
+        "alt": "Long evening shadows of olive trees stretching across a field.",
+        "art": "assets/psalm109/verse-23-watercolor.webp"
+      },
+      {
+        "title": "Weak from fasting",
+        "heading": "My knees are weak from fasting",
+        "meaning": "'My knees are weak from fasting, and my body grows lean and gaunt.' David's suffering is physical as well as emotional. Fasting in grief and prayer has left him weak. Stress and sorrow affect the body, and Scripture does not hide that. His knees, needed for standing and walking, are failing under him. The body bears the weight of long prayer and grief, and David names this plainly before God.",
+        "contextTitle": "Fasting in trouble",
+        "context": "David fasted when his child was ill (2 Samuel 12:16) and in prayer for his enemies' good (Psalm 35:13). Fasting expressed humble, urgent dependence on God.",
+        "explore": [
+          [
+            "Fasting",
+            "Going without food for a time to focus on prayer, grief or seeking God."
+          ],
+          [
+            "Gaunt",
+            "Thin and bony, showing the effects of hunger or long strain."
+          ]
+        ],
+        "reflect": "How is stress showing up in your body, and how can you care for yourself while you pray?",
+        "related": [
+          "2 Samuel 12:16",
+          "Psalm 35:13",
+          "Psalm 102:5"
+        ],
+        "alt": "A thin man resting against a wall with an empty bowl beside him.",
+        "art": "assets/psalm109/verse-24-watercolor.webp"
+      },
+      {
+        "title": "Heads shaking",
+        "heading": "When they see me, they shake their heads",
+        "meaning": "'I am an object of scorn to my accusers; when they see me, they shake their heads.' David's weakness only invites more mockery. Shaking the head was a gesture of contempt. The suffering one is not pitied but scorned. The scene foreshadows the crowds around the cross, where people mocked the innocent Son of God, shaking their heads at Him as He suffered.",
+        "contextTitle": "Mockery at the cross",
+        "context": "Psalm 22:7 says, 'All who see Me mock Me; they sneer and shake their heads.' Matthew 27:39 records passers-by shaking their heads at Jesus on the cross.",
+        "explore": [
+          [
+            "Scorn",
+            "Open contempt and mockery, treating someone as worthless."
+          ],
+          [
+            "Shake their heads",
+            "A gesture of ridicule and disgust in the ancient world."
+          ]
+        ],
+        "reflect": "How does Jesus' experience of mockery comfort you when you are ridiculed?",
+        "related": [
+          "Psalm 22:7",
+          "Matthew 27:39",
+          "Lamentations 2:15"
+        ],
+        "alt": "Onlookers on a roadside turning away from a weary traveler.",
+        "art": "assets/psalm109/verse-25-watercolor.webp"
+      },
+      {
+        "title": "Help me, O LORD",
+        "heading": "Save me according to Your loving devotion",
+        "meaning": "'Help me, O LORD my God; save me according to Your loving devotion.' After all the honest complaint, the prayer becomes simple. David calls God 'my God' and asks for salvation measured by God's covenant love, not by his own strength or deserving. Help me is one of the shortest prayers in Scripture, yet God hears it fully. David needs no long speech; he simply calls his God by name and asks.",
+        "contextTitle": "A short, direct plea",
+        "context": "Psalm 6:4 also asks, 'Save me because of Your loving devotion.' Short cries like 'Help me' run through the Psalms (Psalm 70:1) and in the Gospels (Matthew 15:25).",
+        "explore": [
+          [
+            "My God",
+            "A personal claim on God in relationship, trusting Him as one's own."
+          ],
+          [
+            "According to",
+            "In line with, measured by; God's love sets the size of the rescue."
+          ]
+        ],
+        "reflect": "What short, honest prayer could you pray to God right now?",
+        "related": [
+          "Psalm 6:4",
+          "Psalm 70:1",
+          "Matthew 15:25"
+        ],
+        "alt": "A hand reaching up from a rocky ravine toward sunlight.",
+        "art": "assets/psalm109/verse-26-watercolor.webp"
+      },
+      {
+        "title": "This is Your hand",
+        "heading": "You, O LORD, have done it",
+        "meaning": "'Let them know that this is Your hand, that You, O LORD, have done it.' David wants his rescue to be so clear that even his enemies see God at work. The goal is not simply his relief but a public display of God's justice and care. When God acts, the enemies can no longer claim the credit or call it chance. The rescue becomes a public testimony to the LORD and His faithfulness.",
+        "contextTitle": "Rescue as a witness",
+        "context": "Psalm 86:17 asks for a sign of goodness that those who hate him may see. In Exodus 14:4, God acts so that Egypt will know that He is the LORD.",
+        "explore": [
+          [
+            "Your hand",
+            "God's power at work; His clear and evident action in events."
+          ],
+          [
+            "Done it",
+            "Accomplished it; the rescue is credited fully to God."
+          ]
+        ],
+        "reflect": "When God helps you, how can you make sure others see it is His doing?",
+        "related": [
+          "Psalm 86:17",
+          "Exodus 14:4",
+          "Joshua 4:24"
+        ],
+        "alt": "Villagers watching in surprise as a prisoner walks freely from a gate.",
+        "art": "assets/psalm109/verse-27-watercolor.webp"
+      },
+      {
+        "title": "You will bless",
+        "heading": "Though they curse, You will bless",
+        "meaning": "'Though they curse, You will bless. When they rise up, they will be put to shame, but Your servant will rejoice.' This is the heart of the psalm's hope. Human curses cannot cancel God's blessing. The accusers will rise and fall, but the servant of God will end in joy. David ends this verse with rejoicing, not revenge.",
+        "contextTitle": "Curses turned to blessing",
+        "context": "When Balak hired Balaam to curse Israel, God turned the curse into a blessing (Numbers 23:8; Deuteronomy 23:5). Jesus said those insulted for His sake are blessed (Matthew 5:11).",
+        "explore": [
+          [
+            "Bless",
+            "To speak and give good, granting favor and well-being."
+          ],
+          [
+            "Servant",
+            "One devoted to a master; David's humble title before God."
+          ]
+        ],
+        "reflect": "Whose words over you need to be outweighed by God's blessing?",
+        "related": [
+          "Numbers 23:8",
+          "Deuteronomy 23:5",
+          "Matthew 5:11"
+        ],
+        "alt": "Sunlight breaking through storm clouds over a herdsman's camp.",
+        "art": "assets/psalm109/verse-28-watercolor.webp"
+      },
+      {
+        "title": "Shame like a robe",
+        "heading": "May they wear their shame like a robe",
+        "meaning": "'May my accusers be clothed with disgrace; may they wear their shame like a robe.' David returns to the clothing picture from verse 18, but now he asks for shame rather than curses. Shame can lead to repentance; it exposes the truth so that lies no longer stand. This is a softer request than the curses of verses 6-19, and leaves room for change.",
+        "contextTitle": "Exposed by truth",
+        "context": "Psalm 35:26 prays that those who exalt themselves be clothed with shame. Psalm 83:16 asks God to fill their faces with shame so that they will seek His name.",
+        "explore": [
+          [
+            "Disgrace",
+            "Loss of honor and respect when wrongdoing is exposed."
+          ],
+          [
+            "Shame",
+            "The painful awareness of having been seen in the wrong."
+          ]
+        ],
+        "reflect": "How might shame, rightly felt, lead someone toward God rather than away?",
+        "related": [
+          "Psalm 35:26",
+          "Psalm 83:16",
+          "Romans 6:21"
+        ],
+        "alt": "A crowd dispersing from a gate as a cloak lies dropped in the dust.",
+        "art": "assets/psalm109/verse-29-watercolor.webp"
+      },
+      {
+        "title": "Thanks before many",
+        "heading": "I will praise Him in the presence of many",
+        "meaning": "'With my mouth I will thank the LORD profusely; I will praise Him in the presence of many.' The mouth that was surrounded by lying tongues will now overflow with thanks. David plans to tell his story in public worship. Rescue leads to gratitude, and gratitude is meant to be shared. Gratitude spoken aloud strengthens others' faith too.",
+        "contextTitle": "Praise in the assembly",
+        "context": "Psalm 22:22 says, 'I will proclaim Your name to my brothers; I will praise You in the assembly.' Psalm 35:18 makes the same vow. Hebrews 2:12 applies this to Jesus.",
+        "explore": [
+          [
+            "Profusely",
+            "Abundantly and without holding back; thanks that overflows."
+          ],
+          [
+            "In the presence of many",
+            "In public, before the gathered congregation, so others can join the praise."
+          ]
+        ],
+        "reflect": "Who could you tell this week about something God has done for you?",
+        "related": [
+          "Psalm 22:22",
+          "Psalm 35:18",
+          "Hebrews 2:12"
+        ],
+        "alt": "A crowd gathered in a courtyard as one man raises his hands in thanks.",
+        "art": "assets/psalm109/verse-30-watercolor.webp"
+      },
+      {
+        "title": "Standing beside the needy",
+        "heading": "He stands at the right hand of the needy one",
+        "meaning": "'For He stands at the right hand of the needy one, to save him from the condemners of his soul.' The psalm ends with a powerful reversal. In verse 6 an accuser was to stand at the wicked man's right hand. Now the LORD stands at the right hand of the needy as defender, so no condemnation can succeed. Defender in court The verse closes the psalm in hope.",
+        "contextTitle": "The",
+        "context": "Psalm 16:8 says, 'Because He is at my right hand, I will not be shaken.' Romans 8:33-34 asks who can condemn God's people, since Christ intercedes for them at God's right hand.",
+        "explore": [
+          [
+            "Right hand",
+            "In court, the place of the defender or advocate; God takes His stand beside the needy."
+          ],
+          [
+            "Condemners",
+            "Those who pronounce someone guilty and deserving of punishment."
+          ]
+        ],
+        "reflect": "How does it change your fear to know God stands beside you as your defender?",
+        "related": [
+          "Psalm 16:8",
+          "Romans 8:34",
+          "Psalm 140:12"
+        ],
+        "alt": "A poor man standing upright before elders with a sturdy companion beside him.",
+        "art": "assets/psalm109/verse-31-watercolor.webp"
+      }
+    ]
+  }
+}
