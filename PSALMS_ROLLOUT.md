@@ -31,10 +31,13 @@ Approved goal: extend the Psalm 1 / original Psalm 23 format across all 150 Psal
 | 23 | 6 | `#/study/23/1` |
 | 24 | 10 | `#/study/24/1` |
 | 25 | 22 | `#/study/25/1` |
+| 26 | 12 | `#/study/26/1` |
 
 Psalm 46 has a six-section study covering all eleven verses; it still needs conversion to individual verse pages to meet the new goal. All other Psalms retain their full chapter pages and chapter introductions, rather than being labeled finished verse studies.
 
-Next sequential unfinished chapter: **Psalm 26**. Preserve the completed original Psalm 23 study and arrange Psalm 46's conversion when reached. No routine chapter approval is needed within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique art, or that work continues after a session ends.
+Next sequential unfinished chapter: **Psalm 27**. Preserve the completed original Psalm 23 study and arrange Psalm 46's conversion when reached. No routine chapter approval is needed within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique art, or that work continues after a session ends.
+
+Psalm 26 is a whole-chapter candidate on branch `psalm26-verse-study` (PR pending review, not merged): 12 exact BSB verses with the heading Of David and the 6–7 and 9–10 sentence continuations, individual original Meaning/Context/Explore/Reflect notes, 12 distinct inspected watercolors saved as 1024px-wide WebP at quality 75 (about 1.2 MiB total), David link, direction/gratitude/forgiveness/strength connections and 25→26→27 navigation. Local `scripts/verify-psalm26.mjs`, source checks and 420px headless rendering of every verse passed; publication follows PR review, CI and an authorized merge. Native APK/device testing is separate.
 
 Psalm 25 passed the whole-chapter gate in PR #52 on 48cee68bda39a0c7c8b3816b98e71412dd6e592f (CI 39544919004 and 39544915223): 22 exact BSB verses with heading and 1–2 continuation, individual notes and distinct inspected watercolors, contextual covenant/provision, confession and distress explanations, David, shared Saved/dialog reflections, isolated resume, direction/forgiveness/alone/strength links and 24→25→26 navigation. All verse/tab/image checks passed at 390px on source website and packaged webview, including reflection reload, people/needs links and resume. Capacitor creation/sync passed. Production art adds 7.53 MiB for offline and Android. Current main home behavior, all story text/scenes/renderers and original Psalm 23 are preserved. Minimal shared copy-list/parity repairs include main’s existing 2 Samuel scripts; home expectations now match Joe’s merged changes while direct original Psalm 23 and Genesis assertions remain. Publication follows passing final PR CI, authorized merge, main CI, Pages and live verification; finish PR #52 first if open. Native APK/device testing is separate.
 
