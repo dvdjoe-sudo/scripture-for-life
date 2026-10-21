@@ -1,0 +1,357 @@
+/* Original editorial notes and symbolic illustrations. Scripture loads unchanged from bundled BSB. */
+(function(){
+"use strict";
+window.SFL_VERSE_STUDIES.register({
+  "number": 27,
+  "coverVerse": 1,
+  "title": "The LORD is my light.",
+  "intro": "Fourteen verses hold courage, longing, urgent prayer and patient hope together.",
+  "context": "The source heading names David but no event. Verses 1–3 confess trust amid threat; verses 4–6 desire the LORD's dwelling and anticipate worship. Verses 7–12 plead to be heard, received, taught and protected against false witnesses. Verses 13–14 return to hope and waiting. These movements belong within the same poem: assurance does not erase need, and the closing counsel does not narrate a completed rescue. Scripture is supplied unchanged from the bundled BSB, including the heading.",
+  "peopleNote": "David is connected by the heading. His profile provides biblical background, without assigning an unstated event to Psalm 27. The illustrations are anonymous symbolic responses, not portraits or historical reconstructions.",
+  "people": [
+    {
+      "id": "david",
+      "name": "David",
+      "ref": "Psalm 27:1"
+    }
+  ],
+  "verses": [
+    {
+      "title": "Light and a stronghold",
+      "heading": "Trust begins with who the LORD is",
+      "meaning": "The opening names the LORD as light, salvation and the stronghold of the speaker's life. The two questions challenge the power of fear by recalling those relationships. They are a confession of trust, rather than a promise that danger will disappear. The heading says Of David but names no particular event. Read these confident questions alongside the later cries for mercy: confidence and need belong within the same prayer.",
+      "contextTitle": "Read this line within the whole prayer",
+      "context": "The three images begin the first movement, verses 1–6. Psalm 23:4 also places trust within danger, while Isaiah 12:2 voices confidence in salvation within a song about God's comfort. These are related expressions of trust, not evidence that the passages describe the same event.",
+      "explore": [
+        [
+          "Light",
+          "Light suggests being able to see and move without being ruled by darkness. It is a poetic description of God's help, not a description of His physical appearance."
+        ],
+        [
+          "Whom shall I fear?",
+          "The repeated question is part of the poem's confession. Later pleas show that it need not be used to shame someone who experiences fear."
+        ]
+      ],
+      "reflect": "What fear could you bring into prayer while also remembering a source of help and support?",
+      "related": [
+        "Psalm 23:4",
+        "Isaiah 12:2"
+      ],
+      "alt": "A stone refuge on a rocky hill catches morning light above a shadowed valley.",
+      "art": "assets/psalm27/verse-1-watercolor.webp"
+    },
+    {
+      "title": "When enemies stumble",
+      "heading": "A remembered reversal of danger",
+      "meaning": "The speaker recalls attackers approaching and then stumbling and falling. Devouring flesh expresses the severity of their hostility; the psalm does not describe a literal meal or provide a battle report. Their collapse contrasts with the steady stronghold of verse 1. The memory becomes a reason for present trust. It does not authorize revenge, identify modern enemies, or guarantee that everyone who threatens a reader will immediately fail.",
+      "contextTitle": "Read this line within the whole prayer",
+      "context": "Verse 2 looks back at danger before verse 3 imagines another threat. Psalm 118:13 recalls help when the singer was nearly falling; Psalm 35:4 asks for hostile plans to be frustrated. Keep memory and petition distinct as you compare them.",
+      "explore": [
+        [
+          "Devour my flesh",
+          "This fierce image communicates destructive hostility. The surrounding lines describe enemies, rather than giving a literal account of flesh being eaten."
+        ],
+        [
+          "Stumbled and fell",
+          "The reversal belongs to the speaker's remembered experience. It supports this prayer without becoming a timetable for another person's deliverance."
+        ]
+      ],
+      "reflect": "What experience of help can you remember without expecting every new difficulty to unfold the same way?",
+      "related": [
+        "Psalm 35:4",
+        "Psalm 118:13"
+      ],
+      "alt": "Loose stones and a fallen thorn branch interrupt a hillside path that opens into an olive grove.",
+      "art": "assets/psalm27/verse-2-watercolor.webp"
+    },
+    {
+      "title": "Trust when surrounded",
+      "heading": "Courage is voiced amid a real threat",
+      "meaning": "The repeated though introduces the possibility of an army and war. The speaker does not deny the scale of the threat but declares trust within it. Heart language locates the struggle within the person as well as around them. This is poetic confidence rather than military advice or a promise of immunity. Psalm 56 shows that admitting fear and choosing trust can stand together, so this declaration should not become a test of another person's faith.",
+      "contextTitle": "Read this line within the whole prayer",
+      "context": "Verse 3 expands the enemies of verse 2 into the picture of an encampment. Psalm 3:6 similarly speaks of many opponents, while Psalm 56:3 openly acknowledges fear. Neither parallel supplies the unknown occasion of Psalm 27.",
+      "explore": [
+        [
+          "Though",
+          "The word lets the poem imagine a serious threat while maintaining its confession. It does not require the singer to pretend that an army is harmless."
+        ],
+        [
+          "I will keep my trust",
+          "Trust is the stated response to danger. Seeking practical protection and help can accompany that response rather than contradict it."
+        ]
+      ],
+      "reflect": "When you feel surrounded by pressures, what could help you take one steady and sensible next step?",
+      "related": [
+        "Psalm 3:6",
+        "Psalm 56:3"
+      ],
+      "alt": "A small hooded traveler stands on a broad rock above a misty valley with distant tents.",
+      "art": "assets/psalm27/verse-3-watercolor.webp"
+    },
+    {
+      "title": "One thing I desire",
+      "heading": "Seeking the LORD gives the longing its focus",
+      "meaning": "The one thing gathers several connected desires: dwelling in the LORD's house, gazing on His beauty and seeking Him in His temple. The focus is lasting access to worship and presence. The verse does not describe God's body or give a schedule for permanent residence in a building. Its sanctuary language should be heard as part of Israel's worship, while the heading alone cannot date a particular sanctuary or reconstruct a visit by David.",
+      "contextTitle": "Read this line within the whole prayer",
+      "context": "Verse 4 turns from threats to the positive desire at the center of the prayer. Psalm 26:8 loves God's dwelling, and Psalm 84:10 values a day in the courts above many days elsewhere. Each passage gives its own voice to longing for worship.",
+      "explore": [
+        [
+          "One thing",
+          "The following phrases unfold one connected desire. The singer seeks the LORD, not simply a safe building detached from relationship and worship."
+        ],
+        [
+          "Beauty of the LORD",
+          "The phrase expresses delight and attentive worship. The illustration can suggest a sanctuary without claiming to show what God looks like."
+        ]
+      ],
+      "reflect": "What desire most shapes your attention, and how could you make room for attentive prayer or worship?",
+      "related": [
+        "Psalm 26:8",
+        "Psalm 84:10"
+      ],
+      "alt": "Linen sanctuary curtains, an empty bench and olive leaves frame a quiet sunlit courtyard.",
+      "art": "assets/psalm27/verse-4-watercolor.webp"
+    },
+    {
+      "title": "Shelter in trouble",
+      "heading": "Several images express protection",
+      "meaning": "Shelter, a tent's cover and a high rock gather into a picture of being kept amid trouble. The images share a purpose without requiring a single literal location that combines them all. The confidence looks ahead to a day of danger, not a life without it. It belongs to the speaker's trust in the LORD. Readers can draw encouragement while continuing to seek safety, shelter and practical support when threatened.",
+      "contextTitle": "Read this line within the whole prayer",
+      "context": "Verse 5 gives a reason for the longing in verse 4: the worshiped LORD is also the source of refuge. Psalm 31:20 joins presence and shelter against hostile schemes, while Psalm 40:2 remembers firm footing after distress.",
+      "explore": [
+        [
+          "Under His tent",
+          "The tent image suggests being received under protective cover. It need not identify a particular historical tent or an event the heading does not name."
+        ],
+        [
+          "High upon a rock",
+          "Height and firm footing convey security within the poem. The painting responds symbolically and does not portray a promised physical rescue."
+        ]
+      ],
+      "reflect": "Where do you need shelter or firmer footing, and who could help you find practical support today?",
+      "related": [
+        "Psalm 31:20",
+        "Psalm 40:2"
+      ],
+      "alt": "A plain linen tent rests on a wide rocky ledge above olive trees and distant rain.",
+      "art": "assets/psalm27/verse-5-watercolor.webp"
+    },
+    {
+      "title": "Music at the tabernacle",
+      "heading": "Confidence turns toward thanksgiving",
+      "meaning": "The lifted head contrasts with the threat of being overwhelmed by enemies. The speaker anticipates offering sacrifices with joy and making music at the LORD's tabernacle. Worship gives the hoped-for deliverance a response beyond private relief. The verse names sacrifices without specifying a festival, melody or instrument. Its future-facing confidence should remain distinct from a report that every danger has already ended.",
+      "contextTitle": "Read this line within the whole prayer",
+      "context": "Verse 6 closes the first movement with praise before verse 7 turns to direct pleading. Psalm 26:7 connects approach to worship with thanksgiving, and Psalm 22:22 places praise in an assembly after a cry for help.",
+      "explore": [
+        [
+          "My head held high",
+          "The posture pictures renewed confidence and dignity. It does not ask the reader to gloat over others or seek retaliation against an enemy."
+        ],
+        [
+          "Sing and make music",
+          "The verse describes worship as an active response. The painted lyre is an artistic choice; this verse does not name that instrument."
+        ]
+      ],
+      "reflect": "What might gratitude sound like for you, even while some concerns remain unresolved?",
+      "related": [
+        "Psalm 26:7",
+        "Psalm 22:22"
+      ],
+      "alt": "An anonymous worshiper with a covered head plays a lyre beside a modest linen tent.",
+      "art": "assets/psalm27/verse-6-watercolor.webp"
+    },
+    {
+      "title": "Hear my voice",
+      "heading": "The confident singer still asks for mercy",
+      "meaning": "The prayer now addresses the LORD directly with three linked requests: hear, be merciful and answer. The earlier strong declarations do not remove the need to ask. This change of tone lets the psalm hold assurance and vulnerability together. Mercy is requested rather than demanded as a payment owed. The line gives no deadline for an answer and leaves room for the experience of waiting that returns at the end.",
+      "contextTitle": "Read this line within the whole prayer",
+      "context": "Verse 7 begins the urgent petition in verses 7–12. Psalm 4:1 and Psalm 86:6 also ask to be heard with mercy. Their similar words show a shared way of praying while each psalm retains its own setting and movement.",
+      "explore": [
+        [
+          "My voice when I call",
+          "Prayer is presented as an actual appeal. The words give the singer room to express need instead of maintaining an appearance of complete self-sufficiency."
+        ],
+        [
+          "Be merciful and answer",
+          "The two requests place hope in God's care. They do not prescribe how quickly an answer must arrive or what form help must take."
+        ]
+      ],
+      "reflect": "What would you most want to say if you could pray honestly without making your words sound confident?",
+      "related": [
+        "Psalm 4:1",
+        "Psalm 86:6"
+      ],
+      "alt": "A small oil lamp and folded prayer shawl rest on a stone ledge at twilight.",
+      "art": "assets/psalm27/verse-7-watercolor.webp"
+    },
+    {
+      "title": "Your face I will seek",
+      "heading": "An inward call receives an outward response",
+      "meaning": "The BSB presents an inner prompting to seek and the speaker's answering resolve to seek the LORD's face. Face language expresses relationship, attention and presence in this prayer. It is not an instruction to imagine a human portrait of God. The verse stands between asking to be heard and pleading not to be rejected. Seeking is therefore the response of someone who needs help, not a claim to control the encounter.",
+      "contextTitle": "Read this line within the whole prayer",
+      "context": "Verse 8 connects the desire to seek in verse 4 with the plea about God's face in verse 9. Psalm 105:4 calls people to seek continually. Deuteronomy 4:29 addresses covenant return after scattering, a distinct setting that must not be transferred onto this psalm.",
+      "explore": [
+        [
+          "My heart said",
+          "The verse gives an inward voice a place in the prayer. A reader's personal thoughts should not automatically be labeled a direct message from God."
+        ],
+        [
+          "Seek His face",
+          "Within this prayer the phrase points toward the LORD's presence and favor. The artwork uses a path as a symbol, without depicting a divine face."
+        ]
+      ],
+      "reflect": "What helps you turn your attention toward God without needing to manufacture a feeling or a sign?",
+      "related": [
+        "Psalm 105:4",
+        "Deuteronomy 4:29"
+      ],
+      "alt": "A narrow footpath winds through olive trees toward a quiet opening in morning light.",
+      "art": "assets/psalm27/verse-8-watercolor.webp"
+    },
+    {
+      "title": "Do not forsake me",
+      "heading": "Remembered help is brought into present uncertainty",
+      "meaning": "Several urgent negatives accumulate: do not hide, turn away, leave or forsake. The speaker remembers the LORD as helper and God of salvation, and brings that memory into the fear of rejection. The prayer does not prove that God has abandoned the singer or identify a sin that caused the distress. It gives honest language for felt distance while continuing to address the one from whom help is sought.",
+      "contextTitle": "Read this line within the whole prayer",
+      "context": "Verse 9 carries the face language of verse 8 into a plea for continued relationship. Psalm 69:17 similarly asks that God's face not be hidden in distress, and Psalm 25:6 appeals to compassion remembered across time.",
+      "explore": [
+        [
+          "You have been my helper",
+          "Memory becomes part of the appeal, not a denial of current uncertainty. The singer can remember care while still asking for reassurance and help."
+        ],
+        [
+          "Do not leave me",
+          "The request names the fear of abandonment. It should not be used to diagnose a suffering person's relationship with God or blame them for distress."
+        ]
+      ],
+      "reflect": "If God feels distant, what honest words or supportive relationship could help you carry that experience?",
+      "related": [
+        "Psalm 69:17",
+        "Psalm 25:6"
+      ],
+      "alt": "A small hooded traveler waits at a stone shelter's threshold beside the light of an oil lamp.",
+      "art": "assets/psalm27/verse-9-watercolor.webp"
+    },
+    {
+      "title": "The LORD will receive me",
+      "heading": "Hope reaches beyond the failure of close relationships",
+      "meaning": "Even the loss of parental care is placed beside confidence that the LORD will receive the speaker. The verse names father and mother without telling the story of an actual family rupture. Its though can present an extreme possibility rather than a biography. The promise of welcome offers hope to someone who feels alone; it does not minimize the pain of abandonment or require returning to a relationship that is unsafe.",
+      "contextTitle": "Read this line within the whole prayer",
+      "context": "Verse 10 answers the preceding fear of being forsaken with a statement of receiving. Isaiah 49:15 reassures Zion through maternal imagery in a different communal setting; Psalm 68:5 praises care for the fatherless and widows.",
+      "explore": [
+        [
+          "Father and mother",
+          "The strongest expected family bonds make the contrast vivid. The text does not tell us that David's parents abandoned him or explain a family event."
+        ],
+        [
+          "Will receive me",
+          "The line voices belonging in the LORD's care. Practical care from trustworthy people can accompany this hope; the verse need not demand isolation."
+        ]
+      ],
+      "reflect": "Where could you receive care or belonging this week, especially if a close relationship has disappointed you?",
+      "related": [
+        "Isaiah 49:15",
+        "Psalm 68:5"
+      ],
+      "alt": "A young olive sapling grows protected from wind inside a courtyard with an open welcoming doorway.",
+      "art": "assets/psalm27/verse-10-watercolor.webp"
+    },
+    {
+      "title": "Lead me on a level path",
+      "heading": "The threatened singer asks for a teachable way forward",
+      "meaning": "The request moves from being received to being taught and led. The LORD's way and a level path belong together: the singer needs direction and secure footing because oppressors are present. The prayer asks for guidance under pressure, not secret information about every future choice. A wise application can include patience, honest counsel and careful action. The picture of a path does not promise that obedience removes every obstacle.",
+      "contextTitle": "Read this line within the whole prayer",
+      "context": "Verse 11 follows the assurance of welcome and leads into the concrete accusation of verse 12. Psalm 25:4 asks to be taught God's paths; Psalm 26:12 stands on level ground. These connections illuminate the shared walking imagery.",
+      "explore": [
+        [
+          "Teach me Your way",
+          "The speaker remains a learner while asking for protection. This request joins dependence with willingness to act in a way shaped by what is learned."
+        ],
+        [
+          "Because of my oppressors",
+          "The pressure is part of why guidance matters. The verse does not identify the opponents, so a historical story should not be invented to fill the gap."
+        ]
+      ],
+      "reflect": "What decision needs both clearer direction and steadier footing, and whose trustworthy counsel could help?",
+      "related": [
+        "Psalm 25:4",
+        "Psalm 26:12"
+      ],
+      "alt": "A broad level footpath crosses a rocky hillside beside a walking staff resting against a stone.",
+      "art": "assets/psalm27/verse-11-watercolor.webp"
+    },
+    {
+      "title": "False witnesses rise",
+      "heading": "The poem gives the threat a specific form",
+      "meaning": "The singer asks not to be handed over to opponents whose testimony is false and whose words carry violence. Hostility now appears through accusations as well as the earlier military imagery. The line reports the speaker's plea; it does not provide the disputed charges or identify a court proceeding. Reading it carefully means taking threatened injustice seriously while refusing to use the psalm as proof that any criticism of oneself must be false.",
+      "contextTitle": "Read this line within the whole prayer",
+      "context": "Verse 12 makes the request for a safe path in verse 11 more concrete. Psalm 35:11 also describes hostile witnesses. Exodus 23:1 prohibits false reports and malicious testimony, a legal command distinct from this personal appeal.",
+      "explore": [
+        [
+          "False witnesses",
+          "The description identifies harmful testimony as the problem. The verse does not give enough details to reconstruct the accusation, the trial or the motives of named people."
+        ],
+        [
+          "Breathing out violence",
+          "Speech is portrayed as carrying threat. Seeking evidence, safety and appropriate support can be a practical response without turning the prayer into a warrant for revenge."
+        ]
+      ],
+      "reflect": "How could you respond truthfully and seek help if words or accusations are being used to harm you?",
+      "related": [
+        "Psalm 35:11",
+        "Exodus 23:1"
+      ],
+      "alt": "A closed blank scroll, clay seal and empty stools sit in an ancient courtyard beyond thorn shadows.",
+      "art": "assets/psalm27/verse-12-watercolor.webp"
+    },
+    {
+      "title": "Goodness in the land of the living",
+      "heading": "Hope speaks before the situation is resolved",
+      "meaning": "The speaker voices confidence in seeing the LORD's goodness in the land of the living. The phrase directs attention toward life rather than supplying a description of heaven. The poem still ends with waiting, so this assurance is not a report that everything has already changed. It is an expression of hope under pressure, not a promise that faithful readers will receive every desired outcome within a particular time.",
+      "contextTitle": "Read this line within the whole prayer",
+      "context": "Verse 13 brings assurance back into the prayer after the petitions of verses 7–12. Psalm 31:19 praises goodness for those who take refuge, while Psalm 116:9 speaks of walking before the LORD in the land of the living after deliverance.",
+      "explore": [
+        [
+          "Still I am certain",
+          "The BSB gives the verse as a declaration of confidence. Read that confidence with the waiting of verse 14 rather than making it a demand for immediate results."
+        ],
+        [
+          "Land of the living",
+          "The words concern the sphere of living people. The illustration's renewed fields are a symbolic response to that hope, not a forecast about anyone's circumstances."
+        ]
+      ],
+      "reflect": "What small sign of goodness could you notice without pretending that your unresolved troubles have ended?",
+      "related": [
+        "Psalm 31:19",
+        "Psalm 116:9"
+      ],
+      "alt": "Fresh olive buds and wildflowers overlook sunlit fields and distant modest houses after rain.",
+      "art": "assets/psalm27/verse-13-watercolor.webp"
+    },
+    {
+      "title": "Wait patiently for the LORD",
+      "heading": "The final counsel joins waiting and courage",
+      "meaning": "The command to wait appears twice, enclosing the call to be strong and courageous. Waiting here is directed toward the LORD, not toward a timetable the poem supplies. The closing words may be self-encouragement or counsel voiced for others; the text does not identify a new speaker. Courage can include continuing to pray, receiving support and doing what is right while an answer remains uncertain. The ending preserves hope without narrating a final rescue.",
+      "contextTitle": "Read this line within the whole prayer",
+      "context": "Verse 14 closes the psalm with repeated counsel after verse 13's confidence. Psalm 31:24 also encourages those who hope in the LORD. Isaiah 40:31 speaks to weariness and renewal within its own message of comfort to God's people.",
+      "explore": [
+        [
+          "Wait patiently",
+          "The repetition makes waiting part of the conclusion rather than a short delay before a guaranteed result. Patience can coexist with necessary protective or practical action."
+        ],
+        [
+          "Strong and courageous",
+          "The counsel calls for a steady response, not emotional invulnerability. Accepting help and admitting fear can belong within a courageous way of waiting."
+        ]
+      ],
+      "reflect": "What could patient courage look like today, including one action you can take and one concern you cannot settle yet?",
+      "related": [
+        "Psalm 31:24",
+        "Isaiah 40:31"
+      ],
+      "alt": "A deeply rooted olive tree holds a rocky slope at dawn above a folded cloak on a stone.",
+      "art": "assets/psalm27/verse-14-watercolor.webp"
+    }
+  ]
+});
+})();
