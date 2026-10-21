@@ -1,0 +1,86 @@
+{
+  "tool": "GenerateImage (aspect 4:3, style reference image)",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "productionFormat": "WebP 1024x683 (center crop of 1024x768), quality 75",
+  "status": "complete",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 32 verse 1: A heavy cloth bundle lies set down beside a dirt path while a small barefoot villager in a belted tunic and head cloth walks on lightly toward a bright valley, conveying the blessing of forgiveness and burdens lifted.",
+      "production": "assets/psalm32/verse-1-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "ec802039c17d54ff48e9b91571a4f9d2894d69272ca49083100b3f7e63cf0d5f.jpg"
+    },
+    {
+      "verse": 2,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 32 verse 2: A perfectly clear still pool in a quiet green valley reflects a cloudless sky and surrounding reeds, no people, conveying an honest spirit without deceit.",
+      "production": "assets/psalm32/verse-2-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "5fd992ddc72868be78dcad716e4c992a4bb5d61ae8cbb51748c7792ba082818f.jpg"
+    },
+    {
+      "verse": 3,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 32 verse 3: A person in a plain headcloth sits hunched and silent in a shadowed corner of a stone room, arms wrapped around knees, while light falls through a doorway they are not facing, conveying the strain of hidden sin.",
+      "production": "assets/psalm32/verse-3-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "ef218efb91e6397c149f7b1a240ea7a4db9491b719c466a00c9e461d8fc669c7.jpg"
+    },
+    {
+      "verse": 4,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 32 verse 4: A cracked dry streambed and wilted grasses shimmer under fierce white summer heat, a single drooping fig tree at the edge, no people, conveying strength drained as in summer heat.",
+      "production": "assets/psalm32/verse-4-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "33c02f9b97d7d20913767d3b25c3bd3b845305f18f00e03c57bf9426aeff1ed0.jpg"
+    },
+    {
+      "verse": 5,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 32 verse 5: A woman in a headscarf kneels beside a fresh flowing stream at dawn, head lifting, as morning light breaks warmly over the hills, conveying confession met with forgiveness.",
+      "production": "assets/psalm32/verse-5-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "7d47e2f0013cbfd74a9d35743b5224a72633f918c8340059e07a3f8899e6f914.jpg"
+    },
+    {
+      "verse": 6,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 32 verse 6: Brown floodwaters swirl across a valley while a small stone shelter stands dry on a rocky knoll above them, lamp glowing in the window, conveying safety when great waters rise.",
+      "production": "assets/psalm32/verse-6-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "6ce3823e59f207911484065fae4c611186f85432aba564101e7a289032c325e4.jpg"
+    },
+    {
+      "verse": 7,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 32 verse 7: A sheltered cleft in a mossy rock wall glows with warm light while small birds sing on branches all around it, a peaceful valley beyond, conveying God as a hiding place surrounded by song.",
+      "production": "assets/psalm32/verse-7-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "2bcde0390e8c8f59911e26ee588a644297f93aae9d8d7b3cbd14b6c3ca75b2dd.jpg"
+    },
+    {
+      "verse": 8,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 32 verse 8: Seen from behind at a distance, a small stooped old grandmother in a brown headscarf with a walking staff points a little girl toward a winding path through green hills in clear light, conveying instruction, counsel and watchful care.",
+      "production": "assets/psalm32/verse-8-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "c98e5bfd5e88a72646875d68ea620308c8b2cbf9dbe98a76776059355580719c.jpg"
+    },
+    {
+      "verse": 9,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 32 verse 9: Gentle humor on a dusty hill path: a stubborn brown mule wearing a rope bit and bridle sits back on its haunches, legs braced, ears flat, refusing to move, its lead rope trailing loose on the ground, while a calm gray donkey stands patiently nearby, conveying the warning against stubbornness.",
+      "production": "assets/psalm32/verse-9-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "14ae12421ca90e7c55290736d6aeb6c4478e885aaa7262a4239e1b78bc32db3b.jpg"
+    },
+    {
+      "verse": 10,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 32 verse 10: A small ancient village nestled in a valley is encircled by protective green hills glowing in warm sunset light, conveying loving devotion surrounding those who trust.",
+      "production": "assets/psalm32/verse-10-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "dbb1299db92c15ecc5b55653bc676335e321558a044e60888e8dbe6486deda1f.jpg"
+    },
+    {
+      "verse": 11,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 32 verse 11: A small group of villagers, men, women and children in head cloths, celebrate with raised hands and joyful dancing in a sunlit field of wildflowers, conveying gladness and shouts of joy after forgiveness.",
+      "production": "assets/psalm32/verse-11-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "52f7f21b4a35b131ca51e3479dbef128677e4d3ab689f5fbcef73df2c4164119.jpg"
+    }
+  ],
+  "pendingVerses": []
+}

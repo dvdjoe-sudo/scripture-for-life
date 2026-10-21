@@ -238,7 +238,7 @@ try {
     await visit('#/study/1/6','[data-verse-study="1"]');
     assert.equal(await page.locator('.study-bottom a[href="#/study/2/1"]').count(),1);
     const fullPsalms=JSON.parse(fs.readFileSync(path.join(root,'data/bible.json'),'utf8')).books[18].chapters;
-    for(const number of [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,25,26,27,28,29,30]){
+    for(const number of [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,25,26,27,28,29,30,31,32]){
       const verses=Object.fromEntries(fullPsalms[number-1]),images=[],meanings=[];
       for(let n=1;n<=Object.keys(verses).length;n++){
         await visit('#/study/'+number+'/'+n,'[data-verse-study="'+number+'"]');
@@ -536,8 +536,14 @@ try {
     await page.locator('.study-bottom a[href="#/study/30/1"]').click();
     await page.locator('[data-verse-study="30"][data-current-verse="1"]').waitFor();
     await visit('#/study/30/12','[data-verse-study="30"]');
-    await page.locator('.study-bottom a[href="#/psalms/31"]').click();
-    await page.locator('[data-psalm-chapter="31"]').waitFor();
+    await page.locator('.study-bottom a[href="#/study/31/1"]').click();
+    await page.locator('[data-verse-study="31"][data-current-verse="1"]').waitFor();
+    await visit('#/study/31/24','[data-verse-study="31"]');
+    await page.locator('.study-bottom a[href="#/study/32/1"]').click();
+    await page.locator('[data-verse-study="32"][data-current-verse="1"]').waitFor();
+    await visit('#/study/32/11','[data-verse-study="32"]');
+    await page.locator('.study-bottom a[href="#/psalms/33"]').click();
+    await page.locator('[data-psalm-chapter="33"]').waitFor();
     for(const [id,verse] of [['health',2],['grief',5],['gratitude',11]]){
       await visit('#/help/'+id,'[data-topic-connections="'+id+'"]');
       await page.locator('[data-topic-connections] a[href="#/study/30/'+verse+'"]').click();

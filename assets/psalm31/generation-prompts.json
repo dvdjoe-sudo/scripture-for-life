@@ -1,0 +1,177 @@
+{
+  "tool": "GenerateImage (aspect 4:3, style reference image)",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "productionFormat": "WebP 1024x683 (center crop of 1024x768), quality 75",
+  "status": "complete",
+  "paintings": [
+    {
+      "verse": 1,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 1: A small figure in a striped wool headscarf and plain tunic shelters under a broad rock overhang on a rugged hillside as the first rain falls over the valley, a water jar beside them, conveying taking refuge.",
+      "production": "assets/psalm31/verse-1-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "252a8a6d2bd0c421f5f0e1c098539381e29017645abe5e83d755e1ac98054d9d.jpg"
+    },
+    {
+      "verse": 2,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 2: A massive weathered rock outcrop rises like a natural fortress above a deep valley, a narrow path winding up to a sheltered cleft, storm clouds gathering behind, conveying God as rock and stronghold.",
+      "production": "assets/psalm31/verse-2-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "9c16904da70a26fbed7df7404685c4fa35d3f83619b7262b9e77b59987184376.jpg"
+    },
+    {
+      "verse": 3,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 3: A sheltered stone hilltop fortress overlooks a single winding road leading safely down through a green valley in clear light, conveying protection joined with guidance.",
+      "production": "assets/psalm31/verse-3-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "f879b0e1f4cb0de078c58b087d7bcfe1b7237165d204399c94d2641b8ec4196f.jpg"
+    },
+    {
+      "verse": 4,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 4: A small sparrow flies upward free from a torn fowler's net lying in dry grass at the edge of a field, morning light and distant hills, conveying release from a hidden trap.",
+      "production": "assets/psalm31/verse-4-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "70ea897c41173e045c5e6381672f073fe59d03f8138f8086c8256e614972f28e.jpg"
+    },
+    {
+      "verse": 5,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 5: Close view of an ordinary person's cupped open hands gently holding a small clay oil lamp with a steady flame against a soft dark background, conveying committing one's spirit in trust. Hands clearly human and ordinary, not divine.",
+      "production": "assets/psalm31/verse-5-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "97be8afddb992608afa1c47e40e9b929c5b3b89c53180b014728ad16bd009fbc.jpg"
+    },
+    {
+      "verse": 6,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 6: Small broken clay idol figurines lie crumbling in the dust of an abandoned shrine corner while a clear path leads out into bright open hills, no people, conveying turning from empty idols to trust.",
+      "production": "assets/psalm31/verse-6-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "c072cf61c004c36f37fe1a0f08af082aaec16ddddcef5203f3b3f9fa99bc53c9.jpg"
+    },
+    {
+      "verse": 7,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 7: An ordinary woman in a headscarf sits beside a desert spring with her head bowed, soft warm light falling on her shoulders and the water, palm fronds and rocks around, conveying being seen in affliction.",
+      "production": "assets/psalm31/verse-7-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "833fdd7ae8bc1ece89736ea4ebb9094e42bfdc830c0a9d9de3c3ce96e77b7e6a.jpg"
+    },
+    {
+      "verse": 8,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 8: A shepherd boy in a headscarf stands at the edge of a wide open grassy plateau under a vast sky, a narrow rocky canyon behind him, conveying being set in a spacious place.",
+      "production": "assets/psalm31/verse-8-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "5116f0c6e2778b86afdf59dafa5fc03d888448a9d27b9458117d4ec8f1191602.jpg"
+    },
+    {
+      "verse": 9,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 9: An ordinary adult in a plain headcloth sits slumped against a rough stone wall in dim grey evening light, face hidden in folded arms, a cold oil lamp beside them, conveying sorrow that weighs on body and soul.",
+      "production": "assets/psalm31/verse-9-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "96bed791ddcb2740411db023cf954852901045e598ca7d02c2cf19b8ca25ec78.jpg"
+    },
+    {
+      "verse": 10,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 10: A single withered olive tree with drooping grey leaves stands in a dry cracked field under a pale washed-out sky, conveying years consumed with grief and strength drained.",
+      "production": "assets/psalm31/verse-10-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "61251c425ac43cbbdc68443e74fde8daab5204fbb05cd79aa1cb1b91e71dadc3.jpg"
+    },
+    {
+      "verse": 11,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 11: A lone villager in a headscarf stands in a narrow sunlit village street while other small figures turn away and hurry into doorways, conveying rejection by neighbors and friends.",
+      "production": "assets/psalm31/verse-11-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "9cebfd82fcff3bb4768a0d695580d2fd2dc482f1388ead0e22b01114bee1ad17.jpg"
+    },
+    {
+      "verse": 12,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 12: A cracked clay water jar lies on its side among stones and weeds in a quiet forgotten courtyard corner, soft light catching the broken edge, conveying feeling forgotten like a broken vessel.",
+      "production": "assets/psalm31/verse-12-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "cadfe0ddc3db9b0789c845a25a8575d44e0368fc86422963d44d51a2e0742fb3.jpg"
+    },
+    {
+      "verse": 13,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 13: Dim walled courtyard at dusk with shadowy anonymous figures whispering together in several corners and doorways, a single lamp in the center, conveying slander and terror on every side, no weapons.",
+      "production": "assets/psalm31/verse-13-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "44642391a8cfa8adf11f2a6e08161d9e00eb65eda807d1a0a799ced53c3db09f.jpg"
+    },
+    {
+      "verse": 14,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 14: A farmer in a headcloth stands upright with open hands on a rocky path while storm clouds part above to reveal patches of blue sky, conveying deliberate trust amid fear.",
+      "production": "assets/psalm31/verse-14-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "9aec3d27c6c84d884a09616f409ea2ae38168e50fd6cacc48b1e98427fb8a1f3.jpg"
+    },
+    {
+      "verse": 15,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 15: An elderly person's open weathered hands gently hold a small simple ancient clay water-clock bowl in warm golden light, conveying entrusting one's times to God. Hands ordinary and human.",
+      "production": "assets/psalm31/verse-15-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "b40bbb35f18b2157440c602397f04c60c0e04b62f989750d97bf1d96dcf7f21c.jpg"
+    },
+    {
+      "verse": 16,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 16: Warm golden sunlight breaks through clouds and falls on a goatherd in a headscarf resting on a hillside beside a few goats, eyes closed peacefully, conveying God's face shining with favor. No glowing figure.",
+      "production": "assets/psalm31/verse-16-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "66e8105875abcc84ae64792c9ff81cb9cf4ac173ddf7721c4aabec59674efca3.jpg"
+    },
+    {
+      "verse": 17,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 17: Dark storm clouds roll away over distant hills while a tiny figure stands quietly in clearing light at the edge of a ploughed field, no violence, conveying handing injustice to God.",
+      "production": "assets/psalm31/verse-17-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "4503bdb090ed48682922793b001966342748fcdb6ccbf3b17be757d2afaca66c.jpg"
+    },
+    {
+      "verse": 18,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 18: A quiet empty room with a closed wooden door, a single oil lamp burning steadily on a stone ledge, dust motes in the light, no people, conveying lying voices silenced.",
+      "production": "assets/psalm31/verse-18-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "612b12c5280930e0b862d90a0ae8d1e1d2a01538b5ded5b4c0890a429c4a4bd4.jpg"
+    },
+    {
+      "verse": 19,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 19: An open ancient stone storeroom brimming with jars of oil, baskets of grain, figs and pomegranates bathed in warm light from the doorway, no people, conveying goodness laid up for God's people.",
+      "production": "assets/psalm31/verse-19-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "b230dc34fddf3e35bad767e777770fd87caf2bac8a921e86a9058441839a735e.jpg"
+    },
+    {
+      "verse": 20,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 20: A simple woven goat-hair tent with its flap closed glows softly from a lamp inside, sheltered under a great oak among dark trees at night while wind bends the grass outside, no people visible, conveying being hidden in God's shelter.",
+      "production": "assets/psalm31/verse-20-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "dc9b55d1d1d5595f3d7eec31e21508f7b5c110e51ad4b99c746b1c2b7840cb51.jpg"
+    },
+    {
+      "verse": 21,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 21: An ancient walled hilltop city glowing in warm dawn light while distant tents of a besieging camp ring the valley below in shadow, no battle, conveying loving devotion in a city under siege.",
+      "production": "assets/psalm31/verse-21-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "91f5d5d65d6232d9575e7a3fea4715492fd1513a257a4492ae4d32e3dc01b2be.jpg"
+    },
+    {
+      "verse": 22,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 22: A small person in a headscarf crouched deep in a narrow ravine looks up as a narrow beam of daylight falls on them from above, conveying panic answered by God's hearing.",
+      "production": "assets/psalm31/verse-22-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "f8c7eba778e142899c974e809b7f3009106b4a6303c9ad576e1f6359a3af36a2.jpg"
+    },
+    {
+      "verse": 23,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 23: A small group of village worshipers gather in a sunlit olive grove, some with lifted hands, some kneeling, in warm morning light, conveying love for the LORD among the faithful.",
+      "production": "assets/psalm31/verse-23-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "fed52e45fc5b5dfceffb7172fda8005a52f77f7be8c9a91b6bdf7b01796ad270.jpg"
+    },
+    {
+      "verse": 24,
+      "prompt": "Delicate transparent watercolor on textured ivory paper, matching the style reference only: fine natural brushwork, muted sage foliage, warm ochre rocks, gentle light, devotional calm; new composition. Symbolic, not historical; any people anonymous, small, ordinary villagers with head coverings or short hair in plain work clothes, no long flowing hair with robes, no halo, no Jesus-like figure. Never portray God or the Spirit as any human body, face, hand, silhouette, statue or glowing person. No gore, no text or letters, no modern objects. Keep subjects in the central 80%. Psalm 31 verse 24: A young woman in a striped headscarf carrying a basket walks briskly along a high ridge path toward a bright sunrise, wide valleys on both sides, conveying strength and courage for all who hope.",
+      "production": "assets/psalm31/verse-24-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "452abc227b77c7671dfcf31f2d8f47b0c5d1726526e0ca876fe50c83935334c2.jpg"
+    }
+  ],
+  "pendingVerses": []
+}
