@@ -1,13 +1,66 @@
 {
-  "chapter":25,
-  "status":"unpublished partial draft; not a completed chapter",
-  "baseMain":"c113cae2bb0028a4ac7e059a463cdf4ec3e987db",
-  "groups":[{"file":"verses-1-8.json","from":1,"through":8,"editorial":"reviewed against source and related contexts","art":"eight distinct originals and production WebPs visually inspected"},{"file":"verses-9-16.json","from":9,"through":16,"editorial":"reviewed against source and related contexts","art":"eight distinct originals and production WebPs visually inspected"}],
-  "nextVerse":17,
-  "pendingEditorialVerses":[17,18,19,20,21,22],
-  "pendingArtVerses":[17,18,19,20,21,22],
-  "proposedPeople":[{"id":"david","name":"David","ref":"Psalm 25:1","reason":"Named by the heading; no particular event supplied."}],
-  "proposedTopicPlan":{"direction":["Psalm 25:4","Psalm 25:5"],"forgiveness":["Psalm 25:7","Psalm 25:11"],"alone":["Psalm 25:16"],"strength":["Psalm 25:17"]},
-  "pendingGate":["finish verses 17–22 editorial and art","assemble full registered study","integrate people and everyday needs","website offline and Android bundle packaging","source/reference/asset checks","all-verse phone-width tabs/navigation/images","reload/Saved/dialog reflections","independent resume","topic/people/chapter transitions","required final CI and Capacitor checks","PR merge, main CI, Pages deployment and live verification"],
-  "resume":"Resume PR #52 on this branch at verse 17 before starting Psalm 26. Main 38edbcefed011dce1282394a84a743d474bb1053 and open home-page PR #53 were read before the second group; reconcile latest main before integration. Do not register or publish a partial chapter, and do not mark Psalm 25 complete in PSALMS_ROLLOUT.md."
+  "chapter": 25,
+  "status": "all editorial/art ready; unpublished whole-chapter candidate",
+  "baseMain": "c113cae2bb0028a4ac7e059a463cdf4ec3e987db",
+  "groups": [
+    {
+      "file": "verses-1-8.json",
+      "from": 1,
+      "through": 8,
+      "editorial": "reviewed against source and related contexts",
+      "art": "eight distinct originals and production WebPs visually inspected"
+    },
+    {
+      "file": "verses-9-16.json",
+      "from": 9,
+      "through": 16,
+      "editorial": "reviewed against source and related contexts",
+      "art": "eight distinct originals and production WebPs visually inspected"
+    },
+    {
+      "file": "verses-17-22.json",
+      "from": 17,
+      "through": 22,
+      "editorial": "reviewed against source and related contexts",
+      "art": "six distinct originals and production WebPs visually inspected"
+    }
+  ],
+  "nextVerse": null,
+  "pendingEditorialVerses": [],
+  "pendingArtVerses": [],
+  "proposedPeople": [
+    {
+      "id": "david",
+      "name": "David",
+      "ref": "Psalm 25:1",
+      "reason": "Named by the heading; no particular event supplied."
+    }
+  ],
+  "proposedTopicPlan": {
+    "direction": [
+      "Psalm 25:4",
+      "Psalm 25:5"
+    ],
+    "forgiveness": [
+      "Psalm 25:7",
+      "Psalm 25:11"
+    ],
+    "alone": [
+      "Psalm 25:16"
+    ],
+    "strength": [
+      "Psalm 25:17"
+    ]
+  },
+  "pendingGate": [
+    "website offline and Android bundle packaging",
+    "source/reference/asset checks",
+    "all-verse phone-width tabs/navigation/images",
+    "reload/Saved/dialog reflections",
+    "independent resume",
+    "topic/people/chapter transitions",
+    "required final CI and Capacitor checks",
+    "PR merge, main CI, Pages deployment and live verification"
+  ],
+  "resume": "Finish PR #52 whole-chapter verification and publication before starting Psalm 26. Main 361cb328924d6fa9129ee5908e328c67ffe59b74 was merged verbatim, including authorized home changes and all story updates."
 }

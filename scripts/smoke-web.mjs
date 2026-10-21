@@ -41,9 +41,10 @@ try {
     }
     await visit('#/','.hero-art .landscape');
     assert.match(await page.locator('h1').first().innerText(),/Find help in/);
-    assert.equal(await page.locator('.featured .btn.light[href="#/study/23/1"]').count(),1,'Original Psalm study is the homepage primary journey');
-    assert.equal(await page.locator('.gen-home-card').count(),3,'Three Genesis cards on homepage');
-    assert.equal(await page.locator('.ps46-card a[href="#/study/46/1"]').count(),1,'Psalm 46 is discoverable without replacing Psalm 23');
+    assert.equal(await page.locator('.topic-grid .topic-card').count(),8,'All eight everyday needs remain on main home');
+    assert.equal(await page.locator('.gen-home-quick a[href="#/people"]').count(),1,'Main home links to the story directory');
+    assert.equal(await page.locator('.gen-home-quick a[href="#/journey"]').count(),1,'Main home links to the Bible Journey');
+    assert.equal(await page.locator('.featured,.gen-home-feature,.ps46-card').count(),0,'Preserve main’s focused home layout');
     await visit('#/stories','.gen-episode-tile');
     assert.equal(await page.locator('.gen-episode-tile').count(),12,'All twelve Genesis episodes');
     await visit('#/stories/1/1','#gen-narrative p');
@@ -233,7 +234,7 @@ try {
     await visit('#/study/1/6','[data-verse-study="1"]');
     assert.equal(await page.locator('.study-bottom a[href="#/study/2/1"]').count(),1);
     const fullPsalms=JSON.parse(fs.readFileSync(path.join(root,'data/bible.json'),'utf8')).books[18].chapters;
-    for(const number of [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24]){
+    for(const number of [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,24,25]){
       const verses=Object.fromEntries(fullPsalms[number-1]),images=[],meanings=[];
       for(let n=1;n<=Object.keys(verses).length;n++){
         await visit('#/study/'+number+'/'+n,'[data-verse-study="'+number+'"]');
@@ -258,6 +259,19 @@ try {
       await page.getByRole('tab',{name:'Reflect',exact:true}).click();
       assert.equal(await page.locator('#verse-study-panel textarea').inputValue(),'Reflection for Psalm '+number);
     }
+    // Psalm 25 shares reflections across study, dialog and Saved.
+    await visit('#/study/25/3','[data-verse-study="25"]');
+    await visit('#/saved','.saved-list');
+    assert.match(await page.locator('.saved-list').innerText(),/Reflection for Psalm 25/);
+    await page.locator('[data-action="open-verse"][data-ref="Psalm 25:3"]').click();
+    await page.locator('#verse-dialog[open]').waitFor();
+    assert.equal(await page.locator('#verse-dialog [data-note-ref="Psalm 25:3"]').inputValue(),'Reflection for Psalm 25');
+    await page.locator('#verse-dialog textarea').fill('One shared Psalm 25 reflection.');
+    await page.locator('#verse-dialog [data-action="save-note"]').click();
+    await page.locator('#verse-dialog').evaluate(d=>d.close());
+    await visit('#/study/25/3','[data-verse-study="25"]');
+    await page.getByRole('tab',{name:'Reflect',exact:true}).click();
+    assert.equal(await page.locator('#verse-study-panel textarea').inputValue(),'One shared Psalm 25 reflection.');
     // Psalm 24 shares reflections across study, dialog and Saved.
     await visit('#/study/24/3','[data-verse-study="24"]');
     await visit('#/saved','.saved-list');
@@ -411,9 +425,25 @@ try {
     await visit('#/study/23/6','.study-landscape');
     await page.locator('[data-psalm-switch]').selectOption('24');
     await page.locator('[data-verse-study="24"]').waitFor();
+    await visit('#/study/25/22','[data-verse-study="25"]');
+    await page.locator('.study-bottom a[href="#/psalms/26"]').click();
+    await page.locator('[data-psalm-chapter="26"]').waitFor();
     await visit('#/study/24/10','[data-verse-study="24"]');
-    await page.locator('.study-bottom a[href="#/psalms/25"]').click();
-    await page.locator('.psalm-chapter').waitFor();
+    await page.locator('.study-bottom a[href="#/study/25/1"]').click();
+    await page.locator('[data-verse-study="25"][data-current-verse="1"]').waitFor();
+    assert.equal(await page.locator('.study-context a[href="#/people/david"]').count(),1);
+    await visit('#/study/25/16','[data-verse-study="25"]');
+    await page.locator('[data-psalm-switch]').selectOption('24');
+    await page.locator('[data-verse-study="24"]').waitFor();
+    await page.locator('[data-psalm-switch]').selectOption('25');
+    await page.locator('[data-verse-study="25"][data-current-verse="16"]').waitFor();
+    for(const [id,verse] of [['direction',4],['forgiveness',11],['alone',16],['strength',17]]){
+      await visit('#/help/'+id,'[data-topic-connections="'+id+'"]');
+      await page.locator('[data-topic-connections] a[href="#/study/25/'+verse+'"]').click();
+      await page.locator('[data-verse-study="25"][data-current-verse="'+verse+'"]').waitFor();
+      await page.locator('[data-related-needs] a[href="#/help/'+id+'"]').click();
+      await page.locator('[data-topic-connections="'+id+'"]').waitFor();
+    }
     await visit('#/study/24/6','[data-verse-study="24"]');
     for(const person of ['david','jacob'])assert.equal(await page.locator('.study-context a[href="#/people/'+person+'"]').count(),1);
     await page.locator('[data-psalm-switch]').selectOption('22');

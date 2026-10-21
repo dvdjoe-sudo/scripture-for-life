@@ -1,7 +1,7 @@
 {
   "tool": "built-in image_gen.imagegen",
   "styleReference": "assets/psalm23/verse-2-watercolor.webp",
-  "status": "Unpublished verses 1–16: sixteen distinct originals and production WebPs generated and visually inspected; verses 17–22 pending",
+  "status": "All 22 distinct originals and production WebPs generated and visually inspected",
   "paintings": [
     {
       "verse": 1,
@@ -114,14 +114,49 @@
       "production": "assets/psalm25/verse-16-watercolor.webp",
       "status": "generated and visually inspected",
       "generatedOriginal": "exec-7266a670-4838-48f5-ac57-2e4dcbb1daa3.png"
+    },
+    {
+      "verse": 17,
+      "prompt": "Use case: illustration-story. Individual Psalm 25 verse watercolor, landscape 3:2. Reference is STYLE ONLY, matching transparent washes, detailed natural brushwork, textured ivory paper, forest/sage leaves, warm ochre rocks and calm ordinary daylight. Distinct composition, no copied sheep or riverbank. Symbolic devotional art, not historical reconstruction; any people anonymous. Never portray God as a human, face, body, hand, silhouette, statue or glowing figure. Natural light is not literally God. No text, lettering, modern objects, logos or watermark. Verse 17: A narrow rocky ravine opens toward a broad green valley, foreground shaded and distant sky gently bright, one tiny anonymous traveler at the transition. Symbolic distress seeking room to breathe, no magical escape or divine person. The tiny traveler must wear a simple ankle-length unpatterned linen robe and draped earth-tone cloak, with plain sandals and a wooden walking staff. No hat, shorts, backpack, trousers, boots, hiking gear or modern outdoor clothing.",
+      "production": "assets/psalm25/verse-17-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-a83e6227-038e-4e12-9ea4-6295902e17cf.png"
+    },
+    {
+      "verse": 18,
+      "prompt": "Use case: illustration-story. Individual Psalm 25 verse watercolor, landscape 3:2. Reference is STYLE ONLY, matching transparent washes, detailed natural brushwork, textured ivory paper, forest/sage leaves, warm ochre rocks and calm ordinary daylight. Distinct composition, no copied sheep or riverbank. Symbolic devotional art, not historical reconstruction; any people anonymous. Never portray God as a human, face, body, hand, silhouette, statue or glowing figure. Natural light is not literally God. No text, lettering, modern objects, logos or watermark. Verse 18: An anonymous adult kneels on an olive terrace beside an unmarked plain clay bowl, head gently bowed, distant hills soft behind. Express honest affliction and confession without a particular biblical episode, punitive figure or written sins.",
+      "production": "assets/psalm25/verse-18-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-69e04cb5-9ad5-433e-a009-dda2bb936ccb.png"
+    },
+    {
+      "verse": 19,
+      "prompt": "Use case: illustration-story. Individual Psalm 25 verse watercolor, landscape 3:2. Reference is STYLE ONLY, matching transparent washes, detailed natural brushwork, textured ivory paper, forest/sage leaves, warm ochre rocks and calm ordinary daylight. Distinct composition, no copied sheep or riverbank. Symbolic devotional art, not historical reconstruction; any people anonymous. Never portray God as a human, face, body, hand, silhouette, statue or glowing figure. Natural light is not literally God. No text, lettering, modern objects, logos or watermark. Verse 19: A lone small anonymous traveler on an exposed ridge while distant indistinct human silhouettes remain far across another ridge, no weapons, attack or recognizable nation. Restrained symbolic opposition and vulnerability, not a named battle or historical event.",
+      "production": "assets/psalm25/verse-19-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-73305883-0231-4efa-84cc-fd3f2e3d8ad2.png"
+    },
+    {
+      "verse": 20,
+      "prompt": "Use case: illustration-story. Individual Psalm 25 verse watercolor, landscape 3:2. Reference is STYLE ONLY, matching transparent washes, detailed natural brushwork, textured ivory paper, forest/sage leaves, warm ochre rocks and calm ordinary daylight. Distinct composition, no copied sheep or riverbank. Symbolic devotional art, not historical reconstruction; any people anonymous. Never portray God as a human, face, body, hand, silhouette, statue or glowing figure. Natural light is not literally God. No text, lettering, modern objects, logos or watermark. Verse 20: View toward a deep natural rock overhang sheltering an anonymous seated traveler from windblown leaves outside; simple cloak and staff, quiet dignity. Symbolic refuge and protection, no God figure or divine hands.",
+      "production": "assets/psalm25/verse-20-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-8f391224-c89d-483b-96c6-250b4477f1e2.png"
+    },
+    {
+      "verse": 21,
+      "prompt": "Use case: illustration-story. Individual Psalm 25 verse watercolor, landscape 3:2. Reference is STYLE ONLY, matching transparent washes, detailed natural brushwork, textured ivory paper, forest/sage leaves, warm ochre rocks and calm ordinary daylight. Distinct composition, no copied sheep or riverbank. Symbolic devotional art, not historical reconstruction; any people anonymous. Never portray God as a human, face, body, hand, silhouette, statue or glowing figure. Natural light is not literally God. No text, lettering, modern objects, logos or watermark. Verse 21: Close view of worn sandaled feet taking a steady step on a level stone path beside low olive terraces; composition focused on careful footing and a plain upright walking staff. Symbolic integrity and patient perseverance, not perfect or glamorous.",
+      "production": "assets/psalm25/verse-21-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-c8445187-15d3-48e9-94e4-7aa4a9efa11e.png"
+    },
+    {
+      "verse": 22,
+      "prompt": "Use case: illustration-story. Individual Psalm 25 verse watercolor, landscape 3:2. Reference is STYLE ONLY, matching transparent washes, detailed natural brushwork, textured ivory paper, forest/sage leaves, warm ochre rocks and calm ordinary daylight. Distinct composition, no copied sheep or riverbank. Symbolic devotional art, not historical reconstruction; any people anonymous. Never portray God as a human, face, body, hand, silhouette, statue or glowing figure. Natural light is not literally God. No text, lettering, modern objects, logos or watermark. Verse 22: A small diverse anonymous community stands together on a broad olive hillside at first morning light, a modest stone village and cultivated fields below. Shared hope and prayer for Israel's redemption, not a modern political scene, flags, weapons or prediction of land control.",
+      "production": "assets/psalm25/verse-22-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-8955b204-dfc8-4bd7-ba43-ec872a1d0ad4.png"
     }
   ],
-  "pendingVerses": [
-    17,
-    18,
-    19,
-    20,
-    21,
-    22
-  ]
+  "pendingVerses": []
 }

@@ -43,6 +43,10 @@ for (const item of ['ruth.js', 'ruth-people.js', 'data/ruth-episodes.json', 'dat
 }
 
 // Verify actual index.html links (the old build copied different legacy filenames).
+for (const item of ['samuel2.js', 'samuel2-people.js', 'data/samuel2-episodes.json', 'data/samuel2-scenes.json']) {
+  assert(read(root, item) === read(www, item), '2 Samuel asset differs in Android bundle: ' + item);
+  assert(read(www, 'sw.js').includes(item), '2 Samuel asset missing from offline cache: ' + item);
+}
 for (const item of ['samuel1.js', 'samuel1-people.js', 'data/samuel1-episodes.json', 'data/samuel1-scenes.json']) {
   assert(read(root, item) === read(www, item), '1 Samuel asset differs in Android bundle: ' + item);
   assert(read(www, 'sw.js').includes(item), '1 Samuel asset missing from offline cache: ' + item);
@@ -65,11 +69,11 @@ for (const file of fs.readdirSync(root).filter(name => name.endsWith('.js'))) {
 assert(/rel=["']manifest["']/.test(html), 'Website must link to the app manifest');
 assert(/serviceWorker\.register/.test(html), 'Offline service worker is not registered');
 assert(app.includes("scene(0,'home')"), 'Original Psalm 23 art was altered/removed');
-assert(app.includes('gen-home-cards'), 'Genesis home navigation is missing');
+assert(app.includes('href="#/people">Browse all stories'), 'Main home story-directory entry is missing');
 assert(app.includes("parts[0]==='stories'"), 'Story route is missing');
 assert(story.includes('function scenePage('), 'Genesis story engine is missing');
 assert(app.includes("parts[0]==='walk'"), 'Psalm walk route is missing');
-assert(app.includes('<a class="btn light" href="#/study/23/1">Read Psalm 23'), 'Original Psalm study is not the homepage default');
+assert(app.includes('function studyPage(n)') && app.includes('window.SFL_PSALM_ART.verseNav(n)'), 'Original six-verse Psalm 23 study is missing');
 assert(psalmWalk.includes('window.SFL_PSALM_WALK='), 'Psalm walk engine is missing');
 assert(psalmWalk.includes('var titles=[') && psalmWalk.includes('Goodness and Mercy'), 'All six Psalm scenes must be present');
 assert(psalmWalk.includes('ctx.verses[ref]'), 'Psalm text must come from the existing Bible data');
