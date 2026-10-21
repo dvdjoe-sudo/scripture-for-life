@@ -35,10 +35,11 @@ Approved goal: extend the Psalm 1 / original Psalm 23 format across all 150 Psal
 | 27 | 14 | `#/study/27/1` |
 | 28 | 9 | `#/study/28/1` |
 | 29 | 11 | `#/study/29/1` |
+| 30 | 12 | `#/study/30/1` |
 
 Psalm 46 has a six-section study covering all eleven verses; it still needs conversion to individual verse pages to meet the new goal. All other Psalms retain their full chapter pages and chapter introductions, rather than being labeled finished verse studies.
 
-Next sequential unfinished chapter: **Psalm 30**. Preserve the completed original Psalm 23 study and arrange Psalm 46's conversion when reached. No routine chapter approval is needed within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique art, or that work continues after a session ends.
+Next sequential unfinished chapter: **Psalm 31**. Preserve the completed original Psalm 23 study and arrange Psalm 46's conversion when reached. No routine chapter approval is needed within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique art, or that work continues after a session ends.
 
 Psalm 29 passed the whole-chapter gate in PR #67 on 8efb385671032425cd429626959192b4fb138fba (CI 39597752597 and 39597686312): eleven exact BSB verses and heading, seven voice declarations, oaks/Glory wording, original individual notes, twenty-two contextual references and eleven distinct inspected built-in watercolors. Full prompts are in assets/psalm29/generation-prompts.json. Production art totals 2,235,908 bytes (2.13 MiB), packaged offline and for Android. Source/reference/asset/parity checks, every verse/tab/image at 390px on source website and packaged webview, reflection reload/Saved/dialog, isolated Psalm 28/29 resume, gratitude/fear/strength round trips, 28→29→30 navigation and Capacitor creation/sync passed. Resume PR #67 first if open; publication follows final PR CI, authorized merge, main CI, Pages and live verification. Story manuscripts, scene data, renderers and original Psalm 23 are preserved. Native APK/device testing is separate.
 
@@ -91,3 +92,5 @@ Joe reaffirmed continuous development on October 19, 2026. A recurring developme
 ## Shared build compatibility
 
 The Psalms 13–15 batch also includes the existing `leviticus.js` in the Android web copy list and updates the shared Exodus checks to cover all eight original manuscripts (293 paragraphs across 72 scenes) and actual episode transitions. Story text, scene data, and story renderers are unchanged. Full source, mobile-browser, offline-asset, and Capacitor checks passed for the implementation before publication.
+
+Psalm 30 candidate: twelve exact bundled BSB verses including heading, quoted prayer across 9–10 and sentence across 11–12; original reviewed notes and contextual reference audit; twelve distinct visually inspected built-in watercolors with full prompts, totaling 2,001,506 bytes (1.91 MiB). Website offline and Android web bundle include every production asset. Source/reference/asset/parity checks pass. Phone browser and Capacitor checks, final PR CI, merge, main CI, Pages and live verification remain publication gates. Psalms 31–40 remain unpublished text-only drafts; their isolation checks run in CI. Story manuscripts/data/renderers and Psalm 23 are preserved. Native APK/device testing is separate.
