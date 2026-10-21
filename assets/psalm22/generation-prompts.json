@@ -1,7 +1,7 @@
 {
   "tool": "built-in image_gen.imagegen",
   "styleReference": "assets/psalm23/verse-2-watercolor.webp",
-  "status": "UNPUBLISHED checkpoint: verses 1–16 have distinct generated, visually inspected production watercolors; verses 17–31 pending",
+  "status": "UNPUBLISHED checkpoint: verses 1–24 have distinct generated, visually inspected production watercolors; verses 25–31 pending",
   "paintings": [
     {
       "verse": 1,
@@ -114,17 +114,65 @@
       "production": "assets/psalm22/verse-16-watercolor.webp",
       "status": "generated and visually inspected",
       "generatedOriginal": "exec-1e5803c3-1ba7-4890-a69a-746fbbd5db1d.png"
+    },
+    {
+      "verse": 17,
+      "prompt": "Use case: illustration-story. Asset type: one landscape watercolor for a Psalm 22 verse study, 3:2 composition. Input image: approved Psalm 23:2 STYLE reference only, not an edit target; do not copy its sheep or river. Match its naturalistic transparent watercolor, delicate organic details, atmospheric depth, softly textured ivory paper, muted forest/sage greens, subdued ochre and gentle light. The requested scene is symbolic devotional illustration, not a reconstructed historical event. No text, numerals, lettering, watermark, panels, border, modern objects, halo, angel, human-shaped God, divine hand or divine face. Any people are anonymous modestly dressed adults; no named biblical portrait, human injury, visible bones, blood or crucifixion. Psalm 22:17 describes a vulnerable sufferer watched by gloating onlookers. Show an anonymous fully clothed adult seated beneath a sparse olive tree at the edge of a stone courtyard, shoulders weary, one natural hand resting on a knee. Three distant anonymous onlookers linger apart in the far background, turned toward the seated figure. A dignified, restrained scene of unwelcome scrutiny, not a spectacle; no exaggerated thinness, exposed body, bones or injury. Quiet cool shadows and muted sage clothing.",
+      "production": "assets/psalm22/verse-17-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-c8287295-90df-4776-bac0-5749a7781779.png"
+    },
+    {
+      "verse": 18,
+      "prompt": "Use case: illustration-story. Asset type: one landscape watercolor for a Psalm 22 verse study, 3:2 composition. Input image: approved Psalm 23:2 STYLE reference only, not an edit target; do not copy its sheep or river. Match its naturalistic transparent watercolor, delicate organic details, atmospheric depth, softly textured ivory paper, muted forest/sage greens, subdued ochre and gentle light. The requested scene is symbolic devotional illustration, not a reconstructed historical event. No text, numerals, lettering, watermark, panels, border, modern objects, halo, angel, human-shaped God, divine hand or divine face. Any people are anonymous modestly dressed adults; no named biblical portrait, human injury, visible bones, blood or crucifixion. Psalm 22:18 names garments divided and lots cast for clothing. Symbolic still life: one folded ivory outer cloak and a muted sage woven tunic on a low stone bench, with a few small smooth unmarked pebbles on the pale ground nearby. No dice, symbols or numbers; no people, soldiers, weapons or cross. Close foreground textile detail, olive branches casting soft shadows, distant subdued hills. The still life evokes the verse, not the historical mechanics of lot casting.",
+      "production": "assets/psalm22/verse-18-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-7513c13c-8e34-46bb-9f4a-fbf8bd730a94.png"
+    },
+    {
+      "verse": 19,
+      "prompt": "Use case: illustration-story. Asset type: one landscape watercolor for a Psalm 22 verse study, 3:2 composition. Input image: approved Psalm 23:2 STYLE reference only, not an edit target; do not copy its sheep or river. Match its naturalistic transparent watercolor, delicate organic details, atmospheric depth, softly textured ivory paper, muted forest/sage greens, subdued ochre and gentle light. The requested scene is symbolic devotional illustration, not a reconstructed historical event. No text, numerals, lettering, watermark, panels, border, modern objects, halo, angel, human-shaped God, divine hand or divine face. Any people are anonymous modestly dressed adults; no named biblical portrait, human injury, visible bones, blood or crucifixion. Psalm 22:19 asks the LORD, the speaker's Strength, not to be far and to come quickly to help. Show one anonymous adult in a modest ivory robe and sage mantle kneeling beside a large weathered limestone rock at the entrance to a narrow ravine, palms naturally open at waist height. Broad unoccupied space above and beyond the person; God unseen, no supernatural light figure or hand. Wind bends nearby grass, a gap in clouds brings restrained daylight. Urgent appeal rather than an already achieved rescue.",
+      "production": "assets/psalm22/verse-19-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-f88bd0c5-c5ff-461d-858d-6ed433947978.png"
+    },
+    {
+      "verse": 20,
+      "prompt": "Use case: illustration-story. Asset type: one landscape watercolor for a Psalm 22 verse study, 3:2 composition. Input image: approved Psalm 23:2 STYLE reference only, not an edit target; do not copy its sheep or river. Match its naturalistic transparent watercolor, delicate organic details, atmospheric depth, softly textured ivory paper, muted forest/sage greens, subdued ochre and gentle light. The requested scene is symbolic devotional illustration, not a reconstructed historical event. No text, numerals, lettering, watermark, panels, border, modern objects, halo, angel, human-shaped God, divine hand or divine face. Any people are anonymous modestly dressed adults; no named biblical portrait, human injury, visible bones, blood or crucifixion. Psalm 22:20 asks for deliverance of a precious life from sword and wild dogs. Symbolic still life of a sheathed bronze-era-looking plain sword lying on pale rocky ground in foreground, with three wary wild dogs standing at a distance across an empty path. No human, no attack, no drawn blade, no blood or injury. Diagonal composition, sage scrub, dark olive foliage, quiet overcast light. The image represents threatened life without claiming an actual event or labeling people as animals.",
+      "production": "assets/psalm22/verse-20-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-09a373db-b90f-4b53-a2ba-d06ddc22520f.png"
+    },
+    {
+      "verse": 21,
+      "prompt": "Use case: illustration-story. Asset type: one landscape watercolor for a Psalm 22 verse study, 3:2 composition. Input image: approved Psalm 23:2 STYLE reference only, not an edit target; do not copy its sheep or river. Match its naturalistic transparent watercolor, delicate organic details, atmospheric depth, softly textured ivory paper, muted forest/sage greens, subdued ochre and gentle light. The requested scene is symbolic devotional illustration, not a reconstructed historical event. No text, numerals, lettering, watermark, panels, border, modern objects, halo, angel, human-shaped God, divine hand or divine face. Any people are anonymous modestly dressed adults; no named biblical portrait, human injury, visible bones, blood or crucifixion. Psalm 22:21 pleads for rescue from lion and wild oxen and ends You have answered me. Show a spacious symbolic landscape where a shadowed rocky ravine opens toward a sunlit olive valley, with a lion on a distant left ridge and two powerful wild oxen on a distant right slope, all separated from a clear empty foreground path. Animals do not attack. A narrow shaft of ordinary sunlight reaches the path; no human or God figure, no invented rescuer or miraculous event. Balance remaining danger with a newly opened horizon.",
+      "production": "assets/psalm22/verse-21-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-38c57ab3-b6c9-4e40-8512-369b703e9541.png"
+    },
+    {
+      "verse": 22,
+      "prompt": "Use case: illustration-story. Asset type: one landscape watercolor for a Psalm 22 verse study, 3:2 composition. Input image: approved Psalm 23:2 STYLE reference only, not an edit target; do not copy its sheep or river. Match its naturalistic transparent watercolor, delicate organic details, atmospheric depth, softly textured ivory paper, muted forest/sage greens, subdued ochre and gentle light. The requested scene is symbolic devotional illustration, not a reconstructed historical event. No text, numerals, lettering, watermark, panels, border, modern objects, halo, angel, human-shaped God, divine hand or divine face. Any people are anonymous modestly dressed adults; no named biblical portrait, human injury, visible bones, blood or crucifixion. Psalm 22:22 promises to proclaim God's name among brothers and praise in the assembly. Show a small anonymous adult assembly gathered in an imagined open olive courtyard, one modestly dressed adult standing among peers with a natural open hand as if sharing something meaningful. Others listen attentively, dignified equal positions, no pulpit, scroll lettering or named biblical portrait. Warm subdued afternoon light, ivory stone and sage clothing. God unseen; this is symbolic shared praise.",
+      "production": "assets/psalm22/verse-22-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-d6dde317-726b-48a8-8750-a93153d69c98.png"
+    },
+    {
+      "verse": 23,
+      "prompt": "Use case: illustration-story. Asset type: one landscape watercolor for a Psalm 22 verse study, 3:2 composition. Input image: approved Psalm 23:2 STYLE reference only, not an edit target; do not copy its sheep or river. Match its naturalistic transparent watercolor, delicate organic details, atmospheric depth, softly textured ivory paper, muted forest/sage greens, subdued ochre and gentle light. The requested scene is symbolic devotional illustration, not a reconstructed historical event. No text, numerals, lettering, watermark, panels, border, modern objects, halo, angel, human-shaped God, divine hand or divine face. Any people are anonymous modestly dressed adults; no named biblical portrait, human injury, visible bones, blood or crucifixion. Psalm 22:23 calls those who fear the LORD, descendants of Jacob and offspring of Israel to praise, honor and revere. Show a broad anonymous intergenerational adult assembly at the edge of an olive grove in quiet reverent praise, standing and seated elders together, faces small and natural. A few open hands, no uniformly choreographed poses, no flags, cultural emblems or text. Wide landscape view with muted forest/sage foliage, ivory stone terrace and gentle sky. Not a portrait of Jacob or a reconstructed ancient ceremony.",
+      "production": "assets/psalm22/verse-23-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-b1fcc245-ac61-47e3-a71a-9cd64d44a10c.png"
+    },
+    {
+      "verse": 24,
+      "prompt": "Use case: illustration-story. Asset type: one landscape watercolor for a Psalm 22 verse study, 3:2 composition. Input image: approved Psalm 23:2 STYLE reference only, not an edit target; do not copy its sheep or river. Match its naturalistic transparent watercolor, delicate organic details, atmospheric depth, softly textured ivory paper, muted forest/sage greens, subdued ochre and gentle light. The requested scene is symbolic devotional illustration, not a reconstructed historical event. No text, numerals, lettering, watermark, panels, border, modern objects, halo, angel, human-shaped God, divine hand or divine face. Any people are anonymous modestly dressed adults; no named biblical portrait, human injury, visible bones, blood or crucifixion. Psalm 22:24 affirms that the afflicted person's cry was heard and not despised. Show an anonymous weary adult seated on a low stone beneath an olive tree while a second anonymous adult sits at the same level nearby, listening attentively, hands resting naturally. A symbolic human act of compassionate attention, NOT a depiction of God in human form and not a claim that these people occur in the text. Modest sage and ivory clothing, no halo or divine light, intimate dignified composition with open valley beyond.",
+      "production": "assets/psalm22/verse-24-watercolor.webp",
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-9d8b7d31-cf8b-458b-9717-4b0e11437aad.png"
     }
   ],
   "pendingVerses": [
-    17,
-    18,
-    19,
-    20,
-    21,
-    22,
-    23,
-    24,
     25,
     26,
     27,

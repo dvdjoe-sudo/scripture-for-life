@@ -1,9 +1,9 @@
 {
   "chapter": 22,
-  "status": "UNPUBLISHED verified checkpoint: verses 1–16 editorial/art; verses 17–31 pending",
+  "status": "UNPUBLISHED verified checkpoint: verses 1–24 editorial/art; verses 25–31 pending",
   "totalVerses": 31,
   "completedChapter": false,
-  "nextVerse": 17,
+  "nextVerse": 25,
   "groups": [
     {
       "file": "verses-01-08.json",
@@ -19,6 +19,12 @@
       "range": [9, 16],
       "status": "draft source/reference/art checks passed; originals and production WebPs visually inspected",
       "productionBytes": 2566726
+    },
+    {
+      "file": "verses-17-24.json",
+      "range": [17, 24],
+      "status": "draft source/reference/art checks passed; originals and production WebPs visually inspected",
+      "productionBytes": 2916506
     }
   ],
   "chapterPlan": {
