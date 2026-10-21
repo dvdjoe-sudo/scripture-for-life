@@ -1,0 +1,331 @@
+{
+  "chapter": 62,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 62 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "fear": [
+      "Psalm 62:1",
+      "Psalm 62:2"
+    ],
+    "strength": [
+      "Psalm 62:8"
+    ]
+  },
+  "study": {
+    "number": 62,
+    "coverVerse": 1,
+    "title": "In God alone my soul finds rest.",
+    "intro": "Twelve verses build a fortress of trust in the middle of a whispering campaign: a soul learning to rest, a people invited to pour out their hearts, and a scale that shows how light human power really is.",
+    "context": "The heading names David, the choirmaster and Jeduthun, one of David's chief musicians (1 Chronicles 16:41–42), without naming an event. The psalm is built around a refrain: verses 1–2 and 5–6 repeat almost word for word, with the 'alone' that runs through the Hebrew. Verses 3–4 address attackers who try to topple a man already leaning like a weak wall, blessing with their lips and cursing inside. Verses 7–8 widen the trust from one soul to the whole people. Verses 9–10 weigh rich and poor alike and find them vapor, warning against trusting extortion or riches. Verses 11–12 close with a twice-heard truth: power and loving devotion both belong to God, who repays each person justly.",
+    "peopleNote": "David is named in the heading with Jeduthun the musician. David's profile gives background on the plots and betrayals he faced without claiming one of them as this psalm's occasion. Planned paintings show rocks, walls, scales and anonymous people; God is never portrayed as a human body.",
+    "people": [
+      {
+        "id": "david",
+        "name": "David",
+        "ref": "Psalm 62:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Rest in God alone",
+        "heading": "The quiet of a soul that has stopped running",
+        "meaning": "The first word in Hebrew is a small one that means 'only' or 'surely', and it echoes through the psalm like a drumbeat. 'My soul finds rest' can be read as 'my soul is silent': not empty, but hushed, waiting, done with frantic striving. That stillness is directed toward God alone, not God plus a backup plan. 'My salvation comes from Him' explains why. Rescue is not something the speaker manufactures. It arrives from God, so the soul can afford to be quiet while it waits.",
+        "contextTitle": "A musician's psalm",
+        "context": "Jeduthun appears in 1 Chronicles 16:41–42 as one of the musicians appointed to give thanks before the ark. Psalms 39 and 77 also carry his name. Isaiah 30:15 says 'in quietness and trust is your strength'.",
+        "explore": [
+          [
+            "Alone",
+            "The Hebrew particle means 'only' or 'truly'. It repeats six times in the psalm, stripping away every rival source of hope."
+          ],
+          [
+            "Finds rest",
+            "Literally 'is silent'. It describes the inner quiet of someone waiting on God rather than scrambling for control."
+          ]
+        ],
+        "reflect": "What would it look like for your soul to be quiet before God today instead of rehearsing every worry?",
+        "related": [
+          "Isaiah 30:15",
+          "Psalm 37:7",
+          "Matthew 11:28"
+        ],
+        "alt": "A still mountain pool reflects a towering cliff in calm morning light.",
+        "art": "assets/psalm62/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Never shaken",
+        "heading": "Rock, salvation and fortress",
+        "meaning": "Three titles stack up like stones in a wall: rock, salvation, fortress. Each answers the fear of falling. A rock does not move, salvation lifts you out of danger, and a fortress keeps the enemy outside. The verse ends with bold confidence: 'I will never be shaken.' The speaker is not claiming that life will be calm. He is saying that what he stands on cannot be knocked over, even if everything around him rocks. The foundation, not the weather, decides whether he falls.",
+        "contextTitle": "An unmoved foundation",
+        "context": "Psalm 18:2 uses the same cluster of titles for God. Jesus' parable in Matthew 7:24–25 describes the house built on rock that stood when the rain and floods beat against it.",
+        "explore": [
+          [
+            "My rock",
+            "A picture of stability and refuge. Rocky heights in Judah were natural strongholds for those under attack."
+          ],
+          [
+            "Never be shaken",
+            "The word describes tottering or slipping. In verse 6 it appears again, slightly shortened, as the refrain returns."
+          ]
+        ],
+        "reflect": "What has been shaking you lately, and what would change if you saw God as the ground under it?",
+        "related": [
+          "Psalm 18:2",
+          "Matthew 7:24",
+          "Psalm 16:8"
+        ],
+        "alt": "A massive granite outcrop stands firm while storm clouds race over a valley.",
+        "art": "assets/psalm62/verse-2-watercolor.webp"
+      },
+      {
+        "title": "A leaning wall",
+        "heading": "How long will you push?",
+        "meaning": "The psalmist turns and speaks to his attackers directly. 'How long will you threaten a man?' suggests a long, organized campaign against one person. The image is vivid: they are all trying to push him over like a wall already leaning or a fence about to topple. He admits he looks weak, like something a shove could finish off. That honesty makes the refrain more powerful. The one who looks like a tottering fence is the same one who just said he will never be shaken, because his stability is God's, not his own.",
+        "contextTitle": "Mob against one",
+        "context": "Isaiah 30:13 compares sin to a high wall that bulges and suddenly collapses. David's life included organized opposition, from Saul's court in 1 Samuel 18–24 to Absalom's conspiracy in 2 Samuel 15.",
+        "explore": [
+          [
+            "How long",
+            "A cry of weariness at drawn-out opposition, also heard in Psalm 13:1–2."
+          ],
+          [
+            "Leaning wall",
+            "A wall bowed outward, near collapse. The image admits real weakness while the refrain insists on God's strength."
+          ]
+        ],
+        "reflect": "Where do you feel like a leaning wall right now? How does the refrain of verses 1–2 speak to that?",
+        "related": [
+          "Isaiah 30:13",
+          "Psalm 13:2",
+          "2 Samuel 15:12"
+        ],
+        "alt": "A crooked stone field wall leans beside a sturdy boulder that does not move.",
+        "art": "assets/psalm62/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Blessing lips, cursing hearts",
+        "heading": "The danger of a two-faced crowd",
+        "meaning": "The enemies' goal is to cast him down from his 'lofty perch', his position of honor or safety. Their weapons are words. They delight in lies, and their speech has two layers: blessing with the mouth, cursing in the heart. This is the hardest kind of opposition, the friendly smile that hides a knife. The verse ends with 'Selah', a pause that gives the listener time to feel how wearying such duplicity is, and to turn back to the One who sees the inward parts.",
+        "contextTitle": "Smooth words, hidden hostility",
+        "context": "Psalm 55:21 describes a betrayer whose speech is smoother than butter while war is in his heart. Proverbs 26:24–25 warns of someone who disguises hatred with his lips.",
+        "explore": [
+          [
+            "Lofty perch",
+            "A high, secure position. The enemies want to bring the speaker down from honor or safety."
+          ],
+          [
+            "Inwardly they curse",
+            "Their outward speech is kind, but their real intent is hostile. God sees the inner life the crowd hides."
+          ]
+        ],
+        "reflect": "How do you respond when people say one thing and mean another? What would it look like to leave that with God?",
+        "related": [
+          "Psalm 55:21",
+          "Proverbs 26:24",
+          "Jeremiah 9:8"
+        ],
+        "alt": "Two figures greet each other at a city gate while one hides a clenched fist behind his back.",
+        "art": "assets/psalm62/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Rest, O my soul",
+        "heading": "Preaching the refrain to yourself",
+        "meaning": "The refrain returns, but with a key change. In verse 1 the speaker described his soul at rest; now he commands it: 'Rest in God alone, O my soul.' After describing the mob, he has to remind himself of what he already knows. 'My hope comes from Him' replaces 'my salvation' with 'hope', the expectation of good that has not arrived yet. Faith here is not a feeling that stays put; it is a decision repeated, spoken to one's own restless heart until it settles.",
+        "contextTitle": "Talking to your own soul",
+        "context": "Psalms 42:5 and 43:5 show the same practice: 'Why are you downcast, O my soul? Put your hope in God.' Lamentations 3:21–24 records a mourner who calls truth to mind and so finds hope.",
+        "explore": [
+          [
+            "O my soul",
+            "The speaker addresses his inner self, a common move in the Psalms when feelings lag behind faith."
+          ],
+          [
+            "My hope",
+            "Hope is confident expectation. It looks forward to what God will do, not only back to what He has done."
+          ]
+        ],
+        "reflect": "What truth do you need to speak to your own soul today, even if it does not feel true yet?",
+        "related": [
+          "Psalm 42:5",
+          "Lamentations 3:24",
+          "Psalm 131:2"
+        ],
+        "alt": "A lone figure sits on a hillside at dawn, hands open on knees, looking toward the light.",
+        "art": "assets/psalm62/verse-5-watercolor.webp"
+      },
+      {
+        "title": "I will not be shaken",
+        "heading": "The refrain, a little stronger",
+        "meaning": "This verse nearly repeats verse 2, with one tiny but telling difference. There the speaker said he would 'never be shaken' with an added word often read as 'greatly'. Here the qualifier is gone: simply, 'I will not be shaken.' Some readers see growth. At first he hoped not to be badly shaken; now, having spoken to his soul, he expects not to be shaken at all. Repetition in the Psalms is not filler. Each time a line returns, it lands on a heart that has moved a little further.",
+        "contextTitle": "A refrain that deepens",
+        "context": "Repetition with small changes is a mark of Hebrew poetry, as in the shifting refrains of Psalms 42–43 and 80:3, 7, 19. Isaiah 28:16 speaks of a tested cornerstone, and whoever trusts will not be shaken.",
+        "explore": [
+          [
+            "He alone",
+            "The same exclusive word as verse 2. No other foundation shares the load."
+          ],
+          [
+            "Not be shaken",
+            "Without the earlier qualifier. The speaker's confidence has grown as he repeated the truth."
+          ]
+        ],
+        "reflect": "Is there a truth you have heard many times that is landing differently for you now?",
+        "related": [
+          "Isaiah 28:16",
+          "Psalm 80:19",
+          "Psalm 125:1"
+        ],
+        "alt": "A stone fortress sits on a ridge in full sunlight after a passing storm.",
+        "art": "assets/psalm62/verse-6-watercolor.webp"
+      },
+      {
+        "title": "Honor on God",
+        "heading": "Where reputation is safe",
+        "meaning": "The attackers in verse 4 wanted to cast the speaker down from his place of honor. Here he answers: my salvation and my honor rest on God. His reputation, dignity and worth do not depend on the crowd's opinion, which can be manipulated by lies. They are anchored in God, his strong rock and refuge. To rest one's honor on God is a deep kind of freedom. Gossip can damage a name in the town square, but it cannot reach the place where God holds a person's true worth.",
+        "contextTitle": "Worth held by God",
+        "context": "1 Samuel 2:30 records God saying 'those who honor Me I will honor'. Psalm 3:3 calls the LORD 'my glory, who lifts my head'. Romans 8:33 asks who can bring a charge against those God has chosen.",
+        "explore": [
+          [
+            "My honor",
+            "Also translated 'my glory'. It describes a person's weight, standing or reputation."
+          ],
+          [
+            "Strong rock",
+            "A rock of strength. The image piles up refuge language to show how secure his standing is."
+          ]
+        ],
+        "reflect": "Where are you anxious about your reputation? What would it mean to let God hold your honor?",
+        "related": [
+          "Psalm 3:3",
+          "1 Samuel 2:30",
+          "Romans 8:33"
+        ],
+        "alt": "A shepherd's cairn of piled stones stands on a summit against a clear sky.",
+        "art": "assets/psalm62/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Pour out your hearts",
+        "heading": "An invitation to the whole people",
+        "meaning": "Now the psalm turns outward. What the speaker has learned alone he offers to everyone: 'Trust in Him at all times, O people.' Not only in crisis or only when it is easy, but at all times. Then comes one of Scripture's most tender invitations: 'pour out your hearts before Him.' Like water from a jar, nothing held back, no polishing first. Trust and honest lament belong together. Because God is 'our refuge', the people can empty their hearts without fear. 'Selah' marks a pause to actually do it.",
+        "contextTitle": "Emptying the heart",
+        "context": "Hannah describes her prayer as pouring out her soul before the LORD in 1 Samuel 1:15. Lamentations 2:19 urges, 'Pour out your heart like water in the presence of the Lord.' 1 Peter 5:7 invites casting every anxiety on Him.",
+        "explore": [
+          [
+            "At all times",
+            "Trust is not reserved for emergencies. It is a constant posture for every season."
+          ],
+          [
+            "Pour out",
+            "The image of tipping a vessel until it is empty. It describes complete, unfiltered honesty in prayer."
+          ]
+        ],
+        "reflect": "What is in your heart that you have not poured out to God yet? Could you do it now, without tidying it first?",
+        "related": [
+          "1 Samuel 1:15",
+          "Lamentations 2:19",
+          "1 Peter 5:7"
+        ],
+        "alt": "A clay jar is tipped beside a spring, its water spilling onto smooth stones.",
+        "art": "assets/psalm62/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Weighed on the scale",
+        "heading": "How light human power really is",
+        "meaning": "The psalm now puts humanity on a balance scale. 'Lowborn men', ordinary people, are a vapor, a breath. 'The exalted', the powerful, are a lie, an illusion of strength. Put them all on the scale together and the pan goes up, not down: they weigh less than nothing. This is not contempt for people but a correction of misplaced trust. Neither the crowd nor the elite can carry the weight of a soul's hope. Only God, who weighs the mountains, can bear it.",
+        "contextTitle": "Breath on a balance",
+        "context": "The word 'vapor' is the same word that runs through Ecclesiastes, 'meaningless' or 'breath'. Isaiah 40:15 says nations are like dust on the scales, and Daniel 5:27 tells a king he was weighed and found wanting.",
+        "explore": [
+          [
+            "Vapor",
+            "A breath or puff of air. It pictures something real but fleeting and unable to bear weight."
+          ],
+          [
+            "Weighed on the scale",
+            "Merchants weighed goods on hand balances. Here all people together cannot tip the scale."
+          ]
+        ],
+        "reflect": "Whose approval or power have you been leaning on more than God's? How does this image change your view of it?",
+        "related": [
+          "Ecclesiastes 1:2",
+          "Isaiah 40:15",
+          "Daniel 5:27"
+        ],
+        "alt": "A merchant's bronze balance hangs in a market stall, one empty pan lifted high.",
+        "art": "assets/psalm62/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Riches increase",
+        "heading": "Do not set your heart on them",
+        "meaning": "After people, the psalm weighs money. Extortion and stolen goods are obvious false hopes, the shortcuts of the powerful who use force to get rich. But the warning goes further: even honestly gained riches can become a rival trust. 'If your riches increase, do not set your heart upon them.' Wealth itself is not condemned; leaning the heart on it is. The same quiet soul of verse 1 cannot rest in God alone while secretly resting in a bank balance.",
+        "contextTitle": "The pull of wealth",
+        "context": "Jesus warns in Luke 12:15 that life does not consist in the abundance of possessions. 1 Timothy 6:17 tells the rich not to put their hope in wealth but in God, who richly provides.",
+        "explore": [
+          [
+            "Extortion",
+            "Gaining wealth by oppression or force. The psalm treats it as an empty and dangerous hope."
+          ],
+          [
+            "Set your heart",
+            "To fix desire and trust on something. Riches can grow without the heart attaching to them."
+          ]
+        ],
+        "reflect": "If your resources grew or shrank this year, how would it affect where your heart rests?",
+        "related": [
+          "Luke 12:15",
+          "1 Timothy 6:17",
+          "Proverbs 23:5"
+        ],
+        "alt": "A small pile of silver coins sits on a table beside an open window and a green field.",
+        "art": "assets/psalm62/verse-10-watercolor.webp"
+      },
+      {
+        "title": "Spoken once, heard twice",
+        "heading": "Power belongs to God",
+        "meaning": "The speaker uses a teaching formula: God has spoken once, and I have heard it twice. A single word from God is so weighty that it echoes, heard and heard again. This was a common way in wisdom writing to stress a truth that has sunk deep. The first thing heard is that power belongs to God. Not to the mob, not to the rich, not to the exalted who weighed nothing on the scale. All real power is His, which is why trust in anything else is misplaced.",
+        "contextTitle": "A wisdom formula",
+        "context": "Job 33:14 says 'God speaks once, and even twice'. Numerical sayings appear in Proverbs 30:15–31 and Amos 1:3. 1 Chronicles 29:11 declares, 'Yours, O LORD, is the greatness and the power.'",
+        "explore": [
+          [
+            "Once, twice",
+            "A poetic device for emphasis. One word from God is enough to be heard over and over."
+          ],
+          [
+            "Power belongs to God",
+            "Strength ultimately rests with Him, not with the people or riches just weighed and found light."
+          ]
+        ],
+        "reflect": "What has God said to you once that you keep hearing again and again?",
+        "related": [
+          "Job 33:14",
+          "1 Chronicles 29:11",
+          "Amos 1:3"
+        ],
+        "alt": "A single bell hangs in an open stone arch above a quiet valley.",
+        "art": "assets/psalm62/verse-11-watercolor.webp"
+      },
+      {
+        "title": "Power and love",
+        "heading": "The God who repays",
+        "meaning": "The second truth heard completes the first: loving devotion also belongs to the Lord. Power without love would be terrifying, and love without power would be helpless. In God both meet. That is why He can be trusted at all times. The closing line, 'You will repay each man according to his deeds', does not undercut love; it promises that the liars and extortioners of the earlier verses will not have the last word. The one waiting quietly can rest, because the strong and loving God will set things right.",
+        "contextTitle": "Justice and mercy together",
+        "context": "Exodus 34:6–7 joins God's abundant love with His refusal to leave guilt unpunished. Romans 2:6 quotes this verse's principle, and Matthew 16:27 says the Son of Man will repay each according to what he has done.",
+        "explore": [
+          [
+            "Loving devotion",
+            "God's covenant love, hesed. It is joined here to power, so God's strength is never cold."
+          ],
+          [
+            "Repay each man",
+            "God's justice is personal and fair. Every deed, hidden or public, is weighed by Him."
+          ]
+        ],
+        "reflect": "Which do you find easier to believe about God right now, His power or His love? Why might He want you to hold both?",
+        "related": [
+          "Exodus 34:6",
+          "Romans 2:6",
+          "Matthew 16:27"
+        ],
+        "alt": "Sunlight breaks through clouds over a wide valley where a road leads home.",
+        "art": "assets/psalm62/verse-12-watercolor.webp"
+      }
+    ]
+  }
+}
