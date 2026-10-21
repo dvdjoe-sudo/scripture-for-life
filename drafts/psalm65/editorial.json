@@ -1,0 +1,355 @@
+{
+  "chapter": 65,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 65 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "forgiveness": [
+      "Psalm 65:3"
+    ],
+    "gratitude": [
+      "Psalm 65:11"
+    ]
+  },
+  "study": {
+    "number": 65,
+    "coverVerse": 11,
+    "title": "You crown the year with Your bounty.",
+    "intro": "Thirteen verses sweep from the temple courts to the farthest seas and back to the plowed fields: a God who hears prayer, covers sin, stills oceans and nations, and soaks the furrows until the hills themselves sing.",
+    "context": "The heading names David and the choirmaster and calls this both a psalm and a song. It falls into three movements. Verses 1–4 gather the worshipers in Zion, where prayer is heard, sin is atoned for and the chosen are brought near. Verses 5–8 widen to the whole earth: God answers with awesome deeds, formed the mountains, stilled the seas and the nations, and makes dawn and dusk shout for joy. Verses 9–13 come down to the soil: rain, rivers, furrows, grain, pastures and flocks. The psalm fits a harvest festival or a thanksgiving after rain, though it does not name one.",
+    "peopleNote": "David is named in the heading. His profile gives background on his role in Israel's worship without assigning this song to one event. Planned paintings show landscapes, seas, fields, flocks and anonymous worshipers; God is never portrayed as a human body.",
+    "people": [
+      {
+        "id": "david",
+        "name": "David",
+        "ref": "Psalm 65:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Praise awaits",
+        "heading": "Waiting in Zion",
+        "meaning": "The opening line is unusual. Praise 'awaits' God in Zion, as if worship is already standing at the door ready for Him. Some translations read 'praise is silent before You', a hushed, reverent expectation. Either way, the people gather on God's holy hill with vows ready to be fulfilled. A vow was a promise made in need, often during drought or danger, to bring an offering of thanks when God answered. This psalm sounds like the day they come back to keep their word.",
+        "contextTitle": "Vows on Zion",
+        "context": "Zion was the hill of Jerusalem where David brought the ark (2 Samuel 6:12) and where the temple later stood. Deuteronomy 23:21 urges Israel not to delay paying vows, and Psalm 116:18 promises to fulfill them in the presence of all the people.",
+        "explore": [
+          [
+            "Awaits",
+            "The word can mean silence or waiting. Praise stands ready, hushed and expectant before God."
+          ],
+          [
+            "Vows",
+            "Promises made to God in a time of need, fulfilled with thanks and offerings once He answered."
+          ]
+        ],
+        "reflect": "What has God done for you that you once promised to thank Him for? Have you kept that promise?",
+        "related": [
+          "Psalm 116:18",
+          "2 Samuel 6:12",
+          "Deuteronomy 23:21"
+        ],
+        "alt": "Worshipers climb stone steps toward a hilltop as morning light breaks over Jerusalem.",
+        "art": "assets/psalm65/verse-1-watercolor.webp"
+      },
+      {
+        "title": "You who listen",
+        "heading": "All people will come",
+        "meaning": "God is given a beautiful title: 'O You who listen to prayer.' Of all the things He could be called here, the psalm chooses this, because it is the reason anyone comes. Then the circle widens: 'all people', literally 'all flesh', will come to Him. Israel's worship on Zion was never meant to be a closed club. A God who hears prayer draws people from every nation, as Solomon prayed at the temple's dedication that foreigners too would be heard.",
+        "contextTitle": "A house for all nations",
+        "context": "In 1 Kings 8:41–43 Solomon asks God to hear the foreigner who prays toward the temple. Isaiah 56:7 calls it 'a house of prayer for all the nations', words Jesus quotes in Mark 11:17.",
+        "explore": [
+          [
+            "Listen to prayer",
+            "A defining trait of Israel's God, unlike silent idols who cannot hear (Psalm 115:6)."
+          ],
+          [
+            "All people",
+            "Literally all flesh. The whole human race is pictured coming to the God who hears."
+          ]
+        ],
+        "reflect": "How does it change your prayers to know God is the One who listens?",
+        "related": [
+          "1 Kings 8:41",
+          "Isaiah 56:7",
+          "Psalm 115:6"
+        ],
+        "alt": "Travelers in varied clothing approach a city gate from several different roads.",
+        "art": "assets/psalm65/verse-2-watercolor.webp"
+      },
+      {
+        "title": "You atone",
+        "heading": "When iniquities prevail",
+        "meaning": "Honesty enters the hymn. 'When iniquities prevail against me' admits that sin is stronger than the singer; it overwhelms like an enemy winning a battle. Notice the shift from 'me' to 'our': personal guilt belongs to the whole community too. Then comes the good news: 'You atone for our transgressions.' The word means to cover, to wipe away. What people cannot overcome, God covers. Worship on Zion is possible not because the worshipers are clean but because God makes them clean.",
+        "contextTitle": "Covered sin",
+        "context": "Leviticus 16:30 describes the Day of Atonement when the people were cleansed from all their sins. Psalm 32:1 blesses the one whose sins are covered, and 1 John 1:7 says the blood of Jesus cleanses from all sin.",
+        "explore": [
+          [
+            "Prevail",
+            "To be stronger than, to overpower. Sin is pictured as a force too strong to defeat alone."
+          ],
+          [
+            "Atone",
+            "To cover or purge. God removes guilt so that sinners can come near."
+          ]
+        ],
+        "reflect": "What sin feels stronger than you right now? How does God's covering change how you approach Him?",
+        "related": [
+          "Leviticus 16:30",
+          "Psalm 32:1",
+          "1 John 1:7"
+        ],
+        "alt": "Clean white linen dries on a line in bright sun beside a stone courtyard.",
+        "art": "assets/psalm65/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Brought near",
+        "heading": "The goodness of God's house",
+        "meaning": "Forgiveness opens the door to nearness. 'Blessed is the one You choose and bring near' recalls the priests, chosen to serve close to God, but the blessing extends to every worshiper welcomed into the courts. The initiative is God's: He chooses and He brings. Then the voice becomes 'we': we are filled with the goodness of Your house. In the temple courts the people shared fellowship meals from the offerings, so 'filled' was literal as well as spiritual. God's house was a place of feasting.",
+        "contextTitle": "Dwelling in the courts",
+        "context": "Numbers 16:5 speaks of the LORD bringing near the one He chooses. Psalm 84:10 says a day in God's courts is better than a thousand elsewhere. Ephesians 2:13 says those once far off have been brought near.",
+        "explore": [
+          [
+            "Choose and bring near",
+            "God takes the initiative to welcome people into His presence."
+          ],
+          [
+            "Filled",
+            "Satisfied, as with a meal. Fellowship offerings were eaten in God's presence."
+          ]
+        ],
+        "reflect": "What does it mean to you that God chose to bring you near rather than waiting for you to earn it?",
+        "related": [
+          "Psalm 84:10",
+          "Ephesians 2:13",
+          "Numbers 16:5"
+        ],
+        "alt": "Families share bread and fruit in the shade of a colonnade in a temple courtyard.",
+        "art": "assets/psalm65/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Hope of the ends of the earth",
+        "heading": "Awesome answers",
+        "meaning": "God answers prayer with 'awesome deeds of righteousness'. These are not small favors but acts that make people tremble with wonder, like the plagues of Egypt or the parting of the sea. He is 'the God of our salvation', Israel's rescuer. Yet He is also 'the hope of all the ends of the earth and of the farthest seas'. The psalm refuses to keep God local. Coastlands and far-off islands, people Israel never met, are within the reach of His hope.",
+        "contextTitle": "Answered with wonders",
+        "context": "Deuteronomy 10:21 calls the LORD 'the One who has done for you these great and awesome wonders'. Isaiah 42:10–12 calls the coastlands and distant seas to sing to the LORD.",
+        "explore": [
+          [
+            "Awesome deeds",
+            "Acts that inspire awe and fear, often used of God's great saving works."
+          ],
+          [
+            "Farthest seas",
+            "The distant coastlands and islands, the edges of the known world."
+          ]
+        ],
+        "reflect": "What prayer have you seen God answer in a way that left you in awe?",
+        "related": [
+          "Deuteronomy 10:21",
+          "Isaiah 42:10",
+          "Psalm 22:27"
+        ],
+        "alt": "A fishing boat rests on a vast calm sea under a wide sunrise.",
+        "art": "assets/psalm65/verse-5-watercolor.webp"
+      },
+      {
+        "title": "Mountains formed",
+        "heading": "Girded with might",
+        "meaning": "The view lifts to the mountains, the most permanent things an ancient Israelite could see. God formed them 'by Your power', literally established them as a builder sets a foundation. 'Girded Yourself with might' pictures a warrior or worker tying a belt tight before hard work. The language is poetic, not a description of a body; it says that creation is the work of One whose strength has no limit. If He can set mountains in place, He can hold up a weary worshiper.",
+        "contextTitle": "The mountain maker",
+        "context": "Amos 4:13 praises 'He who forms the mountains, who creates the wind'. Psalm 93:1 says the LORD is robed in majesty and has girded Himself with strength. Job 38:4–6 asks who laid the earth's foundations.",
+        "explore": [
+          [
+            "Formed",
+            "Established or set firm, like the foundations of a building."
+          ],
+          [
+            "Girded",
+            "Belted up for action. A picture of readiness and strength, not a physical form of God."
+          ]
+        ],
+        "reflect": "What 'mountain' in your life looks permanent? How does it look next to the God who formed the mountains?",
+        "related": [
+          "Amos 4:13",
+          "Psalm 93:1",
+          "Job 38:4"
+        ],
+        "alt": "Layered mountain ranges rise in deep blue and violet under late afternoon light.",
+        "art": "assets/psalm65/verse-6-watercolor.webp"
+      },
+      {
+        "title": "Seas and nations stilled",
+        "heading": "Calming every roar",
+        "meaning": "Here God stills three kinds of chaos: the roaring of the seas, the pounding of their waves and the tumult of the nations. In the ancient world the sea was the symbol of disorder and danger. By placing the nations beside it, the psalm says human uproar is just as subject to God as the ocean. Armies, empires and riots all fall quiet at His word. Centuries later Jesus would speak to a storm on Galilee, and the wind and waves obeyed Him.",
+        "contextTitle": "Chaos calmed",
+        "context": "Psalm 89:9 says, 'You rule the raging sea; when its waves mount up, You still them.' Isaiah 17:12–13 compares raging nations to roaring waters, and Mark 4:39 shows Jesus rebuking the wind and the sea.",
+        "explore": [
+          [
+            "Roaring of the seas",
+            "The crash of storm waves, a picture of chaos and danger."
+          ],
+          [
+            "Tumult of the nations",
+            "The uproar of peoples and armies, which God silences as easily as the sea."
+          ]
+        ],
+        "reflect": "What roaring situation do you need God to still, in your world or within you?",
+        "related": [
+          "Psalm 89:9",
+          "Isaiah 17:12",
+          "Mark 4:39"
+        ],
+        "alt": "Storm waves calm into glassy water as clouds part over a rocky coast.",
+        "art": "assets/psalm65/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Dawn and sunset shout",
+        "heading": "Wonder at the edges of the day",
+        "meaning": "People who live far away, at the ends of the earth, see God's wonders and are struck with awe. Then comes a breathtaking image: God makes 'the dawn and sunset shout for joy'. Literally, the places where morning and evening come forth, the eastern and western horizons. From one end of the sky to the other and from the start of the day to its close, creation itself rings with gladness. Every sunrise and every sunset is a song God conducts.",
+        "contextTitle": "East to west",
+        "context": "Psalm 19:1–4 says the heavens declare God's glory with a voice that goes out to all the earth. Psalm 113:3 praises the LORD's name from the rising of the sun to its setting.",
+        "explore": [
+          [
+            "Far away",
+            "The distant peoples at the edges of the world, who still witness God's wonders."
+          ],
+          [
+            "Dawn and sunset",
+            "The goings-out of morning and evening. Every horizon and every hour joins the praise."
+          ]
+        ],
+        "reflect": "When did you last stop to watch a sunrise or sunset as an act of praise?",
+        "related": [
+          "Psalm 19:1",
+          "Psalm 113:3",
+          "Isaiah 24:16"
+        ],
+        "alt": "A brilliant sunrise spills gold over hills while a sliver of moon fades above.",
+        "art": "assets/psalm65/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Streams full of water",
+        "heading": "God the farmer",
+        "meaning": "The psalm comes down from the sky to the soil. God 'attends to the earth', visiting it like a caring farmer checking his field, and waters it. 'The streams of God' may picture the reservoir of rain above the sky that God opens. In a land where rain decided whether families ate or starved, this was the most practical praise imaginable. The harvest is not simply produced by farmers; God prepares the grain by caring for the earth.",
+        "contextTitle": "Rain in a dry land",
+        "context": "Deuteronomy 11:11–14 describes Canaan as a land that drinks rain from heaven and promises the early and late rains. Acts 14:17 says God showed His kindness by giving rain and fruitful seasons.",
+        "explore": [
+          [
+            "Attend to",
+            "To visit or care for. God is pictured giving personal attention to the land."
+          ],
+          [
+            "Streams of God",
+            "A channel or river of God, likely the rain He sends from His heavenly store."
+          ]
+        ],
+        "reflect": "What ordinary provision in your life might you be taking for granted instead of thanking God for it?",
+        "related": [
+          "Deuteronomy 11:14",
+          "Acts 14:17",
+          "Matthew 5:45"
+        ],
+        "alt": "A full irrigation channel runs bright between green rows of young wheat.",
+        "art": "assets/psalm65/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Soaked furrows",
+        "heading": "Showers on the plowed field",
+        "meaning": "The camera zooms closer still, to the plowed field itself. God soaks the furrows, the trenches cut by the plow, and levels the ridges between them. He softens the hard-baked soil with showers so seeds can sprout. Every farmer in Israel knew the anxiety of waiting for the autumn rains to soften the ground. This verse is gentle, almost tender. The God who stills nations also bends over a single field and blesses its growth.",
+        "contextTitle": "Softened ground",
+        "context": "Hosea 6:3 compares the LORD's coming to spring rains watering the earth. Isaiah 55:10 says rain and snow water the earth, making it bud, and so God's word does not return empty.",
+        "explore": [
+          [
+            "Furrows",
+            "The grooves cut by an ox-drawn plow, where seed is sown."
+          ],
+          [
+            "Soften it with showers",
+            "Rain that breaks up hard soil, making it ready for seed and growth."
+          ]
+        ],
+        "reflect": "Where does the ground of your heart feel hard? How might God be softening it?",
+        "related": [
+          "Isaiah 55:10",
+          "Hosea 6:3",
+          "Hosea 10:12"
+        ],
+        "alt": "Rain falls softly on freshly plowed brown furrows stretching toward a hedge.",
+        "art": "assets/psalm65/verse-10-watercolor.webp"
+      },
+      {
+        "title": "Crowning the year",
+        "heading": "A cart overflowing",
+        "meaning": "This is the psalm's cover verse and its high point. God 'crowns the year' with bounty, placing a crown of good things on the whole agricultural cycle. 'Your paths overflow with plenty' pictures God's cart or chariot rolling across the land, so loaded that its tracks drip with abundance. Wherever God has passed, there is richness left behind. The image invites us to see every harvest as the trail of God's generosity across the calendar.",
+        "contextTitle": "A year of goodness",
+        "context": "Leviticus 23 sets Israel's festivals around the harvest year, from barley to wheat to the ingathering. Deuteronomy 11:12 says the LORD's eyes are on the land from the beginning of the year to its end. James 1:17 calls every good gift a gift from above.",
+        "explore": [
+          [
+            "Crown the year",
+            "To encircle the whole year with blessing, giving it honor and fullness."
+          ],
+          [
+            "Paths overflow",
+            "Literally your tracks drip with fatness. God's passing leaves abundance behind."
+          ]
+        ],
+        "reflect": "Looking back on this year, where can you see God's tracks of generosity?",
+        "related": [
+          "Deuteronomy 11:12",
+          "James 1:17",
+          "Leviticus 23:39"
+        ],
+        "alt": "An ox cart heaped with sheaves of grain rolls down a lane between golden fields.",
+        "art": "assets/psalm65/verse-11-watercolor.webp"
+      },
+      {
+        "title": "Robed hills",
+        "heading": "Even the wilderness rejoices",
+        "meaning": "The abundance spills beyond the farmland into the 'pastures of the wilderness', the open grazing land on the edges of the desert. Even there, grass springs up. Then the psalm dresses the landscape in festival clothes: 'the hills are robed with joy'. The language turns creation into worshipers wearing garments of gladness. Green slopes and flowering meadows become a picture of praise. The earth is not just producing; it is celebrating.",
+        "contextTitle": "Creation's festival clothes",
+        "context": "Isaiah 35:1–2 promises that the desert will rejoice and blossom. Isaiah 55:12 says the mountains and hills will burst into song and the trees will clap their hands.",
+        "explore": [
+          [
+            "Pastures of the wilderness",
+            "Open grazing land at the desert's edge, usually dry but here overflowing with grass."
+          ],
+          [
+            "Robed with joy",
+            "Clothed or girded with gladness. Creation is pictured dressed for a celebration."
+          ]
+        ],
+        "reflect": "Where have you seen a barren place in your life begin to grow again?",
+        "related": [
+          "Isaiah 35:1",
+          "Isaiah 55:12",
+          "Joel 2:22"
+        ],
+        "alt": "Rolling hills are covered in green grass and wildflowers after spring rain.",
+        "art": "assets/psalm65/verse-12-watercolor.webp"
+      },
+      {
+        "title": "Valleys sing",
+        "heading": "Flocks, grain and shouting",
+        "meaning": "The final verse fills every space. Pastures are 'clothed with flocks', sheep spread so thickly across the meadows that they look like a garment. Valleys are 'decked with grain', wrapped in golden wheat. Then the whole landscape raises its voice: they shout in triumph; indeed, they sing. A psalm that began with silent praise awaiting God in Zion ends with the entire countryside singing. Worship that started in the temple has spread to every field and valley.",
+        "contextTitle": "From temple to valley",
+        "context": "Psalm 96:12 calls the fields and everything in them to exult before the LORD. Romans 8:19–21 speaks of creation longing for its freedom, and Revelation 5:13 hears every creature praising God.",
+        "explore": [
+          [
+            "Clothed with flocks",
+            "So many sheep that the pastures seem dressed in them."
+          ],
+          [
+            "They sing",
+            "The landscape itself is pictured singing, the climax of the psalm's praise."
+          ]
+        ],
+        "reflect": "If the fields and valleys can praise God, what song could you add to theirs today?",
+        "related": [
+          "Psalm 96:12",
+          "Romans 8:21",
+          "Revelation 5:13"
+        ],
+        "alt": "A valley of ripe wheat ripples below hillsides dotted with grazing sheep.",
+        "art": "assets/psalm65/verse-13-watercolor.webp"
+      }
+    ]
+  }
+}

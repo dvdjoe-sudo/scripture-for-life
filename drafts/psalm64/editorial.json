@@ -1,0 +1,280 @@
+{
+  "chapter": 64,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 64 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "fear": [
+      "Psalm 64:1"
+    ],
+    "gratitude": [
+      "Psalm 64:10"
+    ]
+  },
+  "study": {
+    "number": 64,
+    "coverVerse": 1,
+    "title": "Hear, O God, my voice of complaint.",
+    "intro": "Ten verses track a war of words: plotters sharpen their tongues like swords and hide their snares, until God's own sudden arrow turns their tongues against them and the whole world stops to ponder.",
+    "context": "The heading names David and the choirmaster without naming an occasion. Verses 1–2 ask for protection from dread and from a scheming mob. Verses 3–6 describe the enemies in detail: tongues like swords, words like arrows, ambushes, hidden snares and a 'perfected' secret plan, all resting on the assumption that no one sees. Verses 7–8 form a dramatic reversal, using the same words, 'arrows' and 'suddenly', for God's response, so that the plotters stumble over their own speech. Verses 9–10 widen the scene: all mankind fears and ponders God's work, and the righteous rejoice and take refuge in Him.",
+    "peopleNote": "David is named in the heading. His profile gives background on the slander and conspiracies he faced without claiming one as this psalm's occasion. Planned paintings show bows, hidden snares, landscapes and anonymous people; God is never portrayed as a human body.",
+    "people": [
+      {
+        "id": "david",
+        "name": "David",
+        "ref": "Psalm 64:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Voice of complaint",
+        "heading": "Honest prayer under threat",
+        "meaning": "David does not dress up his prayer. He calls it a 'voice of complaint', a word for anxious, troubled speech, the sound of a mind turning over a problem. God welcomes that kind of honesty. The request is for his life to be preserved 'from dread of the enemy'. Notice that he asks to be kept not only from the enemy but from the dread itself. Fear can do its own damage long before any attack arrives. He wants God to guard both his body and his inner peace.",
+        "contextTitle": "Complaint as prayer",
+        "context": "Psalm 142:2 says, 'I pour out my complaint before Him.' Job 7:11 refuses to stay silent in bitterness of soul. The Psalms treat honest complaint as a form of faith, because it is brought to God rather than away from Him.",
+        "explore": [
+          [
+            "Complaint",
+            "Anxious, troubled speech or musing. It is the sound of a heart wrestling with a problem in God's presence."
+          ],
+          [
+            "Dread of the enemy",
+            "The fear that grips before harm comes. David asks to be protected from that inner terror too."
+          ]
+        ],
+        "reflect": "Is there a complaint you have been keeping from God because it did not sound spiritual enough?",
+        "related": [
+          "Psalm 142:2",
+          "Job 7:11",
+          "Philippians 4:6"
+        ],
+        "alt": "A lone figure kneels by a dry stream bed beneath a heavy grey sky.",
+        "art": "assets/psalm64/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Hide me",
+        "heading": "Away from the mob's plotting",
+        "meaning": "Two groups threaten him. 'The scheming of the wicked' is a secret council, people meeting quietly to plan. 'The mob of workers of iniquity' is a noisy, public crowd. Some opposition whispers and some shouts. David asks God to hide him from both. Hiding is not cowardice here. It is the wisdom of a person who knows he cannot outmaneuver every plot, so he asks God to be the one who conceals him, just as God hid Elijah and the infant Joash.",
+        "contextTitle": "Secret councils and crowds",
+        "context": "Psalm 2:1–2 pictures rulers taking counsel together against the LORD's anointed. God hid Joash in the temple for six years (2 Kings 11:2–3) and hid Elijah by the brook Cherith (1 Kings 17:3).",
+        "explore": [
+          [
+            "Scheming",
+            "A secret counsel or plot. It suggests careful, private planning against someone."
+          ],
+          [
+            "Mob",
+            "A noisy, restless throng. The word captures the uproar of a crowd stirred against the innocent."
+          ]
+        ],
+        "reflect": "Where do you need God to hide you from plotting or pressure you cannot control?",
+        "related": [
+          "Psalm 2:2",
+          "2 Kings 11:3",
+          "Psalm 27:5"
+        ],
+        "alt": "A narrow cave mouth is half hidden by a fig tree on a rocky slope.",
+        "art": "assets/psalm64/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Tongues like swords",
+        "heading": "Words sharpened for harm",
+        "meaning": "The enemies are not swinging real swords yet. Their weapons are words. They sharpen their tongues as a soldier sharpens a blade on a whetstone, and they aim bitter words like an archer aiming arrows. The images are military but the battle is verbal: slander, accusation, mockery. Anyone who has been the target of a whispering campaign knows that words can wound as deeply as steel. Scripture takes that damage seriously and names it as violence.",
+        "contextTitle": "Weaponized speech",
+        "context": "Psalm 57:4 describes men 'whose tongues are sharp swords'. Proverbs 12:18 says reckless words pierce like a sword, and James 3:6–8 calls the tongue a restless evil full of deadly poison.",
+        "explore": [
+          [
+            "Sharpen",
+            "Grinding an edge onto a blade. The enemies deliberately prepare their words to cut."
+          ],
+          [
+            "Bitter words",
+            "Speech full of poison. It is aimed carefully, like an arrow drawn toward a target."
+          ]
+        ],
+        "reflect": "Have words been used against you, or have you used words as weapons? What healing or repentance is needed?",
+        "related": [
+          "Psalm 57:4",
+          "Proverbs 12:18",
+          "James 3:8"
+        ],
+        "alt": "A whetstone and a curved knife rest on a rough wooden bench in harsh light.",
+        "art": "assets/psalm64/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Shooting from hiding",
+        "heading": "The ambush of the innocent",
+        "meaning": "The image of the archer continues. They ambush the innocent 'in seclusion', from behind cover where the victim cannot see them. They shoot 'suddenly', with no warning, and 'without fear', meaning they have no sense that God or anyone else will hold them accountable. That fearlessness is the root of their wickedness. Psalm 36:1 says the wicked have no fear of God before their eyes. Keep the word 'suddenly' in mind; it returns in verse 7 with a twist.",
+        "contextTitle": "Ambush tactics",
+        "context": "Archers in hiding were a known danger in ancient warfare, as when Saul was struck by archers on Mount Gilboa (1 Samuel 31:3). Psalm 11:2 also describes the wicked bending the bow to shoot the upright from the shadows.",
+        "explore": [
+          [
+            "In seclusion",
+            "From a hidden place. The attack is cowardly, out of sight of the victim."
+          ],
+          [
+            "Without fear",
+            "They feel no fear of God or consequences. Lack of reverence fuels their boldness."
+          ]
+        ],
+        "reflect": "Where do you see people acting as though no one will ever hold them accountable? How does that affect you?",
+        "related": [
+          "Psalm 11:2",
+          "Psalm 36:1",
+          "1 Samuel 31:3"
+        ],
+        "alt": "A taut bow is drawn behind a thicket of tall reeds near a quiet path.",
+        "art": "assets/psalm64/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Who will see them?",
+        "heading": "The illusion of secrecy",
+        "meaning": "Now the plotters move from bows to traps. They 'hold fast' to their evil plan, encouraging each other to stay the course. They talk about hiding snares, nooses or nets laid where a person's foot will catch. And then the boast: 'Who will see them?' This is the heart of their mistake. They imagine that because no human sees, no one sees at all. The whole psalm is built to answer that question. God sees, and He will act.",
+        "contextTitle": "Secret snares",
+        "context": "Psalm 10:11 records the wicked saying, 'God has forgotten; He hides His face and never sees.' Ezekiel 8:12 shows elders saying 'The LORD does not see us.' Hebrews 4:13 replies that nothing is hidden from His sight.",
+        "explore": [
+          [
+            "Hold fast",
+            "They strengthen each other in their plan, refusing to turn back."
+          ],
+          [
+            "Snares",
+            "Hidden traps for birds or animals. The image shows the patient, hidden nature of their plotting."
+          ]
+        ],
+        "reflect": "Is there anything you are doing that you hope no one sees? What does it mean that God sees all?",
+        "related": [
+          "Psalm 10:11",
+          "Ezekiel 8:12",
+          "Hebrews 4:13"
+        ],
+        "alt": "A loop of cord lies hidden among leaves on a forest path at dawn.",
+        "art": "assets/psalm64/verse-5-watercolor.webp"
+      },
+      {
+        "title": "A perfected plan",
+        "heading": "The deep, mysterious heart",
+        "meaning": "The enemies are proud of their scheme: 'We have perfected a secret plan.' They believe they have thought of everything. The verse then makes an observation that cuts two ways: 'the inner man and the heart are mysterious', or deep. Humanly, it is true that people's hearts are hard to read, and that is exactly why plotters can hide. But that depth is no barrier to God, who searches hearts. What is unfathomable to people is fully open to Him.",
+        "contextTitle": "The deep heart",
+        "context": "Jeremiah 17:9–10 says the heart is deceitful above all things, then adds, 'I, the LORD, search the heart.' Proverbs 20:5 calls a person's purposes deep waters. 1 Samuel 16:7 says the LORD looks at the heart.",
+        "explore": [
+          [
+            "Perfected",
+            "Completed or carefully worked out. They feel their plan is flawless."
+          ],
+          [
+            "Mysterious",
+            "Literally deep. The human heart is hard to fathom, but never hidden from God."
+          ]
+        ],
+        "reflect": "What hidden motives might you need God to search in your own heart?",
+        "related": [
+          "Jeremiah 17:10",
+          "Proverbs 20:5",
+          "1 Samuel 16:7"
+        ],
+        "alt": "A deep well shaft drops into darkness, a single shaft of light on its stone rim.",
+        "art": "assets/psalm64/verse-6-watercolor.webp"
+      },
+      {
+        "title": "God's arrow",
+        "heading": "Suddenly, the tables turn",
+        "meaning": "Here the psalm turns on a single word: 'But.' The enemies shot their arrows from hiding; now God shoots His. They struck 'suddenly'; now 'suddenly' they are wounded. The repeated words are deliberate. God's justice mirrors their schemes so that the punishment fits the crime. The picture of God as an archer is poetic language for His sure and swift judgment. No ambush is hidden enough and no plan perfect enough to escape the One who sees every hidden snare.",
+        "contextTitle": "Justice that mirrors",
+        "context": "Psalm 7:12–13 pictures God bending His bow against the unrepentant. Proverbs 26:27 says whoever rolls a stone will have it roll back on him. Haman hangs on his own gallows in Esther 7:10.",
+        "explore": [
+          [
+            "But God",
+            "A turning point. The narrative shifts from the enemies' plans to God's action."
+          ],
+          [
+            "Suddenly",
+            "The same word as verse 4. God answers their surprise attack with a surprise of His own."
+          ]
+        ],
+        "reflect": "Where do you need to trust that God's justice will arrive, even if it seems slow?",
+        "related": [
+          "Psalm 7:12",
+          "Proverbs 26:27",
+          "Esther 7:10"
+        ],
+        "alt": "A single arrow lies embedded in a wooden target post in an empty field.",
+        "art": "assets/psalm64/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Undone by their own tongues",
+        "heading": "Shaking heads",
+        "meaning": "The sword-sharp tongues of verse 3 now become the very thing that trips them. 'Their own tongues turned against them' means their lies are exposed and their words come back on their own heads. What they plotted in secret becomes a public scandal. 'All who see will shake their heads' describes onlookers reacting in shock or disgust. The people who thought no one would see are now seen by everyone. The war of words ends with the liars silenced by their own speech.",
+        "contextTitle": "Exposed in public",
+        "context": "Proverbs 18:7 says a fool's mouth is his ruin. Jeremiah 18:16 and Lamentations 2:15 describe passersby shaking their heads at a fallen city. Luke 12:3 says what is whispered will be proclaimed from the rooftops.",
+        "explore": [
+          [
+            "Made to stumble",
+            "Caused to trip and fall. Their own speech becomes the obstacle."
+          ],
+          [
+            "Shake their heads",
+            "A gesture of shock, scorn or dismay at someone's downfall."
+          ]
+        ],
+        "reflect": "How might God use the truth coming to light to bring healing to a situation you are facing?",
+        "related": [
+          "Proverbs 18:7",
+          "Luke 12:3",
+          "Jeremiah 18:16"
+        ],
+        "alt": "Townspeople gather at a gate, shaking their heads at a toppled market stall.",
+        "art": "assets/psalm64/verse-8-watercolor.webp"
+      },
+      {
+        "title": "All mankind will ponder",
+        "heading": "Justice that teaches the world",
+        "meaning": "God's intervention is not private. When the plotters fall, 'all mankind' sees it. Fear here is reverent awe at the God who sees and acts. People do not just gossip about the scandal; they 'proclaim the work of God' and 'ponder what He has done'. Justice becomes a lesson. Those who once assumed no one was watching learn that someone always is. The story of one man rescued from a whispering mob becomes a sermon to the world.",
+        "contextTitle": "A public lesson",
+        "context": "Exodus 14:31 records that when Israel saw the LORD's great power at the sea, the people feared Him and believed. Psalm 40:3 hopes that many will see, fear and trust the LORD.",
+        "explore": [
+          [
+            "Fear",
+            "Here reverent awe, the opposite of the fearlessness of verse 4."
+          ],
+          [
+            "Ponder",
+            "To consider carefully, to think something through. God's acts are meant to be understood, not just observed."
+          ]
+        ],
+        "reflect": "What has God done in your life that deserves to be pondered and told to others?",
+        "related": [
+          "Exodus 14:31",
+          "Psalm 40:3",
+          "Psalm 111:2"
+        ],
+        "alt": "A crowd of villagers sits on a hillside listening to an elder tell a story.",
+        "art": "assets/psalm64/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Let the righteous rejoice",
+        "heading": "Refuge and exultation",
+        "meaning": "The psalm that began with complaint ends with rejoicing. The righteous, those who walk with God, are invited to rejoice in the LORD and take refuge in Him. Their joy is not in the enemies' fall but in the LORD Himself. 'The upright in heart' are those whose inner life is straight, the opposite of the hidden schemes of verse 6. They exult because God has shown that the hidden heart is seen, that slander does not win, and that refuge in Him is never wasted.",
+        "contextTitle": "Joy of the upright",
+        "context": "Psalm 32:11 also calls the upright in heart to shout for joy. Philippians 4:4 urges believers to rejoice in the Lord always, and Psalm 5:11 asks that all who take refuge in God be glad.",
+        "explore": [
+          [
+            "Rejoice in the LORD",
+            "Joy anchored in God's character, not merely in a change of circumstances."
+          ],
+          [
+            "Upright in heart",
+            "Those whose inner motives are straight and honest, in contrast to the plotters' hidden hearts."
+          ]
+        ],
+        "reflect": "What reason do you have to rejoice in the LORD today, even while some battles continue?",
+        "related": [
+          "Psalm 32:11",
+          "Philippians 4:4",
+          "Psalm 5:11"
+        ],
+        "alt": "Children run laughing through a sunlit olive grove beside an old stone wall.",
+        "art": "assets/psalm64/verse-10-watercolor.webp"
+      }
+    ]
+  }
+}
