@@ -1,0 +1,309 @@
+{
+  "chapter": 32,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 32 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "forgiveness": [
+      "Psalm 32:1",
+      "Psalm 32:5"
+    ],
+    "direction": [
+      "Psalm 32:8"
+    ],
+    "fear": [
+      "Psalm 32:7"
+    ]
+  },
+  "study": {
+    "number": 32,
+    "coverVerse": 5,
+    "title": "Blessed is he whose transgressions are forgiven.",
+    "intro": "Eleven verses celebrate forgiveness, remember the weight of hidden sin, and offer instruction for walking with God.",
+    "context": "The heading names David and calls the psalm a Maskil, a term often understood as a skillful or instructive song. Verses 1–2 pronounce a blessing on the forgiven; verses 3–5 tell the speaker's own story of silence, heaviness and confession, with Selah marking pauses. Verses 6–7 invite others to pray and celebrate God as a hiding place. Verses 8–9 bring a voice of instruction, likely God's or the teacher's, warning against stubbornness. Verses 10–11 contrast sorrow and surrounding love and call the upright to rejoice. Paul quotes verses 1–2 in Romans 4:7–8. The Scripture is loaded unchanged from the bundled BSB, including the heading and Selah.",
+    "peopleNote": "David is named in the heading. His profile includes his confession after wrongdoing, but the psalm does not name a specific occasion, and readers should not assume one. Planned paintings show anonymous people and symbolic landscapes; God is never portrayed as a human body.",
+    "people": [
+      {
+        "id": "david",
+        "name": "David",
+        "ref": "Psalm 32:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Forgiven and covered",
+        "heading": "A blessing pronounced on those set free from guilt",
+        "meaning": "The psalm opens with a beatitude: Blessed is he whose transgressions are forgiven, whose sins are covered. Blessed describes a deep well-being that comes from God. Two words for wrongdoing appear: transgressions, which are acts of rebellion, and sins, which are failures to hit the mark. Forgiveness lifts the burden, and covering pictures sin no longer exposed before God. The heading names David and calls this a Maskil, an instructive song, so the joy is meant to teach others.",
+        "contextTitle": "A blessing quoted by Paul",
+        "context": "Romans 4:7–8 quotes Psalm 32:1–2 when Paul describes righteousness credited apart from works. Psalm 1:1 also opens with 'Blessed,' though there it concerns the path of the righteous.",
+        "explore": [
+          [
+            "Transgressions forgiven",
+            "Transgression means stepping over a boundary. Forgiveness lifts the weight of that rebellion."
+          ],
+          [
+            "Maskil",
+            "This heading term likely marks an instructive or skillful song. The psalm aims to teach as well as to praise."
+          ]
+        ],
+        "reflect": "What would it feel like to know your wrongs are truly forgiven? Is there something you are still carrying?",
+        "related": [
+          "Romans 4:7",
+          "Psalm 1:1",
+          "Psalm 103:12"
+        ],
+        "alt": "A heavy pack lies set down on a path as a traveler walks on lightly.",
+        "art": "assets/psalm32/verse-1-watercolor.webp"
+      },
+      {
+        "title": "No deceit in his spirit",
+        "heading": "Forgiveness joined to honesty",
+        "meaning": "Verse 2 repeats the blessing with new words. Blessed is the one whose iniquity the LORD does not count against him. Not counting means not keeping a record of guilt against the person. A second line adds: in whose spirit there is no deceit. Forgiveness is linked to honesty before God, no longer hiding or pretending. The verse prepares for the story of silence and confession that follows.",
+        "contextTitle": "Guilt not counted",
+        "context": "Romans 4:8 quotes this line, and 2 Corinthians 5:19 speaks of God not counting trespasses against people. Psalm 32:2 links that grace with an honest spirit.",
+        "explore": [
+          [
+            "Does not count against him",
+            "God chooses not to hold the wrong against the person. The record of guilt is cleared."
+          ],
+          [
+            "No deceit",
+            "An honest spirit no longer hides sin. Truthfulness before God opens the way to freedom."
+          ]
+        ],
+        "reflect": "Is there an area where you are tempted to pretend before God? What would honesty look like?",
+        "related": [
+          "Romans 4:8",
+          "2 Corinthians 5:19",
+          "John 1:47"
+        ],
+        "alt": "A clear still pool reflects a cloudless sky in a quiet valley.",
+        "art": "assets/psalm32/verse-2-watercolor.webp"
+      },
+      {
+        "title": "When I kept silent",
+        "heading": "The cost of hiding sin",
+        "meaning": "The speaker now tells their own story. When I kept silent, refusing to confess, my bones became brittle from groaning all day long. Silence here is not peaceful; it is the strain of hiding. The body felt the weight of unconfessed guilt. The verse does not claim that all illness comes from sin, but it honestly describes the speaker's experience of what hiding did to them.",
+        "contextTitle": "Silence and strain",
+        "context": "Proverbs 28:13 says whoever conceals sins will not prosper, but whoever confesses finds mercy. Psalm 38:3 also links sin with no rest in the bones.",
+        "explore": [
+          [
+            "Kept silent",
+            "The speaker refused to speak to God about sin. That silence became a burden."
+          ],
+          [
+            "Bones became brittle",
+            "Bones picture the deepest strength of a person. Hidden guilt wore it down."
+          ]
+        ],
+        "reflect": "Have you noticed how hiding something affects you? What would it take to break the silence?",
+        "related": [
+          "Proverbs 28:13",
+          "Psalm 38:3",
+          "Psalm 31:10"
+        ],
+        "alt": "A person sits hunched and silent in a shadowed corner of a room.",
+        "art": "assets/psalm32/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Your hand was heavy",
+        "heading": "Drained like summer heat",
+        "meaning": "The speaker felt God's hand heavy upon them day and night. Strength was drained as in summer heat, when plants wilt and water dries up. The heavy hand pictures God's pressure, not to destroy but to bring the speaker to honesty. Selah marks a pause, inviting readers to feel the weight before relief comes. The image speaks to anyone who has felt exhausted by a burden they could not set down.",
+        "contextTitle": "Heavy hand and drought",
+        "context": "1 Samuel 5:6 uses the heavy hand of the LORD for pressure on the Philistines. Here it is personal, the loving pressure that leads to confession. Selah invites a pause.",
+        "explore": [
+          [
+            "Your hand was heavy",
+            "God's pressure was felt constantly. It pushed the speaker toward honesty."
+          ],
+          [
+            "Summer heat",
+            "Summer drought drains water and strength. The image pictures exhaustion and dryness."
+          ]
+        ],
+        "reflect": "Have you felt pressure that might be inviting you to be honest with God? How could you respond?",
+        "related": [
+          "1 Samuel 5:6",
+          "Psalm 38:2",
+          "Psalm 39:10"
+        ],
+        "alt": "A cracked dry streambed shimmers in fierce summer heat.",
+        "art": "assets/psalm32/verse-4-watercolor.webp"
+      },
+      {
+        "title": "I acknowledged my sin",
+        "heading": "Confession and immediate forgiveness",
+        "meaning": "The turning point arrives. Then I acknowledged my sin and did not hide my iniquity. The speaker resolves, 'I will confess my transgressions to the LORD,' and God forgives the guilt of the sin. The story moves quickly from confession to forgiveness, showing that God does not delay in receiving honesty. Selah again invites a pause, this time to savor relief. This verse offers hope to anyone afraid to admit wrongdoing.",
+        "contextTitle": "Confession and cleansing",
+        "context": "1 John 1:9 promises that if we confess our sins, God is faithful to forgive. Psalm 51:3–4 is another honest confession in David's name. Selah marks a pause after the relief of forgiveness.",
+        "explore": [
+          [
+            "Did not hide",
+            "Confession means bringing what was hidden into the open. The speaker stops covering up."
+          ],
+          [
+            "You forgave the guilt",
+            "Forgiveness reaches both the act and the guilt it left behind. The burden is lifted."
+          ]
+        ],
+        "reflect": "What do you need to confess to God today? What do you think He will do?",
+        "related": [
+          "1 John 1:9",
+          "Psalm 51:3",
+          "Proverbs 28:13"
+        ],
+        "alt": "An anonymous person kneels by a stream as morning light breaks over the hills.",
+        "art": "assets/psalm32/verse-5-watercolor.webp"
+      },
+      {
+        "title": "While You may be found",
+        "heading": "An invitation to pray and a promise of safety",
+        "meaning": "Because of this experience, the speaker urges all the godly to pray while God may be found. This is not a threat that God will hide, but an encouragement not to delay. Then comes an image of protection: when great waters rise, they will not come near. Floods pictured overwhelming danger in the ancient world. Those who turn to God in time find Him to be safe ground.",
+        "contextTitle": "Seek Him while He may be found",
+        "context": "Isaiah 55:6 calls people to seek the LORD while He may be found. Psalm 46:2–3 speaks of trust even when the waters roar. Psalm 32:6 applies that invitation to everyone who has heard the speaker's story.",
+        "explore": [
+          [
+            "While You may be found",
+            "The invitation encourages prayer now. Delay only prolongs the burden."
+          ],
+          [
+            "Great waters",
+            "Floodwaters picture overwhelming trouble. The godly are kept from their reach."
+          ]
+        ],
+        "reflect": "Is there something you have been putting off bringing to God? What might happen if you prayed about it today?",
+        "related": [
+          "Isaiah 55:6",
+          "Psalm 46:3",
+          "Isaiah 43:2"
+        ],
+        "alt": "Rising floodwaters swirl around a rocky knoll where a small shelter stands dry.",
+        "art": "assets/psalm32/verse-6-watercolor.webp"
+      },
+      {
+        "title": "My hiding place",
+        "heading": "God's protection surrounds with song",
+        "meaning": "The speaker addresses God directly: You are my hiding place. God protects from trouble and surrounds the speaker with songs of deliverance. The image changes from hiding to being encircled by music, as if rescue were celebrated on every side. The one who once hid sin from God now hides in God. Selah marks another pause.",
+        "contextTitle": "Hiding in God",
+        "context": "Psalm 119:114 says, 'You are my hiding place and my shield.' Psalm 27:5 speaks of being hidden in God's shelter in times of trouble. The one who hid sin now hides in God.",
+        "explore": [
+          [
+            "Hiding place",
+            "Earlier the speaker hid sin. Now the speaker hides in God, a great reversal."
+          ],
+          [
+            "Songs of deliverance",
+            "Rescue is surrounded by celebration. Joy and music mark God's protection."
+          ]
+        ],
+        "reflect": "Where do you need a hiding place right now? How could you rest in God's protection?",
+        "related": [
+          "Psalm 119:114",
+          "Psalm 27:5",
+          "Psalm 31:20"
+        ],
+        "alt": "A sheltered cleft in a rock glows with warm light as birds sing around it.",
+        "art": "assets/psalm32/verse-7-watercolor.webp"
+      },
+      {
+        "title": "I will instruct you",
+        "heading": "A promise of guidance and watchful care",
+        "meaning": "A new voice speaks, likely God or the psalmist as teacher: I will instruct you and teach you the way you should go. The promise includes counsel and a watchful eye. Guidance is personal, given by one who keeps watching over the learner. After forgiveness comes instruction for the road ahead. The verse reassures anyone unsure of their next step.",
+        "contextTitle": "A teacher's promise",
+        "context": "Proverbs 3:5–6 promises straight paths for those who trust the LORD, and Isaiah 30:21 speaks of a voice saying, 'This is the way; walk in it.'",
+        "explore": [
+          [
+            "Teach you the way",
+            "Instruction looks forward. God guides the forgiven along a new path."
+          ],
+          [
+            "Watch over you",
+            "Guidance comes with care. The teacher keeps an eye on the learner."
+          ]
+        ],
+        "reflect": "Where do you need guidance today? How might you listen for God's counsel?",
+        "related": [
+          "Proverbs 3:6",
+          "Isaiah 30:21",
+          "Psalm 25:8"
+        ],
+        "alt": "An older traveler points a younger one along a path through the hills.",
+        "art": "assets/psalm32/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Not like the horse or mule",
+        "heading": "A warning against stubbornness",
+        "meaning": "The instruction continues with a vivid warning. Do not be like the horse or mule, which have no understanding and must be controlled with bit and bridle. The animals must be forced to come near. God desires people who come willingly and understand, not those who must be dragged. The verse invites a teachable heart instead of stubborn resistance.",
+        "contextTitle": "Stubbornness pictured",
+        "context": "Proverbs 26:3 speaks of a bridle for the donkey and a rod for fools. James 3:3 uses a bit in a horse's mouth to show how small things guide large ones.",
+        "explore": [
+          [
+            "No understanding",
+            "The animals do not grasp why they are led. God hopes for willing understanding."
+          ],
+          [
+            "Bit and bridle",
+            "These tools control animals that will not come freely. The image warns against needing force."
+          ]
+        ],
+        "reflect": "Where might you be resisting God's guidance? What would coming willingly look like?",
+        "related": [
+          "Proverbs 26:3",
+          "James 3:3",
+          "Psalm 32:8"
+        ],
+        "alt": "A stubborn mule stands with locked legs on a path as a calm donkey walks beside its owner.",
+        "art": "assets/psalm32/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Surrounded by loving devotion",
+        "heading": "A contrast of sorrows and love",
+        "meaning": "Verse 10 sets two paths side by side. Many are the sorrows of the wicked, but loving devotion surrounds the one who trusts in the LORD. Surrounding love echoes the songs that surround in verse 7. The verse does not promise the trusting will have no sorrow, but that God's covenant love encircles them. It invites trust as the way into that protection.",
+        "contextTitle": "Love that surrounds",
+        "context": "Psalm 5:12 says God surrounds the righteous with favor as a shield. Psalm 125:2 pictures the LORD surrounding His people like mountains around Jerusalem.",
+        "explore": [
+          [
+            "Many are the sorrows",
+            "Turning from God brings many troubles. The verse speaks honestly about consequences."
+          ],
+          [
+            "Loving devotion surrounds",
+            "God's love encircles those who trust. It is protection on every side."
+          ]
+        ],
+        "reflect": "Where do you need to know you are surrounded by God's love today?",
+        "related": [
+          "Psalm 5:12",
+          "Psalm 125:2",
+          "Psalm 32:7"
+        ],
+        "alt": "A small village sits encircled by protective hills at sunset.",
+        "art": "assets/psalm32/verse-10-watercolor.webp"
+      },
+      {
+        "title": "Shout for joy",
+        "heading": "The psalm ends in celebration",
+        "meaning": "The final verse calls the righteous and upright to be glad, rejoice and shout for joy in the LORD. The righteous here are not the sinless but the forgiven who walk honestly with God, as the psalm has described. Joy is the natural end of a story that began in hidden guilt. The verse invites shared celebration of God's mercy.",
+        "contextTitle": "Joy after forgiveness",
+        "context": "Psalm 33:1, immediately following, also begins with a call for the righteous to rejoice. Philippians 4:4 repeats, 'Rejoice in the Lord always.'",
+        "explore": [
+          [
+            "Righteous ones",
+            "In this psalm, the righteous are the forgiven. Their uprightness rests on God's mercy."
+          ],
+          [
+            "Upright in heart",
+            "An upright heart is honest before God. It no longer hides sin."
+          ]
+        ],
+        "reflect": "What could you celebrate today about God's mercy toward you? Who could you celebrate with?",
+        "related": [
+          "Psalm 33:1",
+          "Philippians 4:4",
+          "Psalm 97:12"
+        ],
+        "alt": "Anonymous villagers celebrate with raised hands in a sunlit field.",
+        "art": "assets/psalm32/verse-11-watercolor.webp"
+      }
+    ]
+  }
+}

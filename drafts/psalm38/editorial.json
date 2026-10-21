@@ -1,0 +1,584 @@
+{
+  "chapter": 38,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 38 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "health": [
+      "Psalm 38:3"
+    ],
+    "forgiveness": [
+      "Psalm 38:18"
+    ],
+    "alone": [
+      "Psalm 38:11",
+      "Psalm 38:21"
+    ]
+  },
+  "study": {
+    "number": 38,
+    "coverVerse": 21,
+    "title": "Come quickly to help me, O Lord my Savior.",
+    "intro": "Twenty-two verses of lament join bodily suffering, confessed sin, abandonment by friends and enemies' plots, ending with a plea for God to come near.",
+    "context": "The heading names David and says the psalm is 'for remembrance,' perhaps for use with a memorial offering or to bring the sufferer to God's remembrance. Verses 1–8 describe God's discipline, bodily pain and the weight of sin; verses 9–14 turn to God, describe failing strength, distant friends and plotting enemies, and the speaker's silence. Verses 15–22 wait for God, confess iniquity, name enemies who repay good with evil, and close with a plea not to be forsaken. The speaker connects their own suffering with their own sin; this is personal confession, not a rule that all illness is punishment. Jesus explicitly rejects that assumption in John 9:1–3. The Scripture is loaded unchanged from the bundled BSB, including the heading.",
+    "peopleNote": "David is named in the heading. His profile includes failure, confession and consequences, but the psalm does not identify the occasion, and readers should not assume one. Planned paintings show anonymous people and symbolic landscapes with restraint around illness; God is never portrayed as a human body.",
+    "people": [
+      {
+        "id": "david",
+        "name": "David",
+        "ref": "Psalm 38:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Not in Your anger",
+        "heading": "A plea for gentler discipline",
+        "meaning": "The heading names David and says the psalm is for remembrance, perhaps a prayer offered so that God would remember the sufferer. The first words are a plea: O LORD, do not rebuke me in Your anger or discipline me in Your wrath. The speaker does not ask to escape correction entirely, but asks that it not come in fury. The verse assumes that God disciplines and that the speaker needs it, while hoping for mercy within that discipline.",
+        "contextTitle": "A shared opening",
+        "context": "Psalm 6:1 opens with almost the same words, and Jeremiah 10:24 prays, 'Correct me, O LORD, but only with justice, not in Your anger.' Hebrews 12:6 says the Lord disciplines those He loves. The heading 'for remembrance' also appears on Psalm 70.",
+        "explore": [
+          [
+            "For remembrance",
+            "The phrase may relate to bringing the sufferer before God's memory, or to a memorial offering. It frames the psalm as a prayer to be remembered."
+          ],
+          [
+            "In Your anger",
+            "The speaker fears discipline given in wrath. The request is for correction tempered by mercy."
+          ]
+        ],
+        "reflect": "Is there an area where you sense God's correction? How could you ask for His mercy in it?",
+        "related": [
+          "Psalm 6:1",
+          "Jeremiah 10:24",
+          "Hebrews 12:6"
+        ],
+        "alt": "A weary traveler kneels on a stony path under a heavy grey sky.",
+        "art": "assets/psalm38/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Arrows and a heavy hand",
+        "heading": "Feeling struck by God",
+        "meaning": "For Your arrows have pierced me deeply, and Your hand has pressed down on me. The speaker uses vivid images to describe their suffering as coming from God. Arrows picture sharp, piercing pain; the hand pictures heavy pressure. The language is poetic, expressing how overwhelming the experience feels. The verse gives voice to people who feel that God Himself is against them, while still speaking to Him.",
+        "contextTitle": "Arrows of suffering",
+        "context": "Job 6:4 says, 'The arrows of the Almighty are within me,' and Lamentations 3:12–13 uses similar imagery. Psalm 32:4 also speaks of God's heavy hand.",
+        "explore": [
+          [
+            "Your arrows",
+            "The image pictures sharp pain. It expresses how suffering feels, not a portrait of God as an archer."
+          ],
+          [
+            "Pressed down",
+            "The heavy hand pictures weight and pressure. The speaker feels crushed."
+          ]
+        ],
+        "reflect": "Have you ever felt that God was against you? How could you bring that honestly to Him?",
+        "related": [
+          "Job 6:4",
+          "Lamentations 3:12",
+          "Psalm 32:4"
+        ],
+        "alt": "Broken arrows lie on the ground beside a bowed figure in shadow.",
+        "art": "assets/psalm38/verse-2-watercolor.webp"
+      },
+      {
+        "title": "No soundness in my body",
+        "heading": "Bodily suffering and sin",
+        "meaning": "There is no soundness in my body because of Your anger; there is no rest in my bones because of my sin. The speaker connects physical pain with God's anger and personal sin. This is their honest understanding of their own situation. Scripture does not teach that every illness is caused by sin; Jesus rejects that idea in John 9:1–3. But it does allow people to confess when they sense a link in their own lives.",
+        "contextTitle": "Sin and sickness",
+        "context": "John 9:3 says neither this man nor his parents sinned, correcting the assumption that illness always comes from sin. Isaiah 1:5–6 describes a nation sick from head to foot, using the body as an image of sin's effects.",
+        "explore": [
+          [
+            "No soundness",
+            "The body is unwell everywhere. Pain is pervasive. Pain reaches every part."
+          ],
+          [
+            "Because of my sin",
+            "The speaker confesses a personal connection. This is not a rule for all illness."
+          ]
+        ],
+        "reflect": "Is there an area of your life where you sense guilt affecting your wellbeing? How could you bring it to God?",
+        "related": [
+          "John 9:3",
+          "Isaiah 1:6",
+          "Psalm 31:10"
+        ],
+        "alt": "An anonymous person lies restless on a mat in a dim room at night.",
+        "art": "assets/psalm38/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Too heavy to bear",
+        "heading": "Overwhelmed by sin",
+        "meaning": "For my iniquities have overwhelmed me; they are a burden too heavy to bear. Sin is pictured as floodwaters rising over the head and as a crushing burden. The speaker cannot carry it. This honest admission is the beginning of hope, because it recognizes the need for help. The verse invites anyone overwhelmed by guilt to bring that burden to God.",
+        "contextTitle": "Burdens and rest",
+        "context": "Matthew 11:28 says, 'Come to Me, all you who are weary and burdened, and I will give you rest,' and Psalm 40:12 says my sins have overtaken me.",
+        "explore": [
+          [
+            "Overwhelmed",
+            "The image is of waters rising over the head. The speaker is drowning in guilt."
+          ],
+          [
+            "Too heavy to bear",
+            "The burden is beyond human strength. Help must come from outside."
+          ]
+        ],
+        "reflect": "What burden are you carrying that is too heavy? How could you hand it to God?",
+        "related": [
+          "Matthew 11:28",
+          "Psalm 40:12",
+          "Ezra 9:6"
+        ],
+        "alt": "A traveler stoops under an enormous bundle on a steep path.",
+        "art": "assets/psalm38/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Sinful folly",
+        "heading": "Wounds from foolish choices",
+        "meaning": "My wounds are foul and festering because of my sinful folly. The speaker describes wounds that will not heal and attributes them to their own foolishness. Folly in Scripture is not merely silliness but moral foolishness, ignoring God's wisdom. The verse is a stark confession. It shows that honesty about our own choices is part of healing.",
+        "contextTitle": "Folly and its fruit",
+        "context": "Proverbs 1:7 says fools despise wisdom, and Proverbs 5:22–23 says a wicked man is caught by his own folly. Psalm 38:5 is a personal confession of such folly.",
+        "explore": [
+          [
+            "Foul and festering",
+            "The wounds are unhealed and painful. The image is graphic and honest."
+          ],
+          [
+            "Sinful folly",
+            "Moral foolishness has consequences. The speaker owns their part."
+          ]
+        ],
+        "reflect": "Is there a foolish choice whose consequences you are living with? How could you bring it to God for healing?",
+        "related": [
+          "Proverbs 1:7",
+          "Proverbs 5:23",
+          "Isaiah 1:6"
+        ],
+        "alt": "A bandaged arm rests on a table beside a basin of water and herbs.",
+        "art": "assets/psalm38/verse-5-watercolor.webp"
+      },
+      {
+        "title": "Bent and brought low",
+        "heading": "Mourning all day long",
+        "meaning": "I am bent and brought low; all day long I go about mourning. The speaker's body and spirit are bowed down. They walk around in constant grief. The image of being bent over captures both physical weakness and emotional heaviness. The verse names the experience of prolonged sorrow. It invites readers to bring long seasons of grief to God.",
+        "contextTitle": "Bowed down",
+        "context": "Psalm 35:14 describes being bowed down with grief, and Luke 13:11 tells of a woman bent over for eighteen years whom Jesus healed. Within Psalm 38, verse 6 belongs to a lament that holds suffering, confession and trust together.",
+        "explore": [
+          [
+            "Bent and brought low",
+            "The posture is bowed. Weakness and sorrow weigh down."
+          ],
+          [
+            "All day long",
+            "The grief is constant. It does not lift. Sorrow has no break."
+          ]
+        ],
+        "reflect": "Have you experienced a long season of sorrow? What would you say to God about it?",
+        "related": [
+          "Psalm 35:14",
+          "Luke 13:11",
+          "Psalm 42:9"
+        ],
+        "alt": "A bent elderly figure walks slowly through a misty olive grove.",
+        "art": "assets/psalm38/verse-6-watercolor.webp"
+      },
+      {
+        "title": "Burning pain",
+        "heading": "Pain throughout the body",
+        "meaning": "For my loins are full of burning pain, and no soundness remains in my body. The speaker describes intense physical pain, burning in the lower body. The phrase 'no soundness' repeats verse 3, emphasizing that the whole body is affected. The verse is honest about bodily suffering. It shows that the Psalms make room for prayers about physical illness and pain.",
+        "contextTitle": "Prayers about illness",
+        "context": "Psalm 6:2 asks, 'Heal me, O LORD, for my bones are in agony,' and James 5:14 encourages prayer for the sick. Within Psalm 38, verse 7 belongs to a lament that holds suffering, confession and trust together.",
+        "explore": [
+          [
+            "Burning pain",
+            "The pain is fierce and constant. It burns within. It allows no relief."
+          ],
+          [
+            "No soundness",
+            "Nothing in the body feels healthy. The repetition stresses the depth of suffering."
+          ]
+        ],
+        "reflect": "Is there physical pain you need to bring to God in prayer? How could you ask for help?",
+        "related": [
+          "Psalm 6:2",
+          "James 5:14",
+          "Psalm 41:3"
+        ],
+        "alt": "An oil lamp burns low beside an empty sickbed in a quiet room.",
+        "art": "assets/psalm38/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Numb and crushed",
+        "heading": "Groaning from the heart",
+        "meaning": "I am numb and badly crushed; I groan in anguish of heart. The speaker feels numb, exhausted and broken. Groaning is the sound of someone too weary for words. The anguish is not only physical but deeply emotional. The verse gives language to people who feel too crushed to pray clearly. Groaning itself can be a prayer.",
+        "contextTitle": "Groans as prayer",
+        "context": "Romans 8:26 says the Spirit intercedes with groans too deep for words, and Psalm 6:6 says, 'I am weary from groaning.' Within Psalm 38, verse 8 belongs to a lament that holds suffering, confession and trust together.",
+        "explore": [
+          [
+            "Numb",
+            "Exhaustion has left the speaker without feeling. Pain has worn them out."
+          ],
+          [
+            "Groan",
+            "Groaning is wordless prayer. It expresses what cannot be spoken."
+          ]
+        ],
+        "reflect": "Have you ever been too crushed to pray in words? What would it mean to know that groaning is heard?",
+        "related": [
+          "Romans 8:26",
+          "Psalm 6:6",
+          "Psalm 102:5"
+        ],
+        "alt": "A figure sits slumped against a cold stone wall in grey light.",
+        "art": "assets/psalm38/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Not hidden from You",
+        "heading": "God knows every desire and groan",
+        "meaning": "O Lord, my every desire is before You; my groaning is not hidden from You. The tone shifts. The speaker turns to God with confidence that nothing is hidden from Him. Every longing, every groan, is known. This is comfort in the middle of suffering. Even when others do not understand, God sees. The verse invites trust that God knows what we cannot say.",
+        "contextTitle": "Known by God",
+        "context": "Psalm 139:1–4 says God knows every word before it is spoken, and Romans 8:27 says He who searches hearts knows the mind of the Spirit. Within Psalm 38, verse 9 belongs to a lament that holds suffering, confession and trust together.",
+        "explore": [
+          [
+            "Every desire",
+            "God sees every longing. Nothing is overlooked. He knows them before we speak."
+          ],
+          [
+            "Not hidden",
+            "The groaning of verse 8 is seen. God knows the pain."
+          ]
+        ],
+        "reflect": "What longing do you want God to know about today? How does it feel to know He already does?",
+        "related": [
+          "Psalm 139:4",
+          "Romans 8:27",
+          "Exodus 2:24"
+        ],
+        "alt": "A person kneels at dawn with open hands toward a soft brightening sky.",
+        "art": "assets/psalm38/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Light of my eyes",
+        "heading": "Failing strength",
+        "meaning": "My heart pounds, my strength fails, and even the light of my eyes has faded. The speaker describes physical and emotional exhaustion. The heart races, strength is gone, and the eyes have lost their brightness. The light of the eyes can picture vitality and hope. The verse names the experience of being completely drained.",
+        "contextTitle": "Fading light",
+        "context": "Psalm 6:7 says my eyes waste away with grief, and 1 Samuel 14:27 tells of Jonathan's eyes brightening after eating honey, showing that bright eyes picture renewed strength.",
+        "explore": [
+          [
+            "My heart pounds",
+            "The heart races with anxiety or illness. The body is in distress."
+          ],
+          [
+            "Light of my eyes",
+            "Bright eyes picture vitality. Their fading shows exhaustion."
+          ]
+        ],
+        "reflect": "What has drained your strength lately? How could you ask God to restore the light in your eyes?",
+        "related": [
+          "Psalm 6:7",
+          "1 Samuel 14:27",
+          "Psalm 13:3"
+        ],
+        "alt": "A candle flame gutters low in a draughty window at evening.",
+        "art": "assets/psalm38/verse-10-watercolor.webp"
+      },
+      {
+        "title": "My friends stand at a distance",
+        "heading": "Abandonment by loved ones",
+        "meaning": "My beloved and friends shun my disease, and my kinsmen stand at a distance. Illness has brought isolation. Friends and family keep away. Perhaps they fear contagion, or do not know what to say, or believe the illness is a sign of God's judgment. Whatever the reason, the speaker feels abandoned. The verse gives voice to the loneliness that often accompanies suffering.",
+        "contextTitle": "Isolated in illness",
+        "context": "Job 19:13–19 laments being estranged from family and friends, and Psalm 88:18 says, 'You have taken my friends and loved ones from me.' Within Psalm 38, verse 11 belongs to a lament that holds suffering, confession and trust together.",
+        "explore": [
+          [
+            "Shun my disease",
+            "Friends avoid the speaker. Illness has isolated them."
+          ],
+          [
+            "Stand at a distance",
+            "Even family keeps away. The isolation is painful. Their absence deepens the pain."
+          ]
+        ],
+        "reflect": "Is someone you know isolated by illness or hardship? How could you draw near to them?",
+        "related": [
+          "Job 19:13",
+          "Psalm 88:18",
+          "Luke 23:49"
+        ],
+        "alt": "A sick figure sits alone at a doorway while others stand far off.",
+        "art": "assets/psalm38/verse-11-watercolor.webp"
+      },
+      {
+        "title": "Plotting deceit",
+        "heading": "Enemies take advantage",
+        "meaning": "Those who seek my life lay snares; those who wish me harm speak destruction, plotting deceit all day long. While friends withdraw, enemies move in. They take advantage of the speaker's weakness, laying traps and speaking destruction. Their scheming is constant. The verse names the cruelty of exploiting someone who is already down.",
+        "contextTitle": "Exploiting weakness",
+        "context": "Psalm 41:5–8 describes enemies who visit the sick to spread lies, and Psalm 140:5 speaks of the proud hiding a snare. Within Psalm 38, verse 12 belongs to a lament that holds suffering, confession and trust together.",
+        "explore": [
+          [
+            "Lay snares",
+            "Enemies set traps. They seek to exploit weakness. They exploit the speaker's weakness."
+          ],
+          [
+            "Plotting deceit",
+            "The scheming is constant. Lies are spread all day. Lies spread without pause."
+          ]
+        ],
+        "reflect": "Have you seen someone take advantage of another's weakness? How might you protect the vulnerable?",
+        "related": [
+          "Psalm 41:7",
+          "Psalm 140:5",
+          "Psalm 31:13"
+        ],
+        "alt": "Snares hidden in the grass near a resting traveler.",
+        "art": "assets/psalm38/verse-12-watercolor.webp"
+      },
+      {
+        "title": "Like a deaf man",
+        "heading": "Choosing silence",
+        "meaning": "But like a deaf man, I do not hear; and like a mute man, I do not open my mouth. The speaker responds to enemies by refusing to listen or answer. This may be exhaustion, or a deliberate choice not to retaliate. The silence leaves the defense to God. The verse anticipates the silence of the suffering servant in Isaiah 53:7.",
+        "contextTitle": "Silence before accusers",
+        "context": "Isaiah 53:7 says the servant did not open his mouth, and 1 Peter 2:23 says Jesus did not retaliate when insulted. Within Psalm 38, verse 13 belongs to a lament that holds suffering, confession and trust together.",
+        "explore": [
+          [
+            "Like a deaf man",
+            "The speaker does not respond to accusations. Silence is a shield."
+          ],
+          [
+            "Do not open my mouth",
+            "Refusing to answer leaves the defense to God. It is restraint, not weakness."
+          ]
+        ],
+        "reflect": "Is there a situation where silence might be wiser than argument? How could you trust God with your defense?",
+        "related": [
+          "Isaiah 53:7",
+          "1 Peter 2:23",
+          "Psalm 39:9"
+        ],
+        "alt": "A silent figure sits with closed eyes while voices swirl as dust in the wind.",
+        "art": "assets/psalm38/verse-13-watercolor.webp"
+      },
+      {
+        "title": "No reply",
+        "heading": "Silence repeated",
+        "meaning": "I am like a man who cannot hear, whose mouth offers no reply. The speaker repeats the image of silence. They neither hear nor answer. This repetition emphasizes their deliberate restraint. Perhaps they have nothing left to say, or perhaps they trust God to speak for them. The verse prepares for the turn to God in verse 15.",
+        "contextTitle": "Waiting in silence",
+        "context": "Lamentations 3:26–28 says it is good to wait quietly for the salvation of the LORD, and Psalm 62:1 says, 'My soul waits in silence for God alone.'",
+        "explore": [
+          [
+            "Cannot hear",
+            "The speaker blocks out the accusations. They refuse to engage."
+          ],
+          [
+            "No reply",
+            "Their silence is deliberate. They wait for God to answer."
+          ]
+        ],
+        "reflect": "What would it look like for you to wait in silence for God's answer?",
+        "related": [
+          "Lamentations 3:26",
+          "Psalm 62:1",
+          "Habakkuk 2:20"
+        ],
+        "alt": "A closed wooden door and still courtyard in quiet evening light.",
+        "art": "assets/psalm38/verse-14-watercolor.webp"
+      },
+      {
+        "title": "I wait for You",
+        "heading": "Hope turned toward God",
+        "meaning": "I wait for You, O LORD; You will answer, O Lord my God. The speaker's silence toward enemies becomes waiting for God. They trust that God will answer. The shift is significant: hope is no longer in self-defense but in God's response. The verse is a turning point, a small but firm statement of faith in the middle of suffering.",
+        "contextTitle": "Waiting for God",
+        "context": "Psalm 130:5 says, 'I wait for the LORD; my soul does wait,' and Micah 7:7 says, 'But as for me, I will look to the LORD; I will wait for the God of my salvation.'",
+        "explore": [
+          [
+            "I wait",
+            "Waiting is hopeful patience. The speaker looks to God."
+          ],
+          [
+            "You will answer",
+            "The speaker trusts that God will respond. Hope has a direction."
+          ]
+        ],
+        "reflect": "What are you waiting for God to answer? How could you wait with hope?",
+        "related": [
+          "Psalm 130:5",
+          "Micah 7:7",
+          "Psalm 40:1"
+        ],
+        "alt": "A traveler sits at a window watching the first light of dawn.",
+        "art": "assets/psalm38/verse-15-watercolor.webp"
+      },
+      {
+        "title": "When my foot slips",
+        "heading": "Fear of enemies' gloating",
+        "meaning": "For I said, 'Let them not gloat over me—those who taunt me when my foot slips.' The speaker explains why they wait for God. They fear that enemies will gloat over their fall. When their foot slips, enemies taunt. The prayer asks God not to give enemies that satisfaction. It reveals how vulnerable the speaker feels.",
+        "contextTitle": "Slipping and gloating",
+        "context": "Psalm 94:18 says, 'When I said, My foot is slipping, Your loving devotion, O LORD, held me up,' and Psalm 35:19 asks that enemies not gloat. Within Psalm 38, verse 16 belongs to a lament that holds suffering, confession and trust together.",
+        "explore": [
+          [
+            "Let them not gloat",
+            "The speaker asks God to prevent mockery. Shame feels unbearable."
+          ],
+          [
+            "When my foot slips",
+            "The image pictures stumbling. Weakness invites taunts."
+          ]
+        ],
+        "reflect": "Have you feared others watching you fail? How could you bring that fear to God?",
+        "related": [
+          "Psalm 94:18",
+          "Psalm 35:19",
+          "Psalm 13:4"
+        ],
+        "alt": "A foot slips on loose stones at the edge of a narrow path.",
+        "art": "assets/psalm38/verse-16-watercolor.webp"
+      },
+      {
+        "title": "Ready to fall",
+        "heading": "Constant pain",
+        "meaning": "For I am ready to fall, and my pain is ever with me. The speaker admits that they are on the edge of collapse. Pain is constant, never leaving. The verse is a raw admission of weakness. It does not pretend to strength. Sometimes the most honest prayer is simply naming how close to falling we are. It is honest prayer.",
+        "contextTitle": "On the edge",
+        "context": "Psalm 73:2 says, 'My feet had almost slipped,' and 2 Corinthians 4:8–9 says, 'We are hard pressed on every side, but not crushed.' Within Psalm 38, verse 17 belongs to a lament that holds suffering, confession and trust together.",
+        "explore": [
+          [
+            "Ready to fall",
+            "The speaker is near collapse. Strength is gone. Collapse feels near."
+          ],
+          [
+            "Ever with me",
+            "Pain does not leave. It is constant. Relief has not yet come."
+          ]
+        ],
+        "reflect": "Are you close to falling in some area? What would it mean to tell God honestly?",
+        "related": [
+          "Psalm 73:2",
+          "2 Corinthians 4:8",
+          "Psalm 22:14"
+        ],
+        "alt": "An old leaning wall stands at the edge of a crumbling slope.",
+        "art": "assets/psalm38/verse-17-watercolor.webp"
+      },
+      {
+        "title": "I confess my iniquity",
+        "heading": "Honest confession",
+        "meaning": "Yes, I confess my iniquity; I am troubled by my sin. The speaker makes a clear confession. They admit their wrongdoing and express genuine sorrow. Being troubled by sin is a sign of a tender conscience. The verse shows that confession is part of the path to healing. It invites honest acknowledgment of our own wrongs.",
+        "contextTitle": "Confession and forgiveness",
+        "context": "1 John 1:9 promises forgiveness to those who confess, and Psalm 32:5 says, 'I acknowledged my sin to You.' Within Psalm 38, verse 18 belongs to a lament that holds suffering, confession and trust together.",
+        "explore": [
+          [
+            "I confess",
+            "Confession names sin openly. It is honest before God."
+          ],
+          [
+            "Troubled by my sin",
+            "Genuine sorrow is a sign of a tender heart. It leads toward God."
+          ]
+        ],
+        "reflect": "What do you need to confess to God today? How might confession bring relief?",
+        "related": [
+          "1 John 1:9",
+          "Psalm 32:5",
+          "2 Corinthians 7:10"
+        ],
+        "alt": "A kneeling figure bows before a simple stone altar in morning light.",
+        "art": "assets/psalm38/verse-18-watercolor.webp"
+      },
+      {
+        "title": "Without cause",
+        "heading": "Unjust hatred",
+        "meaning": "Many are my enemies without cause, and many hate me without reason. Even while confessing sin, the speaker notes that their enemies' hostility is undeserved. The speaker's sin is against God; the enemies' hatred has no just basis. The verse holds both truths: personal guilt before God and unjust treatment from others.",
+        "contextTitle": "Hated without reason",
+        "context": "Psalm 35:19 and Psalm 69:4 speak of those who hate without cause, and John 15:25 applies these words to Jesus. Within Psalm 38, verse 19 belongs to a lament that holds suffering, confession and trust together.",
+        "explore": [
+          [
+            "Without cause",
+            "The enemies have no just reason. Their hostility is unfair."
+          ],
+          [
+            "Many",
+            "The number of enemies is overwhelming. The speaker feels surrounded."
+          ]
+        ],
+        "reflect": "Can you hold both your own need for forgiveness and the unfairness of how others treat you?",
+        "related": [
+          "Psalm 35:19",
+          "Psalm 69:4",
+          "John 15:25"
+        ],
+        "alt": "A lone figure stands before a gathering of shadowy, distant crowds.",
+        "art": "assets/psalm38/verse-19-watercolor.webp"
+      },
+      {
+        "title": "For pursuing the good",
+        "heading": "Attacked for doing right",
+        "meaning": "Those who repay my good with evil attack me for pursuing the good. The speaker is attacked precisely because they try to do good. Their kindness is repaid with hostility. This adds to the pain. The verse acknowledges that doing right can bring opposition. It encourages perseverance in goodness despite misunderstanding.",
+        "contextTitle": "Good repaid with evil",
+        "context": "Psalm 35:12 laments being repaid evil for good, and 1 Peter 3:17 says it is better to suffer for doing good than for doing evil. Within Psalm 38, verse 20 belongs to a lament that holds suffering, confession and trust together.",
+        "explore": [
+          [
+            "Repay good with evil",
+            "Kindness is met with harm. It is a bitter betrayal."
+          ],
+          [
+            "Pursuing the good",
+            "The speaker is attacked for doing right. Goodness provokes hostility."
+          ]
+        ],
+        "reflect": "Have you faced opposition for doing what was right? How could you persevere?",
+        "related": [
+          "Psalm 35:12",
+          "1 Peter 3:17",
+          "Galatians 6:9"
+        ],
+        "alt": "A figure offers water to a stranger who turns away scornfully.",
+        "art": "assets/psalm38/verse-20-watercolor.webp"
+      },
+      {
+        "title": "Be not far from me",
+        "heading": "A plea for God's presence",
+        "meaning": "Do not forsake me, O LORD; be not far from me, O my God. The speaker's deepest fear is abandonment by God. Friends have withdrawn, enemies attack, but the worst would be for God to stay distant. The plea is simple and urgent. It reveals that God's presence matters more than anything else. The plea is the heart of the psalm.",
+        "contextTitle": "Not forsaken",
+        "context": "Psalm 22:11 says, 'Be not far from me,' and Hebrews 13:5 promises, 'Never will I leave you, never will I forsake you.' Within Psalm 38, verse 21 belongs to a lament that holds suffering, confession and trust together.",
+        "explore": [
+          [
+            "Do not forsake",
+            "The speaker fears abandonment. God's presence is essential."
+          ],
+          [
+            "Be not far",
+            "Distance from God is the deepest fear. Nearness is the deepest need."
+          ]
+        ],
+        "reflect": "What would it mean for you to know God is near today?",
+        "related": [
+          "Psalm 22:11",
+          "Hebrews 13:5",
+          "Psalm 71:12"
+        ],
+        "alt": "A lone traveler on a vast plain looks toward a nearby glowing campfire.",
+        "art": "assets/psalm38/verse-21-watercolor.webp"
+      },
+      {
+        "title": "Come quickly",
+        "heading": "The final cry for help",
+        "meaning": "Come quickly to help me, O Lord my Savior. The psalm ends with an urgent plea. The speaker asks God to hurry. The title 'my Savior' shows that despite everything, they still trust God to rescue them. The psalm does not resolve with an answer, but it ends with faith. The verse invites honest, urgent prayer even when relief has not yet come.",
+        "contextTitle": "Urgent prayer",
+        "context": "Psalm 40:13 says, 'Hurry, O LORD, to help me,' and Psalm 70:1 opens with the same plea. Within Psalm 38, verse 22 belongs to a lament that holds suffering, confession and trust together.",
+        "explore": [
+          [
+            "Come quickly",
+            "The speaker cannot wait. The need is urgent. Delay feels unbearable."
+          ],
+          [
+            "O Lord my Savior",
+            "Despite suffering, the speaker still calls God Savior. Trust remains."
+          ]
+        ],
+        "reflect": "What do you need God to hurry to help you with? How could you pray that honestly?",
+        "related": [
+          "Psalm 40:13",
+          "Psalm 70:1",
+          "Psalm 22:19"
+        ],
+        "alt": "A dawn road stretches toward a waiting figure at a gate.",
+        "art": "assets/psalm38/verse-22-watercolor.webp"
+      }
+    ]
+  }
+}
