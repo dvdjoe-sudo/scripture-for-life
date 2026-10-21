@@ -1,6 +1,6 @@
 {
   "chapter": 30,
-  "status": "unwired text draft; awaiting art and wiring",
+  "status": "whole-chapter candidate; twelve illustrations reviewed; validation pending",
   "sourceReview": "Read bundled BSB Psalm 30 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
   "topicPlan": {
     "health": [
@@ -19,7 +19,7 @@
     "title": "You turned my mourning into dancing.",
     "intro": "Twelve verses give thanks for rescue from the edge of death, remembering prosperity, sudden dismay, a cry for mercy and joy restored.",
     "context": "The heading calls this a song for the dedication of the temple and names David, without explaining how a personal thanksgiving came to serve that occasion. Verses 1–3 thank the LORD for healing and rescue; verses 4–5 invite the faithful to join in. Verses 6–10 look back: confidence in prosperity, dismay when God's face seemed hidden, and a quoted plea for mercy that runs from verse 9 into verse 10. Verses 11–12 describe mourning turned to dancing and promise lasting thanks. The psalm treats illness, fear and recovery honestly without promising that every sickness ends in healing. The Scripture is loaded unchanged from the bundled BSB, including the heading.",
-    "peopleNote": "David is named in the heading. His profile offers background without claiming that a particular story is the occasion of this psalm. Planned paintings show anonymous people and symbolic landscapes; God is never portrayed as a human body.",
+    "peopleNote": "David is named in the heading. His profile offers background without claiming a particular story as this psalm's occasion. Paintings are symbolic artistic responses, with anonymous people and imagined settings rather than historical reconstructions. The cistern, instruments, house, staff and grave markers are artistic choices, not details supplied by the psalm. God is never portrayed as a human body.",
     "people": [
       {
         "id": "david",
@@ -133,7 +133,7 @@
         "heading": "A contrast between a brief night and a lasting favor",
         "meaning": "This well-loved verse places two contrasts side by side. God's anger is brief compared with His favor, which lasts a lifetime. Weeping may lodge for the night like a guest, but joy arrives with the morning. The verse does not deny that anger or weeping are real; it sets them in a larger frame of God's enduring goodwill. Night and morning are images, not a promise that grief always ends within a day. They speak of hope that sorrow is not the final word for those who trust the LORD.",
         "contextTitle": "Night and morning in the Psalms",
-        "context": "Lamentations 3:22–23 speaks of mercies that are new every morning. Isaiah 54:7–8 sets a brief moment of anger beside everlasting compassion, a close parallel.",
+        "context": "Lamentations 3:20–24 voices hope amid remembered affliction. Isaiah 54:7–8 addresses Zion's restoration with a similar brief-anger/enduring-compassion contrast. Paul looks toward eternal glory in 2 Corinthians 4:16–18 while the outer self wastes away. These different settings support hope without promising immediate relief.",
         "explore": [
           [
             "Weeping may stay the night",
@@ -183,7 +183,7 @@
         "heading": "Stability and dismay both traced to God",
         "meaning": "Verse 7 corrects the boast of verse 6. The speaker now sees that the strength of their 'mountain' came from the LORD's favor. When God seemed to hide His face, dismay came quickly. To hide the face is a biblical image for the felt absence of God's attention and help. The verse does not say why this happened; it simply records how fragile security became once the speaker no longer sensed God's presence. Strength is acknowledged as a gift rather than an achievement.",
         "contextTitle": "The hidden face of God",
-        "context": "Psalm 13:1 asks how long God will hide His face. Psalm 104:29 notes that creatures are dismayed when God hides His face, the same word used here.",
+        "context": "Psalm 13:1 pleads over God's hidden face. Psalm 104:27–30 uses this imagery for creatures' dependence on the giver of life. Psalm 27:9 likewise asks that God's face not be hidden. The parallels concern dependence, without supplying a cause for this psalm's crisis.",
         "explore": [
           [
             "My mountain stand strong",
@@ -283,7 +283,7 @@
         "heading": "Sorrow exchanged for joy",
         "meaning": "The answer to the prayer is described in vivid pictures. Mourning has turned into dancing, and sackcloth, the rough garment of grief, has been taken off and replaced with joy like new clothing. The change is credited to God: You turned, You peeled off, You clothed. The sentence continues into verse 12, which gives the purpose of this change. The verse celebrates a real reversal without suggesting that grief should be hurried or hidden.",
         "contextTitle": "Clothing as a picture of change",
-        "context": "Isaiah 61:3 promises a garment of praise instead of a spirit of despair. Jeremiah 31:13 speaks of mourning turned into joy, echoing this exchange.",
+        "context": "Isaiah 61:1–4 offers comfort and a garment of praise to Zion's mourners; Jeremiah 31:11–15 pictures restored Israel dancing, yet also voices Rachel's grief. Ecclesiastes 3:4 gives both mourning and dancing their season. These communal and wisdom settings illuminate the imagery without making every grief end on demand.",
         "explore": [
           [
             "Sackcloth",
