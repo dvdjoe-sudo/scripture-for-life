@@ -1,7 +1,7 @@
 {
   "source": "data/Berean-Standard-Bible-original.txt",
-  "status": "Related passages for verses 1–16 read with surrounding verses; later and literary comparisons retain their own settings",
-  "reviewedThrough": 16,
+  "status": "Related passages for verses 1–20 read in context; literary images and later comparisons retain their own settings",
+  "reviewedThrough": 20,
   "references": [
     {
       "ref": "Proverbs 24:19",
@@ -1261,6 +1261,370 @@
         [
           10,
           "A divine verdict is on the lips of a king; his mouth must not betray justice."
+        ]
+      ]
+    },
+    {
+      "ref": "Isaiah 41:10",
+      "usedByVerses": [
+        17
+      ],
+      "context": [
+        [
+          8,
+          "“But you, O Israel, My servant, Jacob, whom I have chosen, descendant of Abraham My friend—"
+        ],
+        [
+          9,
+          "I brought you from the ends of the earth and called you from its farthest corners. I said, ‘You are My servant.’ I have chosen and not rejected you."
+        ],
+        [
+          10,
+          "Do not fear, for I am with you; do not be afraid, for I am your God. I will strengthen you; I will surely help you; I will uphold you with My righteous right hand."
+        ],
+        [
+          11,
+          "Behold, all who rage against you will be ashamed and disgraced; those who contend with you will be reduced to nothing and will perish."
+        ],
+        [
+          12,
+          "You will seek them but will not find them. Those who wage war against you will come to nothing."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 145:14",
+      "usedByVerses": [
+        17
+      ],
+      "context": [
+        [
+          12,
+          "to make known to men Your mighty acts and the glorious splendor of Your kingdom."
+        ],
+        [
+          13,
+          "Your kingdom is an everlasting kingdom, and Your dominion endures through all generations. The LORD is faithful in all His words and kind in all His actions."
+        ],
+        [
+          14,
+          "The LORD upholds all who fall and lifts up all who are bowed down."
+        ],
+        [
+          15,
+          "The eyes of all look to You, and You give them their food in season."
+        ],
+        [
+          16,
+          "You open Your hand and satisfy the desire of every living thing."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 63:8",
+      "usedByVerses": [
+        17
+      ],
+      "context": [
+        [
+          6,
+          "When I remember You on my bed, I think of You through the watches of the night."
+        ],
+        [
+          7,
+          "For You are my help; I will sing for joy in the shadow of Your wings."
+        ],
+        [
+          8,
+          "My soul clings to You; Your right hand upholds me."
+        ],
+        [
+          9,
+          "But those who seek my life to destroy it will go into the depths of the earth."
+        ],
+        [
+          10,
+          "They will fall to the power of the sword; they will become a portion for foxes."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 1:6",
+      "usedByVerses": [
+        18
+      ],
+      "context": [
+        [
+          4,
+          "Not so the wicked! For they are like chaff driven off by the wind."
+        ],
+        [
+          5,
+          "Therefore the wicked will not stand in the judgment, nor sinners in the assembly of the righteous."
+        ],
+        [
+          6,
+          "For the LORD guards the path of the righteous, but the way of the wicked will perish."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 139:16",
+      "usedByVerses": [
+        18
+      ],
+      "context": [
+        [
+          14,
+          "I praise You, for I am fearfully and wonderfully made. Marvelous are Your works, and I know this very well."
+        ],
+        [
+          15,
+          "My frame was not hidden from You when I was made in secret, when I was woven together in the depths of the earth."
+        ],
+        [
+          16,
+          "Your eyes saw my unformed body; all my days were written in Your book and ordained for me before one of them came to be."
+        ],
+        [
+          17,
+          "How precious to me are Your thoughts, O God, how vast is their sum!"
+        ],
+        [
+          18,
+          "If I were to count them, they would outnumber the grains of sand; and when I awake, I am still with You."
+        ]
+      ]
+    },
+    {
+      "ref": "1 Peter 1:4",
+      "usedByVerses": [
+        18
+      ],
+      "context": [
+        [
+          3,
+          "Blessed be the God and Father of our Lord Jesus Christ! By His great mercy He has given us new birth into a living hope through the resurrection of Jesus Christ from the dead,"
+        ],
+        [
+          4,
+          "and into an inheritance that is imperishable, undefiled, and unfading, reserved in heaven for you,"
+        ],
+        [
+          5,
+          "who through faith are shielded by God’s power for the salvation that is ready to be revealed in the last time."
+        ],
+        [
+          6,
+          "In this you greatly rejoice, though now for a little while you may have had to suffer grief in various trials"
+        ],
+        [
+          7,
+          "so that the proven character of your faith—more precious than gold, which perishes even though refined by fire—may result in praise, glory, and honor at the revelation of Jesus Christ."
+        ],
+        [
+          8,
+          "Though you have not seen Him, you love Him; and though you do not see Him now, you believe in Him and rejoice with an inexpressible and glorious joy,"
+        ],
+        [
+          9,
+          "now that you are receiving the goal of your faith, the salvation of your souls."
+        ]
+      ]
+    },
+    {
+      "ref": "1 Kings 17:14",
+      "usedByVerses": [
+        19
+      ],
+      "context": [
+        [
+          12,
+          "But she replied, “As surely as the LORD your God lives, I have no bread—only a handful of flour in a jar and a little oil in a jug. Look, I am gathering a couple of sticks to take home and prepare a meal for myself and my son, so that we may eat it and die.”"
+        ],
+        [
+          13,
+          "“Do not be afraid,” Elijah said to her. “Go and do as you have said. But first make me a small cake of bread from what you have, and bring it out to me. Afterward, make some for yourself and your son,"
+        ],
+        [
+          14,
+          "for this is what the LORD, the God of Israel, says: ‘The jar of flour will not be exhausted and the jug of oil will not run dry until the day the LORD sends rain upon the face of the earth.’”"
+        ],
+        [
+          15,
+          "So she went and did according to the word of Elijah, and there was food every day for Elijah and the woman and her household."
+        ],
+        [
+          16,
+          "The jar of flour was not exhausted and the jug of oil did not run dry, according to the word that the LORD had spoken through Elijah."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 33:19",
+      "usedByVerses": [
+        19
+      ],
+      "context": [
+        [
+          17,
+          "A horse is a vain hope for salvation; even its great strength cannot save."
+        ],
+        [
+          18,
+          "Surely the eyes of the LORD are on those who fear Him, on those whose hope is in His loving devotion"
+        ],
+        [
+          19,
+          "to deliver them from death and keep them alive in famine."
+        ],
+        [
+          20,
+          "Our soul waits for the LORD; He is our help and our shield."
+        ],
+        [
+          21,
+          "For our hearts rejoice in Him, since we trust in His holy name."
+        ]
+      ]
+    },
+    {
+      "ref": "Philippians 4:19",
+      "usedByVerses": [
+        19
+      ],
+      "context": [
+        [
+          10,
+          "Now I rejoice greatly in the Lord that at last you have revived your concern for me. You were indeed concerned, but you had no opportunity to show it."
+        ],
+        [
+          11,
+          "I am not saying this out of need, for I have learned to be content regardless of my circumstances."
+        ],
+        [
+          12,
+          "I know how to live humbly, and I know how to abound. In any and every situation I have learned the secret of being filled and being hungry, of having plenty and having need."
+        ],
+        [
+          13,
+          "I can do all things through Christ who gives me strength."
+        ],
+        [
+          14,
+          "Nevertheless, you have done well to share in my affliction."
+        ],
+        [
+          15,
+          "And as you Philippians know, in the early days of the gospel, when I left Macedonia, no church but you partnered with me in the matter of giving and receiving."
+        ],
+        [
+          16,
+          "For even while I was in Thessalonica, you provided for my needs again and again."
+        ],
+        [
+          17,
+          "Not that I am seeking a gift, but I am looking for the fruit that may be credited to your account."
+        ],
+        [
+          18,
+          "I have all I need and more, now that I have received your gifts from Epaphroditus. They are a fragrant offering, an acceptable sacrifice, well-pleasing to God."
+        ],
+        [
+          19,
+          "And my God will supply all your needs according to His glorious riches in Christ Jesus."
+        ],
+        [
+          20,
+          "To our God and Father be glory forever and ever. Amen."
+        ],
+        [
+          21,
+          "Greet all the saints in Christ Jesus. The brothers who are with me send you greetings."
+        ]
+      ]
+    },
+    {
+      "ref": "James 4:14",
+      "usedByVerses": [
+        20
+      ],
+      "context": [
+        [
+          12,
+          "There is only one Lawgiver and Judge, the One who is able to save and destroy. But who are you to judge your neighbor?"
+        ],
+        [
+          13,
+          "Come now, you who say, “Today or tomorrow we will go to this or that city, spend a year there, carry on business, and make a profit.”"
+        ],
+        [
+          14,
+          "You do not even know what will happen tomorrow! What is your life? You are a mist that appears for a little while and then vanishes."
+        ],
+        [
+          15,
+          "Instead, you ought to say, “If the Lord is willing, we will live and do this or that.”"
+        ],
+        [
+          16,
+          "As it is, you boast in your proud intentions. All such boasting is evil."
+        ]
+      ]
+    },
+    {
+      "ref": "Hosea 13:3",
+      "usedByVerses": [
+        20
+      ],
+      "context": [
+        [
+          1,
+          "When Ephraim spoke, there was trembling; he was exalted in Israel. But he incurred guilt through Baal, and he died."
+        ],
+        [
+          2,
+          "Now they sin more and more and make for themselves cast images, idols skillfully made from their silver, all of them the work of craftsmen. People say of them, “They offer human sacrifice and kiss the calves!”"
+        ],
+        [
+          3,
+          "Therefore they will be like the morning mist, like the early dew that vanishes, like chaff blown from a threshing floor, like smoke through an open window."
+        ],
+        [
+          4,
+          "Yet I am the LORD your God ever since the land of Egypt; you know no God but Me, for there is no Savior besides Me."
+        ],
+        [
+          5,
+          "I knew you in the wilderness, in the land of drought."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 102:3",
+      "usedByVerses": [
+        20
+      ],
+      "context": [
+        [
+          1,
+          "A prayer of one who is afflicted, when he grows faint and pours out his lament before the LORD. Hear my prayer, O LORD; let my cry for help come before You."
+        ],
+        [
+          2,
+          "Do not hide Your face from me in my day of distress. Incline Your ear to me; answer me quickly when I call."
+        ],
+        [
+          3,
+          "For my days vanish like smoke, and my bones burn like glowing embers."
+        ],
+        [
+          4,
+          "My heart is afflicted, and withered like grass; I even forget to eat my bread."
+        ],
+        [
+          5,
+          "Through my loud groaning my skin hangs on my bones."
         ]
       ]
     }

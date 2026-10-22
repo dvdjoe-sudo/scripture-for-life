@@ -1,7 +1,7 @@
 {
   "chapter": 37,
   "status": "partial unpublished illustration checkpoint; published text unchanged",
-  "completedThrough": 16,
+  "completedThrough": 20,
   "totalVerses": 40,
   "groups": [
     {
@@ -21,8 +21,14 @@
       "from": 13,
       "through": 16,
       "status": "editorial and individual art reviewed"
+    },
+    {
+      "file": "verses-17-20.json",
+      "from": 17,
+      "through": 20,
+      "status": "editorial and individual art reviewed"
     }
   ],
-  "nextVerse": 17
+  "nextVerse": 21
 }
 

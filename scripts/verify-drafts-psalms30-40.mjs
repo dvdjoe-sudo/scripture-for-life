@@ -13,7 +13,7 @@ const escapeHTML=v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>'
 const checkRef=ref=>{const m=/^(.+?) (\d+):(\d+)$/.exec(ref);assert(m,ref);assert(bible.find(b=>b.name===m[1])?.chapters[+m[2]-1]?.some(([v,t])=>v===+m[3]&&t),'Invalid reference '+ref);};
 const live=['index.html','sw.js','scripts/build-web.mjs','package.json','PSALMS_ROLLOUT.md'].map(f=>[f,fs.readFileSync(f,'utf8')]);
 const counts={};
-const generatedByPsalm={37:16};
+const generatedByPsalm={37:20};
 for(let n=37;n<=40;n++){
   const dir='drafts/psalm'+n+'/',source=psalms[n-1],chapter=Object.fromEntries(source);
   const src=read(dir+'source.json');assert.deepEqual(src.verses,source,'Psalm '+n+' source.json must equal bundled BSB exactly');
@@ -57,4 +57,4 @@ for(let n=37;n<=40;n++){
   assert(!(n in engine.studies),'Psalm '+n+' must not be registered in the live app');
   counts[n]=source.length;
 }
-console.log('PASS — Psalms 37–40 editorial sources: exact BSB coverage',JSON.stringify(counts),'total',Object.values(counts).reduce((a,b)=>a+b),'verses; valid references/people/topics; Psalm 37 art checkpoint 1–16 verified; illustration drafts not wired.');
+console.log('PASS — Psalms 37–40 editorial sources: exact BSB coverage',JSON.stringify(counts),'total',Object.values(counts).reduce((a,b)=>a+b),'verses; valid references/people/topics; Psalm 37 art checkpoint 1–20 verified; illustration drafts not wired.');

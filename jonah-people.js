@@ -1,4 +1,4 @@
-window.PEOPLE_EXTRA = (window.PEOPLE_EXTRA || []).concat([
+window.PEOPLE.push(...[
   {
     "id": "jonah",
     "name": "Jonah",
