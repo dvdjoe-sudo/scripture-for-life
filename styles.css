@@ -17,3 +17,4 @@ html,body{max-width:100%;overflow-x:clip}.container,.hero>div,.hero-art,.site-he
 
 /* Topic pages: soft alternating tint so each verse stands apart. */
 .topic-layout .verse-card{padding-left:16px;padding-right:16px}.topic-layout .verse-card:nth-child(even){background:var(--cream)}
+.topic-layout.topic-layout-single{grid-template-columns:minmax(0,1fr);max-width:760px}
