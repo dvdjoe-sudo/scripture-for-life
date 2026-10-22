@@ -1,0 +1,31 @@
+{
+  "chapter": 37,
+  "status": "unpublished prompt checkpoint; no generated illustrations",
+  "styleReference": "assets/psalm23/verse-2-watercolor.webp",
+  "paintings": [
+    {
+      "verse": 21,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 21: An anonymous neighbor willingly hands a modest woven basket of bread and figs to another at a simple doorway. Equal, dignified human figures, warm morning light, open generous gesture. Convey gracious giving without making poverty or borrowing look wicked.",
+      "production": "assets/psalm37/verse-21-watercolor.webp",
+      "status": "not generated; built-in image service rejected request; production path is proposed only"
+    },
+    {
+      "verse": 22,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 22: Two paths through a countryside garden divide around a low weathered stone wall: one continues through a fruitful field toward a welcoming homestead, the other fades into a dry, empty rocky tract. Symbolic contrast between enduring inheritance and an ending way, no people or modern boundaries. Do not imply that drought proves anyone cursed.",
+      "production": "assets/psalm37/verse-22-watercolor.webp",
+      "status": "not generated; built-in image service rejected request; production path is proposed only"
+    },
+    {
+      "verse": 23,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 23: A lone anonymous traveler takes a careful step across firm, low stepping stones beside a clear stream, with a winding path continuing beyond. Soft morning light, steady posture and practical footing convey ordered steps and trust. No divine figure, supernatural hand or glowing guide.",
+      "production": "assets/psalm37/verse-23-watercolor.webp",
+      "status": "not generated; built-in image service rejected request; production path is proposed only"
+    },
+    {
+      "verse": 24,
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 24: Two ordinary anonymous human figures, a parent and small child on a rocky path; the parent gently steadies the child by the hand after a small stumble. Show both as plainly human, with ordinary clothing and natural light. This is an artistic comparison of sustaining care, never a depiction of God as parent or person. No halos, rays, divine symbols or injury.",
+      "production": "assets/psalm37/verse-24-watercolor.webp",
+      "status": "not generated; built-in image service rejected request; production path is proposed only"
+    }
+  ]
+}
