@@ -1,6 +1,6 @@
 /* Scripture for Life offline support for the WEB build.
    Capacitor Android carries its web assets inside the application. */
-const VERSION = 'scripture-for-life-shell-v74-psalms-art-132-150';
+const VERSION = 'scripture-for-life-shell-v74-zephaniah';
 const CORE = [
   './psalm-text-studies.js',
   './psalm36.js',
@@ -375,7 +375,7 @@ const CORE = [
   './assets/psalm16/verse-9-watercolor.webp',
   './assets/psalm16/verse-10-watercolor.webp',
   './assets/psalm16/verse-11-watercolor.webp',
-  './', './index.html', './app.js', './styles.css', './genesis.js', './exodus.js', './exodus-people.js', './judges-people.js', './genesis-people.js', './joshua-people.js', './ruth-people.js', './samuel1-people.js', './samuel2-people.js', './kings1-people.js', './kings2-people.js','./jonah-people.js','./amos-people.js','./hosea-people.js','./isaiah-people.js','./micah-people.js','./nahum-people.js', './leviticus.js', './numbers.js', './deuteronomy.js', './joshua.js', './judges.js', './ruth.js', './samuel1.js', './samuel2.js', './kings1.js', './kings2.js','./jonah.js','./amos.js','./hosea.js','./isaiah.js','./micah.js','./nahum.js', './data/exodus-episodes.json', './data/exodus-scenes.json', './data/leviticus-episodes.json', './data/leviticus-scenes.json', './data/numbers-episodes.json', './data/numbers-scenes.json', './data/deuteronomy-episodes.json', './data/deuteronomy-scenes.json', './data/joshua-episodes.json', './data/joshua-scenes.json', './data/judges-episodes.json', './data/judges-scenes.json', './data/ruth-episodes.json', './data/ruth-scenes.json', './data/samuel1-episodes.json', './data/samuel1-scenes.json', './data/samuel2-episodes.json', './data/samuel2-scenes.json', './data/kings1-episodes.json', './data/kings1-scenes.json', './data/kings2-episodes.json', './data/kings2-scenes.json','./data/jonah-episodes.json','./data/jonah-scenes.json','./data/amos-episodes.json','./data/hosea-episodes.json','./data/amos-scenes.json','./data/hosea-scenes.json','./data/isaiah-episodes.json','./data/isaiah-scenes.json','./data/micah-episodes.json','./data/micah-scenes.json','./data/nahum-episodes.json','./data/nahum-scenes.json',
+  './', './index.html', './app.js', './styles.css', './genesis.js', './exodus.js', './exodus-people.js', './judges-people.js', './genesis-people.js', './joshua-people.js', './ruth-people.js', './samuel1-people.js', './samuel2-people.js', './kings1-people.js', './kings2-people.js','./jonah-people.js','./amos-people.js','./hosea-people.js','./isaiah-people.js','./micah-people.js','./nahum-people.js','./zephaniah-people.js', './leviticus.js', './numbers.js', './deuteronomy.js', './joshua.js', './judges.js', './ruth.js', './samuel1.js', './samuel2.js', './kings1.js', './kings2.js','./jonah.js','./amos.js','./hosea.js','./isaiah.js','./micah.js','./nahum.js','./zephaniah.js', './data/exodus-episodes.json', './data/exodus-scenes.json', './data/leviticus-episodes.json', './data/leviticus-scenes.json', './data/numbers-episodes.json', './data/numbers-scenes.json', './data/deuteronomy-episodes.json', './data/deuteronomy-scenes.json', './data/joshua-episodes.json', './data/joshua-scenes.json', './data/judges-episodes.json', './data/judges-scenes.json', './data/ruth-episodes.json', './data/ruth-scenes.json', './data/samuel1-episodes.json', './data/samuel1-scenes.json', './data/samuel2-episodes.json', './data/samuel2-scenes.json', './data/kings1-episodes.json', './data/kings1-scenes.json', './data/kings2-episodes.json', './data/kings2-scenes.json','./data/jonah-episodes.json','./data/jonah-scenes.json','./data/amos-episodes.json','./data/hosea-episodes.json','./data/amos-scenes.json','./data/hosea-scenes.json','./data/isaiah-episodes.json','./data/isaiah-scenes.json','./data/micah-episodes.json','./data/micah-scenes.json','./data/nahum-episodes.json','./data/nahum-scenes.json','./data/zephaniah-episodes.json','./data/zephaniah-scenes.json',
   './genesis.css', './psalm-walk.js', './psalm-walk.css', './psalm46.js', './data.js', './content.js', './icon.svg',
   './assets/psalm23/verse-1-watercolor.webp', './assets/psalm23/verse-2-watercolor.webp',
   './assets/psalm23/verse-3-watercolor.webp', './assets/psalm23/verse-4-watercolor.webp',
@@ -623,25 +623,6 @@ const CORE = [
   './assets/psalms-chapter-art/psalm129-watercolor.webp',
   './assets/psalms-chapter-art/psalm130-watercolor.webp',
   './assets/psalms-chapter-art/psalm131-watercolor.webp',
-  './assets/psalms-chapter-art/psalm132-watercolor.webp',
-  './assets/psalms-chapter-art/psalm133-watercolor.webp',
-  './assets/psalms-chapter-art/psalm134-watercolor.webp',
-  './assets/psalms-chapter-art/psalm135-watercolor.webp',
-  './assets/psalms-chapter-art/psalm136-watercolor.webp',
-  './assets/psalms-chapter-art/psalm137-watercolor.webp',
-  './assets/psalms-chapter-art/psalm138-watercolor.webp',
-  './assets/psalms-chapter-art/psalm139-watercolor.webp',
-  './assets/psalms-chapter-art/psalm140-watercolor.webp',
-  './assets/psalms-chapter-art/psalm141-watercolor.webp',
-  './assets/psalms-chapter-art/psalm142-watercolor.webp',
-  './assets/psalms-chapter-art/psalm143-watercolor.webp',
-  './assets/psalms-chapter-art/psalm144-watercolor.webp',
-  './assets/psalms-chapter-art/psalm145-watercolor.webp',
-  './assets/psalms-chapter-art/psalm146-watercolor.webp',
-  './assets/psalms-chapter-art/psalm147-watercolor.webp',
-  './assets/psalms-chapter-art/psalm148-watercolor.webp',
-  './assets/psalms-chapter-art/psalm149-watercolor.webp',
-  './assets/psalms-chapter-art/psalm150-watercolor.webp',
   './assets/psalm1/verse-1-watercolor.webp',
   './assets/psalm1/verse-2-watercolor.webp',
   './assets/psalm1/verse-3-watercolor.webp',
