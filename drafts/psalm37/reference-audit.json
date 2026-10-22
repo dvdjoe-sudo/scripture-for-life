@@ -1,7 +1,7 @@
 {
   "source": "data/Berean-Standard-Bible-original.txt",
-  "status": "Related passages for verses 1–12 read with surrounding verses; later and literary comparisons retain their own settings",
-  "reviewedThrough": 12,
+  "status": "Related passages for verses 1–16 read with surrounding verses; later and literary comparisons retain their own settings",
+  "reviewedThrough": 16,
   "references": [
     {
       "ref": "Proverbs 24:19",
@@ -933,6 +933,334 @@
         [
           3,
           "“Let us break Their chains and cast away Their cords.”"
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 2:4",
+      "usedByVerses": [
+        13
+      ],
+      "context": [
+        [
+          2,
+          "The kings of the earth take their stand and the rulers gather together, against the LORD and against His Anointed One:"
+        ],
+        [
+          3,
+          "“Let us break Their chains and cast away Their cords.”"
+        ],
+        [
+          4,
+          "The One enthroned in heaven laughs; the Lord taunts them."
+        ],
+        [
+          5,
+          "Then He rebukes them in His anger, and terrifies them in His fury:"
+        ],
+        [
+          6,
+          "“I have installed My King on Zion, upon My holy mountain.”"
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 59:8",
+      "usedByVerses": [
+        13
+      ],
+      "context": [
+        [
+          6,
+          "They return in the evening, snarling like dogs and prowling around the city."
+        ],
+        [
+          7,
+          "See what they spew from their mouths—sharp words from their lips: “For who can hear us?”"
+        ],
+        [
+          8,
+          "But You, O LORD, laugh at them; You scoff at all the nations."
+        ],
+        [
+          9,
+          "I will keep watch for You, O my strength, because You, O God, are my fortress."
+        ],
+        [
+          10,
+          "My God of loving devotion will come to meet me; God will let me stare down my foes."
+        ]
+      ]
+    },
+    {
+      "ref": "Proverbs 1:26",
+      "usedByVerses": [
+        13
+      ],
+      "context": [
+        [
+          24,
+          "Because you refused my call, and no one took my outstretched hand,"
+        ],
+        [
+          25,
+          "because you neglected all my counsel, and wanted none of my correction,"
+        ],
+        [
+          26,
+          "in turn I will mock your calamity; I will sneer when terror strikes you,"
+        ],
+        [
+          27,
+          "when your dread comes like a storm, and your destruction like a whirlwind, when distress and anguish overwhelm you."
+        ],
+        [
+          28,
+          "Then they will call on me, but I will not answer; they will earnestly seek me, but will not find me."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 10:9",
+      "usedByVerses": [
+        14
+      ],
+      "context": [
+        [
+          7,
+          "His mouth is full of cursing, deceit, and violence; trouble and malice are under his tongue."
+        ],
+        [
+          8,
+          "He lies in wait near the villages; in ambush he slays the innocent; his eyes watch in stealth for the helpless."
+        ],
+        [
+          9,
+          "He lies in wait like a lion in a thicket; he lurks to seize the oppressed; he catches the lowly in his net."
+        ],
+        [
+          10,
+          "They are crushed and beaten down; the helpless fall prey to his strength."
+        ],
+        [
+          11,
+          "He says to himself, “God has forgotten; He hides His face and never sees.”"
+        ]
+      ]
+    },
+    {
+      "ref": "Proverbs 22:22",
+      "usedByVerses": [
+        14
+      ],
+      "context": [
+        [
+          20,
+          "Have I not written for you thirty sayings about counsel and knowledge,"
+        ],
+        [
+          21,
+          "to show you true and reliable words, that you may soundly answer those who sent you?"
+        ],
+        [
+          22,
+          "Do not rob a poor man because he is poor, and do not crush the afflicted at the gate,"
+        ],
+        [
+          23,
+          "for the LORD will take up their case and will plunder those who rob them."
+        ],
+        [
+          24,
+          "Do not make friends with an angry man, and do not associate with a hot-tempered man,"
+        ]
+      ]
+    },
+    {
+      "ref": "Isaiah 10:2",
+      "usedByVerses": [
+        14
+      ],
+      "context": [
+        [
+          1,
+          "Woe to those who enact unjust statutes and issue oppressive decrees,"
+        ],
+        [
+          2,
+          "to deprive the poor of fair treatment and withhold justice from the oppressed of My people, to make widows their prey and orphans their plunder."
+        ],
+        [
+          3,
+          "What will you do on the day of reckoning when devastation comes from afar? To whom will you flee for help? Where will you leave your wealth?"
+        ],
+        [
+          4,
+          "Nothing will remain but to crouch among the captives or fall among the slain. Despite all this, His anger is not turned away; His hand is still upraised."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 7:16",
+      "usedByVerses": [
+        15
+      ],
+      "context": [
+        [
+          14,
+          "Behold, the wicked man travails with evil; he conceives trouble and births falsehood."
+        ],
+        [
+          15,
+          "He has dug a hole and hollowed it out; he has fallen into a pit of his own making."
+        ],
+        [
+          16,
+          "His trouble recoils on himself, and his violence falls on his own head."
+        ],
+        [
+          17,
+          "I will thank the LORD for His righteousness and sing praise to the name of the LORD Most High."
+        ]
+      ]
+    },
+    {
+      "ref": "Matthew 26:52",
+      "usedByVerses": [
+        15
+      ],
+      "context": [
+        [
+          50,
+          "“Friend,” Jesus replied, “do what you came for.” Then the men stepped forward, seized Jesus, and arrested Him."
+        ],
+        [
+          51,
+          "At this, one of Jesus’ companions drew his sword and struck the servant of the high priest, cutting off his ear."
+        ],
+        [
+          52,
+          "“Put your sword back in its place,” Jesus said to him. “For all who draw the sword will die by the sword."
+        ],
+        [
+          53,
+          "Are you not aware that I can call on My Father, and He will at once put at My disposal more than twelve legions of angels?"
+        ],
+        [
+          54,
+          "But how then would the Scriptures be fulfilled that say it must happen this way?”"
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 46:9",
+      "usedByVerses": [
+        15
+      ],
+      "context": [
+        [
+          7,
+          "The LORD of Hosts is with us; the God of Jacob is our fortress. Selah"
+        ],
+        [
+          8,
+          "Come, see the works of the LORD, who brings devastation upon the earth."
+        ],
+        [
+          9,
+          "He makes wars to cease throughout the earth; He breaks the bow and shatters the spear; He burns the shields in the fire."
+        ],
+        [
+          10,
+          "“Be still and know that I am God; I will be exalted among the nations, I will be exalted over the earth.”"
+        ],
+        [
+          11,
+          "The LORD of Hosts is with us; the God of Jacob is our fortress. Selah"
+        ]
+      ]
+    },
+    {
+      "ref": "Proverbs 15:16",
+      "usedByVerses": [
+        16
+      ],
+      "context": [
+        [
+          14,
+          "A discerning heart seeks knowledge, but the mouth of a fool feeds on folly."
+        ],
+        [
+          15,
+          "All the days of the oppressed are bad, but a cheerful heart has a continual feast."
+        ],
+        [
+          16,
+          "Better a little with the fear of the LORD than great treasure with turmoil."
+        ],
+        [
+          17,
+          "Better a dish of vegetables where there is love than a fattened ox with hatred."
+        ],
+        [
+          18,
+          "A hot-tempered man stirs up strife, but he who is slow to anger calms dispute."
+        ]
+      ]
+    },
+    {
+      "ref": "1 Timothy 6:6",
+      "usedByVerses": [
+        16
+      ],
+      "context": [
+        [
+          4,
+          "he is conceited and understands nothing. Instead, he has an unhealthy interest in controversies and disputes about words, out of which come envy, strife, abusive talk, evil suspicions,"
+        ],
+        [
+          5,
+          "and constant friction between men of depraved mind who are devoid of the truth. These men regard godliness as a means of gain."
+        ],
+        [
+          6,
+          "Of course, godliness with contentment is great gain."
+        ],
+        [
+          7,
+          "For we brought nothing into the world, so we cannot carry anything out of it."
+        ],
+        [
+          8,
+          "But if we have food and clothing, we will be content with these."
+        ]
+      ]
+    },
+    {
+      "ref": "Proverbs 16:8",
+      "usedByVerses": [
+        16
+      ],
+      "context": [
+        [
+          6,
+          "By loving devotion and faithfulness iniquity is atoned for, and by the fear of the LORD one turns aside from evil."
+        ],
+        [
+          7,
+          "When a man’s ways please the LORD, He makes even the man’s enemies live at peace with him."
+        ],
+        [
+          8,
+          "Better a little with righteousness than great gain with injustice."
+        ],
+        [
+          9,
+          "A man’s heart plans his course, but the LORD determines his steps."
+        ],
+        [
+          10,
+          "A divine verdict is on the lips of a king; his mouth must not betray justice."
         ]
       ]
     }

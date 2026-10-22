@@ -2,7 +2,7 @@
   "tool": "built-in image_gen.imagegen",
   "styleReference": "assets/psalm23/verse-2-watercolor.webp",
   "productionFormat": "WebP, 1024px wide (3:2), quality 75",
-  "status": "Verses 1–12 generated, packaged and visually inspected; verses 13–40 remain prompt-only",
+  "status": "Verses 1–16 generated, packaged and visually inspected; verses 17–40 remain prompt-only",
   "paintings": [
     {
       "verse": 1,
@@ -90,27 +90,31 @@
     },
     {
       "verse": 13,
-      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 13: A vast calm sunlit sky with gentle clouds stretches over a tiny distant encampment of schemers on a plain, peaceful and unthreatened, no figure in the sky, conveying the Lord's calm confidence.",
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 13: A vast calm natural sky stretches over a tiny distant encampment on an open plain, its tent ropes and stakes small beside the enduring hills. Convey the limited reach of hostile plans through scale and stillness. No figure or face in the sky, and natural sunlight is not a literal image of God.",
       "production": "assets/psalm37/verse-13-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-8893547b-dd42-4c95-a1ff-1f9815fac398.png"
     },
     {
       "verse": 14,
-      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 14: An unstrung bow and a drawn sword lie on a rock on a ridge above a poor village in the valley at dusk, no people and no violence shown, conveying the threat of the wicked against the needy.",
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 14: A bow and an unsheathed sword lie across a rough rock on a ridge above a modest village. The composition conveys a grave threat toward vulnerable homes without showing an attack, wounds or people. Dusk light, restrained and sober rather than triumphant.",
       "production": "assets/psalm37/verse-14-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-33de61ae-0242-4b1d-acc5-cdf73233ed89.png"
     },
     {
       "verse": 15,
-      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 15: A pile of broken bows and bent swords lies abandoned in tall grass under a calm sky, wildflowers growing through them, no people, conveying the weapons of the wicked broken.",
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 15: Broken wooden bows with snapped strings and damaged, bent swords lie abandoned among tall meadow grass and small wildflowers. Focus on disabled weapons and the ending of their power, no people, blood or injuries.",
       "production": "assets/psalm37/verse-15-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-0c7fd160-056d-4fe6-8f92-d370724d1cee.png"
     },
     {
       "verse": 16,
-      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 16: A modest meal of bread, lentils and olives is shared at a simple wooden table in a humble home by an anonymous family in warm lamplight, conveying the little of the righteous as better than great wealth.",
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 16: An anonymous family shares a modest meal of bread, lentils and olives at a plain wooden table in a humble home. Warm lamplight and unhurried gestures convey contentment, integrity and love; no luxury, treasure or contrast with a wealthy villain.",
       "production": "assets/psalm37/verse-16-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-ee4765e6-1fdf-4295-a1d6-c506a5ca0619.png"
     },
     {
       "verse": 17,
@@ -258,10 +262,6 @@
     }
   ],
   "pendingVerses": [
-    13,
-    14,
-    15,
-    16,
     17,
     18,
     19,
