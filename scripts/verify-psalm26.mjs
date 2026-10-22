@@ -22,7 +22,7 @@ assert.equal(manifest.paintings.length,12);assert.equal(manifest.pendingVerses.l
 for(let n=1;n<=12;n++){
  const r=study.verses[n-1],html=engine.render(26,n,tools);
  assert(html.includes('data-speakref="Psalm 26:'+n+'">'+escapeHTML(chapter[n])+'</p>'),'Exact rendered BSB '+n);
- assert.equal((html.match(/role="tab"/g)||[]).length,4);assert.equal((html.match(/data-verse-study-art=/g)||[]).length,1);assert.equal((html.match(/>Verse \d+<\/a>/g)||[]).length,12);
+ assert.equal((html.match(/role="tab"/g)||[]).length,4);assert.equal((html.match(/data-verse-study-art=/g)||[]).length,1);assert.equal((html.match(/>Verse \d+ of \d+<\/option>/g)||[]).length,12);
  assert(html.includes(n<12?'href="#/study/26/'+(n+1)+'"':'href="#/psalms/27"'),'Forward chapter/verse navigation');
  assert(r.meaning.length>300&&r.context.length>140&&r.reflect.length>50&&r.explore.length>=2);assert(r.explore.every(x=>x.length===2&&x[1].length>50));r.related.forEach(checkRef);
  const bytes=fs.readFileSync(r.art);assert(bytes.length>50000);assert.equal(bytes.subarray(8,12).toString(),'WEBP');assert(bytes.equals(fs.readFileSync('www/'+r.art)));assert(sw.includes(r.art));hashes.add(crypto.createHash('sha256').update(bytes).digest('hex'));

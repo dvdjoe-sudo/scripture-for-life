@@ -15,6 +15,6 @@
   }
   function progress(){try{const v=Number(localStorage.getItem('scripture-for-life.psalm23-place'))||JSON.parse(localStorage.getItem('scripture-for-life.study-trail.psalm23')||'{}').last;return Number.isInteger(v)&&v>=1&&v<=6?v:1;}catch{return 1;}}
   function remember(n){try{localStorage.setItem('scripture-for-life.psalm23-place',String(n));}catch{}}
-  function verseNav(n){remember(n);return `<nav class="psalm-verse-nav" aria-label="Psalm 23 verses">${descriptions.map((_,i)=>`<a href="#/study/23/${i+1}" ${n===i+1?'aria-current="page"':''}>Verse ${i+1}</a>`).join('')}</nav>`;}
+  function verseNav(n){remember(n);return window.SFL_VERSE_STUDIES.verseSelect(23,n,descriptions.length);}
   window.SFL_PSALM_ART={render,progress,verseNav,descriptions};
 })();
