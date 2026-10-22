@@ -97,7 +97,7 @@ try {
     await visit('#/read/19/23','.reader-verse');
     assert.equal(await page.locator('a[href="#/study/23/1"]').count()>0,true,'Psalm 23 Bible reader links to original study');
     await visit('#/help/fear','.side-note');
-    assert.equal(await page.evaluate(()=>{window.SFL_TOPIC_SHOW_ALL=false;const r=pickTopicRefs(window.BIBLE_DATA.topics.find(t=>t.id==='strength').refs);window.SFL_TOPIC_SHOW_ALL=true;return new Set(r).size;}),15,'Topic pages pick 15 distinct verses');
+    assert.equal(await page.evaluate(()=>{window.SFL_TOPIC_SHOW_ALL=false;const r=pickTopicRefs(window.BIBLE_DATA.topics.find(t=>t.id==='strength').refs);window.SFL_TOPIC_SHOW_ALL=true;return new Set(r).size;}),10,'Topic pages pick 10 distinct verses');
     assert.equal(await page.locator('.side-note a[href="#/study/46/1"]').count(),1);
     assert.equal(await page.locator('.side-note a[href="#/people/jacob"]').count(),1);
     // Everyday needs connect to topic-specific Psalms, stories, people, and shared notes.
