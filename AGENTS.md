@@ -75,3 +75,6 @@ Warm, plain and reverent. About an 8th-grade reading level. Use consistent tense
 - Flag anything in `paragraphs` that is not in the text.
 - Validate the JSON (for example `python3 -m json.tool <file>`).
 - Change only the data files for the episode you were asked to write.
+
+## Adding a new book
+A new book must be added to `index.html`, the copy list in `scripts/build-web.mjs`, and `sw.js` (cache list plus a version bump). `npm run check` must pass before merging; `verify-web.mjs` (run by `npm run build`) fails if any `index.html` script or stylesheet is missing from `www/`.
