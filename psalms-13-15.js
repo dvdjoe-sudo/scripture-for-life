@@ -113,7 +113,7 @@ window.SFL_VERSE_STUDIES.register({
         "Psalm 13:3",
         "Psalm 13:5"
       ],
-      "alt": "A traveler steadies themself on a loose rocky path while distant opponents gesture from a ridge.",
+      "alt": "A traveler steadies himself on a loose rocky path while distant opponents gesture from a ridge.",
       "art": "assets/psalm13/verse-4-watercolor.webp"
     },
     {
@@ -443,7 +443,7 @@ window.SFL_VERSE_STUDIES.register({
         ],
         [
           "No harm to his neighbor",
-          "The list moves between words and conduct, keeping another person’s dignity and wellbeing in view."
+          "The list moves between words and conduct, keeping another person’s dignity and well-being in view."
         ]
       ],
       "reflect": "Is there a conversation where you could protect someone’s dignity without concealing the truth? What would a responsible response sound like?",
@@ -471,7 +471,7 @@ window.SFL_VERSE_STUDIES.register({
           "The emphasis is on reliability when a commitment costs something, read with the neighboring requirements of righteousness and doing no harm."
         ]
       ],
-      "reflect": "What commitment has become less convenient to keep? How can you respond truthfully while still honoring justice and the wellbeing of others?",
+      "reflect": "What commitment has become less convenient to keep? How can you respond truthfully while still honoring justice and the well-being of others?",
       "related": [
         "Psalm 15:2",
         "Psalm 15:3",
