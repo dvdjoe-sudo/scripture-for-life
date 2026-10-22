@@ -20,7 +20,7 @@ const refCheck=r=>{const m=/^(.+?) (\d+):(\d+)$/.exec(r);assert(m,r);assert(b.fi
 for(let n=1;n<=14;n++){
  const v=s.verses[n-1],html=e.render(27,n,tools),p=manifest.paintings.find(x=>x.verse===n),bytes=fs.readFileSync(v.art);
  assert(html.includes('data-speakref="Psalm 27:'+n+'">'+escapeHTML(chapter[n])+'</p>'),'Exact BSB verse '+n);
- assert.equal((html.match(/role="tab"/g)||[]).length,4);assert.equal((html.match(/>Verse \d+<\/a>/g)||[]).length,14);assert.equal((html.match(/data-verse-study-art=/g)||[]).length,1);
+ assert.equal((html.match(/role="tab"/g)||[]).length,4);assert.equal((html.match(/>Verse \d+ of \d+<\/option>/g)||[]).length,14);assert.equal((html.match(/data-verse-study-art=/g)||[]).length,1);
  assert(html.includes(n<14?'href="#/study/27/'+(n+1)+'"':'href="#/psalms/28"'));assert.equal(e.link('Psalm 27:'+n),'#/study/27/'+n);
  assert(v.meaning.length>300&&v.context.length>140&&v.reflect.length>50);assert(v.explore.length>=2&&v.explore.every(x=>x[1].length>50));v.related.forEach(refCheck);
  assert.equal(bytes.subarray(8,12).toString(),'WEBP');assert(bytes.length>50000);assert(bytes.equals(fs.readFileSync('www/'+v.art)));assert(sw.includes(v.art));hashes.add(crypto.createHash('sha256').update(bytes).digest('hex'));

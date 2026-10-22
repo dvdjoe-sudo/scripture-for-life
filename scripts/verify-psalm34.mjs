@@ -18,7 +18,7 @@ const refCheck=r=>{const m=/^(.+?) (\d+):(\d+)$/.exec(r);assert(m,r);assert(b.fi
 for(let n=1;n<=N;n++){
  const v=s.verses[n-1],html=e.render(34,n,tools),p=manifest.paintings.find(x=>x.verse===n),bytes=fs.readFileSync(v.art);
  assert(html.includes('data-speakref="Psalm 34:'+n+'">'+escapeHTML(chapter[n])+'</p>'),'Exact BSB verse '+n);
- assert.equal((html.match(/role="tab"/g)||[]).length,4);assert.equal((html.match(/>Verse \d+<\/a>/g)||[]).length,N);assert.equal((html.match(/data-verse-study-art=/g)||[]).length,1);
+ assert.equal((html.match(/role="tab"/g)||[]).length,4);assert.equal((html.match(/>Verse \d+ of \d+<\/option>/g)||[]).length,N);assert.equal((html.match(/data-verse-study-art=/g)||[]).length,1);
  assert(html.includes(n<N?'href="#/study/34/'+(n+1)+'"':'href="#/psalms/35"'));assert.equal(e.link('Psalm 34:'+n),'#/study/34/'+n);
  v.related.forEach(refCheck);
  assert.equal(bytes.subarray(8,12).toString(),'WEBP');assert(bytes.length>50000,'art size '+n);assert(bytes.equals(fs.readFileSync('www/'+v.art)));assert(sw.includes(v.art));hashes.add(crypto.createHash('sha256').update(bytes).digest('hex'));

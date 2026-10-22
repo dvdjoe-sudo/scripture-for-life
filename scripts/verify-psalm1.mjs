@@ -17,7 +17,7 @@ for(let n=1;n<=6;n++){
  assert(html.includes(`data-speakref="Psalm 1:${n}">${escapeHTML(chapter[n])}</p>`),'Exact Scripture for verse '+n);
  assert.equal((html.match(/data-verse-study-art=/g)||[]).length,1);
  assert.equal((html.match(/role="tab"/g)||[]).length,4);
- assert.equal((html.match(/>Verse \d<\/a>/g)||[]).length,6,'Every verse is freely accessible');
+ assert.equal((html.match(/>Verse \d+ of \d+<\/option>/g)||[]).length,6,'Every verse is freely accessible');
  assert(!html.includes('href="#/study/1/0"')&&!html.includes('href="#/study/1/7"'));
  assert.equal(study.progress(1),n);assert.equal(study.link('Psalm 1:'+n),'#/study/1/'+n);
  assert(row.meaning.length>300&&row.context.length>180&&row.explore.length>=2&&row.reflect.length>50);
