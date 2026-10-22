@@ -1,0 +1,105 @@
+{
+  "chapter": 131,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 131 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "health": [
+      "Psalm 131:2"
+    ],
+    "direction": [
+      "Psalm 131:3"
+    ]
+  },
+  "study": {
+    "number": 131,
+    "coverVerse": 1,
+    "title": "Like a weaned child with its mother",
+    "intro": "Psalm 131 is only three verses long, but it is one of the most tender prayers in the Bible. David lays down pride and restless ambition and describes his soul as calm, like a weaned child resting against its mother. He is no longer fussing for what he wants; he is content simply to be with the one who loves him. Then he invites all Israel into that same quiet hope.",
+    "context": "Headed 'of David', this Song of Ascents reflects humility before God. David, though a king, refused to grasp at things too great for him, as he waited years for God to give him the throne rather than seizing it from Saul (1 Samuel 24:6). Children in Israel were often weaned around age two or three. A weaned child no longer cries for milk but can sit contentedly with its mother.",
+    "peopleNote": "Attributed to David. The image of a mother and weaned child describes trust and contentment. God is never portrayed as a human figure in planned art.",
+    "people": [
+      {
+        "id": "david",
+        "name": "David",
+        "ref": "Psalm 131:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "A humble heart",
+        "heading": "My heart is not proud",
+        "meaning": "'My heart is not proud, O LORD, my eyes are not haughty. I do not aspire to great things or matters too lofty for me.' David speaks honestly to God about laying down pride. His heart is not puffed up and his eyes are not looking down on others. He has stopped chasing things beyond his reach and trying to understand everything. Humility is accepting that God is God, and being at peace with your own limits.",
+        "contextTitle": "Humility before God",
+        "context": "David waited for God's timing rather than seizing Saul's throne (1 Samuel 24:6). Romans 12:16 says not to be proud but to associate with the humble. Deuteronomy 29:29 says the secret things belong to the LORD.",
+        "explore": [
+          [
+            "Haughty",
+            "Proud and arrogant, looking down on others as if superior."
+          ],
+          [
+            "Lofty",
+            "Very high, too great or difficult; matters beyond a person's reach or understanding."
+          ]
+        ],
+        "reflect": "What are you straining to control or understand that you need to leave with God?",
+        "related": [
+          "Romans 12:16",
+          "Deuteronomy 29:29",
+          "1 Samuel 24:6"
+        ],
+        "alt": "A shepherd sitting quietly on a hillside watching a small flock.",
+        "art": "assets/psalm131/verse-1-watercolor.webp"
+      },
+      {
+        "title": "A quieted soul",
+        "heading": "Like a weaned child with his mother",
+        "meaning": "'Surely I have stilled and quieted my soul; like a weaned child with his mother, like a weaned child is my soul within me.' A nursing baby cries and grabs whenever it is hungry. A weaned child has learned to rest with its mother without demanding. David has calmed his inner restlessness until he can simply be with God, trusting rather than grasping. This contentment did not happen by accident; he chose to still his soul.",
+        "contextTitle": "Weaning in Israel",
+        "context": "Children were often weaned around age two or three, and Abraham held a feast when Isaac was weaned (Genesis 21:8). Isaiah 66:13 says God comforts like a mother comforts her child. Philippians 4:11 speaks of learning contentment.",
+        "explore": [
+          [
+            "Weaned",
+            "No longer nursing, having learned to eat other food and to rest without demanding milk."
+          ],
+          [
+            "Stilled",
+            "Made calm and quiet, like smoothing out rough water."
+          ]
+        ],
+        "reflect": "What would it take for you to quiet your soul and rest with God instead of demanding from Him?",
+        "related": [
+          "Genesis 21:8",
+          "Isaiah 66:13",
+          "Philippians 4:11"
+        ],
+        "alt": "A small child resting peacefully on a mother's lap in a shaded doorway.",
+        "art": "assets/psalm131/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Hope now and forever",
+        "heading": "O Israel, put your hope in the LORD",
+        "meaning": "'O Israel, put your hope in the LORD, both now and forevermore.' David's personal peace turns into an invitation for everyone. The same quiet trust he found is available to the whole people of God. Hope in the LORD is not just for crisis moments but for every day, now and forever. When you stop grasping for what is too high for you, you can rest your hope on the One who holds all things.",
+        "contextTitle": "A shared hope",
+        "context": "Psalm 130:7 used nearly the same words, 'O Israel, put your hope in the LORD.' Romans 15:13 prays that the God of hope fill you with all joy and peace as you trust in Him. Hebrews 6:19 calls hope an anchor for the soul.",
+        "explore": [
+          [
+            "Hope",
+            "Confident expectation based on God's character and promises, not just wishful thinking."
+          ],
+          [
+            "Forevermore",
+            "From this present moment on and without end, through all of time."
+          ]
+        ],
+        "reflect": "Who could you invite into the quiet hope you have found in God?",
+        "related": [
+          "Psalm 130:7",
+          "Romans 15:13",
+          "Hebrews 6:19"
+        ],
+        "alt": "A group of travelers resting together under a tree at evening.",
+        "art": "assets/psalm131/verse-3-watercolor.webp"
+      }
+    ]
+  }
+}
