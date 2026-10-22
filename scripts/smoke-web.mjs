@@ -105,7 +105,7 @@ try {
       assert.ok(await page.locator('.verse-card .verse-text').evaluateAll(els=>els.every(el=>el.textContent.trim().length>0)));
     }
     await visit('#/study/9/9','[data-verse-study="9"][data-current-verse="9"]');
-    assert.equal(await page.locator('[data-related-needs] a[href="#/help/fear"]').count(),1);
+    assert.equal(await page.locator('[data-related-needs]').count(),0,'study pages have no needs card');
     await page.getByRole('tab',{name:'Reflect',exact:true}).click();
     await page.locator('[data-note-ref="Psalm 9:9"]').fill('A refuge for what I am facing.');
     await page.locator('#verse-study-panel [data-action="save-note"]').click();
@@ -460,7 +460,7 @@ try {
     for(const [id,verse] of [['direction',28],['gratitude',49]]){
       await visit('#/study/18/'+verse+'','body');
       await page.locator('[data-verse-study="18"][data-current-verse="'+verse+'"]').waitFor();
-      await page.locator('[data-related-needs] a[href="#/help/'+id+'"]').click();
+      await visit('#/help/'+id,'body');
       await page.locator('.verse-card').first().waitFor();
     }
     await visit('#/study/18/3','[data-verse-study="18"]');
@@ -574,37 +574,37 @@ try {
     for(const [id,verse] of [['fear',7],['gratitude',5],['gratitude',9]]){
       await visit('#/study/36/'+verse+'','body');
       await page.locator('[data-verse-study="36"][data-current-verse="'+verse+'"]').waitFor();
-      await page.locator('[data-related-needs] a[href="#/help/'+id+'"]').click();
+      await visit('#/help/'+id,'body');
       await page.locator('.verse-card').first().waitFor();
     }
     for(const [id,verse] of [['health',2],['grief',5],['gratitude',11]]){
       await visit('#/study/30/'+verse+'','body');
       await page.locator('[data-verse-study="30"][data-current-verse="'+verse+'"]').waitFor();
-      await page.locator('[data-related-needs] a[href="#/help/'+id+'"]').click();
+      await visit('#/help/'+id,'body');
       await page.locator('.verse-card').first().waitFor();
     }
     for(const [id,verse] of [['gratitude',2],['fear',10],['strength',11]]){
       await visit('#/study/29/'+verse+'','body');
       await page.locator('[data-verse-study="29"][data-current-verse="'+verse+'"]').waitFor();
-      await page.locator('[data-related-needs] a[href="#/help/'+id+'"]').click();
+      await visit('#/help/'+id,'body');
       await page.locator('.verse-card').first().waitFor();
     }
     for(const [id,verse] of [['alone',1],['gratitude',6],['strength',7],['direction',9]]){
       await visit('#/study/28/'+verse+'','body');
       await page.locator('[data-verse-study="28"][data-current-verse="'+verse+'"]').waitFor();
-      await page.locator('[data-related-needs] a[href="#/help/'+id+'"]').click();
+      await visit('#/help/'+id,'body');
       await page.locator('.verse-card').first().waitFor();
     }
     for(const [id,verse] of [['fear',1],['alone',10],['direction',11],['strength',14]]){
       await visit('#/study/27/'+verse+'','body');
       await page.locator('[data-verse-study="27"][data-current-verse="'+verse+'"]').waitFor();
-      await page.locator('[data-related-needs] a[href="#/help/'+id+'"]').click();
+      await visit('#/help/'+id,'body');
       await page.locator('.verse-card').first().waitFor();
     }
     for(const [id,verse] of [['direction',3],['gratitude',7],['forgiveness',11],['strength',12]]){
       await visit('#/study/26/'+verse+'','body');
       await page.locator('[data-verse-study="26"][data-current-verse="'+verse+'"]').waitFor();
-      await page.locator('[data-related-needs] a[href="#/help/'+id+'"]').click();
+      await visit('#/help/'+id,'body');
       await page.locator('.verse-card').first().waitFor();
     }
     await visit('#/study/24/10','[data-verse-study="24"]');
@@ -619,7 +619,7 @@ try {
     for(const [id,verse] of [['direction',4],['forgiveness',11],['alone',16],['strength',17]]){
       await visit('#/study/25/'+verse+'','body');
       await page.locator('[data-verse-study="25"][data-current-verse="'+verse+'"]').waitFor();
-      await page.locator('[data-related-needs] a[href="#/help/'+id+'"]').click();
+      await visit('#/help/'+id,'body');
       await page.locator('.verse-card').first().waitFor();
     }
     await visit('#/study/24/6','[data-verse-study="24"]');
@@ -631,7 +631,7 @@ try {
     for(const [id,verse] of [['gratitude',1],['direction',3],['direction',6],['strength',8]]){
       await visit('#/study/24/'+verse+'','body');
       await page.locator('[data-verse-study="24"][data-current-verse="'+verse+'"]').waitFor();
-      await page.locator('[data-related-needs] a[href="#/help/'+id+'"]').click();
+      await visit('#/help/'+id,'body');
       await page.locator('.verse-card').first().waitFor();
     }
     await visit('#/study/22/24','[data-verse-study="22"]');
@@ -643,7 +643,7 @@ try {
     for(const [id,verse] of [['alone',11],['grief',14],['gratitude',25]]){
       await visit('#/study/22/'+verse+'','body');
       await page.locator('[data-verse-study="22"][data-current-verse="'+verse+'"]').waitFor();
-      await page.locator('[data-related-needs] a[href="#/help/'+id+'"]').click();
+      await visit('#/help/'+id,'body');
       await page.locator('.verse-card').first().waitFor();
     }
     await visit('#/study/21/7','[data-verse-study="21"]');
@@ -655,7 +655,7 @@ try {
     for(const [id,verse] of [['gratitude',1],['strength',7]]){
       await visit('#/study/21/'+verse+'','body');
       await page.locator('[data-verse-study="21"][data-current-verse="'+verse+'"]').waitFor();
-      await page.locator('[data-related-needs] a[href="#/help/'+id+'"]').click();
+      await visit('#/help/'+id,'body');
       await page.locator('.verse-card').first().waitFor();
     }
     await visit('#/study/20/7','[data-verse-study="20"]');
@@ -667,7 +667,7 @@ try {
     for(const [id,verse] of [['fear',1],['strength',2],['direction',7],['gratitude',5]]){
       await visit('#/study/20/'+verse+'','body');
       await page.locator('[data-verse-study="20"][data-current-verse="'+verse+'"]').waitFor();
-      await page.locator('[data-related-needs] a[href="#/help/'+id+'"]').click();
+      await visit('#/help/'+id,'body');
       await page.locator('.verse-card').first().waitFor();
     }
     await visit('#/study/19/8','[data-verse-study="19"]');
@@ -679,7 +679,7 @@ try {
     for(const [id,verse] of [['direction',8],['gratitude',10],['forgiveness',12]]){
       await visit('#/study/19/'+verse+'','body');
       await page.locator('[data-verse-study="19"][data-current-verse="'+verse+'"]').waitFor();
-      await page.locator('[data-related-needs] a[href="#/help/'+id+'"]').click();
+      await visit('#/help/'+id,'body');
       await page.locator('.verse-card').first().waitFor();
     }
     await visit('#/study/18/35','[data-verse-study="18"]');
@@ -691,7 +691,7 @@ try {
     await page.locator('[data-verse-study="18"][data-current-verse="35"]').waitFor();
     await visit('#/study/18/35','body');
     await page.locator('[data-verse-study="18"][data-current-verse="35"]').waitFor();
-    await page.locator('[data-related-needs] a[href="#/help/strength"]').click();
+    await visit('#/help/strength','body');
     await page.locator('.verse-card').first().waitFor();
     await visit('#/study/18/35','[data-verse-study="18"]');
     await page.locator('[data-psalm-switch]').selectOption('16');
@@ -700,7 +700,7 @@ try {
     await page.locator('[data-verse-study="17"][data-current-verse="15"]').waitFor();
     await visit('#/study/17/8','body');
     await page.locator('[data-verse-study="17"][data-current-verse="8"]').waitFor();
-    await page.locator('[data-related-needs] a[href="#/help/fear"]').click();
+    await visit('#/help/fear','body');
     await page.locator('.verse-card').first().waitFor();
     await visit('#/study/16/11','[data-verse-study="16"]');
     await page.locator('[data-psalm-switch]').selectOption('15');
@@ -709,7 +709,7 @@ try {
     await page.locator('[data-verse-study="16"][data-current-verse="11"]').waitFor();
     await visit('#/study/16/7','body');
     await page.locator('[data-verse-study="16"][data-current-verse="7"]').waitFor();
-    await page.locator('[data-related-needs] a[href="#/help/direction"]').click();
+    await visit('#/help/direction','body');
     await page.locator('.verse-card').first().waitFor();
     await visit('#/study/15/5','[data-verse-study="15"]');
     await page.locator('[data-psalm-switch]').selectOption('13');
@@ -720,17 +720,17 @@ try {
     await page.locator('[data-verse-study="15"][data-current-verse="5"]').waitFor();
     await visit('#/study/15/2','body');
     await page.locator('[data-verse-study="15"][data-current-verse="2"]').waitFor();
-    assert.equal(await page.locator('[data-related-needs] a[href="#/help/direction"]').count(),1);
+    assert.equal(await page.locator('[data-related-needs]').count(),0,'study pages have no needs card');
     await page.locator('[data-psalm-switch]').selectOption('11');
     await page.locator('[data-verse-study="11"][data-current-verse="7"]').waitFor();
     await page.locator('[data-psalm-switch]').selectOption('12');
     await page.locator('[data-verse-study="12"][data-current-verse="8"]').waitFor();
     await visit('#/study/12/5','body');
     await page.locator('[data-verse-study="12"][data-current-verse="5"]').waitFor();
-    assert.equal(await page.locator('[data-related-needs] a[href="#/help/strength"]').count(),1);
+    assert.equal(await page.locator('[data-related-needs]').count(),0,'study pages have no needs card');
     await visit('#/study/10/1','body');
     await page.locator('[data-verse-study="10"]').waitFor();
-    assert.equal(await page.locator('[data-related-needs] a[href="#/help/alone"]').count(),1);
+    assert.equal(await page.locator('[data-related-needs]').count(),0,'study pages have no needs card');
     await page.locator('[data-psalm-switch]').selectOption('9');await page.locator('[data-verse-study="9"]').waitFor();
     assert.ok(page.url().endsWith('#/study/9/20'),'Psalm 9 resumes independently');
     await page.locator('[data-psalm-switch]').selectOption('8');await page.locator('[data-verse-study="8"]').waitFor();
