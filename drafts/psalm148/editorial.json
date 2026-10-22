@@ -1,0 +1,374 @@
+{
+  "chapter": 148,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 148 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "gratitude": [
+      "Psalm 148:13"
+    ],
+    "alone": [
+      "Psalm 148:14"
+    ]
+  },
+  "study": {
+    "number": 148,
+    "coverVerse": 1,
+    "title": "Let all creation praise the LORD",
+    "intro": "Psalm 148 is a cosmic choir. It calls on everything in creation to praise the LORD, starting in the highest heavens with angels, sun, moon and stars, then descending to the earth: sea creatures, storms, mountains, trees, animals, kings and ordinary people, young and old. Everything God made has one shared purpose: to praise His name. The psalm ends by celebrating what God has done for His own people, Israel, a people near to Him.",
+    "context": "This psalm moves in two great sections: praise from the heavens (verses 1-6) and praise from the earth (verses 7-14). Its order loosely follows Genesis 1. Ancient Israel's neighbors worshiped the sun, moon, stars and sea monsters; here they are simply creatures commanded to praise their Maker. Francis of Assisi's 'Canticle of the Sun' and many hymns draw on this psalm.",
+    "peopleNote": "No author is named. Angels, kings, rulers and people of every age are called to praise. Angels are not portrayed as winged humans in planned art, and God is never portrayed as a human figure.",
+    "people": [],
+    "verses": [
+      {
+        "title": "Praise from the heights",
+        "heading": "Praise Him in the highest places",
+        "meaning": "'Hallelujah! Praise the LORD from the heavens; praise Him in the highest places.' The psalm begins at the very top of creation. It calls everything above the earth to praise God. The heavens are full of His glory, and worship begins there. Our praise on earth joins a song that is already being sung in the highest places, a song bigger than any one of us.",
+        "contextTitle": "Heaven's worship",
+        "context": "Isaiah 6:3 records heavenly beings calling, 'Holy, holy, holy is the LORD of Hosts.' Revelation 4:8-11 pictures continual worship around God's throne. Luke 2:14 records angels praising 'Glory to God in the highest.'",
+        "explore": [
+          [
+            "Heavens",
+            "The skies and everything above the earth, including the dwelling of God's angels."
+          ],
+          [
+            "Highest places",
+            "The loftiest heights of the heavens, as far above the earth as one can imagine."
+          ]
+        ],
+        "reflect": "How does it feel to know your praise joins a song already being sung in heaven?",
+        "related": [
+          "Isaiah 6:3",
+          "Revelation 4:8",
+          "Luke 2:14"
+        ],
+        "alt": "A dazzling sky of layered clouds glowing with sunrise colors.",
+        "art": "assets/psalm148/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Angels and heavenly hosts",
+        "heading": "Praise Him, all His angels",
+        "meaning": "'Praise Him, all His angels; praise Him, all His heavenly hosts.' God's angels, His servants and messengers, are called to praise Him. The heavenly hosts are His vast armies. Even these powerful beings exist to worship God. If angels bow before Him, how much more should we. They are fellow worshipers, not objects of worship.",
+        "contextTitle": "Angels as worshipers",
+        "context": "Psalm 103:20 calls angels mighty ones who do His word. Hebrews 1:6 says, 'Let all God's angels worship Him.' Revelation 22:9 has an angel telling John not to worship him but to worship God.",
+        "explore": [
+          [
+            "Angels",
+            "Spiritual beings created by God to serve Him and carry His messages."
+          ],
+          [
+            "Heavenly hosts",
+            "The vast armies of heaven, God's angelic servants and the stars."
+          ]
+        ],
+        "reflect": "How does knowing even angels worship God shape your view of Him?",
+        "related": [
+          "Psalm 103:20",
+          "Hebrews 1:6",
+          "Revelation 22:9"
+        ],
+        "alt": "Brilliant light pouring through clouds over a vast night sky.",
+        "art": "assets/psalm148/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Sun, moon and stars",
+        "heading": "Praise Him, O sun and moon",
+        "meaning": "'Praise Him, O sun and moon; praise Him, all you shining stars.' Many nations worshiped the sun, moon and stars as gods. Here they are told to praise the God who made them. They do it simply by shining as He designed. When you see a sunrise or a starry night, you are watching creation praise its Maker.",
+        "contextTitle": "Lights that praise",
+        "context": "Deuteronomy 4:19 warns not to worship the sun, moon and stars. Psalm 19:1-4 says the heavens declare the glory of God without words. Genesis 1:16 says God made the two great lights and the stars.",
+        "explore": [
+          [
+            "Shining stars",
+            "Bright lights in the night sky that God made and named."
+          ],
+          [
+            "Sun and moon",
+            "The great lights of day and night, created by God and worshiped wrongly by other nations."
+          ]
+        ],
+        "reflect": "Next time you see the sun or stars, how might you join their praise?",
+        "related": [
+          "Deuteronomy 4:19",
+          "Psalm 19:1",
+          "Genesis 1:16"
+        ],
+        "alt": "The sun setting on one horizon while the moon rises on the other.",
+        "art": "assets/psalm148/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Highest heavens and waters",
+        "heading": "You waters above the skies",
+        "meaning": "'Praise Him, O highest heavens, and you waters above the skies.' The call reaches even further, to the highest heavens and the waters above the sky. Ancient Israel pictured rain stored above the sky's dome. Whatever lies beyond what we can see, it too belongs to God and should praise Him. No part of the universe is outside His glory.",
+        "contextTitle": "Waters above",
+        "context": "Genesis 1:7 describes God separating the waters above the expanse from those below. 1 Kings 8:27 says even the highest heavens cannot contain God. Psalm 104:3 pictures Him laying the beams of His chambers on the waters.",
+        "explore": [
+          [
+            "Highest heavens",
+            "Literally 'heavens of heavens,' the farthest reaches of creation."
+          ],
+          [
+            "Waters above the skies",
+            "The ancient picture of rain stored above the sky, released as rain."
+          ]
+        ],
+        "reflect": "How does the vastness of creation help you sense how great God is?",
+        "related": [
+          "Genesis 1:7",
+          "1 Kings 8:27",
+          "Psalm 104:3"
+        ],
+        "alt": "Towering rain clouds high above a broad landscape.",
+        "art": "assets/psalm148/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Created at His command",
+        "heading": "He gave the command and they were created",
+        "meaning": "'Let them praise the name of the LORD, for He gave the command and they were created.' Here is the reason for heaven's praise: God spoke and everything came into being. All of creation owes its existence to His word. Praise is creation's fitting response to its Creator. We praise Him because we exist by His command.",
+        "contextTitle": "Creation by word",
+        "context": "Genesis 1:3 says, 'And God said, Let there be light, and there was light.' Psalm 33:6 says by the word of the LORD the heavens were made. Hebrews 11:3 says the universe was formed at God's command.",
+        "explore": [
+          [
+            "Command",
+            "A spoken order; God's word that called creation into existence."
+          ],
+          [
+            "Created",
+            "Brought into being from nothing by God's power and spoken word."
+          ]
+        ],
+        "reflect": "How does knowing you exist by God's word give your life meaning?",
+        "related": [
+          "Genesis 1:3",
+          "Psalm 33:6",
+          "Hebrews 11:3"
+        ],
+        "alt": "First light breaking over an empty dark ocean.",
+        "art": "assets/psalm148/verse-5-watercolor.webp"
+      },
+      {
+        "title": "Established forever",
+        "heading": "A decree that will never pass away",
+        "meaning": "'He established them forever and ever; He issued a decree that will never pass away.' God did not just create the heavens; He set them in order with fixed laws. The sun rises, seasons turn and stars hold their courses. This stability shows His faithfulness. The same God who keeps the universe in order keeps His promises to us.",
+        "contextTitle": "Faithful order",
+        "context": "Jeremiah 31:35-36 says if the fixed order of sun, moon and stars departs, only then will Israel cease. Jeremiah 33:25 speaks of God's covenant with day and night. Genesis 8:22 promises seedtime and harvest will not cease.",
+        "explore": [
+          [
+            "Established",
+            "Firmly set in place and made secure so that it will last for ages."
+          ],
+          [
+            "Decree",
+            "An official order or law that must be obeyed, here God's law for creation."
+          ]
+        ],
+        "reflect": "How does creation's steady order help you trust God's faithfulness?",
+        "related": [
+          "Jeremiah 31:35",
+          "Genesis 8:22",
+          "Jeremiah 33:25"
+        ],
+        "alt": "Stars wheeling in steady arcs above a quiet mountain.",
+        "art": "assets/psalm148/verse-6-watercolor.webp"
+      },
+      {
+        "title": "Sea creatures and depths",
+        "heading": "All great sea creatures and ocean depths",
+        "meaning": "'Praise the LORD from the earth, all great sea creatures and ocean depths,' Now the call comes down to earth, beginning with the sea. Great sea creatures, perhaps whales or monsters of the deep, are told to praise God. The ocean depths, which ancient people feared, belong to Him. Even the wildest, most mysterious parts of creation praise their Maker.",
+        "contextTitle": "Monsters of the deep",
+        "context": "Genesis 1:21 says God created the great sea creatures. Psalm 104:25-26 describes the sea teeming with creatures and Leviathan playing in it. Job 41 describes God's power over Leviathan.",
+        "explore": [
+          [
+            "Great sea creatures",
+            "Huge ocean animals such as whales, once seen as sea monsters."
+          ],
+          [
+            "Ocean depths",
+            "The deepest parts of the sea, places beyond human reach that God still rules."
+          ]
+        ],
+        "reflect": "What wild or mysterious part of creation reminds you of God's greatness?",
+        "related": [
+          "Genesis 1:21",
+          "Psalm 104:26",
+          "Job 41:1"
+        ],
+        "alt": "A great whale breaching from a deep blue ocean.",
+        "art": "assets/psalm148/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Storms obey His word",
+        "heading": "Powerful wind fulfilling His word",
+        "meaning": "'lightning and hail, snow and clouds, powerful wind fulfilling His word,' Weather of every kind is called to praise. Lightning, hail, snow and storm winds do what God tells them. Even violent storms are servants carrying out His word. They are not wild forces beyond His control. When storms come, they still answer to Him.",
+        "contextTitle": "Weather as servant",
+        "context": "Psalm 147:15-18 describes God's word commanding snow, frost and wind. Mark 4:41 records the disciples marveling, 'Even the wind and the waves obey Him!' Job 37:12 says the clouds do whatever He commands.",
+        "explore": [
+          [
+            "Fulfilling His word",
+            "Carrying out what God commands, obeying His instructions."
+          ],
+          [
+            "Hail",
+            "Balls of ice falling from storm clouds, a sign of God's power."
+          ]
+        ],
+        "reflect": "What storm in your life do you need to remember is under God's word?",
+        "related": [
+          "Mark 4:41",
+          "Psalm 147:15",
+          "Job 37:12"
+        ],
+        "alt": "Lightning flashing over snowy mountains under swirling clouds.",
+        "art": "assets/psalm148/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Mountains and trees",
+        "heading": "Fruit trees and all cedars",
+        "meaning": "'mountains and all hills, fruit trees and all cedars,' The land itself joins in. Towering mountains, rolling hills, fruit trees that feed people and majestic cedars all praise God. Each does so by being what God made it to be. Creation's beauty is a form of worship. Walking through nature can be a way of listening to that praise.",
+        "contextTitle": "Creation's beauty",
+        "context": "Isaiah 55:12 says the mountains and hills will burst into song and the trees will clap their hands. Psalm 96:12 says the trees of the forest will sing for joy. Lebanon's cedars were famous for their size and beauty (Psalm 104:16).",
+        "explore": [
+          [
+            "Cedars",
+            "Tall, fragrant evergreen trees, especially famous in Lebanon."
+          ],
+          [
+            "Fruit trees",
+            "Trees such as figs, olives and pomegranates that provide food."
+          ]
+        ],
+        "reflect": "Where in nature have you sensed creation praising God?",
+        "related": [
+          "Isaiah 55:12",
+          "Psalm 96:12",
+          "Psalm 104:16"
+        ],
+        "alt": "Mountains rising above hillsides covered with cedars and fruit orchards.",
+        "art": "assets/psalm148/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Animals of every kind",
+        "heading": "Crawling creatures and flying birds",
+        "meaning": "'wild animals and all cattle, crawling creatures and flying birds,' Every animal is invited: wild and tame, crawling and flying. From lions to sheep, insects to eagles, all are God's creatures, and all praise Him by living as He made them. God delights in His animals. Their variety and life display His creativity.",
+        "contextTitle": "Every creature",
+        "context": "Genesis 1:24-25 describes God making livestock, crawling things and wild animals. Job 38-39 celebrates God's care for wild animals. Psalm 50:10 says every animal of the forest belongs to God.",
+        "explore": [
+          [
+            "Cattle",
+            "Domestic animals such as cows, sheep and goats kept by people."
+          ],
+          [
+            "Crawling creatures",
+            "Small animals that move along the ground, such as lizards and insects."
+          ]
+        ],
+        "reflect": "What animal reminds you most of God's creativity and care, and why?",
+        "related": [
+          "Genesis 1:25",
+          "Psalm 50:10",
+          "Job 39:26"
+        ],
+        "alt": "Deer, sheep and birds sharing a meadow at sunrise.",
+        "art": "assets/psalm148/verse-10-watercolor.webp"
+      },
+      {
+        "title": "Kings and all peoples",
+        "heading": "Kings of the earth and all peoples",
+        "meaning": "'kings of the earth and all peoples, princes and all rulers of the earth,' Now people are called, beginning with the powerful. Kings, princes and rulers are not exempt; they must praise God too. And so must all peoples, every nation and ethnic group. No one is too important or too ordinary to worship the LORD.",
+        "contextTitle": "Rulers bow too",
+        "context": "Psalm 2:10-11 tells kings to serve the LORD with fear. Philippians 2:10-11 says every knee will bow to Jesus. Revelation 7:9 pictures every nation, tribe, people and tongue worshiping.",
+        "explore": [
+          [
+            "Princes",
+            "High officials and rulers with authority under a king."
+          ],
+          [
+            "All peoples",
+            "Every nation, language and ethnic group on earth, without exception."
+          ]
+        ],
+        "reflect": "How might it change world leaders, and you, to see all authority as accountable to God?",
+        "related": [
+          "Psalm 2:10",
+          "Philippians 2:10",
+          "Revelation 7:9"
+        ],
+        "alt": "Rulers in varied dress walking together toward a shining hill.",
+        "art": "assets/psalm148/verse-11-watercolor.webp"
+      },
+      {
+        "title": "Young and old together",
+        "heading": "Old and young together",
+        "meaning": "'young men and maidens, old and young together.' Everyone is included: young men and women, the elderly and children. Praise is not for one age group. Every generation joins the same song. When old and young worship together, it is a beautiful picture of God's family across time. The young bring energy and the old bring memory, and both are needed in the song.",
+        "contextTitle": "Every generation",
+        "context": "Joel 2:28 promises the Spirit poured out on sons and daughters, old and young. Psalm 71:18 asks God not to forsake the old until they declare His power to the next generation. Titus 2:3-4 urges older believers to teach the younger.",
+        "explore": [
+          [
+            "Maidens",
+            "Young unmarried women, here named alongside young men in the choir."
+          ],
+          [
+            "Together",
+            "As one group, side by side, joined in the same act of worship."
+          ]
+        ],
+        "reflect": "Who from another generation could you worship or serve alongside?",
+        "related": [
+          "Joel 2:28",
+          "Psalm 71:18",
+          "Titus 2:3"
+        ],
+        "alt": "Grandparents and children singing together in a village square.",
+        "art": "assets/psalm148/verse-12-watercolor.webp"
+      },
+      {
+        "title": "His name alone",
+        "heading": "His name alone is exalted",
+        "meaning": "'Let them praise the name of the LORD, for His name alone is exalted; His splendor is above the earth and the heavens.' Here is why all creation on earth should praise: God's name alone is truly great. His glory is above everything He made, both earth and sky. Nothing in creation compares to the Creator.",
+        "contextTitle": "Above all",
+        "context": "Isaiah 12:4 says proclaim that His name is exalted. Psalm 8:1 says, 'O LORD, our Lord, how majestic is Your name in all the earth!' Philippians 2:9 says God gave Jesus the name above every name.",
+        "explore": [
+          [
+            "Exalted",
+            "Lifted high in honor, supreme above everything else that exists."
+          ],
+          [
+            "Splendor",
+            "Majestic glory and brilliance, the shining beauty of God's greatness."
+          ]
+        ],
+        "reflect": "What does it mean for you that God's name alone is exalted?",
+        "related": [
+          "Isaiah 12:4",
+          "Psalm 8:1",
+          "Philippians 2:9"
+        ],
+        "alt": "Sunlight shining above clouds over mountains and sea.",
+        "art": "assets/psalm148/verse-13-watercolor.webp"
+      },
+      {
+        "title": "A people near to Him",
+        "heading": "Israel, a people near to Him",
+        "meaning": "'He has raised up a horn for His people, the praise of all His saints, of Israel, a people near to Him. Hallelujah!' The psalm closes with God's special care for His own. He has raised up a 'horn,' strength or a strong leader, for His people. And Israel is called 'a people near to Him.' Of all the reasons creation praises God, the deepest is that He draws His people close.",
+        "contextTitle": "Near to God",
+        "context": "Deuteronomy 4:7 asks what nation has a god so near as the LORD. Luke 1:69 speaks of God raising up a horn of salvation in David's house. Ephesians 2:13 says you who were far away have been brought near by Christ.",
+        "explore": [
+          [
+            "Horn",
+            "A symbol of strength and power, sometimes pointing to a strong ruler."
+          ],
+          [
+            "Near to Him",
+            "Close to God in relationship, belonging to Him and welcomed into His presence."
+          ]
+        ],
+        "reflect": "How does it feel to be part of a people God calls near to Him?",
+        "related": [
+          "Deuteronomy 4:7",
+          "Luke 1:69",
+          "Ephesians 2:13"
+        ],
+        "alt": "Families gathered in temple courts in warm evening light.",
+        "art": "assets/psalm148/verse-14-watercolor.webp"
+      }
+    ]
+  }
+}
