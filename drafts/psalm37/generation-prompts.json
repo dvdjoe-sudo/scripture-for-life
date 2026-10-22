@@ -2,7 +2,7 @@
   "tool": "built-in image_gen.imagegen",
   "styleReference": "assets/psalm23/verse-2-watercolor.webp",
   "productionFormat": "WebP, 1024px wide (3:2), quality 75",
-  "status": "Verses 1–8 generated, packaged and visually inspected; verses 9–40 remain prompt-only",
+  "status": "Verses 1–12 generated, packaged and visually inspected; verses 13–40 remain prompt-only",
   "paintings": [
     {
       "verse": 1,
@@ -62,27 +62,31 @@
     },
     {
       "verse": 9,
-      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 9: Peaceful anonymous families work fertile fields and orchards in a sunlit valley, children playing near a stream, conveying those who hope in the LORD inheriting the land.",
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 9: An anonymous family patiently tends a fertile vegetable field in a peaceful valley, a small basket of seedlings nearby, conveying hopeful reception of lasting provision. This is a symbolic scene, not a modern territorial claim.",
       "production": "assets/psalm37/verse-9-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-9052f5f0-717e-466d-a438-cc1321f31770.png"
     },
     {
       "verse": 10,
-      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 10: An empty abandoned stone fortress sits on a windswept hill with tumbled walls and grass growing through the gate, no people, conveying the wicked no longer found.",
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 10: An empty ruined stone stronghold on a windswept hill, its once imposing gateway open and deserted, grass growing through fallen stones, conveying the end of oppressive power. No people.",
       "production": "assets/psalm37/verse-10-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-71b0c663-aafb-44aa-8d9c-2ef34674974a.png"
     },
     {
       "verse": 11,
-      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 11: A humble anonymous shepherd family shares a simple meal on a blanket in peaceful green pastures with their small flock nearby at golden hour, conveying the meek inheriting the land and delighting in peace.",
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 11: A humble anonymous family gently tends a small fruit orchard beside a simple outdoor table in a broad peaceful valley at golden hour, conveying the meek delighting in peace and well-being rather than material luxury.",
       "production": "assets/psalm37/verse-11-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-03bc3e2c-67f1-445b-836d-dc0dee1a91c7.png"
     },
     {
       "verse": 12,
-      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 12: Shadowy anonymous figures conspire around a lamp-lit table over a blank map scroll in a dim room, faces hidden, conveying the wicked scheming against the righteous.",
+      "prompt": "Use case: illustration-story. Asset: one individual Psalm 37 verse watercolor, landscape 3:2. Reference is STYLE ONLY: match its delicate transparent watercolor, fine natural brushwork, textured ivory paper, muted forest/sage foliage, warm ochre rocks, gentle light and devotional calm. Create a new composition, no sheep or copied riverbank. Symbolic artistic response, not an actual historical setting or portrait of David. All human figures anonymous. Never portray God as any human body, face, hand, silhouette, statue or glowing person. Natural light remains natural, not a literal image of God. No text, letters, logos, modern objects or watermark. Keep important subjects inside the central 80%. Verse 12: In a shaded foreground a few anonymous figures whisper together with tense postures, while a lone anonymous traveler follows a clear sunlit path in the distance. Convey deliberate hostility without explicit violence or an invented historical event. No scrolls, maps or text.",
       "production": "assets/psalm37/verse-12-watercolor.webp",
-      "status": "prompt drafted; image not generated"
+      "status": "generated and visually inspected",
+      "generatedOriginal": "exec-e6bbfb23-1956-45eb-8881-28fb5ca83994.png"
     },
     {
       "verse": 13,
@@ -254,10 +258,6 @@
     }
   ],
   "pendingVerses": [
-    9,
-    10,
-    11,
-    12,
     13,
     14,
     15,

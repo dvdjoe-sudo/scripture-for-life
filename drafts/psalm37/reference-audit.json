@@ -1,7 +1,7 @@
 {
   "source": "data/Berean-Standard-Bible-original.txt",
-  "status": "Related passages for verses 1–8 read with surrounding verses during editorial review; literary and later biblical comparisons retain their own settings",
-  "reviewedThrough": 8,
+  "status": "Related passages for verses 1–12 read with surrounding verses; later and literary comparisons retain their own settings",
+  "reviewedThrough": 12,
   "references": [
     {
       "ref": "Proverbs 24:19",
@@ -640,6 +640,299 @@
         [
           31,
           "Whoever oppresses the poor taunts their Maker, but whoever is kind to the needy honors Him."
+        ]
+      ]
+    },
+    {
+      "ref": "Matthew 5:5",
+      "usedByVerses": [
+        9,
+        11
+      ],
+      "context": [
+        [
+          3,
+          "“Blessed are the poor in spirit, for theirs is the kingdom of heaven."
+        ],
+        [
+          4,
+          "Blessed are those who mourn, for they will be comforted."
+        ],
+        [
+          5,
+          "Blessed are the meek, for they will inherit the earth."
+        ],
+        [
+          6,
+          "Blessed are those who hunger and thirst for righteousness, for they will be filled."
+        ],
+        [
+          7,
+          "Blessed are the merciful, for they will be shown mercy."
+        ]
+      ]
+    },
+    {
+      "ref": "Hebrews 11:16",
+      "usedByVerses": [
+        9
+      ],
+      "context": [
+        [
+          14,
+          "Now those who say such things show that they are seeking a country of their own."
+        ],
+        [
+          15,
+          "If they had been thinking of the country they had left, they would have had opportunity to return."
+        ],
+        [
+          16,
+          "Instead, they were longing for a better country, a heavenly one. Therefore God is not ashamed to be called their God, for He has prepared a city for them."
+        ],
+        [
+          17,
+          "By faith Abraham, when he was tested, offered up Isaac on the altar. He who had received the promises was ready to offer his one and only son,"
+        ],
+        [
+          18,
+          "even though God had said to him, “Through Isaac your offspring will be reckoned.”"
+        ]
+      ]
+    },
+    {
+      "ref": "Proverbs 2:21",
+      "usedByVerses": [
+        9
+      ],
+      "context": [
+        [
+          19,
+          "None who go to her return or negotiate the paths of life."
+        ],
+        [
+          20,
+          "So you will follow in the ways of the good, and keep to the paths of the righteous."
+        ],
+        [
+          21,
+          "For the upright will inhabit the land, and the blameless will remain in it;"
+        ],
+        [
+          22,
+          "but the wicked will be cut off from the land, and the unfaithful will be uprooted."
+        ]
+      ]
+    },
+    {
+      "ref": "Hebrews 10:37",
+      "usedByVerses": [
+        10
+      ],
+      "context": [
+        [
+          35,
+          "So do not throw away your confidence; it holds a great reward."
+        ],
+        [
+          36,
+          "You need to persevere, so that after you have done the will of God, you will receive what He has promised."
+        ],
+        [
+          37,
+          "For, “In just a little while, He who is coming will come and will not delay."
+        ],
+        [
+          38,
+          "But My righteous one will live by faith; and if he shrinks back, I will take no pleasure in him.”"
+        ],
+        [
+          39,
+          "But we are not of those who shrink back and are destroyed, but of those who have faith and preserve their souls."
+        ]
+      ]
+    },
+    {
+      "ref": "Isaiah 26:20",
+      "usedByVerses": [
+        10
+      ],
+      "context": [
+        [
+          18,
+          "We were with child; we writhed in pain; but we gave birth to wind. We have given no salvation to the earth, nor brought any life into the world."
+        ],
+        [
+          19,
+          "Your dead will live; their bodies will rise. Awake and sing, you who dwell in the dust! For your dew is like the dew of the morning, and the earth will bring forth her dead."
+        ],
+        [
+          20,
+          "Go, my people, enter your rooms and shut your doors behind you. Hide yourselves a little while until the wrath has passed."
+        ],
+        [
+          21,
+          "For behold, the LORD is coming out of His dwelling to punish the inhabitants of the earth for their iniquity. The earth will reveal her bloodshed and will no longer conceal her slain."
+        ]
+      ]
+    },
+    {
+      "ref": "Job 20:9",
+      "usedByVerses": [
+        10
+      ],
+      "context": [
+        [
+          7,
+          "he will perish forever, like his own dung; those who had seen him will ask, ‘Where is he?’"
+        ],
+        [
+          8,
+          "He will fly away like a dream, never to be found; he will be chased away like a vision in the night."
+        ],
+        [
+          9,
+          "The eye that saw him will see him no more, and his place will no longer behold him."
+        ],
+        [
+          10,
+          "His sons will seek the favor of the poor, for his own hands must return his wealth."
+        ],
+        [
+          11,
+          "The youthful vigor that fills his bones will lie down with him in the dust."
+        ]
+      ]
+    },
+    {
+      "ref": "Numbers 12:3",
+      "usedByVerses": [
+        11
+      ],
+      "context": [
+        [
+          1,
+          "Then Miriam and Aaron criticized Moses because of the Cushite woman he had married, for he had taken a Cushite wife."
+        ],
+        [
+          2,
+          "“Does the LORD speak only through Moses?” they said. “Does He not also speak through us?” And the LORD heard this."
+        ],
+        [
+          3,
+          "Now Moses was a very humble man, more so than any man on the face of the earth."
+        ],
+        [
+          4,
+          "And suddenly the LORD said to Moses, Aaron, and Miriam, “You three, come out to the Tent of Meeting.” So the three went out,"
+        ],
+        [
+          5,
+          "and the LORD came down in a pillar of cloud, stood at the entrance to the Tent, and summoned Aaron and Miriam. When both of them had stepped forward,"
+        ]
+      ]
+    },
+    {
+      "ref": "Isaiah 29:19",
+      "usedByVerses": [
+        11
+      ],
+      "context": [
+        [
+          17,
+          "In a very short time, will not Lebanon become an orchard, and the orchard seem like a forest?"
+        ],
+        [
+          18,
+          "On that day the deaf will hear the words of the scroll, and out of the deep darkness the eyes of the blind will see."
+        ],
+        [
+          19,
+          "The humble will increase their joy in the LORD, and the poor among men will rejoice in the Holy One of Israel."
+        ],
+        [
+          20,
+          "For the ruthless will vanish, the mockers will disappear, and all who look for evil will be cut down—"
+        ],
+        [
+          21,
+          "those who indict a man with a word, who ensnare the mediator at the gate, and who with false charges deprive the innocent of justice."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 35:16",
+      "usedByVerses": [
+        12
+      ],
+      "context": [
+        [
+          14,
+          "I paced about as for my friend or brother; I was bowed down with grief, like one mourning for his mother."
+        ],
+        [
+          15,
+          "But when I stumbled, they assembled in glee; they gathered together against me. Assailants I did not know slandered me without ceasing."
+        ],
+        [
+          16,
+          "Like godless jesters at a feast, they gnashed their teeth at me."
+        ],
+        [
+          17,
+          "How long, O Lord, will You look on? Rescue my soul from their ravages, my precious life from these lions."
+        ],
+        [
+          18,
+          "Then I will give You thanks in the great assembly; I will praise You among many people."
+        ]
+      ]
+    },
+    {
+      "ref": "Acts 7:54",
+      "usedByVerses": [
+        12
+      ],
+      "context": [
+        [
+          52,
+          "Which of the prophets did your fathers fail to persecute? They even killed those who foretold the coming of the Righteous One. And now you are His betrayers and murderers—"
+        ],
+        [
+          53,
+          "you who received the law ordained by angels, yet have not kept it.”"
+        ],
+        [
+          54,
+          "On hearing this, the members of the Sanhedrin were enraged, and they gnashed their teeth at him."
+        ],
+        [
+          55,
+          "But Stephen, full of the Holy Spirit, looked intently into heaven and saw the glory of God and Jesus standing at the right hand of God."
+        ],
+        [
+          56,
+          "“Look,” he said, “I see heaven open and the Son of Man standing at the right hand of God.”"
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 2:1",
+      "usedByVerses": [
+        12
+      ],
+      "context": [
+        [
+          1,
+          "Why do the nations rage and the peoples plot in vain?"
+        ],
+        [
+          2,
+          "The kings of the earth take their stand and the rulers gather together, against the LORD and against His Anointed One:"
+        ],
+        [
+          3,
+          "“Let us break Their chains and cast away Their cords.”"
         ]
       ]
     }

@@ -13,12 +13,23 @@ const escapeHTML=v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>'
 const checkRef=ref=>{const m=/^(.+?) (\d+):(\d+)$/.exec(ref);assert(m,ref);assert(bible.find(b=>b.name===m[1])?.chapters[+m[2]-1]?.some(([v,t])=>v===+m[3]&&t),'Invalid reference '+ref);};
 const live=['index.html','sw.js','scripts/build-web.mjs','package.json','PSALMS_ROLLOUT.md'].map(f=>[f,fs.readFileSync(f,'utf8')]);
 const counts={};
-const generatedByPsalm={37:8};
+const generatedByPsalm={37:12};
 for(let n=37;n<=40;n++){
   const dir='drafts/psalm'+n+'/',source=psalms[n-1],chapter=Object.fromEntries(source);
   const src=read(dir+'source.json');assert.deepEqual(src.verses,source,'Psalm '+n+' source.json must equal bundled BSB exactly');
   const ed=read(dir+'editorial.json'),study=JSON.parse(JSON.stringify(ed.study));
-  if(n===37){const checkpoint=read(dir+'verses-1-8.json');assert.equal(checkpoint.verses.length,8);checkpoint.verses.forEach((r,i)=>{assert.equal(r.verse,i+1);study.verses[i]=r;});}
+  if(n===37){
+    const progress=read(dir+'progress.json');assert.equal(progress.completedThrough,generatedByPsalm[n]);assert.equal(progress.nextVerse,generatedByPsalm[n]+1);
+    let next=1;
+    for(const group of progress.groups){
+      assert.equal(group.from,next);const checkpoint=read(dir+group.file);assert.equal(checkpoint.verses.length,group.through-group.from+1);
+      checkpoint.verses.forEach((r,i)=>{assert.equal(r.verse,group.from+i);study.verses[r.verse-1]=r;});next=group.through+1;
+    }
+    assert.equal(next,progress.nextVerse);
+    const audit=read(dir+'reference-audit.json');assert.equal(audit.reviewedThrough,progress.completedThrough);
+    for(let i=0;i<progress.completedThrough;i++)for(const ref of study.verses[i].related)assert(audit.references.some(a=>a.ref===ref&&a.usedByVerses.includes(i+1)),'Missing contextual audit '+ref);
+    for(const entry of audit.references){const m=/^(.+?) (\d+):(\d+)$/.exec(entry.ref);checkRef(entry.ref);const chapter=bible.find(b=>b.name===m[1]).chapters[+m[2]-1];for(const verse of entry.context)assert.deepEqual(verse,chapter.find(x=>x[0]===verse[0]),'Audit must preserve exact bundled BSB '+entry.ref);}
+  }
   assert.equal(study.number,n);assert.equal(study.verses.length,source.length,'Psalm '+n+' covers every verse');
   for(const key of ['title','heading','meaning','context','reflect','alt'])assert.equal(new Set(study.verses.map(r=>r[key])).size,source.length,'Psalm '+n+' distinct '+key);
   const generated=generatedByPsalm[n]||0,hashes=new Set();
@@ -46,4 +57,4 @@ for(let n=37;n<=40;n++){
   assert(!(n in engine.studies),'Psalm '+n+' must not be registered in the live app');
   counts[n]=source.length;
 }
-console.log('PASS — Psalms 37–40 editorial sources: exact BSB coverage',JSON.stringify(counts),'total',Object.values(counts).reduce((a,b)=>a+b),'verses; valid references/people/topics; Psalm 37 art checkpoint 1–8 verified; illustration drafts not wired.');
+console.log('PASS — Psalms 37–40 editorial sources: exact BSB coverage',JSON.stringify(counts),'total',Object.values(counts).reduce((a,b)=>a+b),'verses; valid references/people/topics; Psalm 37 art checkpoint 1–12 verified; illustration drafts not wired.');
