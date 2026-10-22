@@ -130,3 +130,9 @@ for (const pathName of required.filter(v=>!['manifest.webmanifest','sw.js'].incl
   }
 }
 console.log('PASS — Web and Android assets agree; 12 Genesis episodes, ' + sceneCount + ' scenes, original home art, icon, manifest and offline shell.');
+{
+  // Psalm watercolors load on demand (cache-first at runtime), not in the install precache.
+  const core = offline.slice(offline.indexOf('const CORE'), offline.indexOf('];', offline.indexOf('const CORE')));
+  if (/assets\/psalm[^/']*\/[^']+\.webp/.test(core)) throw new Error('Psalm art must not be in the install precache');
+  if (!offline.includes('const LAZY_ART') || !offline.includes('isPsalmArt(url)')) throw new Error('Runtime psalm art cache missing');
+}

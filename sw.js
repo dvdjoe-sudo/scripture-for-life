@@ -1,9 +1,40 @@
 /* Scripture for Life offline support for the WEB build.
    Capacitor Android carries its web assets inside the application. */
-const VERSION = 'scripture-for-life-shell-v76-jeremiah';
+const VERSION = 'scripture-for-life-shell-v77-lazy-psalm-art';
 const CORE = [
   './psalm-text-studies.js',
   './psalm36.js',
+  './psalm35.js',
+  './psalm34.js',
+  './psalm33.js',
+  './psalm32.js',
+  './psalm31.js',
+  './psalm30.js',
+  './psalm29.js',
+  './psalm28.js',
+  './psalm27.js',
+  './psalm26.js',
+  './psalm25.js',
+  './psalm24.js',
+  './psalm22.js',
+  './psalm21.js',
+  './psalm19.js',
+  './psalm20.js',
+  './psalm18.js',
+  './psalm17.js',
+  './psalm16.js',
+  './', './index.html', './app.js', './styles.css', './genesis.js', './exodus.js', './exodus-people.js', './judges-people.js', './genesis-people.js', './joshua-people.js', './ruth-people.js', './samuel1-people.js', './samuel2-people.js', './kings1-people.js', './kings2-people.js','./jonah-people.js','./amos-people.js','./hosea-people.js','./isaiah-people.js','./micah-people.js','./nahum-people.js','./zephaniah-people.js','./jeremiah-people.js', './leviticus.js', './numbers.js', './deuteronomy.js', './joshua.js', './judges.js', './ruth.js', './samuel1.js', './samuel2.js', './kings1.js', './kings2.js','./jonah.js','./amos.js','./hosea.js','./isaiah.js','./micah.js','./nahum.js','./zephaniah.js','./jeremiah.js', './data/exodus-episodes.json', './data/exodus-scenes.json', './data/leviticus-episodes.json', './data/leviticus-scenes.json', './data/numbers-episodes.json', './data/numbers-scenes.json', './data/deuteronomy-episodes.json', './data/deuteronomy-scenes.json', './data/joshua-episodes.json', './data/joshua-scenes.json', './data/judges-episodes.json', './data/judges-scenes.json', './data/ruth-episodes.json', './data/ruth-scenes.json', './data/samuel1-episodes.json', './data/samuel1-scenes.json', './data/samuel2-episodes.json', './data/samuel2-scenes.json', './data/kings1-episodes.json', './data/kings1-scenes.json', './data/kings2-episodes.json', './data/kings2-scenes.json','./data/jonah-episodes.json','./data/jonah-scenes.json','./data/amos-episodes.json','./data/hosea-episodes.json','./data/amos-scenes.json','./data/hosea-scenes.json','./data/isaiah-episodes.json','./data/isaiah-scenes.json','./data/micah-episodes.json','./data/micah-scenes.json','./data/nahum-episodes.json','./data/nahum-scenes.json','./data/zephaniah-episodes.json','./data/zephaniah-scenes.json','./data/jeremiah-episodes.json','./data/jeremiah-scenes.json',
+  './genesis.css', './psalm-walk.js', './psalm-walk.css', './psalm46.js', './data.js', './content.js', './icon.svg',
+  './psalm-verse-study.js', './psalm-verse-study.css', './psalm1.js', './psalms-2-3.js',
+  './psalm4.js', './psalm5.js', './psalm6.js', './psalms-7-8.js', './psalm9.js', './psalm10.js', './psalms-11-12.js', './psalms-13-15.js', './topic-connections.js',
+  './psalms-content.js', './psalms-book.js', './psalms-book.css',
+  './psalm-art.js', './psalm-art.css', './psalm-navigation.js',
+  './manifest.webmanifest', './data/bible.json',
+  './data/episodes.json', './data/story-scenes.json'
+];
+// Psalm watercolors are cached the first time their psalm is opened (cache-first),
+// not at install, so the first visit stays light.
+const LAZY_ART = [
   './assets/psalm36/verse-1-watercolor.webp',
   './assets/psalm36/verse-2-watercolor.webp',
   './assets/psalm36/verse-3-watercolor.webp',
@@ -16,7 +47,6 @@ const CORE = [
   './assets/psalm36/verse-10-watercolor.webp',
   './assets/psalm36/verse-11-watercolor.webp',
   './assets/psalm36/verse-12-watercolor.webp',
-  './psalm35.js',
   './assets/psalm35/verse-1-watercolor.webp',
   './assets/psalm35/verse-2-watercolor.webp',
   './assets/psalm35/verse-3-watercolor.webp',
@@ -45,7 +75,6 @@ const CORE = [
   './assets/psalm35/verse-26-watercolor.webp',
   './assets/psalm35/verse-27-watercolor.webp',
   './assets/psalm35/verse-28-watercolor.webp',
-  './psalm34.js',
   './assets/psalm34/verse-1-watercolor.webp',
   './assets/psalm34/verse-2-watercolor.webp',
   './assets/psalm34/verse-3-watercolor.webp',
@@ -68,7 +97,6 @@ const CORE = [
   './assets/psalm34/verse-20-watercolor.webp',
   './assets/psalm34/verse-21-watercolor.webp',
   './assets/psalm34/verse-22-watercolor.webp',
-  './psalm33.js',
   './assets/psalm33/verse-1-watercolor.webp',
   './assets/psalm33/verse-2-watercolor.webp',
   './assets/psalm33/verse-3-watercolor.webp',
@@ -91,7 +119,6 @@ const CORE = [
   './assets/psalm33/verse-20-watercolor.webp',
   './assets/psalm33/verse-21-watercolor.webp',
   './assets/psalm33/verse-22-watercolor.webp',
-  './psalm32.js',
   './assets/psalm32/verse-1-watercolor.webp',
   './assets/psalm32/verse-2-watercolor.webp',
   './assets/psalm32/verse-3-watercolor.webp',
@@ -103,7 +130,6 @@ const CORE = [
   './assets/psalm32/verse-9-watercolor.webp',
   './assets/psalm32/verse-10-watercolor.webp',
   './assets/psalm32/verse-11-watercolor.webp',
-  './psalm31.js',
   './assets/psalm31/verse-1-watercolor.webp',
   './assets/psalm31/verse-2-watercolor.webp',
   './assets/psalm31/verse-3-watercolor.webp',
@@ -128,7 +154,6 @@ const CORE = [
   './assets/psalm31/verse-22-watercolor.webp',
   './assets/psalm31/verse-23-watercolor.webp',
   './assets/psalm31/verse-24-watercolor.webp',
-  './psalm30.js',
   './assets/psalm30/verse-1-watercolor.webp',
   './assets/psalm30/verse-2-watercolor.webp',
   './assets/psalm30/verse-3-watercolor.webp',
@@ -141,7 +166,6 @@ const CORE = [
   './assets/psalm30/verse-10-watercolor.webp',
   './assets/psalm30/verse-11-watercolor.webp',
   './assets/psalm30/verse-12-watercolor.webp',
-  './psalm29.js',
   './assets/psalm29/verse-1-watercolor.webp',
   './assets/psalm29/verse-2-watercolor.webp',
   './assets/psalm29/verse-3-watercolor.webp',
@@ -153,7 +177,6 @@ const CORE = [
   './assets/psalm29/verse-9-watercolor.webp',
   './assets/psalm29/verse-10-watercolor.webp',
   './assets/psalm29/verse-11-watercolor.webp',
-  './psalm28.js',
   './assets/psalm28/verse-1-watercolor.webp',
   './assets/psalm28/verse-2-watercolor.webp',
   './assets/psalm28/verse-3-watercolor.webp',
@@ -163,7 +186,6 @@ const CORE = [
   './assets/psalm28/verse-7-watercolor.webp',
   './assets/psalm28/verse-8-watercolor.webp',
   './assets/psalm28/verse-9-watercolor.webp',
-  './psalm27.js',
   './assets/psalm27/verse-1-watercolor.webp',
   './assets/psalm27/verse-2-watercolor.webp',
   './assets/psalm27/verse-3-watercolor.webp',
@@ -178,7 +200,6 @@ const CORE = [
   './assets/psalm27/verse-12-watercolor.webp',
   './assets/psalm27/verse-13-watercolor.webp',
   './assets/psalm27/verse-14-watercolor.webp',
-  './psalm26.js',
   './assets/psalm26/verse-1-watercolor.webp',
   './assets/psalm26/verse-2-watercolor.webp',
   './assets/psalm26/verse-3-watercolor.webp',
@@ -191,7 +212,6 @@ const CORE = [
   './assets/psalm26/verse-10-watercolor.webp',
   './assets/psalm26/verse-11-watercolor.webp',
   './assets/psalm26/verse-12-watercolor.webp',
-  './psalm25.js',
   './assets/psalm25/verse-1-watercolor.webp',
   './assets/psalm25/verse-2-watercolor.webp',
   './assets/psalm25/verse-3-watercolor.webp',
@@ -214,7 +234,6 @@ const CORE = [
   './assets/psalm25/verse-20-watercolor.webp',
   './assets/psalm25/verse-21-watercolor.webp',
   './assets/psalm25/verse-22-watercolor.webp',
-  './psalm24.js',
   './assets/psalm24/verse-1-watercolor.webp',
   './assets/psalm24/verse-2-watercolor.webp',
   './assets/psalm24/verse-3-watercolor.webp',
@@ -225,7 +244,6 @@ const CORE = [
   './assets/psalm24/verse-8-watercolor.webp',
   './assets/psalm24/verse-9-watercolor.webp',
   './assets/psalm24/verse-10-watercolor.webp',
-  './psalm22.js',
   './assets/psalm22/verse-1-watercolor.webp',
   './assets/psalm22/verse-2-watercolor.webp',
   './assets/psalm22/verse-3-watercolor.webp',
@@ -257,7 +275,6 @@ const CORE = [
   './assets/psalm22/verse-29-watercolor.webp',
   './assets/psalm22/verse-30-watercolor.webp',
   './assets/psalm22/verse-31-watercolor.webp',
-  './psalm21.js',
   './assets/psalm21/verse-1-watercolor.webp',
   './assets/psalm21/verse-2-watercolor.webp',
   './assets/psalm21/verse-3-watercolor.webp',
@@ -271,7 +288,6 @@ const CORE = [
   './assets/psalm21/verse-11-watercolor.webp',
   './assets/psalm21/verse-12-watercolor.webp',
   './assets/psalm21/verse-13-watercolor.webp',
-  './psalm19.js',
   './assets/psalm19/verse-1-watercolor.webp',
   './assets/psalm19/verse-2-watercolor.webp',
   './assets/psalm19/verse-3-watercolor.webp',
@@ -286,7 +302,6 @@ const CORE = [
   './assets/psalm19/verse-12-watercolor.webp',
   './assets/psalm19/verse-13-watercolor.webp',
   './assets/psalm19/verse-14-watercolor.webp',
-  './psalm20.js',
   './assets/psalm20/verse-1-watercolor.webp',
   './assets/psalm20/verse-2-watercolor.webp',
   './assets/psalm20/verse-3-watercolor.webp',
@@ -296,7 +311,6 @@ const CORE = [
   './assets/psalm20/verse-7-watercolor.webp',
   './assets/psalm20/verse-8-watercolor.webp',
   './assets/psalm20/verse-9-watercolor.webp',
-  './psalm18.js',
   './assets/psalm18/verse-1-watercolor.webp',
   './assets/psalm18/verse-2-watercolor.webp',
   './assets/psalm18/verse-3-watercolor.webp',
@@ -347,7 +361,6 @@ const CORE = [
   './assets/psalm18/verse-48-watercolor.webp',
   './assets/psalm18/verse-49-watercolor.webp',
   './assets/psalm18/verse-50-watercolor.webp',
-  './psalm17.js',
   './assets/psalm17/verse-1-watercolor.webp',
   './assets/psalm17/verse-2-watercolor.webp',
   './assets/psalm17/verse-3-watercolor.webp',
@@ -363,7 +376,6 @@ const CORE = [
   './assets/psalm17/verse-13-watercolor.webp',
   './assets/psalm17/verse-14-watercolor.webp',
   './assets/psalm17/verse-15-watercolor.webp',
-  './psalm16.js',
   './assets/psalm16/verse-1-watercolor.webp',
   './assets/psalm16/verse-2-watercolor.webp',
   './assets/psalm16/verse-3-watercolor.webp',
@@ -375,13 +387,12 @@ const CORE = [
   './assets/psalm16/verse-9-watercolor.webp',
   './assets/psalm16/verse-10-watercolor.webp',
   './assets/psalm16/verse-11-watercolor.webp',
-  './', './index.html', './app.js', './styles.css', './genesis.js', './exodus.js', './exodus-people.js', './judges-people.js', './genesis-people.js', './joshua-people.js', './ruth-people.js', './samuel1-people.js', './samuel2-people.js', './kings1-people.js', './kings2-people.js','./jonah-people.js','./amos-people.js','./hosea-people.js','./isaiah-people.js','./micah-people.js','./nahum-people.js','./zephaniah-people.js','./jeremiah-people.js', './leviticus.js', './numbers.js', './deuteronomy.js', './joshua.js', './judges.js', './ruth.js', './samuel1.js', './samuel2.js', './kings1.js', './kings2.js','./jonah.js','./amos.js','./hosea.js','./isaiah.js','./micah.js','./nahum.js','./zephaniah.js','./jeremiah.js', './data/exodus-episodes.json', './data/exodus-scenes.json', './data/leviticus-episodes.json', './data/leviticus-scenes.json', './data/numbers-episodes.json', './data/numbers-scenes.json', './data/deuteronomy-episodes.json', './data/deuteronomy-scenes.json', './data/joshua-episodes.json', './data/joshua-scenes.json', './data/judges-episodes.json', './data/judges-scenes.json', './data/ruth-episodes.json', './data/ruth-scenes.json', './data/samuel1-episodes.json', './data/samuel1-scenes.json', './data/samuel2-episodes.json', './data/samuel2-scenes.json', './data/kings1-episodes.json', './data/kings1-scenes.json', './data/kings2-episodes.json', './data/kings2-scenes.json','./data/jonah-episodes.json','./data/jonah-scenes.json','./data/amos-episodes.json','./data/hosea-episodes.json','./data/amos-scenes.json','./data/hosea-scenes.json','./data/isaiah-episodes.json','./data/isaiah-scenes.json','./data/micah-episodes.json','./data/micah-scenes.json','./data/nahum-episodes.json','./data/nahum-scenes.json','./data/zephaniah-episodes.json','./data/zephaniah-scenes.json','./data/jeremiah-episodes.json','./data/jeremiah-scenes.json',
-  './genesis.css', './psalm-walk.js', './psalm-walk.css', './psalm46.js', './data.js', './content.js', './icon.svg',
-  './assets/psalm23/verse-1-watercolor.webp', './assets/psalm23/verse-2-watercolor.webp',
-  './assets/psalm23/verse-3-watercolor.webp', './assets/psalm23/verse-4-watercolor.webp',
-  './assets/psalm23/verse-5-watercolor.webp', './assets/psalm23/verse-6-watercolor.webp',
-  './psalm-verse-study.js', './psalm-verse-study.css', './psalm1.js', './psalms-2-3.js',
-  './psalm4.js', './psalm5.js', './psalm6.js', './psalms-7-8.js', './psalm9.js', './psalm10.js', './psalms-11-12.js', './psalms-13-15.js', './topic-connections.js',
+  './assets/psalm23/verse-1-watercolor.webp',
+  './assets/psalm23/verse-2-watercolor.webp',
+  './assets/psalm23/verse-3-watercolor.webp',
+  './assets/psalm23/verse-4-watercolor.webp',
+  './assets/psalm23/verse-5-watercolor.webp',
+  './assets/psalm23/verse-6-watercolor.webp',
   './assets/psalm13/verse-1-watercolor.webp',
   './assets/psalm13/verse-2-watercolor.webp',
   './assets/psalm13/verse-3-watercolor.webp',
@@ -648,7 +659,6 @@ const CORE = [
   './assets/psalm1/verse-4-watercolor.webp',
   './assets/psalm1/verse-5-watercolor.webp',
   './assets/psalm1/verse-6-watercolor.webp',
-  './psalms-content.js', './psalms-book.js', './psalms-book.css',
   './assets/psalms/tree-watercolor.webp',
   './assets/psalms/night-watercolor.webp',
   './assets/psalms/music-watercolor.webp',
@@ -667,10 +677,10 @@ const CORE = [
   './assets/psalm46/section-4-watercolor.webp',
   './assets/psalm46/section-5-watercolor.webp',
   './assets/psalm46/section-6-watercolor.webp',
-  './psalm-art.js', './psalm-art.css', './psalm-navigation.js',
-  './manifest.webmanifest', './data/bible.json',
-  './data/episodes.json', './data/story-scenes.json'
 ];
+const ART_CACHE = 'scripture-for-life-art-v1';
+const isPsalmArt = url => /\/assets\/psalm[^/]*\/[^/]+\.webp$/.test(url.pathname);
+
 self.addEventListener('install', event => {
   event.waitUntil(
     caches.open(VERSION)
@@ -681,7 +691,7 @@ self.addEventListener('install', event => {
 self.addEventListener('activate', event => {
   event.waitUntil(
     caches.keys()
-      .then(keys => Promise.all(keys.filter(k => k.startsWith('scripture-for-life-') && k !== VERSION).map(k => caches.delete(k))))
+      .then(keys => Promise.all(keys.filter(k => k.startsWith('scripture-for-life-') && k !== VERSION && k !== ART_CACHE).map(k => caches.delete(k))))
       .then(() => self.clients.claim())
   );
 });
@@ -689,6 +699,16 @@ self.addEventListener('fetch', event => {
   const request = event.request;
   const url = new URL(request.url);
   if (request.method !== 'GET' || url.origin !== self.location.origin) return;
+  if (isPsalmArt(url)) {
+    event.respondWith(caches.open(ART_CACHE).then(async cache => {
+      const hit = await cache.match(request);
+      if (hit) return hit;
+      const response = await fetch(request);
+      if (response.ok) event.waitUntil(cache.put(request, response.clone()));
+      return response;
+    }).catch(() => Response.error()));
+    return;
+  }
   // Online first prevents a stale cached homepage from hiding new Genesis updates.
   event.respondWith((async () => {
     try {
