@@ -14,3 +14,6 @@ html,body{max-width:100%;overflow-x:clip}.container,.hero>div,.hero-art,.site-he
 /* Larger invisible tap areas (no visual change) */
 .back,footer a,.gen-home-quick a{position:relative}
 .back::after,footer a::after,.gen-home-quick a::after{content:"";position:absolute;left:0;right:0;top:50%;min-height:44px;height:100%;transform:translateY(-50%)}
+
+/* Topic pages: soft alternating tint so each verse stands apart. */
+.topic-layout .verse-card{padding-left:16px;padding-right:16px}.topic-layout .verse-card:nth-child(even){background:var(--cream)}
