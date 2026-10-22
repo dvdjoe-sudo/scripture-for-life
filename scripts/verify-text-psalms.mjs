@@ -12,7 +12,7 @@ assert.ok(html.includes('<script src="psalm-text-studies.js" defer></script>'));
 assert.ok(build.includes("'psalm-text-studies.js'")&&build.includes("'psalms-text'"));
 for(let n=1;n<=36;n++)assert.ok(!fs.existsSync(`psalms-text/psalm${n}.js`));assert.ok(!fs.existsSync('psalms-text/psalm46.js'));
 assert.equal(e.has(46),false,'Psalm 46 keeps its own six-section study');
-const ART=new Set([37,38,39,40,41,42,43,44,45]);for(const n of ART){const f=`assets/psalms-chapter-art/psalm${n}-watercolor.webp`;assert.ok(fs.existsSync(f)&&fs.statSync(f).size<260000,f);assert.ok(sw.includes(`'./${f}'`),`sw ${f}`);}
+const ART=new Set(fs.readdirSync('assets/psalms-chapter-art').map(f=>+(f.match(/^psalm(\d+)-watercolor\.webp$/)||[])[1]).filter(Boolean));for(const n of ART)assert.ok(c.window.SFL_VERSE_STUDIES&&n>=37&&n!==46);for(const n of ART){const f=`assets/psalms-chapter-art/psalm${n}-watercolor.webp`;assert.ok(fs.existsSync(f)&&fs.statSync(f).size<260000,f);assert.ok(sw.includes(`'./${f}'`),`sw ${f}`);}
 let total=0;
 for(let n=37;n<=150;n++){if(n===46)continue;
  const src=bible[n-1],ch=Object.fromEntries(src),N=src.length;assert.equal(e.count(n),N,`count ${n}`);assert.ok(e.has(n));
