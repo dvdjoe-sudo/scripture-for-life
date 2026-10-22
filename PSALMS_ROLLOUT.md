@@ -45,7 +45,7 @@ Approved goal: extend the Psalm 1 / original Psalm 23 format across all 150 Psal
 
 Psalm 46 has a six-section study covering all eleven verses; it still needs conversion to individual verse pages to meet the new goal. All other Psalms retain their full chapter pages and chapter introductions, rather than being labeled finished verse studies.
 
-Next sequential unfinished chapter: **Psalm 37**. Preserve the completed original Psalm 23 study and arrange Psalm 46's conversion when reached. No routine chapter approval is needed within this authorized scope. Do not imply unfinished chapters have verse-specific commentary or unique art, or that work continues after a session ends.
+Next sequential unfinished step: **watercolors for Psalms 37–150**. Psalms 37–150 (except 46) are LIVE as text-only verse studies (exact BSB + Meaning, Context, Explore, Reflect notes, no artwork yet). Psalm 46 keeps its six-section study. When adding art to a psalm, move psalms-text/psalmN.js to psalmN.js via build.py/wire.py and remove N from psalm-text-studies.js.
 
 Psalm 29 passed the whole-chapter gate in PR #67 on 8efb385671032425cd429626959192b4fb138fba (CI 39597752597 and 39597686312): eleven exact BSB verses and heading, seven voice declarations, oaks/Glory wording, original individual notes, twenty-two contextual references and eleven distinct inspected built-in watercolors. Full prompts are in assets/psalm29/generation-prompts.json. Production art totals 2,235,908 bytes (2.13 MiB), packaged offline and for Android. Source/reference/asset/parity checks, every verse/tab/image at 390px on source website and packaged webview, reflection reload/Saved/dialog, isolated Psalm 28/29 resume, gratitude/fear/strength round trips, 28→29→30 navigation and Capacitor creation/sync passed. Resume PR #67 first if open; publication follows final PR CI, authorized merge, main CI, Pages and live verification. Story manuscripts, scene data, renderers and original Psalm 23 are preserved. Native APK/device testing is separate.
 
@@ -108,3 +108,11 @@ Psalms 33–34 went live in one batch: 22 and 22 exact bundled BSB verses includ
 Psalm 35 went live alone: 28 exact bundled BSB verses including heading; original reviewed notes from drafts/psalm35; 28 distinct visually inspected watercolors (assets/psalm35; WebP 1024x683 q75) with regenerations recorded in generation-prompts.json; 34→35→36 navigation, topics, offline cache and Android build wired; npm run check, smoke:web and a 420px headless check passed.
 
 Psalm 36 candidate: twelve exact BSB verses and choirmaster/David heading; existing writing draft reviewed against all related passages in their contexts, with overstatements corrected; twelve distinct built-in watercolors, all originals and production files inspected. Full prompts and reference audit are committed. Artwork totals 2,093,036 bytes (2.00 MiB), packaged offline and for Android. Fear and gratitude links, shared reflections, independent resume and 35→36→37 navigation are included. All validation and publication gates remain pending. Psalms 37–60 remain unpublished writing drafts. Story manuscripts/data/renderers and original Psalm 23 are preserved. Android web-bundle/Capacitor checks are distinct from native APK/device testing.
+
+
+## Text-only live batch: Psalms 37–150 (2026-10-21)
+- 113 psalms, 1,939 verses, wired as verse studies at `#/study/N/v` without artwork.
+- Notes live in `psalms-text/psalmN.js` and load **on demand** through `psalm-text-studies.js` (a small verse-count manifest), so page load does not include ~2.3 MB of notes.
+- Verse pages show no image area (`.text-only` layout); long psalms (>24 verses) fold the verse buttons into a "Jump to another verse" toggle.
+- Psalm 45 → 46 → 47 navigation runs through the existing Psalm 46 section study.
+- Verified by `scripts/verify-text-psalms.mjs` (in `npm run check`) and the web smoke test.
