@@ -567,7 +567,8 @@ try {
     await page.locator('[data-verse-study="36"][data-current-verse="1"]').waitFor();
     await visit('#/study/36/12','[data-verse-study="36"]');
     await page.locator('.study-bottom a[href="#/study/37/1"]').click();
-    await page.locator('.psalm-verse-study.text-only[data-verse-study="37"][data-current-verse="1"]').waitFor();
+    await page.locator('.psalm-verse-study[data-verse-study="37"][data-current-verse="1"] img[src="assets/psalms-chapter-art/psalm37-watercolor.webp"]').waitFor();
+    await visit('#/study/47/1','.psalm-verse-study.text-only[data-verse-study="47"][data-current-verse="1"]');
     assert.equal(await page.locator('.psalm-verse-study img').count(),0,'text-only study has no image');
     for(const [n,v] of [[91,1],[119,105],[150,6]]){await visit(`#/study/${n}/${v}`,`[data-verse-study="${n}"][data-current-verse="${v}"]`);await page.locator('[data-verse-study-tab="context"]').click();await page.locator('#verse-study-panel h3').waitFor();}
     await visit('#/study/45/17','[data-verse-study="45"]');await page.locator('.study-bottom a[href="#/study/46/1"]').click();await page.waitForFunction(()=>location.hash==='#/study/46/1'&&!document.querySelector('[data-verse-study="45"]'));
