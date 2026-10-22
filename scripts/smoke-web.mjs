@@ -178,7 +178,8 @@ try {
     await visit('#/psalms','.psalms-all-grid .psalms-study-card');
     await page.locator('[data-psalms-search]').fill('119');
     assert.equal(await page.locator('.psalms-all-grid .psalms-study-card:visible').count(),1);
-    await page.locator('.psalms-all-grid .psalms-study-card:visible a.btn').click();
+    assert.equal(await page.locator('.psalms-all-grid .psalms-study-card:visible a.btn').getAttribute('href'),'#/study/119/1');
+    await page.locator('.psalms-all-grid .psalms-study-card:visible a:has-text("Whole chapter")').click();
     await page.locator('[data-psalm-chapter="119"]').waitFor();
     assert.equal(await page.locator('.psalm-chapter-verse').count(),176);
     await page.locator('[data-psalm-verse-jump]').selectOption('105');
@@ -572,8 +573,11 @@ try {
     await page.locator('.study-bottom a[href="#/study/36/1"]').click();
     await page.locator('[data-verse-study="36"][data-current-verse="1"]').waitFor();
     await visit('#/study/36/12','[data-verse-study="36"]');
-    await page.locator('.study-bottom a[href="#/psalms/37"]').click();
-    await page.locator('[data-psalm-chapter="37"]').waitFor();
+    await page.locator('.study-bottom a[href="#/study/37/1"]').click();
+    await page.locator('.psalm-verse-study.text-only[data-verse-study="37"][data-current-verse="1"]').waitFor();
+    assert.equal(await page.locator('.psalm-verse-study img').count(),0,'text-only study has no image');
+    for(const [n,v] of [[91,1],[119,105],[150,6]]){await visit(`#/study/${n}/${v}`,`[data-verse-study="${n}"][data-current-verse="${v}"]`);await page.locator('[data-verse-study-tab="context"]').click();await page.locator('#verse-study-panel h3').waitFor();}
+    await visit('#/study/45/17','[data-verse-study="45"]');await page.locator('.study-bottom a[href="#/study/46/1"]').click();await page.waitForFunction(()=>location.hash==='#/study/46/1'&&!document.querySelector('[data-verse-study="45"]'));
     for(const [id,verse] of [['fear',7],['gratitude',5],['gratitude',9]]){
       await visit('#/help/'+id,'[data-topic-connections="'+id+'"]');
       await page.locator('[data-topic-connections] a[href="#/study/36/'+verse+'"]').click();
