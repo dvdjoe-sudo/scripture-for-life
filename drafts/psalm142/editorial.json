@@ -1,0 +1,208 @@
+{
+  "chapter": 142,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 142 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "alone": [
+      "Psalm 142:4"
+    ],
+    "grief": [
+      "Psalm 142:2"
+    ],
+    "fear": [
+      "Psalm 142:6"
+    ]
+  },
+  "study": {
+    "number": 142,
+    "coverVerse": 1,
+    "title": "A prayer from the cave",
+    "intro": "Psalm 142 is a prayer David prayed while hiding in a cave from King Saul. He feels completely alone: no one stands at his right hand, no one cares for his soul, and his pursuers are too strong for him. Yet he pours out his complaint to God, calls the LORD his refuge and portion, and looks ahead to the day when the righteous will gather around him because of God's goodness.",
+    "context": "The heading links it to David 'in the cave', either the cave of Adullam (1 Samuel 22:1) or the cave at En-gedi where he spared Saul's life (1 Samuel 24). Psalm 57 shares the same setting. A 'Maskil' is probably a song of instruction or skillful composition. Strikingly, the cave of Adullam soon became the place where distressed and indebted men gathered around David (1 Samuel 22:2), fulfilling verse 7.",
+    "peopleNote": "Attributed to David while hiding from Saul. Saul and his soldiers are the pursuers, though not named in the psalm. God is never portrayed as a human figure in planned art.",
+    "people": [
+      {
+        "id": "david",
+        "name": "David",
+        "ref": "Psalm 142:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Crying aloud from the cave",
+        "heading": "I lift my voice to the LORD for mercy",
+        "meaning": "'I cry aloud to the LORD; I lift my voice to the LORD for mercy.' Hidden in a cave, hunted by the king's army, David prays out loud. Not a quiet whisper but a loud cry. He asks for mercy, help he does not deserve but desperately needs. When you are cornered, your voice can still reach God. Even from a hiding place, prayer is open.",
+        "contextTitle": "Hiding from Saul",
+        "context": "1 Samuel 22:1 says David escaped to the cave of Adullam. 1 Samuel 24:3 tells of David hiding deep in a cave at En-gedi when Saul came in. Psalm 57, also from the cave, says, 'Have mercy on me, O God.'",
+        "explore": [
+          [
+            "Cave",
+            "A natural hollow in the rocky hills of Judah, used by David as a hiding place."
+          ],
+          [
+            "Maskil",
+            "A Hebrew term in some psalm titles, probably meaning a skillful or teaching song."
+          ]
+        ],
+        "reflect": "From what 'cave' in your life do you need to cry aloud to God?",
+        "related": [
+          "1 Samuel 22:1",
+          "1 Samuel 24:3",
+          "Psalm 57:1"
+        ],
+        "alt": "The dark mouth of a limestone cave in rugged desert hills.",
+        "art": "assets/psalm142/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Pouring out complaint",
+        "heading": "I pour out my complaint before Him",
+        "meaning": "'I pour out my complaint before Him; I reveal my trouble to Him.' David empties his heart before God like pouring water from a jar. He holds nothing back, telling God exactly what is wrong. God does not ask us to tidy up our feelings first. Honest complaint brought to God is an act of faith: it shows we believe He is listening and cares.",
+        "contextTitle": "Honest prayer",
+        "context": "Psalm 62:8 says, 'Pour out your hearts before Him; God is our refuge.' 1 Samuel 1:15 tells of Hannah pouring out her soul before the LORD. Lamentations 2:19 urges pouring out your heart like water before the Lord.",
+        "explore": [
+          [
+            "Complaint",
+            "A sorrowful account of one's troubles, an honest expression of distress."
+          ],
+          [
+            "Pour out",
+            "To empty completely, holding nothing back, like water poured from a jar."
+          ]
+        ],
+        "reflect": "What complaint do you need to pour out honestly to God today?",
+        "related": [
+          "Psalm 62:8",
+          "1 Samuel 1:15",
+          "Lamentations 2:19"
+        ],
+        "alt": "Water pouring from a clay jar onto dry rocky ground.",
+        "art": "assets/psalm142/verse-2-watercolor.webp"
+      },
+      {
+        "title": "You know my way",
+        "heading": "Although my spirit grows faint",
+        "meaning": "'Although my spirit grows faint within me, You know my way. Along the path I travel they have hidden a snare for me.' David is running out of strength. His spirit is weak. But one truth holds him: God knows his way. Even when David cannot see the traps hidden on his path, God sees both the path and the dangers. When you feel faint, God's knowledge carries you.",
+        "contextTitle": "God knows the path",
+        "context": "Job 23:10 says, 'He knows the way that I take; when He has tested me, I will come forth as gold.' Psalm 1:6 says the LORD knows the way of the righteous. Isaiah 40:29 says He gives power to the faint.",
+        "explore": [
+          [
+            "Faint",
+            "Weak, exhausted and about to give up, as when strength drains away."
+          ],
+          [
+            "Snare",
+            "A hidden trap set along a path to catch someone unawares."
+          ]
+        ],
+        "reflect": "When your spirit feels faint, how does it help to know God knows your way?",
+        "related": [
+          "Job 23:10",
+          "Psalm 1:6",
+          "Isaiah 40:29"
+        ],
+        "alt": "A narrow path winding through rocky hills with shadows across it.",
+        "art": "assets/psalm142/verse-3-watercolor.webp"
+      },
+      {
+        "title": "No one cares",
+        "heading": "No one attends to me",
+        "meaning": "'Look to my right and see; no one attends to me. There is no refuge for me; no one cares for my soul.' This is one of the loneliest verses in the Bible. The right hand was where a defender or advocate stood. David looks there, and no one is standing with him. No safe place, no one who cares. Many people know this feeling. David speaks it to God, and that is where loneliness begins to break.",
+        "contextTitle": "Abandoned",
+        "context": "David's friends had scattered, and even his family was in danger (1 Samuel 22:3-4). Jesus was deserted by His disciples (Mark 14:50). 2 Timothy 4:16 says, 'At my first defense no one stood with me, but the Lord stood by me.'",
+        "explore": [
+          [
+            "Right hand",
+            "The place where a protector or legal advocate would stand beside someone."
+          ],
+          [
+            "Refuge",
+            "A safe place of shelter and protection from danger."
+          ]
+        ],
+        "reflect": "Have you felt that no one cares for your soul? Tell God about it, and remember He stands with you.",
+        "related": [
+          "2 Timothy 4:16",
+          "Mark 14:50",
+          "Psalm 27:10"
+        ],
+        "alt": "A lone figure sitting at the mouth of a cave looking out at empty hills.",
+        "art": "assets/psalm142/verse-4-watercolor.webp"
+      },
+      {
+        "title": "My refuge and portion",
+        "heading": "My portion in the land of the living",
+        "meaning": "'I cry to You, O LORD: “You are my refuge, my portion in the land of the living.”' When no human refuge is left, David declares that God Himself is his refuge. And God is his portion, his share, his inheritance, in this life, not only after death. When everything else is gone, God remains. He is enough to hold a person's whole life.",
+        "contextTitle": "God as portion",
+        "context": "The Levites had no land; God was their portion (Numbers 18:20). Psalm 73:26 says God is the strength of my heart and my portion forever. Lamentations 3:24 says, 'The LORD is my portion; therefore I will hope in Him.'",
+        "explore": [
+          [
+            "Portion",
+            "A share or inheritance; here God Himself as David's treasure and provision."
+          ],
+          [
+            "Land of the living",
+            "This present life on earth, as opposed to the realm of the dead."
+          ]
+        ],
+        "reflect": "If God is your portion, what does that mean for what you're missing right now?",
+        "related": [
+          "Psalm 73:26",
+          "Lamentations 3:24",
+          "Numbers 18:20"
+        ],
+        "alt": "A small spring of water trickling from rock inside a sheltered cave.",
+        "art": "assets/psalm142/verse-5-watercolor.webp"
+      },
+      {
+        "title": "Brought quite low",
+        "heading": "They are too strong for me",
+        "meaning": "'Listen to my cry, for I am brought quite low. Rescue me from my pursuers, for they are too strong for me.' David admits his weakness plainly. He is at his lowest point, and his enemies are stronger than he is. There is no pretending here. Admitting that a problem is too big for us is often the start of real dependence on God, whose strength has no limit.",
+        "contextTitle": "Strength in weakness",
+        "context": "Saul had an army of three thousand chosen men hunting David (1 Samuel 24:2). Psalm 18:17 says God rescued me from my powerful enemy, for they were too strong for me. 2 Corinthians 12:9 says God's power is made perfect in weakness.",
+        "explore": [
+          [
+            "Brought low",
+            "Humbled, weakened and pressed down by circumstances."
+          ],
+          [
+            "Pursuers",
+            "Those chasing after someone to capture or harm them."
+          ]
+        ],
+        "reflect": "What is too strong for you right now? Admit it to God and ask for His strength.",
+        "related": [
+          "Psalm 18:17",
+          "2 Corinthians 12:9",
+          "1 Samuel 24:2"
+        ],
+        "alt": "Soldiers with spears marching along a ridge above a canyon.",
+        "art": "assets/psalm142/verse-6-watercolor.webp"
+      },
+      {
+        "title": "Out of prison",
+        "heading": "Free my soul from prison",
+        "meaning": "'Free my soul from prison, that I may praise Your name. The righteous will gather around me because of Your goodness to me.' The cave feels like a prison. David asks to be freed so he can praise God. And he looks ahead: people will gather around him when they see God's goodness. In fact, while he was in the cave of Adullam, hundreds came to join him. Loneliness was not the end of his story.",
+        "contextTitle": "From isolation to community",
+        "context": "1 Samuel 22:2 says about four hundred men gathered to David at Adullam. Isaiah 61:1 speaks of freedom for captives and release for prisoners. Acts 16:25-26 tells of Paul and Silas praising God in prison before being freed.",
+        "explore": [
+          [
+            "Prison",
+            "A place of confinement; here the cave and David's trapped situation."
+          ],
+          [
+            "Gather around",
+            "To come and stand with someone in support and fellowship."
+          ]
+        ],
+        "reflect": "How might God use your hard season to bring others around you?",
+        "related": [
+          "1 Samuel 22:2",
+          "Isaiah 61:1",
+          "Acts 16:25"
+        ],
+        "alt": "A group of travelers approaching a cave entrance at sunrise.",
+        "art": "assets/psalm142/verse-7-watercolor.webp"
+      }
+    ]
+  }
+}

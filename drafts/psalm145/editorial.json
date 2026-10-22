@@ -1,0 +1,566 @@
+{
+  "chapter": 145,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 145 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "gratitude": [
+      "Psalm 145:2"
+    ],
+    "strength": [
+      "Psalm 145:14"
+    ],
+    "alone": [
+      "Psalm 145:18"
+    ],
+    "forgiveness": [
+      "Psalm 145:8"
+    ]
+  },
+  "study": {
+    "number": 145,
+    "coverVerse": 1,
+    "title": "Great is the LORD and greatly to be praised",
+    "intro": "Psalm 145 is David's great hymn of praise and the last psalm bearing his name. It is an acrostic, each verse beginning with the next letter of the Hebrew alphabet. David vows to praise God every day, celebrates His greatness, grace, compassion and everlasting kingdom, and rejoices that the LORD upholds the fallen, feeds every creature and stays near to all who call on Him. It ends calling every creature to bless His holy name.",
+    "context": "Headed 'a Psalm of praise. Of David', this is the only psalm whose title calls it simply 'praise' (tehillah), the word that gives the book of Psalms its Hebrew name. As an acrostic it moves through the Hebrew alphabet, though the nun line is missing from most Hebrew manuscripts. Jewish tradition prays it three times daily. Verse 8 echoes God's self-description to Moses in Exodus 34:6.",
+    "peopleNote": "Attributed to David. The saints, all generations and every creature are called to praise. Moses is linked through the echo of Exodus 34:6. God is never portrayed as a human figure in planned art.",
+    "people": [
+      {
+        "id": "david",
+        "name": "David",
+        "ref": "Psalm 145:1"
+      },
+      {
+        "id": "moses",
+        "name": "Moses",
+        "ref": "Psalm 145:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Exalting my King",
+        "heading": "I will exalt You, my God and King",
+        "meaning": "'I will exalt You, my God and King; I will bless Your name forever and ever.' David, himself a king, calls God 'my King.' Every earthly crown bows to God's. David commits to lifting God up and blessing His name, not for a season but forever. Praise is not just a feeling but a lifelong decision, a commitment to honor God above all.",
+        "contextTitle": "An acrostic hymn",
+        "context": "This psalm is an alphabetic acrostic, each verse starting with the next Hebrew letter. Psalm 30:1 also says, 'I will exalt You, O LORD.' Revelation 19:16 calls Jesus King of kings and Lord of lords.",
+        "explore": [
+          [
+            "Exalt",
+            "To lift up high in honor, praising someone as supreme."
+          ],
+          [
+            "Acrostic",
+            "A poem in which each line or verse begins with the next letter of the alphabet."
+          ]
+        ],
+        "reflect": "What would it look like for you to commit to praising God for the rest of your life?",
+        "related": [
+          "Psalm 30:1",
+          "Revelation 19:16",
+          "Psalm 34:1"
+        ],
+        "alt": "A king's crown set down on the steps of a temple.",
+        "art": "assets/psalm145/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Every day praise",
+        "heading": "Every day I will bless You",
+        "meaning": "'Every day I will bless You, and I will praise Your name forever and ever.' Praise is not saved for special occasions. David commits to praising God daily, in the ordinary days as well as the extraordinary ones. Daily praise shapes a grateful heart. And what begins every day continues forever, into eternity.",
+        "contextTitle": "Daily worship",
+        "context": "Psalm 34:1 says, 'I will bless the LORD at all times.' Hebrews 3:13 urges encouraging one another every day. Daniel prayed and gave thanks three times a day (Daniel 6:10).",
+        "explore": [
+          [
+            "Bless",
+            "To speak well of God with thanks, love and adoration."
+          ],
+          [
+            "Every day",
+            "Daily, without skipping, through both ordinary and special days."
+          ]
+        ],
+        "reflect": "What simple habit could help you praise God every day?",
+        "related": [
+          "Psalm 34:1",
+          "Daniel 6:10",
+          "Hebrews 3:13"
+        ],
+        "alt": "A woman pausing at sunrise beside a well with hands raised in thanks.",
+        "art": "assets/psalm145/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Unsearchable greatness",
+        "heading": "His greatness is unsearchable",
+        "meaning": "'Great is the LORD and greatly to be praised; His greatness is unsearchable.' God is so great that He deserves great praise. And His greatness is beyond measuring. We can explore it forever and never reach the end. That is good news: there will always be more of God to discover, more reasons to worship, more wonder to enjoy.",
+        "contextTitle": "Beyond measure",
+        "context": "Psalm 48:1 says, 'Great is the LORD and greatly to be praised.' Job 11:7 asks, 'Can you fathom the depths of God?' Romans 11:33 exclaims how unsearchable are His judgments.",
+        "explore": [
+          [
+            "Unsearchable",
+            "Impossible to fully explore or measure, without limit."
+          ],
+          [
+            "Greatness",
+            "God's majesty, power and worth, which exceed all comparison."
+          ]
+        ],
+        "reflect": "What part of God's greatness would you like to explore more deeply?",
+        "related": [
+          "Psalm 48:1",
+          "Job 11:7",
+          "Romans 11:33"
+        ],
+        "alt": "Endless mountain ranges fading into the distance under a vast sky.",
+        "art": "assets/psalm145/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Generation to generation",
+        "heading": "One generation will commend Your works",
+        "meaning": "'One generation will commend Your works to the next, and will proclaim Your mighty acts—' Faith is passed from parents to children, from older believers to younger ones. Each generation tells the next what God has done. This is how God's story spreads through history. Every person has a part in passing on the testimony of God's works.",
+        "contextTitle": "Passing on faith",
+        "context": "Deuteronomy 6:6-7 tells parents to teach God's words diligently to their children. Psalm 78:4 says, 'We will tell the next generation the praises of the LORD.' 2 Timothy 2:2 says entrust these things to faithful people who will teach others.",
+        "explore": [
+          [
+            "Commend",
+            "To praise and recommend something, speaking well of it to others."
+          ],
+          [
+            "Generation",
+            "People living at the same time, followed by those born after them."
+          ]
+        ],
+        "reflect": "Who in the next generation can you tell about God's works?",
+        "related": [
+          "Deuteronomy 6:7",
+          "Psalm 78:4",
+          "2 Timothy 2:2"
+        ],
+        "alt": "A grandmother telling a story to children seated around her.",
+        "art": "assets/psalm145/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Meditating on wonders",
+        "heading": "The glorious splendor of Your majesty",
+        "meaning": "'the glorious splendor of Your majesty. And I will meditate on Your wondrous works.' While others proclaim God's acts, David will meditate on them. He will think deeply about God's glorious majesty and His wonderful deeds. Praise grows from reflection. The more we think about who God is and what He has done, the more our hearts overflow.",
+        "contextTitle": "Reflection and praise",
+        "context": "Psalm 77:12 says, 'I will meditate on all Your works.' Psalm 104:1 praises God clothed with splendor and majesty. Philippians 4:8 urges thinking about whatever is excellent and praiseworthy.",
+        "explore": [
+          [
+            "Majesty",
+            "Royal greatness and dignity, the honor and glory belonging to a king."
+          ],
+          [
+            "Meditate",
+            "To think deeply and repeatedly, quietly reflecting on something."
+          ]
+        ],
+        "reflect": "What wondrous work of God could you meditate on this week?",
+        "related": [
+          "Psalm 77:12",
+          "Psalm 104:1",
+          "Philippians 4:8"
+        ],
+        "alt": "A man sitting on a hillside at dawn gazing over a wide valley.",
+        "art": "assets/psalm145/verse-5-watercolor.webp"
+      },
+      {
+        "title": "Awesome deeds",
+        "heading": "I will declare Your greatness",
+        "meaning": "'They will proclaim the power of Your awesome deeds, and I will declare Your greatness.' Others tell of God's awesome, awe-inspiring deeds, and David joins in. Praise is both personal and shared. When many voices tell of God's power, it becomes a chorus. Your testimony joins with others to declare how great God is.",
+        "contextTitle": "A chorus of praise",
+        "context": "Deuteronomy 10:21 says He has done for you great and awesome things. Psalm 66:3 says, 'How awesome are Your deeds!' Acts 2:11 records people hearing the mighty works of God declared in many languages.",
+        "explore": [
+          [
+            "Awesome",
+            "Inspiring awe, a mix of wonder, reverence and amazement."
+          ],
+          [
+            "Declare",
+            "To announce publicly and boldly, making something known."
+          ]
+        ],
+        "reflect": "What awesome deed of God can you tell someone about this week?",
+        "related": [
+          "Deuteronomy 10:21",
+          "Psalm 66:3",
+          "Acts 2:11"
+        ],
+        "alt": "People in a market square gathered around a man speaking with raised hands.",
+        "art": "assets/psalm145/verse-6-watercolor.webp"
+      },
+      {
+        "title": "Abundant goodness",
+        "heading": "Sing joyfully of Your righteousness",
+        "meaning": "'They will extol the fame of Your abundant goodness and sing joyfully of Your righteousness.' People will celebrate God's goodness, not small or stingy but abundant, overflowing. And they will sing about His righteousness, the way He always does what is right. God is both generous and just. Both are reasons for joyful song.",
+        "contextTitle": "Goodness and righteousness",
+        "context": "Psalm 31:19 says, 'How great is Your goodness, which You have stored up for those who fear You.' Exodus 33:19 says, 'I will cause all My goodness to pass before you.' Psalm 51:14 says, 'My tongue will sing of Your righteousness.'",
+        "explore": [
+          [
+            "Extol",
+            "To praise highly and enthusiastically, lifting someone up in words."
+          ],
+          [
+            "Abundant",
+            "Plentiful and overflowing, always more than enough for every need."
+          ]
+        ],
+        "reflect": "Where have you seen God's abundant goodness in your life recently?",
+        "related": [
+          "Psalm 31:19",
+          "Exodus 33:19",
+          "Psalm 51:14"
+        ],
+        "alt": "A family gathered around a table loaded with fruit and bread.",
+        "art": "assets/psalm145/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Gracious and compassionate",
+        "heading": "Slow to anger and abounding in loving devotion",
+        "meaning": "'The LORD is gracious and compassionate, slow to anger and abounding in loving devotion.' This is God's own description of Himself to Moses on Mount Sinai. He is gracious, giving undeserved favor. Compassionate, feeling deeply for people in pain. Slow to anger, patient with failures. And full of loving devotion that never gives up. This is who God is.",
+        "contextTitle": "God's self-description",
+        "context": "Exodus 34:6 records God proclaiming this to Moses. Joel 2:13, Jonah 4:2 and Nehemiah 9:17 repeat it. It became Israel's most quoted summary of God's character.",
+        "explore": [
+          [
+            "Gracious",
+            "Showing undeserved kindness and favor, giving freely."
+          ],
+          [
+            "Slow to anger",
+            "Patient and long-suffering, not quick to punish those who fail."
+          ]
+        ],
+        "reflect": "Which of these four qualities of God do you most need to experience right now?",
+        "related": [
+          "Exodus 34:6",
+          "Joel 2:13",
+          "Jonah 4:2"
+        ],
+        "alt": "A shepherd lifting a lost lamb onto his shoulders on a hillside.",
+        "art": "assets/psalm145/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Good to all",
+        "heading": "His compassion rests on all He has made",
+        "meaning": "'The LORD is good to all; His compassion rests on all He has made.' God's goodness is not limited to a few. He is good to everyone and everything He has made. His compassion reaches every creature. Rain falls on fields of the just and unjust alike. This verse invites us to see God's kindness everywhere, and to show the same kindness ourselves.",
+        "contextTitle": "Universal goodness",
+        "context": "Matthew 5:45 says God causes His sun to rise on the evil and the good. Acts 14:17 says God has not left Himself without witness, giving rain and fruitful seasons. Jonah 4:11 shows God's compassion even for Nineveh and its animals.",
+        "explore": [
+          [
+            "Compassion",
+            "Tender mercy and care for those who are hurting or in need."
+          ],
+          [
+            "All He has made",
+            "Every creature and person in creation, not only some."
+          ]
+        ],
+        "reflect": "Where do you see God's goodness reaching people you might not expect?",
+        "related": [
+          "Matthew 5:45",
+          "Acts 14:17",
+          "Jonah 4:11"
+        ],
+        "alt": "Rain falling gently on fields, vineyards and grazing animals.",
+        "art": "assets/psalm145/verse-9-watercolor.webp"
+      },
+      {
+        "title": "All creation gives thanks",
+        "heading": "Your saints will bless You",
+        "meaning": "'All You have made will give You thanks, O LORD, and Your saints will bless You.' Everything God made praises Him just by being what it is: stars shining, birds singing, trees growing. But God's saints, His faithful people, bless Him on purpose with words and lives. We join creation's song as the ones who can praise Him by choice.",
+        "contextTitle": "Creation's chorus",
+        "context": "Psalm 19:1 says the heavens declare the glory of God. Psalm 148 calls all creation to praise. Revelation 5:13 pictures every creature in heaven and on earth praising the Lamb.",
+        "explore": [
+          [
+            "Saints",
+            "God's faithful, devoted people, those set apart as His own."
+          ],
+          [
+            "Give thanks",
+            "To express gratitude, acknowledging what has been received."
+          ]
+        ],
+        "reflect": "How can you add your voice to creation's praise today?",
+        "related": [
+          "Psalm 19:1",
+          "Psalm 148:3",
+          "Revelation 5:13"
+        ],
+        "alt": "Birds flying over a blooming meadow as people walk to worship.",
+        "art": "assets/psalm145/verse-10-watercolor.webp"
+      },
+      {
+        "title": "Telling of His kingdom",
+        "heading": "Tell of the glory of Your kingdom",
+        "meaning": "'They will tell of the glory of Your kingdom and speak of Your might,' God's people talk about His kingdom: His rule, its glory and His power. Conversations about God's reign spread His fame. The kingdom of God was Jesus' central message. Wherever believers speak of God's rule, the kingdom is announced.",
+        "contextTitle": "The kingdom proclaimed",
+        "context": "Jesus began His ministry proclaiming, 'The kingdom of God is near' (Mark 1:15). Daniel 4:3 says His kingdom is an everlasting kingdom. Matthew 24:14 says this gospel of the kingdom will be preached in the whole world.",
+        "explore": [
+          [
+            "Kingdom",
+            "God's rule and reign over all, and the realm where His will is done."
+          ],
+          [
+            "Might",
+            "Great strength and power to act, accomplishing whatever God wills."
+          ]
+        ],
+        "reflect": "How could you talk about God's kingdom in a natural way with someone this week?",
+        "related": [
+          "Mark 1:15",
+          "Daniel 4:3",
+          "Matthew 24:14"
+        ],
+        "alt": "Two travelers in conversation on a road toward a distant city.",
+        "art": "assets/psalm145/verse-11-watercolor.webp"
+      },
+      {
+        "title": "Making Him known",
+        "heading": "To make known to men Your mighty acts",
+        "meaning": "'to make known to men Your mighty acts and the glorious splendor of Your kingdom.' The purpose of talking about God's kingdom is so that all people will know Him. God's mighty acts are not secrets to keep among believers but good news to share. His splendor is meant to be seen and enjoyed by everyone.",
+        "contextTitle": "Mission to all people",
+        "context": "Habakkuk 2:14 says the earth will be filled with the knowledge of the glory of the LORD. Matthew 28:19 commands making disciples of all nations. Psalm 96:3 says, 'Declare His glory among the nations.'",
+        "explore": [
+          [
+            "Make known",
+            "To reveal, announce and teach so that others understand."
+          ],
+          [
+            "Splendor",
+            "Brilliant beauty and glory, the dazzling majesty of a great king."
+          ]
+        ],
+        "reflect": "Who in your life does not yet know about God's mighty acts? How might you share them?",
+        "related": [
+          "Habakkuk 2:14",
+          "Matthew 28:19",
+          "Psalm 96:3"
+        ],
+        "alt": "A road stretching from a city toward many distant villages.",
+        "art": "assets/psalm145/verse-12-watercolor.webp"
+      },
+      {
+        "title": "An everlasting kingdom",
+        "heading": "Your kingdom is an everlasting kingdom",
+        "meaning": "'Your kingdom is an everlasting kingdom, and Your dominion endures through all generations. The LORD is faithful in all His words and kind in all His actions.' Earthly kingdoms rise and fall, but God's rule never ends. And this eternal King is faithful to every promise and kind in everything He does. His power is always joined with goodness.",
+        "contextTitle": "Kingdom without end",
+        "context": "Daniel 7:14 describes a kingdom that will never be destroyed. Luke 1:33 says Jesus' kingdom will never end. The second half of this verse, beginning with the Hebrew letter nun, appears in the Dead Sea Scrolls and the Greek translation.",
+        "explore": [
+          [
+            "Dominion",
+            "Ruling authority and control over a realm and all who live in it."
+          ],
+          [
+            "Everlasting",
+            "Lasting forever, without any end, through every age and generation."
+          ]
+        ],
+        "reflect": "How does God's everlasting kingdom give you stability in a changing world?",
+        "related": [
+          "Daniel 7:14",
+          "Luke 1:33",
+          "Psalm 146:10"
+        ],
+        "alt": "An ancient stone throne room standing intact through centuries.",
+        "art": "assets/psalm145/verse-13-watercolor.webp"
+      },
+      {
+        "title": "Lifting the fallen",
+        "heading": "The LORD upholds all who fall",
+        "meaning": "'The LORD upholds all who fall and lifts up all who are bowed down.' The mighty King stoops to help the weak. He holds up those who are falling and lifts those bent low under heavy burdens. No one is too broken for His help. If you are falling or weighed down, this verse is God's promise to you. He specializes in raising up people others have written off.",
+        "contextTitle": "Help for the weak",
+        "context": "Psalm 146:8 says the LORD lifts up those who are bowed down. Luke 13:11-13 tells of Jesus healing a woman bent over for eighteen years. Isaiah 42:3 says a bruised reed He will not break.",
+        "explore": [
+          [
+            "Upholds",
+            "Supports and holds up firmly so that someone does not fall down."
+          ],
+          [
+            "Bowed down",
+            "Bent low under a heavy burden, grief or oppression."
+          ]
+        ],
+        "reflect": "Are you falling or bowed down? Ask the LORD to lift you up.",
+        "related": [
+          "Psalm 146:8",
+          "Luke 13:13",
+          "Isaiah 42:3"
+        ],
+        "alt": "A man helping an elderly woman rise from the ground on a village path.",
+        "art": "assets/psalm145/verse-14-watercolor.webp"
+      },
+      {
+        "title": "Eyes that look to Him",
+        "heading": "The eyes of all look to You",
+        "meaning": "'The eyes of all look to You, and You give them their food in season.' Every creature depends on God, like children looking to a parent at mealtime. And He provides at the right time. Every harvest and every meal is God's provision. Depending on God is not weakness; it is the reality of every living thing.",
+        "contextTitle": "Creatures depend on God",
+        "context": "Psalm 104:27 says all creatures look to You to give them food at the proper time. Matthew 6:11 teaches, 'Give us this day our daily bread.' Jesus fed the crowds who looked to Him (John 6:11).",
+        "explore": [
+          [
+            "In season",
+            "At the right time of year, exactly when the food is needed."
+          ],
+          [
+            "Look to",
+            "To depend on and wait expectantly for help from someone."
+          ]
+        ],
+        "reflect": "Before your next meal, how might you look to God with gratitude?",
+        "related": [
+          "Psalm 104:27",
+          "Matthew 6:11",
+          "John 6:11"
+        ],
+        "alt": "Young birds in a nest with open beaks as a parent bird arrives.",
+        "art": "assets/psalm145/verse-15-watercolor.webp"
+      },
+      {
+        "title": "An open hand",
+        "heading": "You open Your hand",
+        "meaning": "'You open Your hand and satisfy the desire of every living thing.' God does not give stingily. He opens His hand and satisfies. The picture is generous and personal, like a farmer scattering grain for animals or a host filling guests' plates. God's open hand fills the needs of all creation, day after day, without running out.",
+        "contextTitle": "Generous provision",
+        "context": "Psalm 104:28 says, 'When You open Your hand, they are satisfied with good things.' James 1:5 says God gives generously to all without reproach. Philippians 4:19 says God will supply all your needs.",
+        "explore": [
+          [
+            "Satisfy",
+            "To fill completely so that hunger, thirst or need is fully met."
+          ],
+          [
+            "Desire",
+            "A longing or need, here the basic needs of every creature."
+          ]
+        ],
+        "reflect": "What need do you have that you can trust God's open hand to meet?",
+        "related": [
+          "Psalm 104:28",
+          "James 1:5",
+          "Philippians 4:19"
+        ],
+        "alt": "An open hand scattering grain to chickens in a farmyard.",
+        "art": "assets/psalm145/verse-16-watercolor.webp"
+      },
+      {
+        "title": "Righteous and kind",
+        "heading": "Righteous in all His ways",
+        "meaning": "'The LORD is righteous in all His ways and kind in all His deeds.' Everything God does is both right and kind. He never has to choose between justice and love. Even when we don't understand His ways, we can trust that they are righteous and kind. This truth steadies us when life is confusing and His plans are hidden.",
+        "contextTitle": "Justice and kindness together",
+        "context": "Deuteronomy 32:4 says all His ways are just. Micah 6:8 calls us to do justice and love kindness. Romans 11:22 speaks of both the kindness and severity of God.",
+        "explore": [
+          [
+            "Righteous",
+            "Always right and just in every action, never doing anything wrong."
+          ],
+          [
+            "Kind",
+            "Loyal, loving and good, the Hebrew word related to hesed."
+          ]
+        ],
+        "reflect": "Where do you need to trust that God's ways are both right and kind?",
+        "related": [
+          "Deuteronomy 32:4",
+          "Micah 6:8",
+          "Romans 11:22"
+        ],
+        "alt": "A scale balanced evenly beside a basket of bread.",
+        "art": "assets/psalm145/verse-17-watercolor.webp"
+      },
+      {
+        "title": "Near to all who call",
+        "heading": "The LORD is near to all who call on Him",
+        "meaning": "'The LORD is near to all who call on Him, to all who call out to Him in truth.' God is not far off. He is near to everyone who calls on Him sincerely. You do not need special words or a special place. Honest prayer brings you close to God. This is one of the most comforting promises in Scripture for anyone who feels alone.",
+        "contextTitle": "God draws near",
+        "context": "Deuteronomy 4:7 asks what nation has a god so near as the LORD is to us whenever we call on Him. James 4:8 says draw near to God and He will draw near to you. Romans 10:13 says everyone who calls on the name of the Lord will be saved.",
+        "explore": [
+          [
+            "Near",
+            "Close by, present with someone and ready to help at once."
+          ],
+          [
+            "In truth",
+            "Sincerely and honestly, without pretense, masks or hidden motives."
+          ]
+        ],
+        "reflect": "Call out to God honestly right now. How does it feel to know He is near?",
+        "related": [
+          "Deuteronomy 4:7",
+          "James 4:8",
+          "Romans 10:13"
+        ],
+        "alt": "A person praying in a small room with soft light falling across them.",
+        "art": "assets/psalm145/verse-18-watercolor.webp"
+      },
+      {
+        "title": "Desires fulfilled",
+        "heading": "He hears their cry and saves them",
+        "meaning": "'He fulfills the desires of those who fear Him; He hears their cry and saves them.' God listens to those who revere Him. He fulfills their desires, especially as their desires are shaped by love for Him. He hears their cries for help and saves them. Fearing God does not make us distant from Him; it brings us closer to His help.",
+        "contextTitle": "Heard and saved",
+        "context": "Psalm 37:4 says delight yourself in the LORD and He will give you the desires of your heart. Psalm 34:17 says the righteous cry out and the LORD hears. 1 John 5:14 says if we ask according to His will, He hears us.",
+        "explore": [
+          [
+            "Fear Him",
+            "Reverence God with awe and trust, honoring Him above all."
+          ],
+          [
+            "Fulfills",
+            "Brings to completion, granting what has been longed for and asked."
+          ]
+        ],
+        "reflect": "What desire of your heart do you want to bring to God today?",
+        "related": [
+          "Psalm 37:4",
+          "Psalm 34:17",
+          "1 John 5:14"
+        ],
+        "alt": "A traveler kneeling by a well as rain clouds gather overhead.",
+        "art": "assets/psalm145/verse-19-watercolor.webp"
+      },
+      {
+        "title": "Preserving those who love Him",
+        "heading": "The LORD preserves all who love Him",
+        "meaning": "'The LORD preserves all who love Him, but all the wicked He will destroy.' God keeps safe those who love Him. And He will bring an end to wickedness. This is both a comfort and a warning. Those who love God can rest secure. Those who choose wickedness will not last. God's justice protects His people and removes evil.",
+        "contextTitle": "Two destinies",
+        "context": "Psalm 1:6 says the LORD watches over the way of the righteous, but the way of the wicked will perish. Psalm 31:23 says the LORD preserves the faithful. Romans 8:28 says God works all things for good for those who love Him.",
+        "explore": [
+          [
+            "Preserves",
+            "Keeps safe and protects from harm over a whole lifetime."
+          ],
+          [
+            "Wicked",
+            "Those who reject God and stubbornly persist in doing evil to others."
+          ]
+        ],
+        "reflect": "How does knowing God preserves those who love Him give you peace?",
+        "related": [
+          "Psalm 1:6",
+          "Psalm 31:23",
+          "Romans 8:28"
+        ],
+        "alt": "A strong walled village standing safe as a storm passes by outside.",
+        "art": "assets/psalm145/verse-20-watercolor.webp"
+      },
+      {
+        "title": "Every creature, bless His name",
+        "heading": "Let every creature bless His holy name",
+        "meaning": "'My mouth will declare the praise of the LORD; let every creature bless His holy name forever and ever.' David ends with his own commitment and a call to all creation. He will praise God with his mouth, and he wants every living thing to join in, forever. This psalm opens the door to the final five psalms (146-150), a crescendo of praise.",
+        "contextTitle": "Into the final praises",
+        "context": "Psalms 146-150 each begin and end with 'Hallelujah,' completing the book in praise. Psalm 150:6 says, 'Let everything that has breath praise the LORD.' Revelation 5:13 shows every creature praising God and the Lamb.",
+        "explore": [
+          [
+            "Holy name",
+            "God's name set apart as sacred, representing His perfect character."
+          ],
+          [
+            "Creature",
+            "Every living being God has made, people and animals alike."
+          ]
+        ],
+        "reflect": "How can you declare the praise of the LORD with your mouth today?",
+        "related": [
+          "Psalm 150:6",
+          "Revelation 5:13",
+          "Psalm 34:1"
+        ],
+        "alt": "A vast crowd and animals on a hillside under a golden sky.",
+        "art": "assets/psalm145/verse-21-watercolor.webp"
+      }
+    ]
+  }
+}
