@@ -1,6 +1,6 @@
 /* Scripture for Life offline support for the WEB build.
    Capacitor Android carries its web assets inside the application. */
-const VERSION = 'scripture-for-life-shell-v79-people-registry-fix';
+const VERSION = 'scripture-for-life-shell-v80-inline-people-standard';
 const CORE = [
   './psalm-text-studies.js',
   './psalm36.js',
