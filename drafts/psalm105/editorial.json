@@ -1,0 +1,1171 @@
+{
+  "chapter": 105,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 105 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "gratitude": [
+      "Psalm 105:1"
+    ],
+    "strength": [
+      "Psalm 105:4"
+    ],
+    "direction": [
+      "Psalm 105:39"
+    ],
+    "alone": [
+      "Psalm 105:12"
+    ]
+  },
+  "study": {
+    "number": 105,
+    "coverVerse": 1,
+    "title": "He remembers His covenant forever",
+    "intro": "Psalm 105 retells Israel's story from Abraham to the promised land as one long song of thanks. It traces God's promise to the patriarchs, His protection of a small wandering family, Joseph's rise from prison, the plagues in Egypt, the exodus, and His care in the wilderness. The point throughout is that God remembers His word, and His people should remember His wonders.",
+    "context": "Psalm 105 has no title, but verses 1-15 appear almost word for word in 1 Chronicles 16:8-22, the song sung when David brought the ark to Jerusalem. It is the first of a pair: Psalm 105 tells Israel's history as the story of God's faithfulness, and Psalm 106 tells the same history as the story of Israel's unfaithfulness. Psalm 105 ends with Hallelujah, and Psalm 106 begins with it.",
+    "peopleNote": "No author is named, though 1 Chronicles 16 links its opening to David's day. The psalm names Abraham, Isaac, Jacob, Joseph, Moses and Aaron. God is never portrayed as a human figure in planned art; His acts are shown through cloud, fire, water and the people He rescued.",
+    "people": [
+      {
+        "id": "moses",
+        "name": "Moses",
+        "ref": "Psalm 105:1"
+      },
+      {
+        "id": "aaron",
+        "name": "Aaron",
+        "ref": "Psalm 105:1"
+      },
+      {
+        "id": "jacob",
+        "name": "Jacob",
+        "ref": "Psalm 105:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Give thanks and tell",
+        "heading": "Make known His deeds among the nations",
+        "meaning": "The psalm opens, 'Give thanks to the LORD, call upon His name; make known His deeds among the nations.' Three actions come together: thanking God, calling on Him in prayer, and telling others what He has done. Worship is not kept private. The story Israel is about to rehearse is meant to travel beyond Israel, so that the nations also learn who the LORD is and what He has done.",
+        "contextTitle": "A song for the ark's arrival",
+        "context": "1 Chronicles 16:8 uses these exact words in the song David appointed when the ark came to Jerusalem. Isaiah 12:4 repeats the call to make His deeds known among the peoples, and Psalm 96:3 urges declaring His glory among the nations.",
+        "explore": [
+          [
+            "Call upon His name",
+            "To pray to God by name, trusting Him as the One who has revealed Himself and acts."
+          ],
+          [
+            "Make known",
+            "To announce or publish openly, so that people who have not heard can learn."
+          ]
+        ],
+        "reflect": "Who in your life could you tell about something God has done for you?",
+        "related": [
+          "1 Chronicles 16:8",
+          "Isaiah 12:4",
+          "Psalm 96:3"
+        ],
+        "alt": "A small group gathered on a hillside at dawn, hands raised in thanks.",
+        "art": "assets/psalm105/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Sing of His wonders",
+        "heading": "Tell of all His wonders",
+        "meaning": "Verse 2 says, 'Sing to Him, sing praises to Him; tell of all His wonders.' Singing and telling belong together here. Music gives the story of God's acts a form that people remember and repeat. The word 'all' invites a full account rather than a few highlights, and the rest of the psalm becomes exactly that: a sung retelling of His wonders across many generations.",
+        "contextTitle": "Story set to music",
+        "context": "1 Chronicles 16:9 repeats this verse. Exodus 15:1 records Moses and Israel singing after the sea crossing, and Colossians 3:16 encourages believers to teach one another through psalms, hymns and spiritual songs.",
+        "explore": [
+          [
+            "Wonders",
+            "Extraordinary acts of God that cause amazement and reveal His power and care."
+          ],
+          [
+            "Sing praises",
+            "To make music in honor of God, often with instruments, celebrating who He is."
+          ]
+        ],
+        "reflect": "Which song helps you remember God's faithfulness most clearly?",
+        "related": [
+          "1 Chronicles 16:9",
+          "Exodus 15:1",
+          "Colossians 3:16"
+        ],
+        "alt": "Villagers singing together with a lyre and hand drum beside a fire.",
+        "art": "assets/psalm105/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Glory in His name",
+        "heading": "Let seeking hearts rejoice",
+        "meaning": "Verse 3 says, 'Glory in His holy name; let the hearts of those who seek the LORD rejoice.' To glory is to boast or take pride in something. Instead of boasting in strength or achievement, God's people boast in His name, His revealed character. Those who seek Him are told to rejoice, because the search for God is not a grim duty but a path that leads to gladness.",
+        "contextTitle": "Boasting rightly",
+        "context": "Jeremiah 9:23-24 says not to boast in wisdom, might or riches but in knowing the LORD. 1 Corinthians 1:31 echoes it: 'Let him who boasts boast in the Lord.' Psalm 34:2 says, 'My soul boasts in the LORD.'",
+        "explore": [
+          [
+            "Glory in",
+            "To boast in or take delight and pride in something, here the holiness of God's name."
+          ],
+          [
+            "Holy name",
+            "God's name as set apart and pure, standing for His whole revealed character."
+          ]
+        ],
+        "reflect": "What are you tempted to boast in, and how might you glory in God's name instead?",
+        "related": [
+          "Jeremiah 9:24",
+          "1 Corinthians 1:31",
+          "Psalm 34:2"
+        ],
+        "alt": "A woman smiling with her face turned toward the morning sky.",
+        "art": "assets/psalm105/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Seek His face always",
+        "heading": "Seek out the LORD and His strength",
+        "meaning": "Verse 4 urges, 'Seek out the LORD and His strength; seek His face always.' Seeking God's strength means relying on His power rather than our own. Seeking His face means desiring His presence and favor, not just His help. The word 'always' turns this into a lifelong habit rather than an emergency measure. The story ahead shows a people who needed His strength at every stage.",
+        "contextTitle": "A lifelong pursuit",
+        "context": "1 Chronicles 16:11 repeats this call. Psalm 27:8 says, 'Your face, O LORD, I will seek.' Hebrews 11:6 says God rewards those who earnestly seek Him, and Isaiah 55:6 urges seeking the LORD while He may be found.",
+        "explore": [
+          [
+            "His face",
+            "A picture of God's personal presence and favor, like a friend turning toward you."
+          ],
+          [
+            "His strength",
+            "God's power, which His people lean on instead of trusting their own resources."
+          ]
+        ],
+        "reflect": "What does seeking God's face, not only His help, look like in your daily routine?",
+        "related": [
+          "Psalm 27:8",
+          "Hebrews 11:6",
+          "Isaiah 55:6"
+        ],
+        "alt": "A traveler resting at a well, looking up toward a bright horizon.",
+        "art": "assets/psalm105/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Remember His marvels",
+        "heading": "The judgments He has pronounced",
+        "meaning": "Verse 5 calls, 'Remember the wonders He has done, His marvels, and the judgments He has pronounced.' Memory is central to faith in the Psalms. Forgetting God's acts leads to fear and rebellion, as Psalm 106 will show. Remembering them builds trust. His judgments here include His decisive acts against oppressors, like the plagues on Egypt, which the psalm will soon describe.",
+        "contextTitle": "The discipline of memory",
+        "context": "Deuteronomy 8:2 commands Israel to remember how God led them in the wilderness. Psalm 77:11 says, 'I will remember the works of the LORD.' Psalm 106:7 notes that their fathers in Egypt did not remember His abundant kindness.",
+        "explore": [
+          [
+            "Marvels",
+            "Astonishing deeds that only God could do, worth recalling again and again."
+          ],
+          [
+            "Judgments",
+            "God's verdicts and decisive acts of justice, especially against those who oppress His people."
+          ]
+        ],
+        "reflect": "What past act of God in your life do you need to remember this week?",
+        "related": [
+          "Deuteronomy 8:2",
+          "Psalm 77:11",
+          "Psalm 106:7"
+        ],
+        "alt": "An elder pointing out stacked memorial stones to a group of children.",
+        "art": "assets/psalm105/verse-5-watercolor.webp"
+      },
+      {
+        "title": "Children of Abraham",
+        "heading": "O sons of Jacob, His chosen ones",
+        "meaning": "Verse 6 names the audience: 'O offspring of His servant Abraham, O sons of Jacob, His chosen ones.' The singers are reminded of their identity. They belong to a family God chose, beginning with Abraham. Being chosen was not about their size or merit but about God's love and promise. Remembering who they are prepares them to remember what God has done for them.",
+        "contextTitle": "Identity before history",
+        "context": "Deuteronomy 7:7-8 says God chose Israel not because they were many but because He loved them. Isaiah 41:8 calls Israel 'descendant of Abraham My friend.' Galatians 3:29 says those who belong to Christ are Abraham's offspring.",
+        "explore": [
+          [
+            "Offspring",
+            "Descendants who carry on a family line and inherit its promises."
+          ],
+          [
+            "Chosen ones",
+            "People God has selected in love for relationship with Him and for His purposes."
+          ]
+        ],
+        "reflect": "How does knowing you belong to God's family shape how you see yourself today?",
+        "related": [
+          "Deuteronomy 7:7",
+          "Isaiah 41:8",
+          "Galatians 3:29"
+        ],
+        "alt": "Several generations of a family gathered outside a tent at evening.",
+        "art": "assets/psalm105/verse-6-watercolor.webp"
+      },
+      {
+        "title": "The LORD our God",
+        "heading": "His judgments carry throughout the earth",
+        "meaning": "Verse 7 declares, 'He is the LORD our God; His judgments carry throughout the earth.' This holds together two truths. He is 'our God,' personally bound to Israel by covenant. Yet His rule is not local. His judgments reach the whole earth. Israel's God is not a tribal deity but the Lord of all nations, which is why His deeds should be told among the nations.",
+        "contextTitle": "Personal yet universal",
+        "context": "Deuteronomy 6:4 confesses, 'The LORD our God, the LORD is One.' Psalm 47:2 calls Him the great King over all the earth. Genesis 18:25 asks, 'Will not the Judge of all the earth do what is right?'",
+        "explore": [
+          [
+            "Our God",
+            "God in covenant relationship with His people, belonging to them and they to Him."
+          ],
+          [
+            "Throughout the earth",
+            "God's authority reaches every nation and place, not just Israel's borders."
+          ]
+        ],
+        "reflect": "How does it comfort you that the God who is personally yours also rules the whole world?",
+        "related": [
+          "Deuteronomy 6:4",
+          "Psalm 47:2",
+          "Genesis 18:25"
+        ],
+        "alt": "A wide landscape of hills and villages stretching to a distant sea.",
+        "art": "assets/psalm105/verse-7-watercolor.webp"
+      },
+      {
+        "title": "A thousand generations",
+        "heading": "The word He ordained",
+        "meaning": "Verse 8 says, 'He remembers His covenant forever, the word He ordained for a thousand generations.' This is the heart of the psalm. God's remembering is not recalling something He forgot; it means acting faithfully on His promise. 'A thousand generations' is a way of saying His word never runs out. Every event that follows is God keeping a promise He made long before.",
+        "contextTitle": "The theme of the psalm",
+        "context": "Deuteronomy 7:9 says God keeps His covenant of love to a thousand generations of those who love Him. Luke 1:72-73 says God remembered His holy covenant, the oath He swore to Abraham, in sending Jesus.",
+        "explore": [
+          [
+            "Covenant",
+            "A binding agreement in which God commits Himself to His people with promises."
+          ],
+          [
+            "Remembers",
+            "In Scripture, God's remembering means acting faithfully on what He has promised."
+          ]
+        ],
+        "reflect": "Which of God's promises do you most need to trust Him to remember?",
+        "related": [
+          "Deuteronomy 7:9",
+          "Luke 1:72",
+          "Genesis 9:15"
+        ],
+        "alt": "An ancient scroll resting on a stone ledge in soft lamplight.",
+        "art": "assets/psalm105/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Promise and oath",
+        "heading": "Made with Abraham, sworn to Isaac",
+        "meaning": "Verse 9 traces the covenant: 'the covenant He made with Abraham, and the oath He swore to Isaac.' The promise did not end with Abraham. God renewed it to his son. An oath is the strongest form of commitment, and God bound Himself by one so that His people could be certain. Each generation received the same promise personally.",
+        "contextTitle": "Passed down the family",
+        "context": "Genesis 15:18 records the covenant with Abraham, and Genesis 26:3 records God confirming the oath to Isaac. Hebrews 6:13-18 explains that God swore by Himself so that His people would have strong encouragement.",
+        "explore": [
+          [
+            "Oath",
+            "A solemn, binding promise; God swore by Himself because there is no one greater."
+          ],
+          [
+            "Isaac",
+            "Abraham's son, born by promise, to whom God repeated the covenant."
+          ]
+        ],
+        "reflect": "How does God's faithfulness across generations encourage you about your own family?",
+        "related": [
+          "Genesis 15:18",
+          "Genesis 26:3",
+          "Hebrews 6:17"
+        ],
+        "alt": "An old man and a young man walking together across open pastureland.",
+        "art": "assets/psalm105/verse-9-watercolor.webp"
+      },
+      {
+        "title": "An everlasting decree",
+        "heading": "Confirmed to Jacob, to Israel",
+        "meaning": "Verse 10 continues, 'He confirmed it to Jacob as a decree, to Israel as an everlasting covenant.' The promise moved from Abraham to Isaac and now to Jacob, whose name God changed to Israel. Calling it a decree gives it legal firmness, like a royal law that cannot be undone. It is everlasting, not dependent on Jacob's own shaky character.",
+        "contextTitle": "Grace to a flawed man",
+        "context": "Genesis 28:13-15 records God's promise to Jacob at Bethel, despite Jacob's deceptions. Genesis 35:10-12 renames him Israel and repeats the land promise. Malachi 3:6 says, 'Because I, the LORD, do not change, you descendants of Jacob have not been destroyed.'",
+        "explore": [
+          [
+            "Decree",
+            "An official, binding order; here God's promise has the force of a royal law."
+          ],
+          [
+            "Everlasting",
+            "Lasting without end, not limited by time or by human failure."
+          ]
+        ],
+        "reflect": "Where do you need to remember that God's promise does not depend on your perfection?",
+        "related": [
+          "Genesis 28:13",
+          "Genesis 35:12",
+          "Malachi 3:6"
+        ],
+        "alt": "A lone man asleep on the ground with a stone beneath his head under stars.",
+        "art": "assets/psalm105/verse-10-watercolor.webp"
+      },
+      {
+        "title": "The land of Canaan",
+        "heading": "The portion of your inheritance",
+        "meaning": "Verse 11 quotes the promise: 'I will give you the land of Canaan as the portion of your inheritance.' The covenant included a concrete gift, a homeland. An inheritance is passed down, not earned. God speaks as a father dividing an estate. At the time, the family owned almost nothing there, which makes the promise even more striking.",
+        "contextTitle": "A promise of place",
+        "context": "Genesis 12:7 records God promising the land to Abraham's offspring. Genesis 17:8 calls it an everlasting possession. Hebrews 11:9-10 says Abraham lived there as a foreigner, looking forward to the city whose builder is God.",
+        "explore": [
+          [
+            "Canaan",
+            "The land between the Jordan and the Mediterranean that God promised to Abraham's descendants."
+          ],
+          [
+            "Inheritance",
+            "A share given by a father to his children, received as a gift rather than earned."
+          ]
+        ],
+        "reflect": "What gift from God are you waiting to receive in full?",
+        "related": [
+          "Genesis 12:7",
+          "Genesis 17:8",
+          "Hebrews 11:9"
+        ],
+        "alt": "Rolling green hills and terraced fields under a clear sky.",
+        "art": "assets/psalm105/verse-11-watercolor.webp"
+      },
+      {
+        "title": "Few and strangers",
+        "heading": "Strangers in the land",
+        "meaning": "Verse 12 recalls, 'When they were few in number, few indeed, and strangers in the land.' The promised family began very small, a handful of people living as outsiders among established nations. Repeating 'few' stresses how vulnerable they were. God's promise did not depend on their numbers or power. He chose to work through what looked insignificant.",
+        "contextTitle": "Small beginnings",
+        "context": "Deuteronomy 26:5 confesses, 'My father was a wandering Aramean, and he went down to Egypt few in number.' Genesis 34:30 has Jacob worry that he and his household are few. Zechariah 4:10 warns against despising the day of small things.",
+        "explore": [
+          [
+            "Few in number",
+            "A tiny, vulnerable group with no military strength or political standing."
+          ],
+          [
+            "Strangers",
+            "Foreign residents without land rights, living among people of other nations."
+          ]
+        ],
+        "reflect": "Where do you feel small or out of place, and how might God be at work there?",
+        "related": [
+          "Deuteronomy 26:5",
+          "Genesis 34:30",
+          "Zechariah 4:10"
+        ],
+        "alt": "A small cluster of tents on the edge of a large walled town.",
+        "art": "assets/psalm105/verse-12-watercolor.webp"
+      },
+      {
+        "title": "Nation to nation",
+        "heading": "From one kingdom to another",
+        "meaning": "Verse 13 adds, 'they wandered from nation to nation, from one kingdom to another.' Abraham, Isaac and Jacob moved between Canaan, Egypt, Gerar and Haran. They had no fixed home and no army. A wandering family could easily be robbed, enslaved or wiped out. The next verses show why that did not happen: God Himself guarded them.",
+        "contextTitle": "A family on the move",
+        "context": "Genesis 12:10 records Abraham going down to Egypt in a famine. Genesis 20:1 shows him living in Gerar, and Genesis 28:10 has Jacob traveling to Haran. Hebrews 11:13 says they confessed they were strangers and exiles on the earth.",
+        "explore": [
+          [
+            "Wandered",
+            "Moved from place to place without a settled home, depending on others' tolerance."
+          ],
+          [
+            "Kingdom",
+            "A realm ruled by a king, often far stronger than a single traveling family."
+          ]
+        ],
+        "reflect": "How has God cared for you during seasons of moving or uncertainty?",
+        "related": [
+          "Genesis 12:10",
+          "Genesis 20:1",
+          "Hebrews 11:13"
+        ],
+        "alt": "A caravan of donkeys and herders crossing a dusty plain toward distant hills.",
+        "art": "assets/psalm105/verse-13-watercolor.webp"
+      },
+      {
+        "title": "Kings rebuked",
+        "heading": "He let no man oppress them",
+        "meaning": "Verse 14 says, 'He let no man oppress them; He rebuked kings on their behalf.' Powerful rulers came close to harming the patriarchs, but God intervened. In Genesis, Pharaoh and Abimelech were both warned when they took Abraham's wife. A tiny family had the King of the universe as their defender, and even kings had to answer to Him.",
+        "contextTitle": "God the protector",
+        "context": "Genesis 12:17 says the LORD struck Pharaoh's household with plagues because of Sarai. Genesis 20:3 records God warning Abimelech in a dream. Genesis 31:24 shows God warning Laban not to harm Jacob.",
+        "explore": [
+          [
+            "Oppress",
+            "To crush or exploit someone weaker by using power unjustly."
+          ],
+          [
+            "Rebuked",
+            "Sharply warned or corrected, here by God speaking against powerful kings."
+          ]
+        ],
+        "reflect": "What situation do you need to trust God to guard you in?",
+        "related": [
+          "Genesis 12:17",
+          "Genesis 20:3",
+          "Genesis 31:24"
+        ],
+        "alt": "A royal tent with a startled king waking from sleep at night.",
+        "art": "assets/psalm105/verse-14-watercolor.webp"
+      },
+      {
+        "title": "My anointed ones",
+        "heading": "Do no harm to My prophets",
+        "meaning": "Verse 15 gives God's warning: 'Do not touch My anointed ones! Do no harm to My prophets!' The patriarchs were never literally anointed with oil, but they were set apart by God for His purpose. Abraham is called a prophet in Genesis 20:7. To harm them was to attack someone God had claimed. His protection rested on His choice of them.",
+        "contextTitle": "Set apart by God",
+        "context": "Genesis 20:7 has God tell Abimelech that Abraham is a prophet who will pray for him. 1 Chronicles 16:22 repeats this verse. 1 Samuel 26:9 shows David refusing to harm the LORD's anointed.",
+        "explore": [
+          [
+            "Anointed",
+            "Set apart for God's purpose; often marked with oil, here marked by God's choice."
+          ],
+          [
+            "Prophets",
+            "People who receive and speak God's word and stand in close relationship with Him."
+          ]
+        ],
+        "reflect": "How does knowing God has claimed you change how you face threats?",
+        "related": [
+          "Genesis 20:7",
+          "1 Chronicles 16:22",
+          "1 Samuel 26:9"
+        ],
+        "alt": "A shepherd standing calmly at his tent door while soldiers turn away.",
+        "art": "assets/psalm105/verse-15-watercolor.webp"
+      },
+      {
+        "title": "Famine called down",
+        "heading": "Supplies of food cut off",
+        "meaning": "Verse 16 says, 'He called down famine on the land and cut off all their supplies of food.' The story shifts to Joseph's time. The psalm describes even the famine as under God's command. That is hard to hear, but the point is that nothing was outside His control. The disaster that drove Jacob's family to Egypt became the means of saving them.",
+        "contextTitle": "Hardship within God's plan",
+        "context": "Genesis 41:54 records the famine spreading over every land. Genesis 45:5-7 has Joseph tell his brothers that God sent him ahead to preserve life. Romans 8:28 says God works all things together for good for those who love Him.",
+        "explore": [
+          [
+            "Famine",
+            "A severe shortage of food, often caused by failed harvests and drought."
+          ],
+          [
+            "Supplies",
+            "Literally 'staff of bread,' the food that supports life as a staff supports a walker."
+          ]
+        ],
+        "reflect": "Can you look back on a hardship that God later used for good?",
+        "related": [
+          "Genesis 41:54",
+          "Genesis 45:7",
+          "Romans 8:28"
+        ],
+        "alt": "Cracked dry fields and withered grain stalks under a hazy sun.",
+        "art": "assets/psalm105/verse-16-watercolor.webp"
+      },
+      {
+        "title": "Joseph sent ahead",
+        "heading": "Sold as a slave",
+        "meaning": "Verse 17 says, 'He sent a man before them, Joseph, sold as a slave.' From the brothers' view, they sold Joseph out of jealousy. From God's view, He sent Joseph ahead. Both are true. Human evil was real, but God was already preparing rescue before the famine struck. The one rejected by his brothers became the one who saved them.",
+        "contextTitle": "Two views of one event",
+        "context": "Genesis 37:28 records the brothers selling Joseph for twenty shekels of silver. Genesis 50:20 has Joseph say, 'You intended to harm me, but God intended it for good.' Acts 7:9-10 says God was with Joseph and rescued him.",
+        "explore": [
+          [
+            "Sent before",
+            "Placed in position ahead of time to prepare for what was coming."
+          ],
+          [
+            "Sold as a slave",
+            "Traded as property, Joseph's brothers' betrayal that God turned toward rescue."
+          ]
+        ],
+        "reflect": "How might God be preparing something good ahead of you right now?",
+        "related": [
+          "Genesis 37:28",
+          "Genesis 50:20",
+          "Acts 7:9"
+        ],
+        "alt": "A young man in a plain tunic walking behind a merchant caravan.",
+        "art": "assets/psalm105/verse-17-watercolor.webp"
+      },
+      {
+        "title": "Shackles and irons",
+        "heading": "His neck in irons",
+        "meaning": "Verse 18 says, 'They bruised his feet with shackles and placed his neck in irons.' Genesis tells of Joseph's imprisonment, and the psalm adds the physical pain of it. He suffered unjustly after refusing Potiphar's wife. The chosen deliverer passed through real suffering before he was raised up. God's plan did not skip the hard part.",
+        "contextTitle": "Suffering before rescue",
+        "context": "Genesis 39:20 says Joseph was put in the prison where the king's prisoners were held. Genesis 40:15 has Joseph say he did nothing to deserve the dungeon. 1 Peter 5:10 says after you have suffered a little while, God will restore you.",
+        "explore": [
+          [
+            "Shackles",
+            "Restraints fastened around the ankles to keep a prisoner from moving freely."
+          ],
+          [
+            "Irons",
+            "Metal bonds; literally 'his soul came into iron,' showing the depth of his suffering."
+          ]
+        ],
+        "reflect": "Where are you waiting in a hard place, trusting God has not forgotten you?",
+        "related": [
+          "Genesis 39:20",
+          "Genesis 40:15",
+          "1 Peter 5:10"
+        ],
+        "alt": "A dim prison cell with a narrow shaft of light falling on stone.",
+        "art": "assets/psalm105/verse-18-watercolor.webp"
+      },
+      {
+        "title": "Proved right",
+        "heading": "Until his prediction came true",
+        "meaning": "Verse 19 says, 'until his prediction came true and the word of the LORD proved him right.' The word 'until' marks a long wait. Joseph interpreted dreams in prison but was forgotten for two more years. Meanwhile God's word tested and refined him. In the end, the same word vindicated him when Pharaoh's dreams needed interpreting.",
+        "contextTitle": "Tested by the word",
+        "context": "Genesis 40:23 says the cupbearer forgot Joseph. Genesis 41:1 notes two full years passed. Genesis 41:16 shows Joseph saying, 'I cannot do it. God will give Pharaoh a favorable answer.'",
+        "explore": [
+          [
+            "Until",
+            "A word marking a period of waiting that God set and ended in His time."
+          ],
+          [
+            "Proved him right",
+            "The Hebrew can mean tested or refined; God's word both tried and vindicated Joseph."
+          ]
+        ],
+        "reflect": "How can you hold on to God's word during a long 'until'?",
+        "related": [
+          "Genesis 40:23",
+          "Genesis 41:1",
+          "Genesis 41:16"
+        ],
+        "alt": "A young man by a barred window watching the season change outside.",
+        "art": "assets/psalm105/verse-19-watercolor.webp"
+      },
+      {
+        "title": "The king released him",
+        "heading": "The ruler of peoples set him free",
+        "meaning": "Verse 20 says, 'The king sent and released him; the ruler of peoples set him free.' The most powerful man in Egypt personally ordered Joseph's freedom. Behind Pharaoh's order stood God's hand. The prisoner's chains came off in a single day, after years of waiting. When God's time came, the change was sudden and complete.",
+        "contextTitle": "A sudden reversal",
+        "context": "Genesis 41:14 says Pharaoh sent for Joseph, and they quickly brought him from the dungeon. Proverbs 21:1 says the king's heart is in the hand of the LORD. Psalm 146:7 says the LORD sets prisoners free.",
+        "explore": [
+          [
+            "Released",
+            "Freed from prison, here at the order of the highest ruler in the land."
+          ],
+          [
+            "Ruler of peoples",
+            "Pharaoh, whose authority reached many nations under Egypt's power."
+          ]
+        ],
+        "reflect": "What would it look like to trust that God can change your situation suddenly?",
+        "related": [
+          "Genesis 41:14",
+          "Proverbs 21:1",
+          "Psalm 146:7"
+        ],
+        "alt": "A prison door swinging open onto bright courtyard sunlight.",
+        "art": "assets/psalm105/verse-20-watercolor.webp"
+      },
+      {
+        "title": "Master of the house",
+        "heading": "Ruler over all his substance",
+        "meaning": "Verse 21 says, 'He made him master of his household, ruler over all his substance.' Joseph went from prison to second in command over Egypt. He managed Pharaoh's estate and the nation's food supply. The slave became the steward of a kingdom. God's raising of the lowly is a theme that runs throughout Scripture.",
+        "contextTitle": "From prison to palace",
+        "context": "Genesis 41:40-41 records Pharaoh setting Joseph over all Egypt. Genesis 41:42 describes the signet ring and fine linen. 1 Samuel 2:8 says God raises the poor from the dust and seats them with princes.",
+        "explore": [
+          [
+            "Master",
+            "One placed in charge with full authority over a household and its affairs."
+          ],
+          [
+            "Substance",
+            "Possessions and resources, everything Pharaoh owned and managed."
+          ]
+        ],
+        "reflect": "How might faithfulness in small places prepare you for greater responsibility?",
+        "related": [
+          "Genesis 41:40",
+          "Genesis 41:42",
+          "1 Samuel 2:8"
+        ],
+        "alt": "Granaries filled with grain and scribes recording stores in an Egyptian courtyard.",
+        "art": "assets/psalm105/verse-21-watercolor.webp"
+      },
+      {
+        "title": "Teaching the elders",
+        "heading": "Instruct his princes as he pleased",
+        "meaning": "Verse 22 says Joseph was set 'to instruct his princes as he pleased and teach his elders wisdom.' The foreign prisoner became the teacher of Egypt's leaders. His wisdom came from God, and it blessed even those outside Israel. God's people were meant to be a blessing to the nations, and Joseph lived that out.",
+        "contextTitle": "Wisdom for the nations",
+        "context": "Genesis 41:38-39 has Pharaoh say no one is as discerning and wise as Joseph. Genesis 12:3 promised that all families of the earth would be blessed through Abraham. James 1:5 says God gives wisdom generously to all who ask.",
+        "explore": [
+          [
+            "Princes",
+            "High officials and nobles who served in Pharaoh's court."
+          ],
+          [
+            "Wisdom",
+            "Skill for living and ruling well, which Joseph received from God."
+          ]
+        ],
+        "reflect": "How could the wisdom God has given you bless people around you?",
+        "related": [
+          "Genesis 41:39",
+          "Genesis 12:3",
+          "James 1:5"
+        ],
+        "alt": "A young official explaining a plan to seated elders in a columned hall.",
+        "art": "assets/psalm105/verse-22-watercolor.webp"
+      },
+      {
+        "title": "Into Egypt",
+        "heading": "Jacob dwelt in the land of Ham",
+        "meaning": "Verse 23 says, 'Then Israel entered Egypt; Jacob dwelt in the land of Ham.' The whole family moved to Egypt to survive the famine, welcomed because of Joseph. 'The land of Ham' is a poetic name for Egypt, since Genesis lists Egypt among Ham's descendants. The family that was promised Canaan now lived in a foreign land, yet still under God's care.",
+        "contextTitle": "A refuge that became a home",
+        "context": "Genesis 46:3-4 has God tell Jacob, 'Do not be afraid to go down to Egypt, for I will make you a great nation there.' Genesis 47:27 says Israel settled in Goshen. Genesis 10:6 lists Mizraim, Egypt, among Ham's sons.",
+        "explore": [
+          [
+            "Land of Ham",
+            "A poetic name for Egypt, from Noah's son Ham, ancestor of the Egyptians."
+          ],
+          [
+            "Dwelt",
+            "Lived as a resident, here as foreigners settled by permission in Goshen."
+          ]
+        ],
+        "reflect": "How has God been with you in a place you did not expect to live?",
+        "related": [
+          "Genesis 46:3",
+          "Genesis 47:27",
+          "Genesis 10:6"
+        ],
+        "alt": "An elderly man on a cart arriving at green Nile pastures with his family.",
+        "art": "assets/psalm105/verse-23-watercolor.webp"
+      },
+      {
+        "title": "Very fruitful",
+        "heading": "More numerous than their foes",
+        "meaning": "Verse 24 says, 'And the LORD made His people very fruitful, more numerous than their foes.' In Egypt the small family grew into a great people. This fulfilled God's promise to make Abraham's offspring many. Their growth was His doing, a sign of blessing. But it also made the Egyptians afraid, as the next verse shows.",
+        "contextTitle": "Promise of many descendants",
+        "context": "Exodus 1:7 says the Israelites were fruitful and multiplied greatly. Genesis 22:17 promised descendants as numerous as the stars. Acts 7:17 says the people increased as the time of the promise drew near.",
+        "explore": [
+          [
+            "Fruitful",
+            "Growing in number and strength, a sign of God's blessing since creation."
+          ],
+          [
+            "Foes",
+            "Enemies or opponents, here the Egyptians who came to fear Israel's growth."
+          ]
+        ],
+        "reflect": "Where have you seen God bring growth that you could not produce yourself?",
+        "related": [
+          "Exodus 1:7",
+          "Genesis 22:17",
+          "Acts 7:17"
+        ],
+        "alt": "A busy settlement of mud-brick homes filled with families and children.",
+        "art": "assets/psalm105/verse-24-watercolor.webp"
+      },
+      {
+        "title": "Hearts turned to hate",
+        "heading": "Conspiring against His servants",
+        "meaning": "Verse 25 says the LORD's people grew strong among foes 'whose hearts He turned to hate His people, to conspire against His servants.' This is a hard statement. The psalm sees even Egypt's hostility as within God's sovereign purpose, setting the stage for the exodus. Egypt still chose cruelty, but God would use it to show His power and free His people.",
+        "contextTitle": "Hostility within God's purpose",
+        "context": "Exodus 1:8-10 describes a new king who feared Israel and plotted against them. Exodus 1:13-14 tells of harsh slavery. Romans 9:17 says God raised up Pharaoh to display His power in all the earth.",
+        "explore": [
+          [
+            "Conspire",
+            "To plot secretly together, here to deal shrewdly and cruelly with Israel."
+          ],
+          [
+            "Servants",
+            "God's people, who belonged to Him even while enslaved by Egypt."
+          ]
+        ],
+        "reflect": "How can you trust God's purposes when people turn against you?",
+        "related": [
+          "Exodus 1:10",
+          "Exodus 1:14",
+          "Romans 9:17"
+        ],
+        "alt": "Overseers watching laborers making mud bricks under a harsh sun.",
+        "art": "assets/psalm105/verse-25-watercolor.webp"
+      },
+      {
+        "title": "Moses and Aaron sent",
+        "heading": "Aaron, whom He had chosen",
+        "meaning": "Verse 26 says, 'He sent Moses His servant, and Aaron, whom He had chosen.' Just as God sent Joseph ahead, now He sends deliverers. Moses is called His servant, a title of honor. Aaron was chosen to speak alongside him. God answered His people's suffering not with a distant decree but by sending people to stand before Pharaoh.",
+        "contextTitle": "Deliverers sent",
+        "context": "Exodus 3:10 has God say to Moses, 'I am sending you to Pharaoh to bring My people out.' Exodus 4:14-16 appoints Aaron to speak for Moses. Micah 6:4 recalls, 'I sent Moses before you, as well as Aaron and Miriam.'",
+        "explore": [
+          [
+            "Servant",
+            "A title of honor for someone who carries out God's work faithfully."
+          ],
+          [
+            "Chosen",
+            "Selected by God for a particular task, as Aaron was to speak and later serve as priest."
+          ]
+        ],
+        "reflect": "Who has God sent into your life to help you, and how might He send you to someone?",
+        "related": [
+          "Exodus 3:10",
+          "Exodus 4:14",
+          "Micah 6:4"
+        ],
+        "alt": "Two brothers walking side by side toward a towering Egyptian gate.",
+        "art": "assets/psalm105/verse-26-watercolor.webp"
+      },
+      {
+        "title": "Signs among them",
+        "heading": "Wonders in the land of Ham",
+        "meaning": "Verse 27 says, 'They performed His miraculous signs among them, and wonders in the land of Ham.' The signs were His, though Moses and Aaron carried them out. Each plague was a message showing that the LORD, not Egypt's gods, ruled creation. The psalm now begins a selective, rearranged retelling of the plagues.",
+        "contextTitle": "Signs that speak",
+        "context": "Exodus 7:3 has God say, 'I will multiply My signs and wonders in the land of Egypt.' Exodus 12:12 says God would execute judgment on all the gods of Egypt. Psalm 78:43 also recalls His signs in Egypt.",
+        "explore": [
+          [
+            "Miraculous signs",
+            "Acts of God that point beyond themselves to reveal His power and identity."
+          ],
+          [
+            "Wonders",
+            "Astonishing deeds that cause awe and cannot be explained by ordinary means."
+          ]
+        ],
+        "reflect": "What 'sign' of God's care have you seen that pointed you to Him?",
+        "related": [
+          "Exodus 7:3",
+          "Exodus 12:12",
+          "Psalm 78:43"
+        ],
+        "alt": "A staff raised over the wide Nile under a dramatic sky.",
+        "art": "assets/psalm105/verse-27-watercolor.webp"
+      },
+      {
+        "title": "Darkness sent",
+        "heading": "Yet they defied His words",
+        "meaning": "Verse 28 says, 'He sent darkness, and it became dark, yet they defied His words.' The psalm begins with the ninth plague rather than the first. Darkness struck at Egypt's sun god, showing the LORD's power over light itself. Egypt's leaders continued to resist God's command to let His people go. The phrase stresses how stubborn rebellion can be.",
+        "contextTitle": "Darkness over Egypt",
+        "context": "Exodus 10:21-23 describes three days of darkness, while Israel had light in their homes. Genesis 1:3 shows God commanding light at creation. Some translations read 'they did not defy His words,' referring to Moses and Aaron's obedience.",
+        "explore": [
+          [
+            "Darkness",
+            "The ninth plague, a thick darkness that could be felt, a challenge to Egypt's sun worship."
+          ],
+          [
+            "Defied",
+            "Openly resisted or rebelled against a clear command from God."
+          ]
+        ],
+        "reflect": "Where might you be resisting something God has clearly said?",
+        "related": [
+          "Exodus 10:22",
+          "Exodus 10:23",
+          "Genesis 1:3"
+        ],
+        "alt": "A Nile village swallowed in heavy darkness with one lit home in the distance.",
+        "art": "assets/psalm105/verse-28-watercolor.webp"
+      },
+      {
+        "title": "Waters to blood",
+        "heading": "Their fish died",
+        "meaning": "Verse 29 says, 'He turned their waters to blood and caused their fish to die.' This was the first plague in Exodus. The Nile was Egypt's lifeline, the source of water, food and farming, and was honored as a god. Turning it to blood struck at Egypt's livelihood and its religion together. What they trusted for life became a picture of death.",
+        "contextTitle": "The Nile struck",
+        "context": "Exodus 7:20-21 records the Nile turning to blood and the fish dying. Psalm 78:44 recalls the same plague. Revelation 16:4 uses similar imagery in its visions of judgment.",
+        "explore": [
+          [
+            "Nile",
+            "Egypt's great river, the source of its water, crops and fish, and honored as divine."
+          ],
+          [
+            "Blood",
+            "A sign of death and judgment, turning the river of life into a river of loss."
+          ]
+        ],
+        "reflect": "What do you rely on for security that only God can truly provide?",
+        "related": [
+          "Exodus 7:20",
+          "Psalm 78:44",
+          "Revelation 16:4"
+        ],
+        "alt": "A wide river running deep red past reeds and empty fishing boats.",
+        "art": "assets/psalm105/verse-29-watercolor.webp"
+      },
+      {
+        "title": "Frogs everywhere",
+        "heading": "Even in their royal chambers",
+        "meaning": "Verse 30 says, 'Their land teemed with frogs, even in their royal chambers.' Frogs filled homes, ovens and beds. The mention of royal chambers shows that no one was exempt, not even Pharaoh. Egypt honored a frog-headed goddess of fertility, so this plague also mocked their gods. The palace could not keep out God's judgment.",
+        "contextTitle": "No place exempt",
+        "context": "Exodus 8:3 says frogs would enter Pharaoh's palace, bedroom and bed. Exodus 8:8 shows Pharaoh asking Moses to pray for their removal. Psalm 78:45 recalls the frogs that devastated them.",
+        "explore": [
+          [
+            "Teemed",
+            "Swarmed in overwhelming numbers, filling every space."
+          ],
+          [
+            "Royal chambers",
+            "The private rooms of the king, showing that even the powerful were not spared."
+          ]
+        ],
+        "reflect": "What does it mean to you that God's authority reaches even the most powerful?",
+        "related": [
+          "Exodus 8:3",
+          "Exodus 8:8",
+          "Psalm 78:45"
+        ],
+        "alt": "A palace floor of painted tiles covered with countless green frogs.",
+        "art": "assets/psalm105/verse-30-watercolor.webp"
+      },
+      {
+        "title": "He spoke: gnats",
+        "heading": "Insects swarmed",
+        "meaning": "Verse 31 says, 'He spoke, and insects swarmed, gnats throughout their country.' Notice 'He spoke.' A single word from God brings swarms. This recalls creation, when God spoke and living creatures appeared. Here His word turns creation against oppressors. Egypt's magicians, who copied earlier plagues, failed here and admitted, 'This is the finger of God.'",
+        "contextTitle": "The power of His word",
+        "context": "Exodus 8:16-19 records the gnats and the magicians' confession. Exodus 8:21-24 describes swarms of flies. Psalm 33:9 says, 'He spoke, and it came to be.'",
+        "explore": [
+          [
+            "Gnats",
+            "Tiny biting insects, perhaps lice or mosquitoes, that covered people and animals."
+          ],
+          [
+            "He spoke",
+            "God's word alone brings events to pass, as it did at creation."
+          ]
+        ],
+        "reflect": "How does God's power to act by His word encourage your trust in His promises?",
+        "related": [
+          "Exodus 8:19",
+          "Exodus 8:24",
+          "Psalm 33:9"
+        ],
+        "alt": "A cloud of tiny insects hovering over fields and herds at dusk.",
+        "art": "assets/psalm105/verse-31-watercolor.webp"
+      },
+      {
+        "title": "Hail for rain",
+        "heading": "Lightning throughout their land",
+        "meaning": "Verse 32 says, 'He gave them hail for rain, with lightning throughout their land.' Egypt rarely sees heavy rain, so a violent hailstorm with lightning was shocking. Instead of gentle rain that grows crops, God sent destructive hail. The storm showed that the heavens obey the LORD, not Egypt's sky gods.",
+        "contextTitle": "Storm from the sky",
+        "context": "Exodus 9:23-24 describes hail and fire flashing down, the worst storm in Egypt's history. Exodus 9:26 notes Goshen had no hail. Psalm 148:8 says lightning and hail fulfill His word.",
+        "explore": [
+          [
+            "Hail",
+            "Balls of ice falling in a storm, rare and devastating in Egypt."
+          ],
+          [
+            "Lightning",
+            "Flashes of fire from the sky, a sign of God's power over the heavens."
+          ]
+        ],
+        "reflect": "How can storms in nature remind you of God's greatness rather than only fear?",
+        "related": [
+          "Exodus 9:23",
+          "Exodus 9:26",
+          "Psalm 148:8"
+        ],
+        "alt": "Hailstones and lightning crashing over flattened fields of flax and barley.",
+        "art": "assets/psalm105/verse-32-watercolor.webp"
+      },
+      {
+        "title": "Vines and figs struck",
+        "heading": "Trees shattered",
+        "meaning": "Verse 33 says, 'He struck their vines and fig trees and shattered the trees of their country.' The hail destroyed crops that took years to grow. Vines and fig trees were symbols of prosperity and peace. Their destruction meant lasting economic loss. Egypt's stubbornness cost them dearly, showing how resisting God brings ruin.",
+        "contextTitle": "Lasting loss",
+        "context": "Exodus 9:25 says the hail struck every plant and shattered every tree. Psalm 78:47 recalls the hail destroying their vines. Micah 4:4 pictures peace as everyone sitting under their own vine and fig tree.",
+        "explore": [
+          [
+            "Fig trees",
+            "Fruit trees that took years to mature and symbolized prosperity and settled life."
+          ],
+          [
+            "Shattered",
+            "Broken to pieces, describing the total destruction of the orchards."
+          ]
+        ],
+        "reflect": "What has stubbornness cost you, and what would yielding to God look like?",
+        "related": [
+          "Exodus 9:25",
+          "Psalm 78:47",
+          "Micah 4:4"
+        ],
+        "alt": "Broken fig branches and torn grapevines scattered across a muddy orchard.",
+        "art": "assets/psalm105/verse-33-watercolor.webp"
+      },
+      {
+        "title": "Locusts came",
+        "heading": "Young locusts without number",
+        "meaning": "Verse 34 says, 'He spoke, and the locusts came, young locusts without number.' Again God speaks, and creatures obey. Locust swarms were among the most feared disasters in the ancient world, able to strip a land bare in hours. 'Without number' emphasizes their overwhelming size. Nothing Egypt could do would stop them.",
+        "contextTitle": "An unstoppable army",
+        "context": "Exodus 10:13-14 describes an east wind bringing locusts like never before. Joel 1:4 pictures waves of locusts devouring everything. Psalm 78:46 recalls God giving their crops to the locust.",
+        "explore": [
+          [
+            "Locusts",
+            "Grasshoppers that gather in huge swarms and devour every plant in their path."
+          ],
+          [
+            "Without number",
+            "Beyond counting, showing the overwhelming scale of the plague."
+          ]
+        ],
+        "reflect": "What overwhelming problem do you need to bring before the God who commands all creation?",
+        "related": [
+          "Exodus 10:14",
+          "Joel 1:4",
+          "Psalm 78:46"
+        ],
+        "alt": "A dark cloud of locusts sweeping low over green fields.",
+        "art": "assets/psalm105/verse-34-watercolor.webp"
+      },
+      {
+        "title": "Every plant devoured",
+        "heading": "Produce of their soil consumed",
+        "meaning": "Verse 35 says, 'They devoured every plant in their land and consumed the produce of their soil.' What the hail left, the locusts finished. Egypt's agriculture, its pride and wealth, was ruined. The plague left the land bare. The repeated destruction shows that Egypt's resistance only deepened its suffering.",
+        "contextTitle": "A land stripped bare",
+        "context": "Exodus 10:15 says nothing green remained on tree or plant in all Egypt. Exodus 10:16 shows Pharaoh admitting he had sinned. Deuteronomy 28:38 warns that locusts would consume crops as a covenant curse.",
+        "explore": [
+          [
+            "Devoured",
+            "Eaten up completely, leaving nothing green behind in the fields."
+          ],
+          [
+            "Produce",
+            "The harvest and fruit that the land yielded for food and trade."
+          ]
+        ],
+        "reflect": "How do you respond when consequences pile up, by turning back or hardening further?",
+        "related": [
+          "Exodus 10:15",
+          "Exodus 10:16",
+          "Deuteronomy 28:38"
+        ],
+        "alt": "Bare brown fields and leafless trees under a pale sky.",
+        "art": "assets/psalm105/verse-35-watercolor.webp"
+      },
+      {
+        "title": "Firstborn struck",
+        "heading": "Firstfruits of all their vigor",
+        "meaning": "Verse 36 says, 'Then He struck all the firstborn in their land, the firstfruits of all their vigor.' The final plague was the most terrible. Egypt had enslaved and killed Israel's sons, and now judgment fell on Egypt's firstborn. Israel was spared by the blood of the Passover lamb. This night became the defining memory of rescue.",
+        "contextTitle": "The Passover night",
+        "context": "Exodus 12:29 records the LORD striking every firstborn in Egypt at midnight. Exodus 12:13 says, 'When I see the blood, I will pass over you.' 1 Corinthians 5:7 calls Christ our Passover lamb.",
+        "explore": [
+          [
+            "Firstborn",
+            "The eldest son, honored as the family's strength and heir."
+          ],
+          [
+            "Firstfruits of vigor",
+            "The first sign of a father's strength, a poetic name for the firstborn son."
+          ]
+        ],
+        "reflect": "How does the Passover help you understand rescue through a substitute?",
+        "related": [
+          "Exodus 12:29",
+          "Exodus 12:13",
+          "1 Corinthians 5:7"
+        ],
+        "alt": "Doorframes of humble homes marked with red at night under a full moon.",
+        "art": "assets/psalm105/verse-36-watercolor.webp"
+      },
+      {
+        "title": "Silver and gold",
+        "heading": "None among His tribes stumbled",
+        "meaning": "Verse 37 says, 'He brought Israel out with silver and gold, and none among His tribes stumbled.' Slaves left not in rags but with wealth, as God had promised Abraham. None stumbled means the whole people, young and old, were strong enough for the journey. God not only freed them but equipped them for what lay ahead.",
+        "contextTitle": "Leaving with plenty",
+        "context": "Genesis 15:14 promised Abraham his descendants would come out with great possessions. Exodus 12:35-36 says the Egyptians gave them silver, gold and clothing. Isaiah 40:29 says He gives strength to the weary.",
+        "explore": [
+          [
+            "Silver and gold",
+            "Wealth given by the Egyptians, the wages of years of unpaid labor."
+          ],
+          [
+            "Stumbled",
+            "Faltered or fell from weakness; none in Israel was too feeble to leave."
+          ]
+        ],
+        "reflect": "How has God provided for you as He moved you into a new season?",
+        "related": [
+          "Genesis 15:14",
+          "Exodus 12:35",
+          "Isaiah 40:29"
+        ],
+        "alt": "A long line of families leaving a city at dawn with laden donkeys.",
+        "art": "assets/psalm105/verse-37-watercolor.webp"
+      },
+      {
+        "title": "Egypt was glad",
+        "heading": "The dread of Israel fell on them",
+        "meaning": "Verse 38 says, 'Egypt was glad when they departed, for the dread of Israel had fallen on them.' The nation that once refused to let Israel go now urged them to leave. Fear had replaced arrogance. The reversal is complete: the oppressors are relieved to see their former slaves depart. God had shown who truly held power.",
+        "contextTitle": "A complete reversal",
+        "context": "Exodus 12:33 says the Egyptians urged the people to leave quickly, saying 'We will all die!' Exodus 15:16 says terror and dread fell on the nations. Psalm 105:14 had already shown God rebuking kings.",
+        "explore": [
+          [
+            "Dread",
+            "Deep fear and awe, here of the God who acted for Israel."
+          ],
+          [
+            "Departed",
+            "Left the land, the exodus that Pharaoh had long refused."
+          ]
+        ],
+        "reflect": "Where have you seen God turn around a situation that seemed fixed?",
+        "related": [
+          "Exodus 12:33",
+          "Exodus 15:16",
+          "Psalm 105:14"
+        ],
+        "alt": "Egyptian townspeople watching from rooftops as a great crowd departs.",
+        "art": "assets/psalm105/verse-38-watercolor.webp"
+      },
+      {
+        "title": "Cloud and fire",
+        "heading": "A fire to light up the night",
+        "meaning": "Verse 39 says, 'He spread a cloud as a covering and a fire to light up the night.' In the wilderness God guided and shielded His people. By day a cloud shaded them from the desert sun; by night a pillar of fire gave light. His presence was visible and constant. They never traveled a single day without Him.",
+        "contextTitle": "Guidance in the wilderness",
+        "context": "Exodus 13:21-22 describes the pillar of cloud by day and fire by night. Isaiah 4:5-6 promises a cloud and fire over Zion as shelter. Psalm 121:6 says the sun will not strike you by day.",
+        "explore": [
+          [
+            "Covering",
+            "A shelter or canopy; the cloud shaded Israel from the heat."
+          ],
+          [
+            "Pillar of fire",
+            "God's visible presence at night, giving light and guidance."
+          ]
+        ],
+        "reflect": "How is God guiding and covering you through your current wilderness?",
+        "related": [
+          "Exodus 13:21",
+          "Isaiah 4:5",
+          "Psalm 121:6"
+        ],
+        "alt": "A column of soft fire glowing over a desert camp under stars.",
+        "art": "assets/psalm105/verse-39-watercolor.webp"
+      },
+      {
+        "title": "Quail and bread",
+        "heading": "Satisfied with bread of heaven",
+        "meaning": "Verse 40 says, 'They asked, and He brought quail and satisfied them with the bread of heaven.' Psalm 106 will stress Israel's grumbling, but here the focus is God's generous answer. He sent quail for meat and manna each morning. The bread came from heaven, God's direct gift. He satisfied them, giving enough for each day.",
+        "contextTitle": "Daily provision",
+        "context": "Exodus 16:13-15 records the quail and the manna. John 6:31-35 has Jesus identify Himself as the true bread from heaven. Matthew 6:11 teaches us to pray, 'Give us this day our daily bread.'",
+        "explore": [
+          [
+            "Quail",
+            "Small birds God sent in great numbers to give the people meat."
+          ],
+          [
+            "Bread of heaven",
+            "Manna, the food God provided each morning in the wilderness."
+          ]
+        ],
+        "reflect": "What daily provision from God might you be overlooking?",
+        "related": [
+          "Exodus 16:13",
+          "John 6:35",
+          "Matthew 6:11"
+        ],
+        "alt": "Families gathering white flakes from the ground at sunrise in a desert camp.",
+        "art": "assets/psalm105/verse-40-watercolor.webp"
+      },
+      {
+        "title": "Water from the rock",
+        "heading": "A river in the desert",
+        "meaning": "Verse 41 says, 'He opened a rock, and water gushed out; it flowed like a river in the desert.' In a dry land, God brought water from solid rock. The picture is abundant, not a trickle but a river. Where survival seemed impossible, God provided more than enough. The rock later became a picture of Christ, the source of life.",
+        "contextTitle": "Abundance in a dry place",
+        "context": "Exodus 17:6 has Moses strike the rock at Horeb, and water flows out. Numbers 20:11 records a second time. 1 Corinthians 10:4 says they drank from the spiritual rock that accompanied them, and that rock was Christ.",
+        "explore": [
+          [
+            "Rock",
+            "Solid stone in the desert from which God brought water."
+          ],
+          [
+            "Gushed",
+            "Poured out forcefully and abundantly, more than enough for everyone."
+          ]
+        ],
+        "reflect": "Where do you need to trust God to bring life out of something hard?",
+        "related": [
+          "Exodus 17:6",
+          "Numbers 20:11",
+          "1 Corinthians 10:4"
+        ],
+        "alt": "Clear water pouring from a split boulder into a dry desert wash.",
+        "art": "assets/psalm105/verse-41-watercolor.webp"
+      },
+      {
+        "title": "His holy promise",
+        "heading": "Remembered for Abraham His servant",
+        "meaning": "Verse 42 explains the reason for everything: 'For He remembered His holy promise to Abraham His servant.' The exodus and wilderness care were not rewards for Israel's goodness. They came from God's faithfulness to His word. This returns to the theme of verse 8. The whole story rests on God remembering His promise.",
+        "contextTitle": "Why God acted",
+        "context": "Exodus 2:24 says God heard their groaning and remembered His covenant with Abraham. Psalm 105:8 states He remembers His covenant forever. Luke 1:54-55 has Mary praise God for remembering His mercy to Abraham.",
+        "explore": [
+          [
+            "Holy promise",
+            "God's sacred word, set apart and certain because He gave it."
+          ],
+          [
+            "Abraham His servant",
+            "Abraham, honored as God's faithful servant and friend."
+          ]
+        ],
+        "reflect": "How does knowing God acts from His promise, not your performance, give you peace?",
+        "related": [
+          "Exodus 2:24",
+          "Psalm 105:8",
+          "Luke 1:55"
+        ],
+        "alt": "An open starry sky over a quiet desert camp at night.",
+        "art": "assets/psalm105/verse-42-watercolor.webp"
+      },
+      {
+        "title": "Shouts of joy",
+        "heading": "His chosen brought forth with rejoicing",
+        "meaning": "Verse 43 says, 'He brought forth His people with rejoicing, His chosen with shouts of joy.' The exodus ended in celebration. After centuries of slavery, God's people left singing. Joy is the fitting response to rescue. The psalm that began with a call to give thanks shows that the first exodus generation did just that.",
+        "contextTitle": "Rescue ends in song",
+        "context": "Exodus 15:20-21 records Miriam leading the women with tambourines. Isaiah 35:10 pictures the redeemed returning to Zion with singing. Psalm 126:2 says their mouths were filled with laughter.",
+        "explore": [
+          [
+            "Rejoicing",
+            "Glad celebration that overflows in song and praise."
+          ],
+          [
+            "Shouts of joy",
+            "Loud, joyful cries of victory and gratitude after deliverance."
+          ]
+        ],
+        "reflect": "What rescue in your life calls for a shout of joy today?",
+        "related": [
+          "Exodus 15:20",
+          "Isaiah 35:10",
+          "Psalm 126:2"
+        ],
+        "alt": "Women dancing with tambourines on a seashore at sunrise.",
+        "art": "assets/psalm105/verse-43-watercolor.webp"
+      },
+      {
+        "title": "Lands of the nations",
+        "heading": "The fruit of others' labor",
+        "meaning": "Verse 44 says, 'He gave them the lands of the nations, that they might inherit the fruit of others' labor.' God fulfilled the land promise of verse 11. Israel received fields, vineyards and cities they did not build. It was grace, a gift rather than an achievement. The promise made to wanderers became a home for a nation.",
+        "contextTitle": "The promise kept",
+        "context": "Deuteronomy 6:10-11 speaks of cities you did not build and vineyards you did not plant. Joshua 24:13 repeats it. Psalm 105:11 had recorded the promise of Canaan.",
+        "explore": [
+          [
+            "Inherit",
+            "To receive as a gift passed down, not earned by one's own effort."
+          ],
+          [
+            "Others' labor",
+            "Work done by others, showing that the land was God's gift, not Israel's achievement."
+          ]
+        ],
+        "reflect": "What blessings do you enjoy that came from someone else's labor or God's gift?",
+        "related": [
+          "Deuteronomy 6:11",
+          "Joshua 24:13",
+          "Psalm 105:11"
+        ],
+        "alt": "Terraced vineyards and olive groves around a hillside town.",
+        "art": "assets/psalm105/verse-44-watercolor.webp"
+      },
+      {
+        "title": "Keep His statutes",
+        "heading": "Hallelujah!",
+        "meaning": "Verse 45 gives the purpose: 'that they might keep His statutes and obey His laws. Hallelujah!' God's faithfulness was meant to lead to faithful living. Obedience is not the price of grace but the response to it. The psalm ends with 'Hallelujah,' meaning 'Praise the LORD.' Remembering what God has done should move us to praise and obedience.",
+        "contextTitle": "Grace leading to obedience",
+        "context": "Deuteronomy 4:40 says keep His statutes so that it may go well with you. Exodus 20:2 begins the commandments with God's rescue: 'I am the LORD your God, who brought you out.' John 14:15 says, 'If you love Me, you will keep My commandments.'",
+        "explore": [
+          [
+            "Statutes",
+            "God's decrees and instructions for living as His people."
+          ],
+          [
+            "Hallelujah",
+            "A Hebrew call meaning 'Praise the LORD,' closing the psalm in worship."
+          ]
+        ],
+        "reflect": "How can remembering God's goodness shape what you choose to do this week?",
+        "related": [
+          "Deuteronomy 4:40",
+          "Exodus 20:2",
+          "John 14:15"
+        ],
+        "alt": "A family reading a scroll together at sunset outside their home.",
+        "art": "assets/psalm105/verse-45-watercolor.webp"
+      }
+    ]
+  }
+}

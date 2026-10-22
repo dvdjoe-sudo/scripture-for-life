@@ -1,0 +1,333 @@
+{
+  "chapter": 143,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 143 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "direction": [
+      "Psalm 143:8"
+    ],
+    "forgiveness": [
+      "Psalm 143:2"
+    ],
+    "grief": [
+      "Psalm 143:4"
+    ]
+  },
+  "study": {
+    "number": 143,
+    "coverVerse": 1,
+    "title": "Teach me to do Your will",
+    "intro": "Psalm 143 is the last of the seven penitential psalms. David, crushed by enemies and in darkness, appeals to God's faithfulness and righteousness rather than his own. He admits no one is righteous before God, remembers God's works of old, and stretches out his hands like dry ground thirsting for rain. Then he asks for guidance: show me the way, teach me Your will, lead me on level ground.",
+    "context": "Headed 'a Psalm of David', this prayer may come from the time of Absalom's rebellion or Saul's pursuit. It is counted among the church's seven penitential psalms (6, 32, 38, 51, 102, 130, 143). Verse 2 is echoed by Paul in Romans 3:20 and Galatians 2:16: no one will be justified by works of the law. The psalm moves from lament (1-6) to petition for guidance and rescue (7-12).",
+    "peopleNote": "Attributed to David. The enemy pursuing him is unnamed. God's good Spirit is mentioned but is never portrayed as a human figure or dove; God is never portrayed as a human figure in planned art.",
+    "people": [
+      {
+        "id": "david",
+        "name": "David",
+        "ref": "Psalm 143:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Answer in faithfulness",
+        "heading": "In Your righteousness, answer me",
+        "meaning": "'O LORD, hear my prayer. In Your faithfulness, give ear to my plea; in Your righteousness, answer me.' David bases his prayer not on his own goodness but on God's character. God is faithful; He keeps His promises. God is righteous; He does what is right. These are the strongest grounds anyone can stand on in prayer. We appeal to who God is, not who we are.",
+        "contextTitle": "Praying on God's character",
+        "context": "1 John 1:9 says God is faithful and righteous to forgive us our sins. Daniel 9:18 prays, 'We are not presenting our petitions before You because of our righteous acts, but because of Your great compassion.' Psalm 36:5 says His faithfulness reaches to the skies.",
+        "explore": [
+          [
+            "Faithfulness",
+            "God's reliability and trustworthiness; He always keeps His word."
+          ],
+          [
+            "Plea",
+            "An urgent request for help or mercy, made from real need."
+          ]
+        ],
+        "reflect": "How does praying on the basis of God's character, not yours, change your confidence?",
+        "related": [
+          "1 John 1:9",
+          "Daniel 9:18",
+          "Psalm 36:5"
+        ],
+        "alt": "A man kneeling at sunset with open hands resting on his knees.",
+        "art": "assets/psalm143/verse-1-watercolor.webp"
+      },
+      {
+        "title": "No one righteous",
+        "heading": "Do not bring Your servant into judgment",
+        "meaning": "'Do not bring Your servant into judgment, for no one alive is righteous before You.' David knows that if God judged him by strict justice, he could not stand. No one could. This is not an excuse but an honest confession. It is the foundation of grace: since no one is righteous enough, all must depend on God's mercy. Paul built on this verse to explain the gospel.",
+        "contextTitle": "Echoed by Paul",
+        "context": "Romans 3:20 and Galatians 2:16 echo this verse: no one will be justified by works of the law. Psalm 130:3 asks, 'If You, O LORD, kept track of iniquities, then who, O Lord, could stand?' Ecclesiastes 7:20 says there is not a righteous man on earth who never sins.",
+        "explore": [
+          [
+            "Judgment",
+            "God's evaluation of a person's life according to His perfect standard."
+          ],
+          [
+            "Righteous",
+            "Right before God, meeting His standard; no one achieves this on their own."
+          ]
+        ],
+        "reflect": "How does knowing no one is righteous on their own free you from trying to earn God's love?",
+        "related": [
+          "Romans 3:20",
+          "Galatians 2:16",
+          "Ecclesiastes 7:20"
+        ],
+        "alt": "An empty judge's seat at a city gate in morning light.",
+        "art": "assets/psalm143/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Crushed into darkness",
+        "heading": "Like those long since dead",
+        "meaning": "'For the enemy has pursued my soul, crushing my life to the ground, making me dwell in darkness like those long since dead.' David feels hunted, crushed and buried alive. Living in darkness like the long-dead is a picture of deep depression and hopelessness. He tells God how bad it really is. Scripture never hides the reality of despair; it gives us words to bring it before God.",
+        "contextTitle": "Darkness of the soul",
+        "context": "Lamentations 3:6 says, 'He has made me dwell in darkness like those long dead,' nearly the same words. Psalm 88:6 speaks of being placed in the darkest depths. Isaiah 9:2 promises that people walking in darkness will see a great light.",
+        "explore": [
+          [
+            "Pursued",
+            "Chased after relentlessly, as by a hunter or soldier."
+          ],
+          [
+            "Darkness",
+            "A picture of despair, danger and feeling cut off from life and hope."
+          ]
+        ],
+        "reflect": "If you feel crushed or in darkness, can you describe it honestly to God as David did?",
+        "related": [
+          "Lamentations 3:6",
+          "Psalm 88:6",
+          "Isaiah 9:2"
+        ],
+        "alt": "A dim narrow passage between high rocks with faint light at the top.",
+        "art": "assets/psalm143/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Spirit faint, heart dismayed",
+        "heading": "My heart is dismayed inside me",
+        "meaning": "'My spirit grows faint within me; my heart is dismayed inside me.' David's inner life is collapsing. His spirit is weak and his heart is stunned and desolate. Outward troubles have become inward exhaustion. This is how many people feel in long trials. God does not shame us for feeling this way; He invites us to bring our faint spirits to Him.",
+        "contextTitle": "Inner exhaustion",
+        "context": "Psalm 142:3 also speaks of a faint spirit. Elijah, exhausted, asked God to take his life, and God gave him food and rest (1 Kings 19:4-8). Matthew 11:28 says, 'Come to Me, all you who are weary and burdened.'",
+        "explore": [
+          [
+            "Dismayed",
+            "Stunned, appalled and desolate, overwhelmed with distress."
+          ],
+          [
+            "Spirit",
+            "The inner life and breath of a person, their energy and will."
+          ]
+        ],
+        "reflect": "Where is your spirit faint right now? What kind of rest or help might God be offering?",
+        "related": [
+          "1 Kings 19:5",
+          "Matthew 11:28",
+          "Psalm 142:3"
+        ],
+        "alt": "A traveler resting under a broom tree in the desert at midday.",
+        "art": "assets/psalm143/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Remembering days of old",
+        "heading": "I meditate on all Your works",
+        "meaning": "'I remember the days of old; I meditate on all Your works; I consider the work of Your hands.' In the darkness, David turns his mind deliberately to what God has done in the past. He remembers, meditates and considers. Memory becomes medicine. Recalling God's faithfulness in history and in our own lives can rekindle hope when the present feels hopeless.",
+        "contextTitle": "Memory as hope",
+        "context": "Psalm 77:11-12 says, 'I will remember the works of the LORD... I will reflect on all You have done.' Deuteronomy 8:2 urges remembering how God led you. Lamentations 3:21 says, 'Yet I call this to mind, and therefore I have hope.'",
+        "explore": [
+          [
+            "Meditate",
+            "To think deeply and repeatedly about something, turning it over in the mind."
+          ],
+          [
+            "Days of old",
+            "Earlier times, God's past acts in history and in one's own life."
+          ]
+        ],
+        "reflect": "What past work of God can you remember and meditate on today?",
+        "related": [
+          "Psalm 77:11",
+          "Deuteronomy 8:2",
+          "Lamentations 3:21"
+        ],
+        "alt": "An old man sitting by a fire with a scroll open on his lap.",
+        "art": "assets/psalm143/verse-5-watercolor.webp"
+      },
+      {
+        "title": "Thirsting like dry land",
+        "heading": "My soul thirsts for You like a parched land",
+        "meaning": "'I stretch out my hands to You; my soul thirsts for You like a parched land. Selah' David reaches out to God with open hands. His soul is as dry as cracked ground in a drought, desperate for rain. This is longing, not just for help but for God Himself. The pause (Selah) invites us to feel that thirst and bring it to the only One who can satisfy it.",
+        "contextTitle": "A thirsty soul",
+        "context": "Psalm 63:1 says, 'My soul thirsts for You... in a dry and weary land.' Psalm 42:1 pictures a deer panting for water. Jesus said whoever drinks the water He gives will never thirst (John 4:14).",
+        "explore": [
+          [
+            "Parched",
+            "Extremely dry, cracked from lack of water, as in a drought."
+          ],
+          [
+            "Stretch out my hands",
+            "A gesture of prayer, reaching toward God in longing and need."
+          ]
+        ],
+        "reflect": "What does your soul thirst for? How might God Himself be the answer?",
+        "related": [
+          "Psalm 63:1",
+          "Psalm 42:1",
+          "John 4:14"
+        ],
+        "alt": "Cracked dry earth under a hazy sky with a few clouds gathering.",
+        "art": "assets/psalm143/verse-6-watercolor.webp"
+      },
+      {
+        "title": "Answer quickly",
+        "heading": "Do not hide Your face from me",
+        "meaning": "'Answer me quickly, O LORD; my spirit fails. Do not hide Your face from me, or I will be like those who descend to the Pit.' David is at the breaking point. He needs God to answer now. God's 'face' means His favor and presence. If God seems hidden, David feels he will sink into death. This is the cry of someone who knows life without God's presence is no life at all.",
+        "contextTitle": "God's face",
+        "context": "Numbers 6:25 blesses, 'May the LORD cause His face to shine upon you.' Psalm 27:9 says, 'Hide not Your face from me.' Psalm 28:1 says, 'If You remain silent, I will be like those descending to the Pit.'",
+        "explore": [
+          [
+            "Face",
+            "God's favor, attention and presence turned toward someone."
+          ],
+          [
+            "Pit",
+            "A poetic name for the grave or the realm of the dead below."
+          ]
+        ],
+        "reflect": "Do you feel God's face is hidden? Ask Him plainly to show Himself to you.",
+        "related": [
+          "Numbers 6:25",
+          "Psalm 27:9",
+          "Psalm 28:1"
+        ],
+        "alt": "Morning sun breaking through heavy clouds over a valley.",
+        "art": "assets/psalm143/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Love in the morning",
+        "heading": "Let me hear Your loving devotion in the morning",
+        "meaning": "'Let me hear Your loving devotion in the morning, for I have put my trust in You. Teach me the way I should walk, for to You I lift up my soul.' After a long night, David asks to hear of God's love when morning comes. Then he asks for direction. Trust and guidance go together: because he trusts God, he wants to be shown the way. Every morning is a chance to begin again with God's love and leading.",
+        "contextTitle": "Morning mercies",
+        "context": "Lamentations 3:22-23 says His mercies are new every morning. Psalm 90:14 prays, 'Satisfy us in the morning with Your loving devotion.' Psalm 25:4 asks, 'Show me Your ways, O LORD; teach me Your paths.'",
+        "explore": [
+          [
+            "Morning",
+            "Dawn and the start of a new day, a picture of fresh mercy after a night of trouble."
+          ],
+          [
+            "Lift up my soul",
+            "To offer one's whole life to God in trust and dependence."
+          ]
+        ],
+        "reflect": "Tomorrow morning, how could you begin by listening for God's love and asking Him for direction?",
+        "related": [
+          "Lamentations 3:23",
+          "Psalm 90:14",
+          "Psalm 25:4"
+        ],
+        "alt": "Sunrise lighting a crossroads in open countryside.",
+        "art": "assets/psalm143/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Fleeing to refuge",
+        "heading": "I flee to You for refuge",
+        "meaning": "'Deliver me from my enemies, O LORD; I flee to You for refuge.' David does not run away from God but toward Him. God is his hiding place. Everyone runs somewhere when afraid: to distractions, substances, people or anger. David runs to the LORD. The safest place to flee is into the arms of the God who saves.",
+        "contextTitle": "Running to God",
+        "context": "Proverbs 18:10 says the name of the LORD is a strong tower; the righteous run into it and are safe. Psalm 31:2 asks God to be a rock of refuge. Hebrews 6:18 speaks of those who have fled to take hold of the hope set before them.",
+        "explore": [
+          [
+            "Deliver",
+            "To rescue or set someone free from danger, enemies or captivity."
+          ],
+          [
+            "Flee",
+            "To run away quickly from danger, here running toward God for safety."
+          ]
+        ],
+        "reflect": "When you're afraid, where do you tend to run? What would running to God look like?",
+        "related": [
+          "Proverbs 18:10",
+          "Psalm 31:2",
+          "Hebrews 6:18"
+        ],
+        "alt": "A fortified tower on a hill with a path leading to its open door.",
+        "art": "assets/psalm143/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Teach me Your will",
+        "heading": "Lead me on level ground",
+        "meaning": "'Teach me to do Your will, for You are my God. May Your good Spirit lead me on level ground.' David does not just want rescue; he wants to obey. He asks God to teach him not only what is right but how to do it. And he asks God's good Spirit to lead him on level ground, a smooth path without stumbling. Real deliverance includes being shaped into someone who walks with God.",
+        "contextTitle": "Led by the Spirit",
+        "context": "Romans 8:14 says those led by the Spirit of God are sons of God. Nehemiah 9:20 says God gave His good Spirit to instruct Israel. Isaiah 26:7 says God makes the path of the righteous level.",
+        "explore": [
+          [
+            "Will",
+            "What God desires and commands, His good purpose for how we live."
+          ],
+          [
+            "Level ground",
+            "A smooth, even path where one can walk without stumbling."
+          ]
+        ],
+        "reflect": "What part of God's will do you need Him to teach you to do, not just know?",
+        "related": [
+          "Romans 8:14",
+          "Nehemiah 9:20",
+          "Isaiah 26:7"
+        ],
+        "alt": "A smooth road stretching across a broad green plain.",
+        "art": "assets/psalm143/verse-10-watercolor.webp"
+      },
+      {
+        "title": "Revive me for Your name",
+        "heading": "For the sake of Your name, O LORD, revive me",
+        "meaning": "'For the sake of Your name, O LORD, revive me. In Your righteousness, bring my soul out of trouble.' David asks God to bring him back to life, not because David deserves it but for the sake of God's name, His reputation and glory. When God rescues His people, it shows the world who He is. Our revival becomes His praise.",
+        "contextTitle": "For His name's sake",
+        "context": "Psalm 23:3 says He leads me in paths of righteousness for His name's sake. Ezekiel 36:22 says God acts for the sake of His holy name. Psalm 119:25 prays, 'Revive me according to Your word.'",
+        "explore": [
+          [
+            "Revive",
+            "To bring back to life, renew strength and restore vitality."
+          ],
+          [
+            "For the sake of Your name",
+            "Because of God's reputation and glory, so that He will be honored."
+          ]
+        ],
+        "reflect": "How might God's revival in your life bring honor to His name?",
+        "related": [
+          "Psalm 23:3",
+          "Ezekiel 36:22",
+          "Psalm 119:25"
+        ],
+        "alt": "Green shoots sprouting from dry ground after a rain.",
+        "art": "assets/psalm143/verse-11-watercolor.webp"
+      },
+      {
+        "title": "I am Your servant",
+        "heading": "For I am Your servant",
+        "meaning": "'And in Your loving devotion, cut off my enemies. Destroy all who afflict me, for I am Your servant.' David closes by asking God to deal with those who afflict him. His reason: 'I am Your servant.' He belongs to God, so his cause is God's cause. God's loving devotion to His servants includes protecting them from those who would destroy them. He ends not with his own strength but with his identity as God's servant.",
+        "contextTitle": "Belonging to God",
+        "context": "Psalm 116:16 says, 'Truly, O LORD, I am Your servant.' Isaiah 54:17 says no weapon formed against God's servants will prosper. Romans 14:8 says whether we live or die, we belong to the Lord.",
+        "explore": [
+          [
+            "Afflict",
+            "To cause pain, distress or trouble, pressing hard on someone."
+          ],
+          [
+            "Servant",
+            "One who belongs to and serves a master; here a humble and honored title before God."
+          ]
+        ],
+        "reflect": "How does knowing you are God's servant give you security in conflict?",
+        "related": [
+          "Psalm 116:16",
+          "Isaiah 54:17",
+          "Romans 14:8"
+        ],
+        "alt": "A shepherd standing at the gate of a sheepfold guarding the flock at dusk.",
+        "art": "assets/psalm143/verse-12-watercolor.webp"
+      }
+    ]
+  }
+}

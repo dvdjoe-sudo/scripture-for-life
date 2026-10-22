@@ -1,5 +1,5 @@
-// Checks the unwired Psalms 37–40 drafts: exact BSB coverage, valid references, complete notes,
-// any declared partial-art checkpoint, and that nothing is wired into the live app yet.
+// Checks Psalms 37–40 editorial sources and unpublished illustration checkpoints.
+// Published lazy text studies remain independently verified by verify-text-psalms.mjs.
 import assert from 'node:assert/strict';
 import crypto from 'node:crypto';
 import fs from 'node:fs';
@@ -17,7 +17,8 @@ const generatedByPsalm={37:8};
 for(let n=37;n<=40;n++){
   const dir='drafts/psalm'+n+'/',source=psalms[n-1],chapter=Object.fromEntries(source);
   const src=read(dir+'source.json');assert.deepEqual(src.verses,source,'Psalm '+n+' source.json must equal bundled BSB exactly');
-  const ed=read(dir+'editorial.json'),study=ed.study;
+  const ed=read(dir+'editorial.json'),study=JSON.parse(JSON.stringify(ed.study));
+  if(n===37){const checkpoint=read(dir+'verses-1-8.json');assert.equal(checkpoint.verses.length,8);checkpoint.verses.forEach((r,i)=>{assert.equal(r.verse,i+1);study.verses[i]=r;});}
   assert.equal(study.number,n);assert.equal(study.verses.length,source.length,'Psalm '+n+' covers every verse');
   for(const key of ['title','heading','meaning','context','reflect','alt'])assert.equal(new Set(study.verses.map(r=>r[key])).size,source.length,'Psalm '+n+' distinct '+key);
   const generated=generatedByPsalm[n]||0,hashes=new Set();
@@ -41,8 +42,8 @@ for(let n=37;n<=40;n++){
   const originals=new Set();gp.paintings.forEach((p,i)=>{assert.equal(p.verse,i+1);assert(p.prompt.length>500);if(i<generated){assert.equal(p.status,'generated and visually inspected');assert(p.generatedOriginal);originals.add(p.generatedOriginal);}else{assert.equal(p.status,'prompt drafted; image not generated');assert(!('generatedOriginal' in p));}});assert.equal(originals.size,generated);
   if(generated){assert.deepEqual(read('assets/psalm'+n+'/generation-prompts.json'),gp,'Packaged prompt manifest parity');}else assert(!fs.existsSync('assets/psalm'+n),'No asset folder for Psalm '+n);
   assert(!fs.existsSync('psalm'+n+'.js'),'No runtime module for Psalm '+n);
-  for(const [f,s] of live)assert(!s.includes('psalm'+n+'.js')&&!s.includes('#/study/'+n+'/')&&!s.includes('drafts/psalm'+n),f+' must not wire Psalm '+n);
+  for(const [f,s] of live)assert(!s.includes('drafts/psalm'+n),f+' must not load unpublished Psalm '+n+' drafts');
   assert(!(n in engine.studies),'Psalm '+n+' must not be registered in the live app');
   counts[n]=source.length;
 }
-console.log('PASS — Psalms 37–40 drafts: exact BSB coverage',JSON.stringify(counts),'total',Object.values(counts).reduce((a,b)=>a+b),'verses; valid references/people/topics; Psalm 37 art checkpoint 1–8 verified; not wired.');
+console.log('PASS — Psalms 37–40 editorial sources: exact BSB coverage',JSON.stringify(counts),'total',Object.values(counts).reduce((a,b)=>a+b),'verses; valid references/people/topics; Psalm 37 art checkpoint 1–8 verified; illustration drafts not wired.');

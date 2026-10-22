@@ -1,0 +1,416 @@
+{
+  "chapter": 92,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 92 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "gratitude": [
+      "Psalm 92:1"
+    ],
+    "strength": [
+      "Psalm 92:10"
+    ],
+    "health": [
+      "Psalm 92:14"
+    ],
+    "direction": [
+      "Psalm 92:5"
+    ]
+  },
+  "study": {
+    "number": 92,
+    "coverVerse": 1,
+    "title": "Good to praise the LORD",
+    "intro": "Psalm 92, a song for the Sabbath day, celebrates how good it is to praise God morning and night. It contrasts the short-lived success of the wicked with the lasting, fruitful life of the righteous, planted in God's house like palm and cedar.",
+    "context": "Psalm 92 is the only psalm headed 'A song for the Sabbath day,' and Jewish tradition sang it in the temple on the Sabbath. It sits in Book IV between the refuge of Psalm 91 and the 'LORD reigns' psalms that follow. Verses 1-4 delight in praise; verses 5-9 reflect on God's deep works and the fall of the wicked; verses 10-15 describe the blessed, flourishing life of those planted in God's house.",
+    "peopleNote": "No author is named. Moses is linked because the Sabbath command was given through him. Jesus is linked as Lord of the Sabbath, whose rest this song celebrates. God is never portrayed as a human body in planned art.",
+    "people": [
+      {
+        "id": "jesus",
+        "name": "Jesus",
+        "ref": "Psalm 92:1"
+      },
+      {
+        "id": "moses",
+        "name": "Moses",
+        "ref": "Psalm 92:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "A Sabbath song",
+        "heading": "It is good to praise",
+        "meaning": "The heading reads 'A Psalm. A song for the Sabbath day.' Then it declares, 'It is good to praise the LORD, and to sing praises to Your name, O Most High.' On the day of rest, Israel's first task was worship. Praise is called 'good,' meaning right, fitting and refreshing. It is good for God's glory and good for the worshiper, who is lifted from worry to wonder.",
+        "contextTitle": "The Sabbath day",
+        "context": "Exodus 20:8 commands, 'Remember the Sabbath day by keeping it holy.' Genesis 2:3 says God blessed the seventh day and set it apart. Mark 2:27-28 records Jesus saying the Sabbath was made for man and that He is Lord of the Sabbath.",
+        "explore": [
+          [
+            "Sabbath",
+            "The seventh day of the week, set apart by God for rest and worship."
+          ],
+          [
+            "Most High",
+            "A title for God stressing that He rules above all powers in heaven and earth."
+          ]
+        ],
+        "reflect": "How could you make one part of your week a time set apart to praise God?",
+        "related": [
+          "Exodus 20:8",
+          "Genesis 2:3",
+          "Mark 2:28"
+        ],
+        "alt": "Worshipers gather in a stone courtyard in soft Sabbath morning light.",
+        "art": "assets/psalm92/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Morning and night",
+        "heading": "Love at dawn, faithfulness at dusk",
+        "meaning": "Verse 2 says praise means 'to proclaim Your loving devotion in the morning and Your faithfulness at night.' The day is framed by God's character. In the morning we greet His steadfast love as fresh mercy for the day ahead. At night we look back and see how faithfully He kept us. Bookending each day with these two truths shapes a heart steady in both hope and gratitude.",
+        "contextTitle": "New every morning",
+        "context": "Lamentations 3:22-23 says God's mercies never fail and are new every morning; great is His faithfulness. Psalm 5:3 speaks of morning prayer. Daniel 6:10 describes Daniel praying and giving thanks three times a day.",
+        "explore": [
+          [
+            "Loving devotion",
+            "God's steadfast, covenant love (hesed), loyal and generous toward His people."
+          ],
+          [
+            "Faithfulness",
+            "God's reliability in keeping every promise He has made, without failure."
+          ]
+        ],
+        "reflect": "What could a simple morning and evening rhythm of praise look like for you?",
+        "related": [
+          "Lamentations 3:23",
+          "Psalm 5:3",
+          "Daniel 6:10"
+        ],
+        "alt": "Dawn light spreads over hills while a crescent moon fades overhead.",
+        "art": "assets/psalm92/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Harp and lyre",
+        "heading": "Music for praise",
+        "meaning": "Verse 3 adds the instruments: 'with the ten-stringed harp and the melody of the lyre.' Israel praised God with skill and sound, not just quiet thought. Strings could carry joy, longing and celebration. Worship engaged hands, ears and voice. The verse invites us to bring our best gifts and creativity to God, whatever they are, offering them as music in His honor.",
+        "contextTitle": "Temple musicians",
+        "context": "1 Chronicles 25:1 describes musicians appointed to prophesy with lyres, harps and cymbals. Psalm 33:2-3 calls for praise with the ten-stringed harp and skillful playing. Colossians 3:16 encourages singing psalms, hymns and spiritual songs.",
+        "explore": [
+          [
+            "Ten-stringed harp",
+            "An ancient stringed instrument with ten strings, used in Israel's worship."
+          ],
+          [
+            "Lyre",
+            "A small hand-held stringed instrument, often played with a pick in songs of praise."
+          ]
+        ],
+        "reflect": "What gift or skill could you offer to God as an act of praise?",
+        "related": [
+          "1 Chronicles 25:1",
+          "Psalm 33:3",
+          "Colossians 3:16"
+        ],
+        "alt": "A wooden lyre and harp rest on a woven mat in warm lamplight.",
+        "art": "assets/psalm92/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Glad by Your deeds",
+        "heading": "Singing at His works",
+        "meaning": "Verse 4 gives the reason for praise: 'For You, O LORD, have made me glad by Your deeds; I sing for joy at the works of Your hands.' Joy is not forced; it rises from noticing what God has done. His works include creation, rescue and daily provision. When we stop and remember them, gladness follows. Sabbath rest gives space to look back and see His hand at work.",
+        "contextTitle": "Remembering God's works",
+        "context": "Psalm 111:2 says, 'Great are the works of the LORD; they are pondered by all who delight in them.' Psalm 143:5 says, 'I remember the days of old; I meditate on all Your works.' Philippians 4:4 urges, 'Rejoice in the Lord always.'",
+        "explore": [
+          [
+            "Deeds",
+            "The acts God performs, especially His saving acts in history and personal life."
+          ],
+          [
+            "Works of Your hands",
+            "All God has made and done, from creation to His acts of rescue."
+          ]
+        ],
+        "reflect": "What has God done recently that makes you glad when you remember it?",
+        "related": [
+          "Psalm 111:2",
+          "Psalm 143:5",
+          "Philippians 4:4"
+        ],
+        "alt": "Wildflowers cover a hillside sloping down to a sparkling lake.",
+        "art": "assets/psalm92/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Deep thoughts",
+        "heading": "How great are Your works",
+        "meaning": "Verse 5 exclaims, 'How great are Your works, O LORD, how deep are Your thoughts!' The psalmist is overwhelmed. God's deeds are vast and His purposes run deeper than human understanding. We see only part of His plan. This wonder leads not to confusion but to worship. When life seems tangled, remembering that God's thoughts are deep helps us trust Him even when we cannot follow.",
+        "contextTitle": "Beyond our understanding",
+        "context": "Isaiah 55:8-9 says God's thoughts are higher than our thoughts as the heavens are higher than the earth. Romans 11:33 exclaims, 'O, the depth of the riches of the wisdom and knowledge of God!' Psalm 139:17 calls His thoughts precious and vast.",
+        "explore": [
+          [
+            "Deep",
+            "Profound, beyond full human understanding, like waters too deep to measure."
+          ],
+          [
+            "Thoughts",
+            "God's purposes, plans and wisdom behind all He does in the world."
+          ]
+        ],
+        "reflect": "Where do you need to trust God's deep thoughts when you cannot see His plan?",
+        "related": [
+          "Isaiah 55:9",
+          "Romans 11:33",
+          "Psalm 139:17"
+        ],
+        "alt": "A deep canyon opens beneath a vast sky with drifting clouds.",
+        "art": "assets/psalm92/verse-5-watercolor.webp"
+      },
+      {
+        "title": "The senseless man",
+        "heading": "Not understanding",
+        "meaning": "Verse 6 says, 'A senseless man does not know, and a fool does not understand.' The great works of God are visible, yet some never notice. The problem is not lack of evidence but lack of willingness. A fool in Scripture is not unintelligent but morally careless, living as if God does not matter. Such a person misses the truth explained in the next verse about where evil leads.",
+        "contextTitle": "The fool in Scripture",
+        "context": "Psalm 14:1 says, 'The fool says in his heart, There is no God.' Proverbs 1:7 says fools despise wisdom and discipline. Romans 1:20 says God's invisible qualities are clearly seen in what He has made.",
+        "explore": [
+          [
+            "Senseless",
+            "Lacking spiritual insight, like an animal acting without thought or understanding."
+          ],
+          [
+            "Fool",
+            "In Scripture, one who lives as though God does not matter and rejects wisdom."
+          ]
+        ],
+        "reflect": "Is there any area where you are living as if God does not see or matter?",
+        "related": [
+          "Psalm 14:1",
+          "Proverbs 1:7",
+          "Romans 1:20"
+        ],
+        "alt": "A traveler hurries past a glorious sunset without looking up.",
+        "art": "assets/psalm92/verse-6-watercolor.webp"
+      },
+      {
+        "title": "Sprouting like grass",
+        "heading": "Short-lived success",
+        "meaning": "Verse 7 explains what the fool misses: 'that though the wicked sprout like grass, and all evildoers flourish, they will be forever destroyed.' Grass springs up fast after rain, covering hills in green, but it withers just as quickly under the hot sun. The success of evil can look impressive, yet it does not last. Those who reject God are heading toward ruin.",
+        "contextTitle": "Grass that withers",
+        "context": "Psalm 37:2 says the wicked will soon wither like grass. Isaiah 40:7-8 says grass withers and flowers fade, but the word of our God stands forever. James 1:10-11 compares the rich to a wildflower scorched by the sun.",
+        "explore": [
+          [
+            "Sprout",
+            "To spring up quickly from the ground, like grass after a rain."
+          ],
+          [
+            "Flourish",
+            "To grow and prosper vigorously, here describing the temporary success of evildoers."
+          ]
+        ],
+        "reflect": "How does this verse help when you see wrongdoers succeeding?",
+        "related": [
+          "Psalm 37:2",
+          "Isaiah 40:8",
+          "James 1:11"
+        ],
+        "alt": "Green grass on a hillside turns brown under a blazing summer sun.",
+        "art": "assets/psalm92/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Exalted forever",
+        "heading": "The center line",
+        "meaning": "Verse 8 stands at the center of the psalm: 'But You, O LORD, are exalted forever!' It is the shortest line and the turning point. The wicked rise and fall; God remains high above all, forever. Everything else in the psalm circles this truth. Whatever changes in the world, the Lord's rule does not. That fixed point gives the worshiper stability and hope.",
+        "contextTitle": "The LORD on high",
+        "context": "Psalm 93:4 says, 'Above the roar of many waters—the mighty breakers of the sea—the LORD on high is majestic.' Isaiah 57:15 calls God 'the One who is high and lifted up, who inhabits eternity.' Revelation 4:8 records the cry, 'Holy, holy, holy... who was and is and is to come.'",
+        "explore": [
+          [
+            "Exalted",
+            "Lifted high in rank and honor, raised above every other power."
+          ],
+          [
+            "Forever",
+            "Without end, describing God's unchanging and eternal rule."
+          ]
+        ],
+        "reflect": "What changes around you right now, and how does God's unchanging rule steady you?",
+        "related": [
+          "Psalm 93:4",
+          "Isaiah 57:15",
+          "Revelation 4:8"
+        ],
+        "alt": "A towering mountain peak rises above the clouds in clear light.",
+        "art": "assets/psalm92/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Your enemies will perish",
+        "heading": "Scattered evildoers",
+        "meaning": "Verse 9 repeats for emphasis: 'For surely Your enemies, O LORD, surely Your enemies will perish; all evildoers will be scattered.' The doubled phrase sounds like a drumbeat of certainty. Those who oppose God are His enemies, not merely ours. They may seem united and strong, but God will scatter them like chaff. The psalmist leaves justice with the One who rules forever.",
+        "contextTitle": "Scattering the proud",
+        "context": "Numbers 10:35 records Moses saying, 'Rise up, O LORD! May Your enemies be scattered.' Psalm 68:1 echoes the same prayer. Luke 1:51 says God has scattered those who are proud in their inmost thoughts.",
+        "explore": [
+          [
+            "Perish",
+            "To be destroyed or come to an end, here describing the final fate of evil."
+          ],
+          [
+            "Scattered",
+            "Broken up and driven apart so that a united force loses all its strength."
+          ]
+        ],
+        "reflect": "How does knowing God will deal with evil free you from bitterness?",
+        "related": [
+          "Numbers 10:35",
+          "Psalm 68:1",
+          "Luke 1:51"
+        ],
+        "alt": "Wind scatters chaff from a threshing floor into the evening air.",
+        "art": "assets/psalm92/verse-9-watercolor.webp"
+      },
+      {
+        "title": "Horn and fine oil",
+        "heading": "Strength and anointing",
+        "meaning": "Verse 10 turns to the psalmist: 'But You have exalted my horn like that of a wild ox; with fine oil I have been anointed.' A horn stood for strength; a wild ox was powerful and untamed. God has given him renewed vigor. Anointing with fine oil meant refreshment, honor and joy. While the wicked fade, the faithful are strengthened and refreshed by God.",
+        "contextTitle": "Horn and oil",
+        "context": "1 Samuel 2:1 records Hannah's song: 'My horn is exalted in the LORD.' Psalm 23:5 says, 'You anoint my head with oil; my cup overflows.' Isaiah 40:31 promises those who wait on the LORD will renew their strength.",
+        "explore": [
+          [
+            "Horn",
+            "A symbol of strength and power, taken from the horns of strong animals."
+          ],
+          [
+            "Anointed",
+            "Having oil poured on the head, a sign of honor, refreshment and blessing."
+          ]
+        ],
+        "reflect": "Where do you need God to renew your strength and refresh you today?",
+        "related": [
+          "1 Samuel 2:1",
+          "Psalm 23:5",
+          "Isaiah 40:31"
+        ],
+        "alt": "A small clay flask of olive oil sits beside a sunlit window ledge.",
+        "art": "assets/psalm92/verse-10-watercolor.webp"
+      },
+      {
+        "title": "Eyes see, ears hear",
+        "heading": "Witnessing the downfall",
+        "meaning": "Verse 11 says, 'My eyes see the downfall of my enemies; my ears hear the wailing of my wicked foes.' The psalmist has lived to see God's justice. His enemies' plans have collapsed. This is not a call to cruelty but confidence that God vindicates the faithful. Those who wait for God do not need to seize revenge; they will see the truth come to light.",
+        "contextTitle": "Vindication",
+        "context": "Psalm 54:7 says, 'My eyes have looked in triumph on my foes.' Psalm 91:8 promises you will only see the punishment of the wicked. 2 Thessalonians 1:6 says God is just and will repay those who afflict His people.",
+        "explore": [
+          [
+            "Downfall",
+            "A sudden collapse of power, plans or position, often brought on by one's own wrongs."
+          ],
+          [
+            "Wailing",
+            "Loud crying from grief or distress, here the sound of defeated wrongdoers."
+          ]
+        ],
+        "reflect": "How can you wait patiently for God to vindicate you instead of defending yourself?",
+        "related": [
+          "Psalm 54:7",
+          "Psalm 91:8",
+          "2 Thessalonians 1:6"
+        ],
+        "alt": "A crumbling stone watchtower stands abandoned on a windswept ridge.",
+        "art": "assets/psalm92/verse-11-watercolor.webp"
+      },
+      {
+        "title": "Palm and cedar",
+        "heading": "The righteous flourish",
+        "meaning": "Verse 12 offers a beautiful contrast: 'The righteous will flourish like a palm tree, and grow like a cedar in Lebanon.' Unlike quick-withering grass, palms live long, bear sweet fruit and stay green in dry places. Cedars of Lebanon were tall, strong and fragrant. The righteous grow steadily, upright and lasting. True flourishing comes from deep roots rather than sudden success.",
+        "contextTitle": "Trees of righteousness",
+        "context": "Psalm 1:3 says the righteous are like a tree planted by streams of water. Jeremiah 17:7-8 says the one who trusts in the LORD is like a tree that does not fear heat. Isaiah 61:3 calls God's people oaks of righteousness.",
+        "explore": [
+          [
+            "Palm tree",
+            "A tall, fruitful desert tree that stays green and lives for many decades."
+          ],
+          [
+            "Cedar in Lebanon",
+            "A huge, long-lived evergreen prized for strong, fragrant timber used in the temple."
+          ]
+        ],
+        "reflect": "What steady habits are helping your faith grow deep roots?",
+        "related": [
+          "Psalm 1:3",
+          "Jeremiah 17:8",
+          "Isaiah 61:3"
+        ],
+        "alt": "A tall date palm stands beside a towering cedar on a green hillside.",
+        "art": "assets/psalm92/verse-12-watercolor.webp"
+      },
+      {
+        "title": "Planted in His house",
+        "heading": "Flourishing in the courts",
+        "meaning": "Verse 13 says the righteous are 'planted in the house of the LORD, they will flourish in the courts of our God.' Trees do not grow strong by moving around; they stay planted. The righteous are rooted in God's presence and among His people. Their growth comes from where they are planted. Regular worship and closeness to God are the soil in which faith flourishes.",
+        "contextTitle": "Rooted in worship",
+        "context": "Psalm 84:10 says, 'Better is one day in Your courts than a thousand elsewhere.' Psalm 52:8 says, 'I am like an olive tree flourishing in the house of God.' Colossians 2:7 speaks of being rooted and built up in Christ.",
+        "explore": [
+          [
+            "Planted",
+            "Set firmly in the ground to grow; pictured here as being rooted in God's presence."
+          ],
+          [
+            "Courts",
+            "The open courtyards of the temple where Israel gathered to worship God."
+          ]
+        ],
+        "reflect": "Where are you planted spiritually, and is it helping you grow?",
+        "related": [
+          "Psalm 84:10",
+          "Psalm 52:8",
+          "Colossians 2:7"
+        ],
+        "alt": "Olive trees grow in a stone temple courtyard under a bright sky.",
+        "art": "assets/psalm92/verse-13-watercolor.webp"
+      },
+      {
+        "title": "Fruit in old age",
+        "heading": "Still green",
+        "meaning": "Verse 14 promises, 'In old age they will still bear fruit; healthy and green they will remain.' Age does not end usefulness in God's kingdom. Old palms still bear dates; the faithful still produce wisdom, prayer and love. Their spirits stay fresh and vigorous. This is a hopeful word for aging believers, and a reminder to honor the fruitfulness of those who have walked with God for many years.",
+        "contextTitle": "Fruitful elders",
+        "context": "Joshua 14:10-11 records Caleb at eighty-five saying he is as strong as ever. Luke 2:36-38 tells of Anna, an elderly prophetess who served God day and night. Isaiah 46:4 says, 'Even to your old age I will be the same.'",
+        "explore": [
+          [
+            "Bear fruit",
+            "To produce good results, here the lasting goodness of a faithful life."
+          ],
+          [
+            "Green",
+            "Fresh and full of life, describing spiritual vigor that does not dry up."
+          ]
+        ],
+        "reflect": "Who is an older believer whose faithful life has borne fruit for you?",
+        "related": [
+          "Joshua 14:11",
+          "Luke 2:37",
+          "Isaiah 46:4"
+        ],
+        "alt": "An old date palm heavy with ripe fruit stands in an oasis.",
+        "art": "assets/psalm92/verse-14-watercolor.webp"
+      },
+      {
+        "title": "He is my Rock",
+        "heading": "No unrighteousness in Him",
+        "meaning": "The psalm ends in verse 15: the flourishing righteous live 'to proclaim, The LORD is upright; He is my Rock, and in Him there is no unrighteousness.' Their long and fruitful lives are a testimony. They tell the world that God is fair, solid and good. A rock does not shift. The final purpose of every blessing is to make God's character known to others.",
+        "contextTitle": "God the Rock",
+        "context": "Deuteronomy 32:4 says, 'He is the Rock, His work is perfect... a God of faithfulness without injustice.' 1 Samuel 2:2 says there is no Rock like our God. 1 John 1:5 says God is light, and in Him there is no darkness at all.",
+        "explore": [
+          [
+            "Upright",
+            "Morally straight and just, always doing what is right."
+          ],
+          [
+            "Rock",
+            "A picture of God as solid, unchanging and a safe foundation for life."
+          ]
+        ],
+        "reflect": "How could your life this week testify that God is upright and reliable?",
+        "related": [
+          "Deuteronomy 32:4",
+          "1 Samuel 2:2",
+          "1 John 1:5"
+        ],
+        "alt": "A massive granite outcrop stands firm above a green valley.",
+        "art": "assets/psalm92/verse-15-watercolor.webp"
+      }
+    ]
+  }
+}

@@ -25,7 +25,7 @@ for(let n=1;n<=15;n++){
  assert(html.includes(`data-speakref="Psalm 17:${n}">${escapeHTML(chapter[n])}</p>`),'Exact source verse '+n);
  assert.equal((html.match(/data-verse-study-art=/g)||[]).length,1);
  assert.equal((html.match(/role="tab"/g)||[]).length,4);
- assert.equal((html.match(/>Verse \d+<\/a>/g)||[]).length,15);
+ assert.equal((html.match(/>Verse \d+ of \d+<\/option>/g)||[]).length,15);
  assert(row.meaning.length>300&&row.context.length>140&&row.reflect.length>50&&row.explore.length>=2);
  row.related.forEach(checkRef);
  const image=fs.readFileSync(row.art);assert(image.length>50000,'Production art must not be empty or a placeholder');assert.equal(image.subarray(8,12).toString(),'WEBP');

@@ -1,0 +1,110 @@
+{
+  "chapter": 133,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 133 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "alone": [
+      "Psalm 133:1"
+    ],
+    "gratitude": [
+      "Psalm 133:3"
+    ]
+  },
+  "study": {
+    "number": 133,
+    "coverVerse": 1,
+    "title": "How good when brothers live in harmony",
+    "intro": "Psalm 133 is a brief celebration of unity. David says that God's people living together in harmony is good and pleasant, like fragrant oil running down the high priest's beard and like heavy dew falling from Mount Hermon onto Zion. Where unity is, God commands His blessing. Pilgrims arriving from every tribe in Jerusalem would have sung it together.",
+    "context": "Headed 'of David', this Song of Ascents may reflect the gathering of the tribes for the festivals in Jerusalem. The anointing oil recalls Aaron's anointing as high priest (Exodus 29:7; Leviticus 8:12). Mount Hermon in the far north is Israel's highest mountain and famous for heavy dew; its dew falling on Zion in the south is a poetic picture of blessing flowing across the whole land.",
+    "peopleNote": "Attributed to David. Aaron, the first high priest, is named as part of the picture of anointing. God is never portrayed as a human figure in planned art.",
+    "people": [
+      {
+        "id": "david",
+        "name": "David",
+        "ref": "Psalm 133:1"
+      },
+      {
+        "id": "aaron",
+        "name": "Aaron",
+        "ref": "Psalm 133:1"
+      }
+    ],
+    "verses": [
+      {
+        "title": "Good and pleasant",
+        "heading": "Brothers live together in harmony",
+        "meaning": "'Behold, how good and pleasant it is when brothers live together in harmony!' 'Behold' means 'Look at this!' David points to something worth noticing: people who belong to God living together in unity. It is both good, morally right, and pleasant, a delight to experience. Unity is rare and precious in families, churches and nations. When it happens, it is a sign of God at work.",
+        "contextTitle": "Unity among God's people",
+        "context": "Jesus prayed that His followers would be one (John 17:21). Ephesians 4:3 urges believers to keep the unity of the Spirit through the bond of peace. Pilgrims from all twelve tribes gathered together at the festivals.",
+        "explore": [
+          [
+            "Behold",
+            "An invitation to look and pay attention to something important."
+          ],
+          [
+            "Harmony",
+            "Unity and agreement, living together peacefully as one."
+          ]
+        ],
+        "reflect": "Where have you experienced the goodness of unity? How can you help build it?",
+        "related": [
+          "John 17:21",
+          "Ephesians 4:3",
+          "Romans 15:5"
+        ],
+        "alt": "Families from many villages sharing a meal in a large courtyard.",
+        "art": "assets/psalm133/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Oil on Aaron's beard",
+        "heading": "Running down Aaron's beard",
+        "meaning": "'It is like fine oil on the head, running down on the beard, running down Aaron’s beard over the collar of his robes.' The first picture is the anointing of the high priest. Precious, fragrant oil was poured generously on Aaron's head and flowed down over his beard and robes. Unity is like that: costly, fragrant, overflowing, and holy. It sets God's people apart and spreads blessing from the head downward to all.",
+        "contextTitle": "Anointing the high priest",
+        "context": "Exodus 29:7 commands anointing Aaron by pouring oil on his head. Exodus 30:22-33 describes the sacred anointing oil made with myrrh and cinnamon. 1 John 2:20 speaks of believers having an anointing from the Holy One.",
+        "explore": [
+          [
+            "Fine oil",
+            "Precious, fragrant anointing oil, carefully mixed with spices for sacred use."
+          ],
+          [
+            "Collar",
+            "The neck opening of a garment; here the edge of the high priest's robe."
+          ]
+        ],
+        "reflect": "How can you bring the 'fragrance' of unity into your family or church?",
+        "related": [
+          "Exodus 29:7",
+          "Exodus 30:25",
+          "1 John 2:20"
+        ],
+        "alt": "An alabaster jar of oil and folded priestly linen on a stone ledge.",
+        "art": "assets/psalm133/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Dew from Hermon",
+        "heading": "The blessing of life forevermore",
+        "meaning": "'It is like the dew of Hermon falling on the mountains of Zion. For there the LORD has bestowed the blessing of life forevermore.' The second picture is refreshing dew. Mount Hermon in the north was known for heavy dew that kept plants alive in dry seasons. Imagine that dew falling on Zion far to the south. Unity refreshes and gives life. And where God's people live as one, He commands His blessing, the gift of life that never ends.",
+        "contextTitle": "Hermon's dew",
+        "context": "Mount Hermon, over nine thousand feet high, is famous for heavy dew. Hosea 14:5 says God will be like the dew to Israel. Jesus promises eternal life to those who believe (John 3:16), the blessing of life forevermore.",
+        "explore": [
+          [
+            "Hermon",
+            "Israel's highest mountain in the far north, often snowcapped and known for heavy dew."
+          ],
+          [
+            "Bestowed",
+            "Given or commanded as a gift; God granting His blessing with authority."
+          ]
+        ],
+        "reflect": "Where do you need the refreshing dew of unity and God's blessing in your relationships?",
+        "related": [
+          "Hosea 14:5",
+          "John 3:16",
+          "Deuteronomy 33:28"
+        ],
+        "alt": "Morning dew glistening on grass with a snowcapped mountain in the distance.",
+        "art": "assets/psalm133/verse-3-watercolor.webp"
+      }
+    ]
+  }
+}

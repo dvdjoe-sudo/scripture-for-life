@@ -20,7 +20,7 @@ for(const number of [10]){
   assert(html.includes(`data-speakref="Psalm ${number}:${n}">${escapeHTML(chapter[n])}</p>`),'Exact source verse');
   assert.equal((html.match(/data-verse-study-art=/g)||[]).length,1);
   assert.equal((html.match(/role="tab"/g)||[]).length,4);
-  assert.equal((html.match(/>Verse \d+<\/a>/g)||[]).length,source.length);
+  assert.equal((html.match(/>Verse \d+ of \d+<\/option>/g)||[]).length,source.length);
   assert(row.meaning.length>300&&row.context.length>140&&row.reflect.length>50&&row.explore.length>=2);
   row.related.forEach(checkRef);
   const image=fs.readFileSync(row.art);assert.equal(image.subarray(8,12).toString(),'WEBP');

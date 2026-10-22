@@ -1,0 +1,277 @@
+{
+  "chapter": 111,
+  "status": "unwired text draft; awaiting art and wiring",
+  "sourceReview": "Read bundled BSB Psalm 111 in full with each verse's related passages before drafting. References are thematic or literary comparisons, not an invented historical occasion. Scripture is never stored in the notes; it loads from the bundled BSB.",
+  "topicPlan": {
+    "gratitude": [
+      "Psalm 111:1"
+    ],
+    "direction": [
+      "Psalm 111:10"
+    ],
+    "strength": [
+      "Psalm 111:6"
+    ]
+  },
+  "study": {
+    "number": 111,
+    "coverVerse": 1,
+    "title": "Great are the works of the LORD",
+    "intro": "Psalm 111 is a short acrostic hymn of praise: in Hebrew each half-line begins with the next letter of the alphabet. It celebrates the works of the LORD, His provision, His covenant faithfulness and His trustworthy laws. It ends with the well-known line, 'The fear of the LORD is the beginning of wisdom.' It pairs closely with Psalm 112, which describes the person who lives in that fear.",
+    "context": "Psalms 111 and 112 are twin alphabetic poems. Psalm 111 praises what God is and does; Psalm 112 shows what the God-fearing person becomes. Both begin with 'Hallelujah.' Psalm 111 recalls the exodus, the manna, the covenant at Sinai and the gift of the land, summing up Israel's story as a series of God's works worth studying and remembering.",
+    "peopleNote": "No author or individual is named. The psalm speaks of the upright assembly and of God's people. God is never portrayed as a human figure in planned art; His works are shown through creation, provision and gathered worshipers.",
+    "people": [],
+    "verses": [
+      {
+        "title": "Wholehearted thanks",
+        "heading": "Thanks in the council of the upright",
+        "meaning": "'Hallelujah! I will give thanks to the LORD with all my heart in the council of the upright and in the assembly.' The singer gives thanks fully, holding nothing back, and does it among God's people. Private gratitude is good, but here it is shared. The small circle of close friends and the larger gathered congregation both hear what God has done.",
+        "contextTitle": "An alphabet of praise",
+        "context": "Psalm 111 is an acrostic: each of its 22 half-lines begins with a successive Hebrew letter. This helped people memorize it. Psalm 9:1 also vows to give thanks with all the heart.",
+        "explore": [
+          [
+            "Council of the upright",
+            "A close circle of faithful people who meet together, like trusted friends sharing counsel."
+          ],
+          [
+            "Assembly",
+            "The larger gathering of God's people for worship and festivals."
+          ]
+        ],
+        "reflect": "Who are the upright people you could give thanks alongside this week?",
+        "related": [
+          "Psalm 9:1",
+          "Psalm 22:25",
+          "Hebrews 10:25"
+        ],
+        "alt": "A small group of villagers seated in a courtyard sharing a meal.",
+        "art": "assets/psalm111/verse-1-watercolor.webp"
+      },
+      {
+        "title": "Works worth pondering",
+        "heading": "They are pondered by all who delight in them",
+        "meaning": "'Great are the works of the LORD; they are pondered by all who delight in them.' God's deeds in creation and history are not meant to be glanced at, but studied. Those who love them keep thinking about them. The verse invites curiosity: the more we examine what God has made and done, the more there is to wonder at.",
+        "contextTitle": "Study as worship",
+        "context": "Some scientists have seen this verse as a call to study creation; it was carved over the door of the Cavendish Laboratory in Cambridge. Psalm 92:5 also says, 'How great are Your works, O LORD.'",
+        "explore": [
+          [
+            "Works",
+            "God's deeds, both in creating the world and in acting through history to save His people."
+          ],
+          [
+            "Pondered",
+            "Searched out and studied carefully, with thought and attention."
+          ]
+        ],
+        "reflect": "What part of God's creation or work could you study with fresh curiosity this week?",
+        "related": [
+          "Psalm 92:5",
+          "Psalm 104:24",
+          "Romans 1:20"
+        ],
+        "alt": "A villager examining a seed head in a sunlit wheat field.",
+        "art": "assets/psalm111/verse-2-watercolor.webp"
+      },
+      {
+        "title": "Splendid and majestic",
+        "heading": "His righteousness endures forever",
+        "meaning": "'Splendid and majestic is His work; His righteousness endures forever.' God's actions are beautiful as well as powerful. His work carries honor and glory. Behind it stands His righteousness, His always-right character, which never wears out. Psalm 112:3 will use the same words of the godly person, who reflects God's character.",
+        "contextTitle": "A twin phrase",
+        "context": "The line 'His righteousness endures forever' appears in Psalm 111:3 about God and in Psalm 112:3 and 9 about the one who fears Him. Paul quotes Psalm 112:9 in 2 Corinthians 9:9.",
+        "explore": [
+          [
+            "Majestic",
+            "Having royal greatness and grandeur that inspires awe."
+          ],
+          [
+            "Righteousness",
+            "Being right and just in every way; God's moral perfection shown in His actions."
+          ]
+        ],
+        "reflect": "Where have you seen beauty and rightness together in what God has done?",
+        "related": [
+          "Psalm 112:3",
+          "2 Corinthians 9:9",
+          "Psalm 145:5"
+        ],
+        "alt": "Golden evening light over terraced hills and a quiet river.",
+        "art": "assets/psalm111/verse-3-watercolor.webp"
+      },
+      {
+        "title": "Wonders remembered",
+        "heading": "The LORD is gracious and compassionate",
+        "meaning": "'He has caused His wonders to be remembered; the LORD is gracious and compassionate.' God made sure His great acts would not be forgotten. He gave Israel feasts like Passover and memorials like the stones from the Jordan. Remembering those wonders leads to knowing His heart: He is full of grace and tender compassion.",
+        "contextTitle": "Built-in reminders",
+        "context": "The Passover was given as a memorial (Exodus 12:14), and stones were set up at the Jordan so children would ask what they meant (Joshua 4:6-7). Exodus 34:6 is the source of 'gracious and compassionate.'",
+        "explore": [
+          [
+            "Wonders",
+            "Miraculous deeds that cause amazement, like the plagues and the parting of the sea."
+          ],
+          [
+            "Compassionate",
+            "Feeling deep tender care, like a parent for a child, and acting to help."
+          ]
+        ],
+        "reflect": "What reminder could you set up in your life to recall what God has done?",
+        "related": [
+          "Exodus 12:14",
+          "Joshua 4:6",
+          "Exodus 34:6"
+        ],
+        "alt": "A pile of river stones set up beside a ford with children looking on.",
+        "art": "assets/psalm111/verse-4-watercolor.webp"
+      },
+      {
+        "title": "Food and covenant",
+        "heading": "He provides food for those who fear Him",
+        "meaning": "'He provides food for those who fear Him; He remembers His covenant forever.' God's care is very practical: daily food. Israel learned this through the manna in the wilderness. Behind the daily bread is a lasting promise. He feeds His people because He has bound Himself to them by covenant and never forgets it.",
+        "contextTitle": "Manna in the wilderness",
+        "context": "Exodus 16 tells how God provided manna each morning. Jesus taught His followers to pray for daily bread (Matthew 6:11) and called Himself the bread of life (John 6:35).",
+        "explore": [
+          [
+            "Provides food",
+            "Gives what is needed for daily life; literally 'gives prey,' food as a provider."
+          ],
+          [
+            "Covenant",
+            "A binding promise relationship God makes with His people, which He keeps faithfully."
+          ]
+        ],
+        "reflect": "How has God provided for your daily needs in recent weeks?",
+        "related": [
+          "Exodus 16:15",
+          "Matthew 6:11",
+          "John 6:35"
+        ],
+        "alt": "Morning frost-like flakes covering the ground around desert tents.",
+        "art": "assets/psalm111/verse-5-watercolor.webp"
+      },
+      {
+        "title": "The inheritance of nations",
+        "heading": "The power of His works",
+        "meaning": "'He has shown His people the power of His works by giving them the inheritance of the nations.' God brought Israel into the land of Canaan, a land that had belonged to other peoples. This showed His power and kept His promise to Abraham. The gift of land was proof that His words come true, even across centuries of waiting.",
+        "contextTitle": "Promise fulfilled",
+        "context": "God promised the land to Abraham in Genesis 12:7. Joshua 21:45 says not one of the LORD's good promises to Israel failed; every one came to pass.",
+        "explore": [
+          [
+            "Inheritance",
+            "Property passed down as a gift; the land was Israel's gift from God, not earned."
+          ],
+          [
+            "Nations",
+            "The peoples who lived in Canaan before Israel entered the land."
+          ]
+        ],
+        "reflect": "Which of God's promises have you seen come true in your life?",
+        "related": [
+          "Genesis 12:7",
+          "Joshua 21:45",
+          "Deuteronomy 6:10"
+        ],
+        "alt": "A family arriving at the edge of fertile valley fields.",
+        "art": "assets/psalm111/verse-6-watercolor.webp"
+      },
+      {
+        "title": "Truth and justice",
+        "heading": "All His precepts are trustworthy",
+        "meaning": "'The works of His hands are truth and justice; all His precepts are trustworthy.' What God does is true and just, and what He commands is reliable. His deeds and His words match. Because His actions have proven faithful, His instructions can be trusted as the right way to live, even when they seem costly.",
+        "contextTitle": "Deeds and words",
+        "context": "Psalm 19:7 says the testimony of the LORD is trustworthy, making wise the simple. Deuteronomy 32:4 says all His ways are just; He is a God of faithfulness.",
+        "explore": [
+          [
+            "Precepts",
+            "Specific instructions or commands God gives for living well."
+          ],
+          [
+            "Trustworthy",
+            "Reliable and dependable; able to be leaned on without fear of failing."
+          ]
+        ],
+        "reflect": "Which of God's instructions do you find hardest to trust right now?",
+        "related": [
+          "Psalm 19:7",
+          "Deuteronomy 32:4",
+          "Psalm 119:86"
+        ],
+        "alt": "A carpenter checking a straight beam with a plumb line.",
+        "art": "assets/psalm111/verse-7-watercolor.webp"
+      },
+      {
+        "title": "Upheld forever",
+        "heading": "Enacted in truth and uprightness",
+        "meaning": "'They are upheld forever and ever, enacted in truth and uprightness.' God's precepts are not temporary rules that change with fashion. They are firmly established and rooted in truth. They come from His upright character, so they remain a stable foundation for each generation, from parents to children.",
+        "contextTitle": "Lasting words",
+        "context": "Jesus said heaven and earth will pass away, but His words will never pass away (Matthew 24:35). Isaiah 40:8 says the word of our God stands forever.",
+        "explore": [
+          [
+            "Upheld",
+            "Supported and kept firmly in place, never collapsing."
+          ],
+          [
+            "Uprightness",
+            "Straightness and integrity; being morally right without twisting."
+          ]
+        ],
+        "reflect": "How does an unchanging word from God help you in a changing world?",
+        "related": [
+          "Isaiah 40:8",
+          "Matthew 24:35",
+          "Psalm 119:89"
+        ],
+        "alt": "Ancient stone foundations standing firm beside a rushing stream.",
+        "art": "assets/psalm111/verse-8-watercolor.webp"
+      },
+      {
+        "title": "Redemption sent",
+        "heading": "Holy and awesome is His name",
+        "meaning": "'He has sent redemption to His people; He has ordained His covenant forever; holy and awesome is His name.' God set His people free, most clearly at the exodus, and bound Himself to them permanently. This leads to awe at His name. He is holy, wholly other, and awesome, worthy of deep reverence and joy.",
+        "contextTitle": "Redemption and awe",
+        "context": "Exodus 6:6 promises, 'I will redeem you with an outstretched arm.' Luke 1:68 echoes this line when Zechariah praises God for sending redemption through Christ.",
+        "explore": [
+          [
+            "Redemption",
+            "Release by payment or rescue; God buying back His people from slavery."
+          ],
+          [
+            "Awesome",
+            "Inspiring fear and wonder because of overwhelming greatness and holiness."
+          ]
+        ],
+        "reflect": "What does it mean for you personally that God has sent redemption?",
+        "related": [
+          "Exodus 6:6",
+          "Luke 1:68",
+          "Ephesians 1:7"
+        ],
+        "alt": "Freed people walking out through an open city gate at dawn.",
+        "art": "assets/psalm111/verse-9-watercolor.webp"
+      },
+      {
+        "title": "The beginning of wisdom",
+        "heading": "The fear of the LORD",
+        "meaning": "'The fear of the LORD is the beginning of wisdom; all who follow His precepts gain rich understanding. His praise endures forever!' After praising God's works, the psalm concludes with how to respond. Fearing the LORD means reverent trust that takes Him seriously. That is where wisdom starts, and obedience deepens understanding.",
+        "contextTitle": "Wisdom's starting point",
+        "context": "The same saying appears in Proverbs 1:7 and 9:10 and Job 28:28. Psalm 112:1 picks it up immediately: 'Blessed is the man who fears the LORD.'",
+        "explore": [
+          [
+            "Fear of the LORD",
+            "Reverent awe and trust toward God, which shapes how a person thinks and lives."
+          ],
+          [
+            "Understanding",
+            "Insight and good sense that sees things rightly and makes wise choices."
+          ]
+        ],
+        "reflect": "What is one decision this week where reverence for God could guide you toward wisdom?",
+        "related": [
+          "Proverbs 9:10",
+          "Proverbs 1:7",
+          "Job 28:28"
+        ],
+        "alt": "An open scroll on a table by a window with soft morning light.",
+        "art": "assets/psalm111/verse-10-watercolor.webp"
+      }
+    ]
+  }
+}
