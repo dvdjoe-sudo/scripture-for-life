@@ -9,7 +9,7 @@ on:
 jobs:
   web-and-capacitor:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -19,8 +19,21 @@ jobs:
         run: npm run check
       - name: Install Capacitor
         run: npm install --no-audit --no-fund
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('package.json') }}
+      # The runner image already has Chromium's system libraries. Installing them with
+      # --with-deps goes through apt, whose mirror sometimes stalls for ~10 minutes, so
+      # only fall back to apt when Chromium cannot actually launch.
       - name: Install headless Chromium
-        run: npx playwright install --with-deps chromium
+        run: |
+          npx playwright install chromium
+          if ! node -e "require('playwright').chromium.launch().then(b=>b.close()).catch(e=>{console.error(e.message);process.exit(1)})"; then
+            echo "Chromium could not launch; installing system dependencies with apt"
+            npx playwright install-deps chromium
+          fi
       - name: Smoke-test source website and packaged Android webview
         run: npm run smoke:web
       - name: Create Android project from the same web bundle
