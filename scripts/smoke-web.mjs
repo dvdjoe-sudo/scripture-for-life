@@ -99,6 +99,14 @@ try {
     await page.waitForFunction(()=>{const i=document.querySelector('.psalms-row-thumb');return i?.complete&&i.naturalWidth>0;});
     const rowBox=await page.locator('.psalms-row').first().boundingBox();
     assert.ok(rowBox.height>=44&&rowBox.height<=100,'Compact psalm rows: '+rowBox.height+'px');
+    // Phones: Go-to-verse dropdown and the verse come before the watercolor, within the first screen.
+    for(const route of ['#/study/91/4','#/study/23/2','#/study/46/1','#/study/1/1']){
+      await visit(route,'.phone-verse-first .study-verse .verse-text');
+      const [sel,verse,art]=await Promise.all(['.phone-verse-first select[data-psalm-verse-select]','.phone-verse-first .study-verse .verse-text','.phone-verse-first .study-landscape'].map(q=>page.locator(q).first().boundingBox()));
+      assert.ok(sel.y<verse.y,route+' verse dropdown comes before the verse');
+      assert.ok(verse.y<art.y,route+' verse comes before the watercolor on phones');
+      assert.ok(verse.y<760,route+' verse visible in the first screen: '+verse.y);
+    }
     await visit('#/walk/23/4','.psalm-verse-art');
     assert.ok(page.url().endsWith('#/study/23/4'),'Old walk links open the verse illustration');
     await page.getByRole('tab',{name:'Reflect',exact:true}).click();
