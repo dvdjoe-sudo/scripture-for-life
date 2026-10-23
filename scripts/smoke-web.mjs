@@ -268,7 +268,9 @@ try {
     for(let step=1;step<=6;step++){
       await visit('#/study/46/'+step,'.ps46-page .verse-text');
       assert.equal(await page.locator('.study-explainer [role="tab"]').count(),4);
-      assert.equal(await page.locator('.journey-step.active').count(),1);
+      assert.equal(await page.locator('.ps46-page .journey-steps,.ps46-page .journey-step').count(),0,'Psalm 46 has no row of section buttons');
+      assert.equal(await page.locator('.ps46-page [data-psalm-verse-select]').inputValue(),String(step),'Psalm 46 dropdown shows the current section');
+      assert.equal(await page.locator('.ps46-page [data-psalm-verse-select] option').count(),6);
       await page.waitForFunction(()=>{const i=document.querySelector('.ps46-watercolor');return i?.complete&&i.naturalWidth>0;});
       const expected=psalm46Sections[step-1];
       assert.equal(await page.locator('.ps46-passage').count(),expected.length);
@@ -281,6 +283,9 @@ try {
         assert.ok((await page.locator('#study-panel').innerText()).length>25);
       }
     }
+    await page.locator('.ps46-page [data-psalm-verse-select]').selectOption('3');
+    await page.waitForFunction(()=>location.hash==='#/study/46/3');
+    await page.locator('.ps46-page [data-speakref="Psalm 46:4"]').waitFor();
     await visit('#/study/46/6','.ps46-page');
     await page.getByRole('tab',{name:'Reflect',exact:true}).click();
     await page.locator('[data-note-ref="Psalm 46:10"]').fill('Help me respond with wisdom.');

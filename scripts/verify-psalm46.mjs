@@ -21,6 +21,7 @@ for(let step=1;step<=6;step++){
   assert.equal((html.match(/role="tab"/g)||[]).length,4);
   assert.equal((html.match(/class="verse-text"/g)||[]).length,study.sections[step-1].verses.length);
   for(const v of study.sections[step-1].verses){assert(html.includes(`data-speakref="Psalm 46:${v}">${escapeHTML(chapter[v])}</p>`),'Verse must match the existing BSB data exactly');assert.equal(study.link(`Psalm 46:${v}`),`#/study/46/${step}`);}
+  assert(html.includes('data-psalm-verse-select data-psalm="46"')&&!html.includes('journey-step'),'Psalm 46 uses the verse dropdown, not a button row');
   assert(html.includes('#/people/jacob')&&html.includes('#/people/sons-of-korah'));
   assert(html.includes('#/help/fear')&&html.includes('#/help/strength'));
 }
