@@ -103,6 +103,23 @@ try {
     assert.equal(await page.locator('[data-note-ref="Psalm 23:4"]').inputValue(),'A quiet reflection');
     await visit('#/read/19/23','.reader-verse');
     assert.equal(await page.locator('a[href="#/study/23/1"]').count()>0,true,'Psalm 23 Bible reader links to original study');
+    // Whole-episode Listen on every story book's full-episode page, chunked for speech synthesis.
+    for(const route of ['#/stories/2/full','#/zechariah/1/full','#/kings1/1/full']){
+      await visit(route,'.gen-full .ep-listen [data-action="ep-listen"]');
+      assert.equal(await page.locator('.ep-listen #ep-speed option').count(),3,'Episode Listen has the scene speed choices');
+    }
+    assert.equal(await page.evaluate(()=>{const ch=window.APP_TEST.episodeChunks(['A '+'very long phrase, '.repeat(40)+'end.','Short one. Two!']);return ch.every(c=>c.text.length<=220)&&ch.at(-1).p===1&&ch.map(c=>c.text).join(' ').replace(/\s+/g,'')===('A '+'very long phrase, '.repeat(40)+'end.Short one. Two!').replace(/\s+/g,'');}),true,'Episode text is split into short speech chunks without losing words');
+    await page.evaluate(()=>{window.__spoken=[];Object.defineProperty(window,'speechSynthesis',{configurable:true,value:{paused:false,getVoices:()=>[],cancel(){},pause(){this.paused=true;},resume(){this.paused=false;},speak(u){window.__spoken.push(u);}}});});
+    await page.locator('.ep-listen #ep-speed').selectOption('1.15');
+    await page.locator('[data-action="ep-listen"]').click();
+    assert.equal(await page.locator('[data-action="ep-pause"]').isVisible(),true,'Pause appears while the episode plays');
+    assert.equal(await page.evaluate(()=>[window.__spoken.length,Math.round(window.__spoken[0].rate*100)].join()),'1,115','Episode narration starts with the chosen speed');
+    await page.locator('[data-action="ep-pause"]').click();
+    assert.equal(await page.locator('[data-action="ep-pause"]').innerText(),'Resume','Pause toggles to Resume');
+    await page.evaluate(()=>window.__spoken[0].onend());
+    assert.equal(await page.evaluate(()=>window.__spoken.length),2,'Narration continues to the next chunk');
+    await page.locator('[data-action="ep-stop"]').click();
+    assert.equal(await page.locator('[data-action="ep-listen"]').isVisible(),true,'Stop returns to the Listen button');
     // Word search: Bible verses, story scenes and people; references still work first.
     await visit('#/search/shepherd','.word-hit');
     assert.equal(await page.locator('.word-hit a.verse-ref[href="#/read/19/23/1"]').count(),1,'Word search finds Psalm 23:1 for shepherd');
@@ -824,7 +841,7 @@ try {
     }
     assert.deepEqual(errors,[],loc.label+' unhandled browser exceptions');
     await context.close();
-    console.log('PASS '+loc.label+' on 390px viewport — home, Genesis, Psalm 23, Psalm 46, character/help links, reflections, Bible journey, full reader, word search.');
+    console.log('PASS '+loc.label+' on 390px viewport — home, Genesis, Psalm 23, Psalm 46, character/help links, reflections, Bible journey, full reader, word search, episode Listen.');
   }
 }finally{
   if(browser)await browser.close();
