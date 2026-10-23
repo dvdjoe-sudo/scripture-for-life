@@ -90,6 +90,8 @@ try {
     assert.match(await page.locator('h1').innerText(),/Nebuchadnezzar/,'Nebuchadnezzar profile renders');
     await visit('#/people/three-friends','.story-step');
     assert.match(await page.locator('h1').innerText(),/Shadrach/,'Three friends profile renders');
+    await visit('#/people/ezra','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Ezra/,'Ezra profile renders');
     await visit('#/study/23/1','.study-landscape .landscape');
     assert.equal(await page.locator('.study-explainer [role="tab"]').count(),4,'Original four-tab Psalm study preserved');
     await page.locator('[data-psalm-verse-select]').selectOption('3');
@@ -200,14 +202,14 @@ try {
     assert.equal(await page.locator('a[href="#/chronicles"]').count(),1,'Last Malachi scene continues to Chronicles stories');
     await visit('#/zechariah/15/5','.gen-narrative');
     assert.equal(await page.locator('a[href="#/malachi"]').count()>0,true,'Last Zechariah scene leads to Malachi stories');
-    // Chronicles story book: library link, fourteen episodes, Malachi leads on to it, and the last scene continues to Ezra 1.
+    // Chronicles story book: library link, fourteen episodes, Malachi leads on to it, and the last scene continues to Ezra stories.
     await visit('#/books','.gen-cta-actions a[href="#/chronicles"]');
     await visit('#/chronicles','.gen-episode-tile');
     assert.equal(await page.locator('.gen-episode-tile').count(),14,'Chronicles has fourteen episodes');
     await visit('#/chronicles/1/1','.gen-narrative');
     assert.match(await page.locator('.gen-narrative').innerText(),/Chronicles does not open with a scene\./,'Chronicles scene shows the retelling');
     await visit('#/chronicles/14/5','.gen-narrative');
-    assert.equal(await page.locator('a[href="#/read/15/1"]').count(),1,'Last Chronicles scene continues to Ezra 1');
+    assert.equal(await page.locator('a[href="#/ezra"]').count(),1,'Last Chronicles scene continues to Ezra stories');
     await visit('#/chronicles/9/1','.gen-narrative');
     assert.equal(await page.locator('a[href="#/people/jehoshaphat"]').count(),1,'Chronicles scene links Jehoshaphat inline');
     await visit('#/chronicles/11/3','.gen-narrative');
@@ -215,6 +217,19 @@ try {
     await visit('#/daniel/4/2','.gen-narrative');
     assert.equal(await page.locator('a[href="#/people/nebuchadnezzar"]').count(),1,'Daniel scene links Nebuchadnezzar inline');
     assert.equal(await page.locator('a[href="#/people/three-friends"]').count(),1,'Daniel scene links the three friends inline');
+    // Ezra story book: library link, ten episodes, Chronicles leads on to it, and the last scene continues to Esther 1.
+    await visit('#/books','.gen-cta-actions a[href="#/ezra"]');
+    await visit('#/ezra','.gen-episode-tile');
+    assert.equal(await page.locator('.gen-episode-tile').count(),10,'Ezra has ten episodes');
+    await visit('#/ezra/1/1','.gen-narrative');
+    assert.match(await page.locator('.gen-narrative').innerText(),/The exile was supposed to be the end of the story/,'Ezra scene shows the retelling');
+    await visit('#/ezra/3/1','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/zerubbabel"]').count(),1,'Ezra scene links Zerubbabel inline');
+    assert.equal(await page.locator('a[href="#/people/joshua-high-priest"]').count(),1,'Ezra scene links Jeshua to Joshua the High Priest inline');
+    await visit('#/ezra/7/1','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/ezra"]').count(),1,'Ezra scene links Ezra inline');
+    await visit('#/ezra/10/5','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/read/17/1"]').count(),1,'Last Ezra scene continues to Esther 1');
     // Whole-episode Listen on every story book's full-episode page, chunked for speech synthesis.
     for(const route of ['#/stories/2/full','#/zechariah/1/full','#/joel/1/full','#/kings1/1/full']){
       await visit(route,'.gen-full .ep-listen [data-action="ep-listen"]');
