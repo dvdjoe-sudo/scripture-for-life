@@ -18,3 +18,4 @@ html,body{max-width:100%;overflow-x:clip}.container,.hero>div,.hero-art,.site-he
 /* Topic pages: soft alternating tint so each verse stands apart. */
 .topic-layout .verse-card{padding-left:16px;padding-right:16px}.topic-layout .verse-card:nth-child(even){background:var(--cream)}
 .topic-layout.topic-layout-single{grid-template-columns:minmax(0,1fr);max-width:760px}
+.word-section{max-width:800px;margin:30px 0}.word-hit .verse-text{font-size:19px}.word-hit mark{background:#ecebd8;color:inherit;border-radius:3px;padding:0 2px}.word-story .verse-text a{color:inherit}
