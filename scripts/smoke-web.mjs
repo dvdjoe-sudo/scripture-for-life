@@ -120,6 +120,25 @@ try {
     assert.equal(await page.evaluate(()=>window.__spoken.length),2,'Narration continues to the next chunk');
     await page.locator('[data-action="ep-stop"]').click();
     assert.equal(await page.locator('[data-action="ep-listen"]').isVisible(),true,'Stop returns to the Listen button');
+    // Continue where you left off: one home card for the most recent story scene or psalm verse; ✓ on finished episodes.
+    await page.evaluate(()=>{localStorage.removeItem('scripture-for-life.last-place');localStorage.removeItem('scripture-for-life.episodes-done');localStorage.removeItem('scripture-for-life.haggai-progress');});
+    await visit('#/','.hero');
+    assert.equal(await page.locator('.continue-card').count(),0,'No continue card before reading anything');
+    await visit('#/zechariah/1/3','.gen-narrative');
+    await visit('#/','.continue-card');
+    assert.equal(await page.locator('.continue-card').getAttribute('href'),'#/zechariah/1/3','Continue card links to the last story scene');
+    assert.match(await page.locator('.continue-card').innerText(),/Zechariah · Episode 1 · Scene 3 of \d+/);
+    await visit('#/study/23/4','.study-landscape .landscape');
+    await visit('#/','.continue-card');
+    assert.equal(await page.locator('.continue-card').getAttribute('href'),'#/study/23/4','Continue card links to the most recent psalm verse');
+    assert.match(await page.locator('.continue-card h3').innerText(),/Psalm 23:4/);
+    await visit('#/haggai','.gen-episode-tile');
+    assert.equal(await page.locator('.episode-done').count(),0,'No ✓ before an episode is finished');
+    const haggaiLen=Number((await page.locator('.gen-episode-tile .gen-kicker').first().innerText()).match(/(\d+) SCENES/)[1]);
+    await visit('#/haggai/1/'+haggaiLen,'.gen-narrative');
+    await visit('#/haggai','.gen-episode-tile');
+    assert.equal(await page.locator('.gen-episode-tile[href^="#/haggai/1/"] .episode-done').count(),1,'Finished episode tile shows ✓');
+    assert.equal(await page.locator('.episode-done').count(),1,'Only the finished episode shows ✓');
     // Word search: Bible verses, story scenes and people; references still work first.
     await visit('#/search/shepherd','.word-hit');
     assert.equal(await page.locator('.word-hit a.verse-ref[href="#/read/19/23/1"]').count(),1,'Word search finds Psalm 23:1 for shepherd');
@@ -841,7 +860,7 @@ try {
     }
     assert.deepEqual(errors,[],loc.label+' unhandled browser exceptions');
     await context.close();
-    console.log('PASS '+loc.label+' on 390px viewport — home, Genesis, Psalm 23, Psalm 46, character/help links, reflections, Bible journey, full reader, word search, episode Listen.');
+    console.log('PASS '+loc.label+' on 390px viewport — home, Genesis, Psalm 23, Psalm 46, character/help links, reflections, Bible journey, full reader, word search, episode Listen, continue reading.');
   }
 }finally{
   if(browser)await browser.close();
