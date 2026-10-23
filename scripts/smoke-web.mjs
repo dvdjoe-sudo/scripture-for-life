@@ -150,6 +150,34 @@ try {
     for(const action of ['save','copy-verse','listen-verse','save-note'])assert.equal(await page.locator('#dialog-content [data-action="'+action+'"]').count()>0,true,'Verse popup offers '+action);
     assert.equal(await page.locator('#dialog-content textarea').count(),1,'Verse popup offers a reflection');
     await page.locator('[data-action="close-dialog"]').first().click();
+    // Share: navigator.share with text, BSB reference and link; falls back to Copy with a "Copied" toast.
+    await page.evaluate(()=>{window.__shared=[];window.__clip=[];navigator.share=async d=>{window.__shared.push(d);};Object.defineProperty(navigator,'clipboard',{configurable:true,value:{writeText:async t=>{window.__clip.push(t);}}});});
+    await page.evaluate(()=>{location.hash='#/study/23/1';});
+    await page.locator('.verse-actions [data-action="share-verse"][data-ref="Psalm 23:1"]').first().click();
+    let shared=await page.evaluate(()=>window.__shared.at(-1));
+    assert.match(shared.text,/The LORD is my shepherd[\s\S]*Psalm 23:1, Berean Standard Bible \(BSB\)/,'Share sends the verse text and BSB reference');
+    assert.equal(shared.url,'https://dvdjoe-sudo.github.io/scripture-for-life/#/study/23/1','Share sends a link to the verse');
+    await page.evaluate(()=>{location.hash='#/psalms/91/4';});
+    await page.locator('#psalm-line-4 [data-action="share-verse"]').waitFor();
+    await page.evaluate(()=>{location.hash='#/zechariah/1/3';});
+    await page.locator('[data-action="share-scene"]').click();
+    shared=await page.evaluate(()=>window.__shared.at(-1));
+    assert.match(shared.text,/Zechariah story, Episode 1 · Scene 3[\s\S]*Zechariah 1:\d+.*\(BSB\)/,'Scene share includes the book, scene and BSB passage');
+    assert.equal(shared.url.endsWith('#/zechariah/1/3'),true,'Scene share links to the scene');
+    await page.evaluate(()=>{location.hash='#/help/fear';});
+    const shareSaveBtn=page.locator('.verse-card [data-action="save"]:not(.is-saved)').first();
+    const shareRef=await shareSaveBtn.getAttribute('data-ref');
+    await shareSaveBtn.click();
+    await page.evaluate(()=>{location.hash='#/saved';});
+    await page.locator('.saved-list [data-action="share-verse"]').first().waitFor();
+    await page.evaluate(()=>{navigator.share=undefined;});
+    await page.locator('.saved-list [data-action="share-verse"][data-ref="'+shareRef+'"]').click();
+    assert.equal(await page.locator('#toast').innerText(),'Copied','Without Web Share, Share copies and shows "Copied"');
+    assert.match(await page.evaluate(()=>window.__clip.at(-1)),/Berean Standard Bible \(BSB\)\n\nhttps:\/\/dvdjoe-sudo\.github\.io\/scripture-for-life\/#\//,'Copied share text includes the reference and link');
+    await page.locator('.saved-list [data-action="open-verse"][data-ref="'+shareRef+'"]').click();
+    assert.equal(await page.locator('#verse-dialog[open] [data-action="share-verse"]').count(),1,'Verse popup has Share');
+    await page.locator('[data-action="close-dialog"]').first().click();
+    await page.locator('.saved-list [data-action="save"][data-ref="'+shareRef+'"]').click();
     // Word search: Bible verses, story scenes and people; references still work first.
     await visit('#/search/shepherd','.word-hit');
     assert.equal(await page.locator('.word-hit a.verse-ref[href="#/read/19/23/1"]').count(),1,'Word search finds Psalm 23:1 for shepherd');
@@ -871,7 +899,7 @@ try {
     }
     assert.deepEqual(errors,[],loc.label+' unhandled browser exceptions');
     await context.close();
-    console.log('PASS '+loc.label+' on 390px viewport — home, Genesis, Psalm 23, Psalm 46, character/help links, reflections, Bible journey, full reader, word search, episode Listen, continue reading, verse of the day.');
+    console.log('PASS '+loc.label+' on 390px viewport — home, Genesis, Psalm 23, Psalm 46, character/help links, reflections, Bible journey, full reader, word search, episode Listen, continue reading, verse of the day, share.');
   }
 }finally{
   if(browser)await browser.close();
