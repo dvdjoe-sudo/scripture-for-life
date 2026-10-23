@@ -78,6 +78,10 @@ try {
     const cards=await page.locator('.people-page .person-card').evaluateAll(els=>els.map(e=>Math.round(e.getBoundingClientRect().height)));
     assert.ok(cards.length>10&&cards.every(h=>h>=44&&h<=84),'People cards are compact rows: '+cards.slice(0,5));
     assert.equal(await page.locator('.people-page .person-card .more').evaluateAll(els=>els.filter(e=>e.offsetWidth).length),0,'People cards hide the repeated Explore label on phones');
+    await visit('#/people/joel','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Joel/,'Joel profile renders');
+    await visit('#/people/malachi','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Malachi/,'Malachi profile renders');
     await visit('#/study/23/1','.study-landscape .landscape');
     assert.equal(await page.locator('.study-explainer [role="tab"]').count(),4,'Original four-tab Psalm study preserved');
     await page.locator('[data-psalm-verse-select]').selectOption('3');
