@@ -64,8 +64,20 @@ try {
     assert.equal(await page.locator('.gen-next a[href="#/journey"]').count(),1);
     await visit('#/journey','.gen-books');
     assert.equal(await page.locator('.gen-book').count(),66,'All 66 books present');
+    // Journey: books grouped in nine collapsible sections, first open; phone book names are larger.
+    assert.equal(await page.locator('details.gen-era').count(),9,'Journey has nine book sections');
+    assert.equal(await page.locator('details.gen-era[open]').count(),1,'Only the first journey section starts open');
+    assert.equal(await page.locator('details.gen-era').first().getAttribute('open'),'','The Law section starts open');
+    assert.ok(parseFloat(await page.locator('.gen-era .gen-book span').first().evaluate(e=>getComputedStyle(e).fontSize))>=20,'Journey book names are large on phones');
+    await page.locator('details.gen-era').last().locator('summary').click();
+    await page.locator('details.gen-era').last().locator('a.gen-book[href="#/read/66/1"]').waitFor({state:'visible'});
     assert.doesNotMatch(await page.locator('.page-head').innerText(),/first three Exodus/,'Journey intro has no stale episode counts');
     assert.equal(await page.locator('.gen-content a[href="#/books"]').count(),1,'Journey links to every story book');
+    // People: compact one-column list of names with one-line summaries on phones.
+    await visit('#/people','.people-grid .person-card');
+    const cards=await page.locator('.people-page .person-card').evaluateAll(els=>els.map(e=>Math.round(e.getBoundingClientRect().height)));
+    assert.ok(cards.length>10&&cards.every(h=>h>=44&&h<=84),'People cards are compact rows: '+cards.slice(0,5));
+    assert.equal(await page.locator('.people-page .person-card .more').evaluateAll(els=>els.filter(e=>e.offsetWidth).length),0,'People cards hide the repeated Explore label on phones');
     await visit('#/study/23/1','.study-landscape .landscape');
     assert.equal(await page.locator('.study-explainer [role="tab"]').count(),4,'Original four-tab Psalm study preserved');
     await page.locator('[data-psalm-verse-select]').selectOption('3');
