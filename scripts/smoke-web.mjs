@@ -87,12 +87,18 @@ try {
     await page.locator('[data-psalm-switch]').selectOption('23');await page.locator('.psalm-verse-art').waitFor();
     assert.ok(page.url().endsWith('#/study/23/6'),'Psalm switcher retains place');
     await page.locator('.psalm-navigation a[href="#/psalms"]').click();
-    await page.locator('.psalms-all-grid .psalms-study-card').first().waitFor();
-    assert.equal(await page.locator('.psalms-all-grid .psalms-study-card').count(),150,'All 150 Psalm chapter cards remain available');
-    assert.equal(await page.locator('.psalms-detailed a[href^="#/study/23/"]').count(),1,'Original Psalm 23 detailed study remains available');
-    assert.equal(await page.locator('.psalms-detailed a[href^="#/study/46/"]').count(),1,'Psalm 46 detailed study remains available');
-    assert.equal(await page.locator('.psalms-detailed a[href^="#/study/25/"]').count(),1,'Psalm 25 detailed study is discoverable');
-    assert.equal(await page.locator('.psalms-detailed a[href^="#/study/26/"]').count(),1,'Psalm 26 detailed study is discoverable');
+    await page.locator('.psalms-list .psalms-row').first().waitFor();
+    assert.equal(await page.locator('.psalms-list .psalms-row').count(),150,'All 150 Psalms remain available as compact rows');
+    assert.equal(await page.locator('.psalms-list .psalms-row a').count(),0,'Each psalm row is a single link (no duplicate links)');
+    assert.equal(await page.locator('.psalms-collection .psalms-detailed').count(),0,'Duplicate study-link list removed from the Psalms list');
+    for(const n of [23,46,25,26])assert.match(await page.locator('.psalms-row[data-psalm-number="'+n+'"]').getAttribute('href'),new RegExp('^#/study/'+n+'/'),'Psalm '+n+' detailed study opens from its row');
+    // Every row keeps its watercolor as a small lazy thumbnail made from the existing art.
+    const thumbs=await page.locator('.psalms-row-thumb').evaluateAll(imgs=>imgs.map(i=>[i.getAttribute('src'),i.dataset.fullSrc,i.loading]));
+    assert.equal(thumbs.length,150);
+    for(const [src,full,loading] of thumbs){assert.equal(loading,'lazy');assert.ok(fs.existsSync(path.join(loc.folder,full)),full);assert.ok(fs.existsSync(path.join(loc.folder,src)),'Missing thumbnail '+src+' — run: python3 scripts/make-psalm-thumbs.py '+full);}
+    await page.waitForFunction(()=>{const i=document.querySelector('.psalms-row-thumb');return i?.complete&&i.naturalWidth>0;});
+    const rowBox=await page.locator('.psalms-row').first().boundingBox();
+    assert.ok(rowBox.height>=44&&rowBox.height<=100,'Compact psalm rows: '+rowBox.height+'px');
     await visit('#/walk/23/4','.psalm-verse-art');
     assert.ok(page.url().endsWith('#/study/23/4'),'Old walk links open the verse illustration');
     await page.getByRole('tab',{name:'Reflect',exact:true}).click();
@@ -352,11 +358,11 @@ try {
     await page.locator('#gen-narrative p').first().waitFor();
     await visit('#/read/1/1','.reader-verse');
     assert.ok(await page.locator('.reader-verse').count()>=20,'Genesis chapter 1 verses rendered');
-    await visit('#/psalms','.psalms-all-grid .psalms-study-card');
+    await visit('#/psalms','.psalms-list .psalms-row');
     await page.locator('[data-psalms-search]').fill('119');
-    assert.equal(await page.locator('.psalms-all-grid .psalms-study-card:visible').count(),1);
-    assert.equal(await page.locator('.psalms-all-grid .psalms-study-card:visible a.btn').getAttribute('href'),'#/study/119/1');
-    await page.locator('.psalms-all-grid .psalms-study-card:visible a:has-text("Whole chapter")').click();
+    assert.equal(await page.locator('.psalms-list .psalms-row:visible').count(),1);
+    assert.equal(await page.locator('.psalms-list .psalms-row:visible').getAttribute('href'),'#/study/119/1');
+    await visit('#/psalms/119','[data-psalm-chapter="119"]');
     await page.locator('[data-psalm-chapter="119"]').waitFor();
     assert.equal(await page.locator('.psalm-chapter-verse').count(),176);
     await page.locator('[data-psalm-verse-jump]').selectOption('105');
@@ -379,9 +385,9 @@ try {
     await page.locator('[data-psalm-switch]').selectOption('2');await page.locator('[data-verse-study="2"]').waitFor();
     await visit('#/psalms/2','[data-psalm-chapter="2"]');
     await page.locator('.psalm-chapter-pager').first().locator('a[href="#/psalms/3"]').click();await page.locator('[data-psalm-chapter="3"]').waitFor();
-    await visit('#/psalms','.psalms-all-grid .psalms-study-card');
+    await visit('#/psalms','.psalms-list .psalms-row');
     await page.locator('[data-psalms-search]').fill('1');
-    await page.locator('.psalms-all-grid .psalms-study-card:visible a.btn').click();
+    await page.locator('.psalms-list .psalms-row:visible').click();
     await page.locator('[data-verse-study="1"]').waitFor();
     const psalm1=Object.fromEntries(JSON.parse(fs.readFileSync(path.join(root,'data/bible.json'),'utf8')).books[18].chapters[0]);
     const meanings=[],images=[];
