@@ -107,6 +107,17 @@ try {
       assert.ok(verse.y<art.y,route+' verse comes before the watercolor on phones');
       assert.ok(verse.y<760,route+' verse visible in the first screen: '+verse.y);
     }
+    // Phones: story controls (Listen, Speed, Share, Text size) fit one row and the story text starts in the first screen.
+    for(const route of ['#/stories/1/1','#/joel/1/2','#/malachi/1/1']){
+      await visit(route,'.gen-narrative p');
+      await page.locator('.gen-reading-controls [data-action="share-scene"]').waitFor();
+      await page.locator('.gen-reading-controls [data-action="text-size"]').waitFor();
+      const tops=await page.locator('.gen-reading-controls > :is(button,label):visible').evaluateAll(els=>els.map(e=>Math.round(e.getBoundingClientRect().top)));
+      assert.ok(tops.length>=4&&Math.max(...tops)-Math.min(...tops)<=4,route+' story controls on one row: '+tops);
+      assert.equal(await page.getByRole('button',{name:'Share this scene'}).count(),1,route+' Share keeps its full accessible name');
+      const textTop=(await page.locator('.gen-narrative p').first().boundingBox()).y;
+      assert.ok(textTop<700,route+' story text starts in the first screen: '+textTop);
+    }
     await visit('#/walk/23/4','.psalm-verse-art');
     assert.ok(page.url().endsWith('#/study/23/4'),'Old walk links open the verse illustration');
     await page.getByRole('tab',{name:'Reflect',exact:true}).click();
