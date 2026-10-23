@@ -42,9 +42,9 @@ window.PEOPLE.push(...[
   },
   {
     "id": "three-friends",
-    "name": "Shadrach, Meshach, and Abednego",
+    "name": "Shadrach, Meshach, Abednego",
     "icon": "spark",
-    "tag": "The three who would not bow, and walked in the fire with a fourth",
+    "tag": "The three who would not bow",
     "relatedTopic": "strength",
     "storyRoute": "#/daniel/4/1",
     "storyLabel": "The Image of Gold and the Furnace",
