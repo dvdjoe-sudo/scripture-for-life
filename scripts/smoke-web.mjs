@@ -86,6 +86,10 @@ try {
     assert.match(await page.locator('h1').innerText(),/Jehoshaphat/,'Jehoshaphat profile renders');
     await visit('#/people/jehoiada','.story-step');
     assert.match(await page.locator('h1').innerText(),/Jehoiada/,'Jehoiada profile renders');
+    await visit('#/people/nebuchadnezzar','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Nebuchadnezzar/,'Nebuchadnezzar profile renders');
+    await visit('#/people/three-friends','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Shadrach/,'Three friends profile renders');
     await visit('#/study/23/1','.study-landscape .landscape');
     assert.equal(await page.locator('.study-explainer [role="tab"]').count(),4,'Original four-tab Psalm study preserved');
     await page.locator('[data-psalm-verse-select]').selectOption('3');
@@ -208,6 +212,9 @@ try {
     assert.equal(await page.locator('a[href="#/people/jehoshaphat"]').count(),1,'Chronicles scene links Jehoshaphat inline');
     await visit('#/chronicles/11/3','.gen-narrative');
     assert.equal(await page.locator('a[href="#/people/jehoiada"]').count(),1,'Chronicles scene links Jehoiada inline');
+    await visit('#/daniel/4/2','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/nebuchadnezzar"]').count(),1,'Daniel scene links Nebuchadnezzar inline');
+    assert.equal(await page.locator('a[href="#/people/three-friends"]').count(),1,'Daniel scene links the three friends inline');
     // Whole-episode Listen on every story book's full-episode page, chunked for speech synthesis.
     for(const route of ['#/stories/2/full','#/zechariah/1/full','#/joel/1/full','#/kings1/1/full']){
       await visit(route,'.gen-full .ep-listen [data-action="ep-listen"]');
