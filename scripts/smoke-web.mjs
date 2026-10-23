@@ -64,6 +64,8 @@ try {
     assert.equal(await page.locator('.gen-next a[href="#/journey"]').count(),1);
     await visit('#/journey','.gen-books');
     assert.equal(await page.locator('.gen-book').count(),66,'All 66 books present');
+    assert.doesNotMatch(await page.locator('.page-head').innerText(),/first three Exodus/,'Journey intro has no stale episode counts');
+    assert.equal(await page.locator('.gen-content a[href="#/books"]').count(),1,'Journey links to every story book');
     await visit('#/study/23/1','.study-landscape .landscape');
     assert.equal(await page.locator('.study-explainer [role="tab"]').count(),4,'Original four-tab Psalm study preserved');
     await page.locator('[data-psalm-verse-select]').selectOption('3');
@@ -164,6 +166,25 @@ try {
     await page.locator('.ps46-page [data-action="save"][data-ref="Psalm 46:11"]').click();
     await visit('#/saved','.saved-list');
     assert.equal(await page.locator('.saved-list a.verse-ref[href="#/read/19/46/11"]').count(),1);
+    // Story scene reflections appear on Saved, link back to their scene, and hide when cleared.
+    assert.equal(await page.locator('.story-reflections').count(),0,'No story section without story notes');
+    await visit('#/zechariah/1/3','#zec-note');
+    await page.locator('#zec-note').fill('A story reflection for Zechariah.');
+    await page.locator('[data-zec="save"]').click();
+    await visit('#/saved','.story-reflections');
+    assert.match(await page.locator('#story-reflections-title').innerText(),/Your story reflections/);
+    const storyCard=page.locator('.story-reflections .story-reflection');
+    assert.equal(await storyCard.count(),1);
+    assert.match(await storyCard.innerText(),/Zechariah · Episode 1: Return to Me · Scene 3/);
+    assert.match(await storyCard.innerText(),/Where Are Your Fathers Now\?/);
+    assert.match(await storyCard.innerText(),/A story reflection for Zechariah\./);
+    assert.equal(await storyCard.locator('a[href="#/zechariah/1/3"]').count(),2,'Story reflection links back to its scene');
+    await visit('#/zechariah/1/3','#zec-note');
+    assert.equal(await page.locator('#zec-note').inputValue(),'A story reflection for Zechariah.');
+    await page.locator('#zec-note').fill('');
+    await page.locator('[data-zec="save"]').click();
+    await visit('#/saved','.saved-list');
+    assert.equal(await page.locator('.story-reflections').count(),0,'Cleared story notes hide the section');
     for(const person of ['sons-of-korah','jacob']){
       await visit('#/people/'+person,'.story-step');
       assert.equal(await page.locator('.side-note a[href="#/study/46/1"]').count(),1,'Character profile returns to the Psalm');
