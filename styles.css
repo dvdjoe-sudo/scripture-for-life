@@ -20,3 +20,4 @@ html,body{max-width:100%;overflow-x:clip}.container,.hero>div,.hero-art,.site-he
 .topic-layout.topic-layout-single{grid-template-columns:minmax(0,1fr);max-width:760px}
 .word-section{max-width:800px;margin:30px 0}.word-hit .verse-text{font-size:19px}.word-hit mark{background:#ecebd8;color:inherit;border-radius:3px;padding:0 2px}.word-story .verse-text a{color:inherit}
 .continue-card{display:block;margin:22px 0 0;max-width:460px}.continue-card .eyebrow{display:block;margin:6px 0 4px}.episode-done{color:var(--green);font-weight:700;font-size:14px}
+button.art-caption{background:none;border:0;padding:0;cursor:pointer;font-family:var(--serif);font-size:18px;line-height:1.35}button.art-caption:focus-visible{outline:2px solid #fffbed;outline-offset:4px;border-radius:6px}
