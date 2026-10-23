@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import vm from 'node:vm';
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
-const c={window:{SFL_PSALMS:{switcher:()=>'<nav></nav>'}},document:{addEventListener(){}},location:{hash:'#/'},localStorage:{getItem:()=>null,setItem(){}}};
+const c={window:{SFL_PSALMS:{switcher:(n,c,v='')=>'<nav>'+v+'</nav>'}},document:{addEventListener(){}},location:{hash:'#/'},localStorage:{getItem:()=>null,setItem(){}}};
 for(const p of ['data.js','psalm-verse-study.js','psalm36.js','psalm-text-studies.js'])vm.runInNewContext(fs.readFileSync(p,'utf8'),c);
 const e=c.window.SFL_VERSE_STUDIES,bible=read('data/bible.json').books[18].chapters;
 const E=v=>String(v).replace(/[&<>"']/g,x=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[x]));

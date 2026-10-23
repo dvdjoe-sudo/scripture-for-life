@@ -5,7 +5,7 @@ import fs from 'node:fs';
 import vm from 'node:vm';
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
 const bible=read('data/bible.json').books,psalms=bible[18].chapters;
-const ctx={window:{SFL_PSALMS:{switcher:()=>'<nav></nav>'}},document:{addEventListener(){}},location:{hash:'#/'},localStorage:{getItem:()=>null,setItem(){}}};
+const ctx={window:{SFL_PSALMS:{switcher:(n,c,v='')=>'<nav>'+v+'</nav>'}},document:{addEventListener(){}},location:{hash:'#/'},localStorage:{getItem:()=>null,setItem(){}}};
 for(const f of ['data.js','content.js','exodus-people.js','psalm-verse-study.js'])vm.runInNewContext(fs.readFileSync(f,'utf8'),ctx);
 const engine=ctx.window.SFL_VERSE_STUDIES,people=ctx.window.PEOPLE,topics=ctx.window.BIBLE_DATA.topics;
 const escapeHTML=v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));

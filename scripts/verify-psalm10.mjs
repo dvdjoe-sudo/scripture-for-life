@@ -3,7 +3,7 @@ import fs from 'node:fs';
 import vm from 'node:vm';
 import crypto from 'node:crypto';
 const values=new Map([['scripture-for-life.notes','preserve reflections'],['scripture-for-life.psalm1-place','5']]);
-const ctx={window:{SFL_PSALMS:{switcher:()=>'<nav></nav>'}},document:{addEventListener(){}},location:{hash:'#/study/2/1'},localStorage:{getItem:k=>values.get(k)||null,setItem:(k,v)=>values.set(k,v)}};
+const ctx={window:{SFL_PSALMS:{switcher:(n,c,v='')=>'<nav>'+v+'</nav>'}},document:{addEventListener(){}},location:{hash:'#/study/2/1'},localStorage:{getItem:k=>values.get(k)||null,setItem:(k,v)=>values.set(k,v)}};
 for(const f of ['psalm-verse-study.js','psalm1.js','psalms-2-3.js','psalm4.js','psalm5.js','psalm6.js','psalms-7-8.js','psalm9.js','psalm10.js'])vm.runInNewContext(fs.readFileSync(f,'utf8'),ctx);
 const engine=ctx.window.SFL_VERSE_STUDIES,bible=JSON.parse(fs.readFileSync('data/bible.json','utf8')).books;
 const escapeHTML=v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));

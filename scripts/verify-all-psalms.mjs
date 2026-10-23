@@ -28,7 +28,10 @@ for(let n=1;n<=150;n++){
 assert.equal(book.lastPlace().chapter,150);
 assert.throws(()=>book.render(151,0,{}));
 assert.throws(()=>book.render(0,0,{}));
-assert.equal((book.collection().match(/data-psalm-number=/g)||[]).length,150);
+const nav=c.window.SFL_PSALMS;assert.equal(nav.resumeURL(null),'#/psalms/1','Psalms opens at Psalm 1 before anything is read');
+assert.equal(nav.resumeURL({href:'#/study/91/4'}),'#/study/91/4');assert.equal(nav.resumeURL({href:'#/psalms/119/105'}),'#/psalms/119/105');
+for(const href of ['#/psalms/0','#/psalms/151','#/stories/1/1','javascript:alert(1)'])assert.equal(nav.resumeURL({href}),'#/psalms/1',href);
+assert.equal((nav.switcher(91).match(/<option /g)||[]).length,150);assert.equal(nav.findPsalms('119')[0].number,119);
 const offline=fs.readFileSync('sw.js','utf8');
 for(const[src]of Object.values(book.art)){
  const bytes=fs.readFileSync(src);assert(bytes.equals(fs.readFileSync('www/'+src)),src+' agrees with Android');

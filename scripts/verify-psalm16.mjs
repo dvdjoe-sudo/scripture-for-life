@@ -3,7 +3,7 @@ import fs from 'node:fs';
 import vm from 'node:vm';
 import crypto from 'node:crypto';
 const values=new Map([['scripture-for-life.notes','keep existing reflections'],['scripture-for-life.psalm15-place','4']]);
-const ctx={window:{SFL_PSALMS:{switcher:()=>'<nav></nav>'}},document:{addEventListener(){}},location:{hash:'#/study/16/1'},localStorage:{getItem:k=>values.get(k)||null,setItem:(k,v)=>values.set(k,v)}};
+const ctx={window:{SFL_PSALMS:{switcher:(n,c,v='')=>'<nav>'+v+'</nav>'}},document:{addEventListener(){}},location:{hash:'#/study/16/1'},localStorage:{getItem:k=>values.get(k)||null,setItem:(k,v)=>values.set(k,v)}};
 for(const f of ['data.js','content.js','exodus-people.js','topic-connections.js','psalm-verse-study.js','psalms-13-15.js','psalm16.js'])vm.runInNewContext(fs.readFileSync(f,'utf8'),ctx);
 const engine=ctx.window.SFL_VERSE_STUDIES,study=engine.studies[16],bible=JSON.parse(fs.readFileSync('data/bible.json','utf8')).books;
 const source=bible[18].chapters[15],chapter=Object.fromEntries(source);
