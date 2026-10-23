@@ -77,4 +77,14 @@ Warm, plain and reverent. About an 8th-grade reading level. Use consistent tense
 - Change only the data files for the episode you were asked to write.
 
 ## Adding a new book
-A new book must be added to `index.html`, the copy list in `scripts/build-web.mjs`, and `sw.js` (cache list plus a version bump). `npm run check` must pass before merging; `verify-web.mjs` (run by `npm run build`) fails if any `index.html` script or stylesheet is missing from `www/`.
+`index.html` is the one place to register a book. To add one:
+1. Add the book's files: `<book>.js` (plus `<book>-people.js` if any) in the repo root, and `data/<book>-episodes.json` and `data/<book>-scenes.json`.
+2. Add a `<script src="...">` tag for each JS file (and `<link rel="stylesheet" href="...">` for any CSS) to `index.html`.
+3. Add the same files to the `CORE` list in `sw.js` and bump `VERSION`. `npm run check` fails with the exact lines to paste if any `index.html` script/stylesheet or `data/<book>-*.json` is missing from `CORE` (`scripts/verify-sw-precache.mjs`). Psalm art stays in `LAZY_ART`, not `CORE`.
+4. Run `npm run check` and `npm run build`.
+
+Do not keep a hand list in `scripts/build-web.mjs`: it derives the Android/Capacitor bundle (`www/`) from the `<script src>` and `<link href>` tags in `index.html`, plus everything under `assets/`, `data/` and `psalms-text/`. Shared settings (extra files, asset folders, excludes) live in `scripts/site-files.mjs`. `verify-web.mjs` (run by `npm run build`) fails if anything `index.html` references is missing from `www/`.
+
+## UI changes and tests
+- A UI change must update `scripts/smoke-web.mjs` (and any affected `verify-*.mjs`) in the same PR, so the tests describe the new UI rather than the old one.
+- Never merge a PR with a red or pending check. Wait for `gh pr checks --watch` to pass; if `main` goes red, fixing it comes before any new feature work.
