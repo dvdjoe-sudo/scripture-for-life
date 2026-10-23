@@ -123,12 +123,11 @@ try {
     assert.equal(await page.locator('#verse-dialog textarea').inputValue(),'A refuge for what I am facing.');
     await page.locator('.dialog-close').click();
     await visit('#/exodus/3/6','[data-story-book="exodus"] .gen-narrative');
-    await page.locator('[data-related-needs] a[href="#/help/fear"]').click();
-    await page.locator('.verse-card').first().waitFor();
+    assert.equal(await page.locator('[data-related-needs]').count(),0,'scene pages have no needs card');
     await visit('#/people/jacob','.person-header');
     assert.equal(await page.locator('[data-related-needs] a[href="#/help/fear"]').count(),1);
     await visit('#/stories/8/7','.gen-narrative');
-    assert.equal(await page.locator('[data-related-needs] a[href="#/help/fear"]').count(),1);
+    assert.equal(await page.locator('[data-related-needs]').count(),0,'scene pages have no needs card');
     await visit('#/help/strength','.verse-card');
     assert.equal(await page.locator('.verse-card a[href="#/study/46/1"]').count(),1,'Refuge verse opens the new study');
     await visit('#/read/19/46','.reader-verse');
@@ -757,7 +756,7 @@ try {
     for(const episode of exodusEpisodes){
       for(const [i,scene] of exodusScenes[episode.id].entries()){
         await visit('#/exodus/'+episode.id+'/'+(i+1),'#exo-narrative p');
-        assert.deepEqual(await page.locator('#exo-narrative p').allTextContents(),episode.paragraphs.slice(scene.start,scene.end+1));
+        assert.deepEqual((await page.locator('#exo-narrative p').allTextContents()).map(t=>t.replace(/ \u2197/g,'')),episode.paragraphs.slice(scene.start,scene.end+1));
         assert.equal(await page.locator('.gen-progress [aria-current]').count(),1);
         assert.ok(await page.locator('.gen-scripture a[href^="#/read/2/"]').count()>0);
         assert.equal(await page.locator('.gen-scene-art .landscape').count(),1);
