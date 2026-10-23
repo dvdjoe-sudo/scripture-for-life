@@ -1,0 +1,38 @@
+// Single source of truth for which site files ship: index.html.
+// build-web.mjs (Android/Capacitor bundle) and verify-sw-precache.mjs (offline cache) both use this.
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+export const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+
+// Always shipped, even though index.html does not reference them by <script>/<link>.
+export const EXTRA_FILES = ['index.html', 'sw.js'];
+// Copied whole (every file inside, by pattern) so new data/*.json and art need no list edits.
+export const ASSET_DIRS = ['assets', 'data', 'psalms-text'];
+// Paths never shipped (relative to the repo root). Add here rather than editing lists elsewhere.
+export const EXCLUDES = [];
+
+// Local files referenced by <script src> and <link href> in index.html, in page order.
+export function indexRefs(base = root) {
+  const html = fs.readFileSync(path.join(base, 'index.html'), 'utf8');
+  const refs = [];
+  for (const m of html.matchAll(/<(?:script|link)\b[^>]*?\s(?:src|href)=["']([^"']+)["']/g)) {
+    const uri = m[1].split(/[?#]/)[0].replace(/^\.\//, '');
+    if (!uri || /^(?:[a-z]+:|\/\/)/i.test(uri)) continue;
+    if (!refs.includes(uri)) refs.push(uri);
+  }
+  return refs;
+}
+
+// Book story data that must be available offline: data/<book>-episodes.json and data/<book>-scenes.json.
+export function bookDataFiles(base = root) {
+  return fs.readdirSync(path.join(base, 'data'))
+    .filter(f => /-(?:episodes|scenes)\.json$/.test(f))
+    .sort()
+    .map(f => 'data/' + f);
+}
+
+export function isExcluded(rel) {
+  return EXCLUDES.some(x => rel === x || rel.startsWith(x.replace(/\/?$/, '/')));
+}
