@@ -12,8 +12,9 @@
     "smoke:web": "node scripts/smoke-web.mjs"
   },
   "dependencies": {
+    "@capacitor/android": "^7.0.0",
     "@capacitor/core": "^7.0.0",
-    "@capacitor/android": "^7.0.0"
+    "@capacitor/share": "^7.0.4"
   },
   "devDependencies": {
     "@capacitor/cli": "^7.0.0",

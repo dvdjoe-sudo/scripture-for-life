@@ -164,6 +164,16 @@ try {
     shared=await page.evaluate(()=>window.__shared.at(-1));
     assert.match(shared.text,/Zechariah story, Episode 1 · Scene 3[\s\S]*Zechariah 1:\d+.*\(BSB\)/,'Scene share includes the book, scene and BSB passage');
     assert.equal(shared.url.endsWith('#/zechariah/1/3'),true,'Scene share links to the scene');
+    // Android app: the Capacitor Share plugin opens the phone's share sheet (preferred over navigator.share).
+    await page.evaluate(()=>{window.__native=[];window.Capacitor={isNativePlatform:()=>true,Plugins:{Share:{share:async d=>{window.__native.push(d);}}}};});
+    const webShares=await page.evaluate(()=>window.__shared.length);
+    await page.evaluate(()=>{location.hash='#/study/23/1';});
+    await page.locator('.verse-actions [data-action="share-verse"][data-ref="Psalm 23:1"]').first().click();
+    const nativeShared=await page.evaluate(()=>window.__native.at(-1));
+    assert.match(nativeShared.text,/The LORD is my shepherd[\s\S]*Psalm 23:1, Berean Standard Bible \(BSB\)/,'Native share sends the verse text and BSB reference');
+    assert.equal(nativeShared.url,'https://dvdjoe-sudo.github.io/scripture-for-life/#/study/23/1','Native share sends a link to the verse');
+    assert.equal(await page.evaluate(()=>window.__shared.length),webShares,'Native app uses the share plugin, not navigator.share');
+    await page.evaluate(()=>{delete window.Capacitor;});
     await page.evaluate(()=>{location.hash='#/help/fear';});
     const shareSaveBtn=page.locator('.verse-card [data-action="save"]:not(.is-saved)').first();
     const shareRef=await shareSaveBtn.getAttribute('data-ref');
