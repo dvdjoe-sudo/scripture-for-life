@@ -129,6 +129,16 @@ try {
       const dups=await page.evaluate(()=>{const seen={};document.querySelectorAll('#main a[href]').forEach(a=>{if(!a.offsetWidth||a.closest('.gen-progress'))return;const h=a.getAttribute('href');seen[h]=(seen[h]||0)+1;});return Object.entries(seen).filter(([,n])=>n>1).map(([h])=>h);});
       assert.deepEqual(dups,[],route+' has duplicate links: '+dups);
     }
+    // Phones: tap targets are at least 44px and visible text is at least 11px.
+    for(const [route,sel] of [['#/','.topic-card'],['#/help/fear','.verse-card'],['#/study/91/4','.study-verse'],['#/stories/1/1','.gen-narrative p']]){
+      await visit(route,sel);
+      const small=await page.evaluate(()=>{const out=[];document.querySelectorAll('.site-header a,.site-header button,#main .icon-btn,#main .tab,#main .ref-chip,#main select,#main .search-box input,#main .search-box button,#main .btn').forEach(el=>{if(!el.offsetWidth)return;const r=el.getBoundingClientRect();if(r.height<43.5)out.push((el.className||el.tagName)+':'+Math.round(r.height));});return out;});
+      assert.deepEqual(small,[],route+' tap targets under 44px: '+small);
+      const tiny=await page.evaluate(()=>{const out=[];const w=document.createTreeWalker(document.querySelector('#main'),NodeFilter.SHOW_TEXT);let n;while((n=w.nextNode())){if(!n.textContent.trim())continue;const el=n.parentElement;if(!el.offsetWidth&&!el.getClientRects().length)continue;const cs=getComputedStyle(el);if(cs.visibility==='hidden'||el.closest('.wide-only,.sr-only,.visually-hidden'))continue;if(parseFloat(cs.fontSize)<10.9)out.push(el.tagName+'.'+el.className+':'+cs.fontSize);}return [...new Set(out)];});
+      assert.deepEqual(tiny,[],route+' text under 11px: '+tiny);
+    }
+    await visit('#/study/91/4','.study-verse');
+    assert.equal(await page.locator('.study-landscape .scene-label').evaluateAll(els=>els.filter(e=>e.offsetWidth).length),0,'Psalm art caption hidden on phones');
     await visit('#/walk/23/4','.psalm-verse-art');
     assert.ok(page.url().endsWith('#/study/23/4'),'Old walk links open the verse illustration');
     await page.getByRole('tab',{name:'Reflect',exact:true}).click();
