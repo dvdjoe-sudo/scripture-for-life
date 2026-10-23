@@ -103,6 +103,22 @@ try {
     assert.equal(await page.locator('[data-note-ref="Psalm 23:4"]').inputValue(),'A quiet reflection');
     await visit('#/read/19/23','.reader-verse');
     assert.equal(await page.locator('a[href="#/study/23/1"]').count()>0,true,'Psalm 23 Bible reader links to original study');
+    // Word search: Bible verses, story scenes and people; references still work first.
+    await visit('#/search/shepherd','.word-hit');
+    assert.equal(await page.locator('.word-hit a.verse-ref[href="#/read/19/23/1"]').count(),1,'Word search finds Psalm 23:1 for shepherd');
+    assert.equal(await page.locator('.word-hit mark').first().innerText().then(t=>/shepherd/i.test(t)),true,'Search word is highlighted');
+    assert.equal(await page.locator('.word-story, .word-section .person-card').count()>0,true,'Word search finds a story or person for shepherd');
+    assert.equal(await page.locator('.word-hit:not(.word-story)').count(),50,'Word search shows the first 50 verses');
+    await page.locator('[data-action="word-more"][data-kind="verses"]').click();
+    assert.equal(await page.locator('.word-hit:not(.word-story)').count()>50,true,'Show more reveals more verses');
+    await visit('#/search/Zerubbabel','.word-hit');
+    assert.equal(await page.locator('.word-section a.person-card[href="#/people/zerubbabel"]').count(),1,'Word search finds the Zerubbabel person page');
+    await visit('#/search/'+encodeURIComponent('“Be still”'),'.word-hit');
+    assert.equal(await page.locator('.word-hit a.verse-ref[href="#/read/19/46/10"]').count(),1,'Quoted phrase search finds Psalm 46:10');
+    await visit('#/search/'+encodeURIComponent('John 3:16'),'.side-note');
+    assert.equal(await page.locator('.side-note a[href="#/read/43/3/16"]').count()>0,true,'Reference search still opens John 3:16');
+    assert.equal(await page.locator('.word-hit').count(),0,'Reference search skips word results');
+    await visit('#/search/xyzzyqq','.no-results');
     await visit('#/help/fear','.verse-card');
     assert.equal(await page.evaluate(()=>{window.SFL_TOPIC_SHOW_ALL=false;const r=pickTopicRefs(window.BIBLE_DATA.topics.find(t=>t.id==='strength').refs);window.SFL_TOPIC_SHOW_ALL=true;return new Set(r).size;}),10,'Topic pages pick 10 distinct verses');
     // Topic pages show only the header and verse cards; Psalms/stories/people links live on other pages.
@@ -808,7 +824,7 @@ try {
     }
     assert.deepEqual(errors,[],loc.label+' unhandled browser exceptions');
     await context.close();
-    console.log('PASS '+loc.label+' on 390px viewport — home, Genesis, Psalm 23, Psalm 46, character/help links, reflections, Bible journey, full reader.');
+    console.log('PASS '+loc.label+' on 390px viewport — home, Genesis, Psalm 23, Psalm 46, character/help links, reflections, Bible journey, full reader, word search.');
   }
 }finally{
   if(browser)await browser.close();
