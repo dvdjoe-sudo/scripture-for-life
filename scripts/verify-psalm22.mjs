@@ -4,7 +4,7 @@ import vm from 'node:vm';
 import crypto from 'node:crypto';
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
 const values=new Map([['scripture-for-life.notes','preserve reflections'],['scripture-for-life.psalm21-place','7']]);
-const ctx={window:{SFL_PSALMS:{switcher:()=>'<nav></nav>'}},document:{addEventListener(){}},location:{hash:'#/study/22/1'},localStorage:{getItem:k=>values.get(k)||null,setItem:(k,v)=>values.set(k,v)}};
+const ctx={window:{SFL_PSALMS:{switcher:(n,c,v='')=>'<nav>'+v+'</nav>'}},document:{addEventListener(){}},location:{hash:'#/study/22/1'},localStorage:{getItem:k=>values.get(k)||null,setItem:(k,v)=>values.set(k,v)}};
 for(const f of ['data.js','content.js','exodus-people.js','psalm-verse-study.js','psalm21.js','psalm22.js','topic-connections.js'])vm.runInNewContext(fs.readFileSync(f,'utf8'),ctx);
 const engine=ctx.window.SFL_VERSE_STUDIES,study=engine.studies[22],bible=read('data/bible.json').books,source=bible[18].chapters[21],chapter=Object.fromEntries(source),draft=read('drafts/psalm22/editorial.json');
 assert.deepEqual(read('drafts/psalm22/source.json').verses,source);

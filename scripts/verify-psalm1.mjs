@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import vm from 'node:vm';
 const values=new Map([['scripture-for-life.notes','existing notes'],['scripture-for-life.psalm23-place','5']]);
-const ctx={window:{SFL_PSALMS:{switcher:()=>'<nav></nav>'}},document:{addEventListener(){}},localStorage:{getItem:k=>values.get(k)||null,setItem:(k,v)=>values.set(k,v)},location:{hash:'#/study/1/1'}};
+const ctx={window:{SFL_PSALMS:{switcher:(n,c,v='')=>'<nav>'+v+'</nav>'}},document:{addEventListener(){}},localStorage:{getItem:k=>values.get(k)||null,setItem:(k,v)=>values.set(k,v)},location:{hash:'#/study/1/1'}};
 for(const file of ['psalm-verse-study.js','psalm1.js'])vm.runInNewContext(fs.readFileSync(file,'utf8'),ctx);
 const study=ctx.window.SFL_VERSE_STUDIES,config=study.studies[1],bible=JSON.parse(fs.readFileSync('data/bible.json','utf8')).books,chapter=Object.fromEntries(bible[18].chapters[0]);
 const escapeHTML=v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));

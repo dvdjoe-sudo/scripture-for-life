@@ -4,7 +4,7 @@ import vm from 'node:vm';
 import crypto from 'node:crypto';
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
 const values=new Map([['scripture-for-life.notes','preserve notes'],['scripture-for-life.psalm28-place','6']]);
-const c={window:{SFL_PSALMS:{switcher:()=>'<nav></nav>'}},document:{addEventListener(){}},location:{hash:'#/study/29/1'},localStorage:{getItem:k=>values.get(k)||null,setItem:(k,v)=>values.set(k,v)}};
+const c={window:{SFL_PSALMS:{switcher:(n,c,v='')=>'<nav>'+v+'</nav>'}},document:{addEventListener(){}},location:{hash:'#/study/29/1'},localStorage:{getItem:k=>values.get(k)||null,setItem:(k,v)=>values.set(k,v)}};
 for(const p of ['data.js','content.js','psalm-verse-study.js','psalm28.js','psalm29.js','topic-connections.js'])vm.runInNewContext(fs.readFileSync(p,'utf8'),c);
 const e=c.window.SFL_VERSE_STUDIES,s=e.studies[29],b=read('data/bible.json').books,source=b[18].chapters[28],chapter=Object.fromEntries(source),d=read('drafts/psalm29/editorial.json');
 assert.deepEqual(read('drafts/psalm29/source.json').verses,source);
