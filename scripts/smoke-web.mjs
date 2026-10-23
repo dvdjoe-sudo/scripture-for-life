@@ -139,6 +139,17 @@ try {
     await visit('#/haggai','.gen-episode-tile');
     assert.equal(await page.locator('.gen-episode-tile[href^="#/haggai/1/"] .episode-done').count(),1,'Finished episode tile shows ✓');
     assert.equal(await page.locator('.episode-done').count(),1,'Only the finished episode shows ✓');
+    // Verse of the day: a topic verse chosen by date, tappable to the verse popup.
+    assert.equal(await page.evaluate(()=>{const A=window.APP_TEST,a=A.heroVerse(new Date(2026,0,5,0,5)).ref,b=A.heroVerse(new Date(2026,0,5,23,55)).ref,c=A.heroVerse(new Date(2026,0,6,12)).ref,topicRefs=new Set(window.BIBLE_DATA.topics.flatMap(t=>t.refs));return a===b&&a!==c&&topicRefs.has(a)&&A.dailyVersePool().every(r=>topicRefs.has(r));}),true,'Verse of the day is a topic verse, the same all day and different the next day');
+    await visit('#/','.hero-art .daily-verse');
+    const dailyRef=await page.locator('.daily-verse').getAttribute('data-ref');
+    assert.equal(dailyRef,await page.evaluate(()=>window.APP_TEST.heroVerse().ref),'Home caption shows today\'s verse');
+    await page.locator('.daily-verse').click();
+    await page.locator('#verse-dialog[open]').waitFor();
+    assert.equal(await page.locator('#dialog-title').innerText(),dailyRef,'Caption opens the verse popup');
+    for(const action of ['save','copy-verse','listen-verse','save-note'])assert.equal(await page.locator('#dialog-content [data-action="'+action+'"]').count()>0,true,'Verse popup offers '+action);
+    assert.equal(await page.locator('#dialog-content textarea').count(),1,'Verse popup offers a reflection');
+    await page.locator('[data-action="close-dialog"]').first().click();
     // Word search: Bible verses, story scenes and people; references still work first.
     await visit('#/search/shepherd','.word-hit');
     assert.equal(await page.locator('.word-hit a.verse-ref[href="#/read/19/23/1"]').count(),1,'Word search finds Psalm 23:1 for shepherd');
@@ -860,7 +871,7 @@ try {
     }
     assert.deepEqual(errors,[],loc.label+' unhandled browser exceptions');
     await context.close();
-    console.log('PASS '+loc.label+' on 390px viewport — home, Genesis, Psalm 23, Psalm 46, character/help links, reflections, Bible journey, full reader, word search, episode Listen, continue reading.');
+    console.log('PASS '+loc.label+' on 390px viewport — home, Genesis, Psalm 23, Psalm 46, character/help links, reflections, Bible journey, full reader, word search, episode Listen, continue reading, verse of the day.');
   }
 }finally{
   if(browser)await browser.close();
