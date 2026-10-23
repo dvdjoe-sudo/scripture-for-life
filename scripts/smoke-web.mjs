@@ -111,16 +111,24 @@ try {
     assert.match(await page.locator('.gen-narrative').innerText(),/This is the word of the LORD that came to Joel son of Pethuel\./,'Joel scene shows the retelling');
     await visit('#/joel/5/5','.gen-narrative');
     assert.equal(await page.locator('a[href="#/read/30/1"]').count(),1,'Last Joel scene continues to Amos 1');
-    // Malachi story book: library link, six episodes, Zechariah leads on to it, and the last scene ends the Old Testament.
+    // Malachi story book: library link, six episodes, Zechariah leads on to it, and the last scene leads on to Chronicles.
     await visit('#/books','.gen-cta-actions a[href="#/malachi"]');
     await visit('#/malachi','.gen-episode-tile');
     assert.equal(await page.locator('.gen-episode-tile').count(),6,'Malachi has six episodes');
     await visit('#/malachi/1/1','.gen-narrative');
     assert.match(await page.locator('.gen-narrative').innerText(),/the burden of the word of the LORD to Israel through Malachi\./,'Malachi scene shows the retelling');
     await visit('#/malachi/6/5','.gen-narrative');
-    assert.equal(await page.locator('a[href="#/read/40/1"]').count(),1,'Last Malachi scene continues to Matthew 1');
+    assert.equal(await page.locator('a[href="#/chronicles"]').count(),1,'Last Malachi scene continues to Chronicles stories');
     await visit('#/zechariah/15/5','.gen-narrative');
     assert.equal(await page.locator('a[href="#/malachi"]').count()>0,true,'Last Zechariah scene leads to Malachi stories');
+    // Chronicles story book: library link, fourteen episodes, Malachi leads on to it, and the last scene continues to Ezra 1.
+    await visit('#/books','.gen-cta-actions a[href="#/chronicles"]');
+    await visit('#/chronicles','.gen-episode-tile');
+    assert.equal(await page.locator('.gen-episode-tile').count(),14,'Chronicles has fourteen episodes');
+    await visit('#/chronicles/1/1','.gen-narrative');
+    assert.match(await page.locator('.gen-narrative').innerText(),/Chronicles does not open with a scene\./,'Chronicles scene shows the retelling');
+    await visit('#/chronicles/14/5','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/read/15/1"]').count(),1,'Last Chronicles scene continues to Ezra 1');
     // Whole-episode Listen on every story book's full-episode page, chunked for speech synthesis.
     for(const route of ['#/stories/2/full','#/zechariah/1/full','#/joel/1/full','#/kings1/1/full']){
       await visit(route,'.gen-full .ep-listen [data-action="ep-listen"]');
