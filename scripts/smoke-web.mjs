@@ -103,8 +103,16 @@ try {
     assert.equal(await page.locator('[data-note-ref="Psalm 23:4"]').inputValue(),'A quiet reflection');
     await visit('#/read/19/23','.reader-verse');
     assert.equal(await page.locator('a[href="#/study/23/1"]').count()>0,true,'Psalm 23 Bible reader links to original study');
+    // Joel story book: library link, episode list and a scene with Joseph's text and the BSB passage.
+    await visit('#/books','.gen-cta-actions a[href="#/joel"]');
+    await visit('#/joel','.gen-episode-tile');
+    assert.equal(await page.locator('.gen-episode-tile').count(),5,'Joel has five episodes');
+    await visit('#/joel/1/1','.gen-narrative');
+    assert.match(await page.locator('.gen-narrative').innerText(),/This is the word of the LORD that came to Joel son of Pethuel\./,'Joel scene shows the retelling');
+    await visit('#/joel/5/5','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/read/30/1"]').count(),1,'Last Joel scene continues to Amos 1');
     // Whole-episode Listen on every story book's full-episode page, chunked for speech synthesis.
-    for(const route of ['#/stories/2/full','#/zechariah/1/full','#/kings1/1/full']){
+    for(const route of ['#/stories/2/full','#/zechariah/1/full','#/joel/1/full','#/kings1/1/full']){
       await visit(route,'.gen-full .ep-listen [data-action="ep-listen"]');
       assert.equal(await page.locator('.ep-listen #ep-speed option').count(),3,'Episode Listen has the scene speed choices');
     }
