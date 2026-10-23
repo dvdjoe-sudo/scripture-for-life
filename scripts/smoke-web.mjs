@@ -118,6 +118,17 @@ try {
       const textTop=(await page.locator('.gen-narrative p').first().boundingBox()).y;
       assert.ok(textTop<700,route+' story text starts in the first screen: '+textTop);
     }
+    // Phones: topic verse-card actions sit on one row; icon buttons keep their names.
+    await visit('#/help/fear','.verse-card .verse-actions');
+    const actionRows=await page.locator('.verse-card .verse-actions').evaluateAll(rows=>rows.map(r=>{const t=[...r.children].filter(c=>c.offsetWidth).map(c=>Math.round(c.getBoundingClientRect().top+c.offsetHeight/2));return Math.max(...t)-Math.min(...t);}));
+    assert.ok(actionRows.length&&actionRows.every(d=>d<=4),'Topic card actions on one row: '+actionRows);
+    assert.ok(await page.getByRole('button',{name:'Listen',exact:true}).count()>0&&await page.getByRole('button',{name:'Reflect',exact:true}).count()>0,'Listen/Reflect keep accessible names');
+    // No repeated links to the same place (scene progress dots are a separate step indicator).
+    for(const [route,sel] of [['#/study/46/1','.study-verse'],['#/study/23/1','.study-verse'],['#/study/91/4','.study-verse'],['#/psalms/91','.psalm-chapter-verse'],['#/people/moses','.story-step'],['#/joel/1/full','.gen-narrative p']]){
+      await visit(route,sel);
+      const dups=await page.evaluate(()=>{const seen={};document.querySelectorAll('#main a[href]').forEach(a=>{if(!a.offsetWidth||a.closest('.gen-progress'))return;const h=a.getAttribute('href');seen[h]=(seen[h]||0)+1;});return Object.entries(seen).filter(([,n])=>n>1).map(([h])=>h);});
+      assert.deepEqual(dups,[],route+' has duplicate links: '+dups);
+    }
     await visit('#/walk/23/4','.psalm-verse-art');
     assert.ok(page.url().endsWith('#/study/23/4'),'Old walk links open the verse illustration');
     await page.getByRole('tab',{name:'Reflect',exact:true}).click();
