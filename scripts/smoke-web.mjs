@@ -178,6 +178,32 @@ try {
     assert.equal(await page.locator('#verse-dialog[open] [data-action="share-verse"]').count(),1,'Verse popup has Share');
     await page.locator('[data-action="close-dialog"]').first().click();
     await page.locator('.saved-list [data-action="save"][data-ref="'+shareRef+'"]').click();
+    // Remembered text size: the existing toggle on story pages, saved and applied app-wide.
+    await page.evaluate(()=>localStorage.removeItem('scripture-for-life.text-size'));
+    await visit('#/zechariah/1/3','.gen-reading-controls [data-action="text-size"]');
+    const sizeOf=sel=>page.locator(sel).first().evaluate(e=>parseFloat(getComputedStyle(e).fontSize));
+    const storyBefore=await sizeOf('.gen-narrative p');
+    await visit('#/help/fear','.verse-card .verse-text');
+    const topicBefore=await sizeOf('.verse-card .verse-text');
+    await visit('#/zechariah/1/full','.gen-full .gen-reading-controls [data-action="text-size"]');
+    await visit('#/zechariah/1/3','.gen-reading-controls [data-action="text-size"]');
+    await page.locator('.gen-reading-controls [data-action="text-size"]').click();
+    assert.equal(await page.evaluate(()=>localStorage.getItem('scripture-for-life.text-size')),'large','Text size choice is saved');
+    assert.equal(await sizeOf('.gen-narrative p')>storyBefore,true,'Story text grows');
+    await page.reload({waitUntil:'domcontentloaded'});
+    await page.locator('.gen-narrative p').first().waitFor();
+    assert.equal(await page.locator('.gen-reading-controls [data-action="text-size"]').getAttribute('aria-pressed'),'true','Story toggle remembers the choice after reload');
+    await visit('#/help/fear','.verse-card .verse-text');
+    assert.equal(await sizeOf('.verse-card .verse-text')>topicBefore,true,'Topic verses use the larger size');
+    await visit('#/read/19/23','.reader-verse');
+    assert.equal(await page.locator('.reading.read-size-large').count(),1,'Reader uses the remembered size');
+    assert.equal(await sizeOf('.reader-verse'),26,'Reader verse is large');
+    await visit('#/psalms/91','.psalm-chapter-verse .verse-text');
+    assert.equal(await sizeOf('.psalm-chapter-verse .verse-text'),28,'Psalms use the larger size');
+    await visit('#/read/19/23','.reader-verse');
+    await page.locator('[data-action="text-size"]').click();
+    assert.equal(await page.evaluate(()=>localStorage.getItem('scripture-for-life.text-size')),'normal','Turning it off is saved too');
+    assert.equal(await page.locator('.reading.read-size-large').count(),0,'Reader returns to the standard size');
     // Word search: Bible verses, story scenes and people; references still work first.
     await visit('#/search/shepherd','.word-hit');
     assert.equal(await page.locator('.word-hit a.verse-ref[href="#/read/19/23/1"]').count(),1,'Word search finds Psalm 23:1 for shepherd');
@@ -899,7 +925,7 @@ try {
     }
     assert.deepEqual(errors,[],loc.label+' unhandled browser exceptions');
     await context.close();
-    console.log('PASS '+loc.label+' on 390px viewport — home, Genesis, Psalm 23, Psalm 46, character/help links, reflections, Bible journey, full reader, word search, episode Listen, continue reading, verse of the day, share.');
+    console.log('PASS '+loc.label+' on 390px viewport — home, Genesis, Psalm 23, Psalm 46, character/help links, reflections, Bible journey, full reader, word search, episode Listen, continue reading, verse of the day, share, text size.');
   }
 }finally{
   if(browser)await browser.close();
