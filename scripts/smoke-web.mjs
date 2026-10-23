@@ -267,15 +267,20 @@ try {
     assert.equal(await page.locator('.reading.read-size-large').count(),0,'Reader returns to the standard size');
     // Word search: Bible verses, story scenes and people; references still work first.
     await visit('#/search/shepherd','.word-hit');
-    assert.equal(await page.locator('.word-hit a.verse-ref[href="#/read/19/23/1"]').count(),1,'Word search finds Psalm 23:1 for shepherd');
     assert.equal(await page.locator('.word-hit mark').first().innerText().then(t=>/shepherd/i.test(t)),true,'Search word is highlighted');
     assert.equal(await page.locator('.word-story, .word-section .person-card').count()>0,true,'Word search finds a story or person for shepherd');
-    assert.equal(await page.locator('.word-hit:not(.word-story)').count(),50,'Word search shows the first 50 verses');
+    // Each section starts short (5 results + Show more) and story scenes come first.
+    assert.deepEqual(await page.locator('.word-section h2').allInnerTexts(),['Story scenes','Bible verses'].concat(await page.locator('#word-people-title').count()?['People']:[]),'Story scenes are listed before verses');
+    assert.equal(await page.locator('.word-hit:not(.word-story)').count(),5,'Word search shows the first 5 verses');
+    assert.ok(await page.locator('.word-story').count()<=5,'Word search shows at most 5 scenes at first');
     await page.locator('[data-action="word-more"][data-kind="verses"]').click();
-    assert.equal(await page.locator('.word-hit:not(.word-story)').count()>50,true,'Show more reveals more verses');
+    assert.equal(await page.locator('.word-hit:not(.word-story)').count(),25,'Show more reveals 20 more verses');
+    for(let i=0;i<10&&!(await page.locator('.word-hit a.verse-ref[href="#/read/19/23/1"]').count());i++)await page.locator('[data-action="word-more"][data-kind="verses"]').click();
+    assert.equal(await page.locator('.word-hit a.verse-ref[href="#/read/19/23/1"]').count(),1,'Word search finds Psalm 23:1 for shepherd');
     await visit('#/search/Zerubbabel','.word-hit');
     assert.equal(await page.locator('.word-section a.person-card[href="#/people/zerubbabel"]').count(),1,'Word search finds the Zerubbabel person page');
     await visit('#/search/'+encodeURIComponent('“Be still”'),'.word-hit');
+    for(let i=0;i<10&&!(await page.locator('.word-hit a.verse-ref[href="#/read/19/46/10"]').count());i++)await page.locator('[data-action="word-more"][data-kind="verses"]').click();
     assert.equal(await page.locator('.word-hit a.verse-ref[href="#/read/19/46/10"]').count(),1,'Quoted phrase search finds Psalm 46:10');
     await visit('#/search/'+encodeURIComponent('John 3:16'),'.side-note');
     assert.equal(await page.locator('.side-note a[href="#/read/43/3/16"]').count()>0,true,'Reference search still opens John 3:16');
