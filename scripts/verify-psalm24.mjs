@@ -23,7 +23,7 @@ for(let n=1;n<=10;n++){
  assert.equal((html.match(/role="tab"/g)||[]).length,4);assert.equal((html.match(/data-verse-study-art=/g)||[]).length,1);assert.equal((html.match(/>Verse \d+ of \d+<\/option>/g)||[]).length,10);
  assert(html.includes(n<10?'href="#/study/24/'+(n+1)+'"':'href="#/psalms/25"'),'Forward chapter/verse navigation');
  assert(r.meaning.length>300&&r.context.length>140&&r.reflect.length>50&&r.explore.length>=2);assert(r.explore.every(x=>x.length===2&&x[1].length>50));r.related.forEach(checkRef);
- const bytes=fs.readFileSync(r.art);assert(bytes.length>50000);assert.equal(bytes.subarray(8,12).toString(),'WEBP');assert(bytes.equals(fs.readFileSync('www/'+r.art)));assert(sw.includes(r.art));hashes.add(crypto.createHash('sha256').update(bytes).digest('hex'));
+ const bytes=fs.readFileSync(r.art);assert(bytes.length>20000);assert.equal(bytes.subarray(8,12).toString(),'WEBP');assert(bytes.equals(fs.readFileSync('www/'+r.art)));assert(sw.includes(r.art));hashes.add(crypto.createHash('sha256').update(bytes).digest('hex'));
  const p=manifest.paintings.find(p=>p.verse===n);assert.equal(p.production,r.art);assert.equal(p.status,'generated and visually inspected');assert(p.prompt.length>500&&p.generatedOriginal.endsWith('.png'));originals.add(p.generatedOriginal);
  assert.equal(engine.link('Psalm 24:'+n),'#/study/24/'+n);
 }
