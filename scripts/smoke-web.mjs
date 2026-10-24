@@ -404,6 +404,13 @@ assert(await page.evaluate(() => window.SFL_VERSE_STUDIES.has(1) && /psalm1\//.t
 assert(!(await page.evaluate(() => Boolean(window.SFL_VERSE_STUDIES.studies[1]) || [...document.scripts].some(s => /\/psalm1\.js$/.test(s.src)))), 'Psalm 1 study must not load before it is opened');
 await page.goto(base + '#/study/2/1'); await page.waitForSelector('img[data-verse-study-art="2-1"]', { state: 'attached' });
 assert(await page.evaluate(() => Boolean(window.SFL_VERSE_STUDIES.studies[2] && window.SFL_VERSE_STUDIES.studies[3])), 'Opening Psalm 2 loads its shared study script');
+// Dark-mode toggle on Home and Psalms; topic rows stay neutral in dark mode.
+await page.goto(base + '#/'); await page.waitForSelector('.hero [data-action="theme"]', { state: 'attached' });
+await page.goto(base + '#/study/1/1'); await page.waitForSelector('.psalm-picker + .theme-toggle-row [data-action="theme"], .theme-toggle-row [data-action="theme"]', { state: 'attached' });
+await page.evaluate(() => { localStorage.setItem('scripture-for-life.theme', 'dark'); window.SFL_THEME.apply(); }); await page.goto(base + '#/help/fear'); await page.waitForSelector('.topic-layout .verse-card:nth-child(2)', { state: 'attached' });
+const rowBg = await page.evaluate(() => getComputedStyle(document.querySelector('.topic-layout .verse-card:nth-child(2)')).backgroundColor.match(/\d+/g).map(Number));
+assert(Math.abs(rowBg[0] - rowBg[2]) <= 4 && rowBg[0] < 60, 'Dark topic rows must be neutral, not brown: ' + rowBg);
+await page.evaluate(() => { localStorage.removeItem('scripture-for-life.theme'); window.SFL_THEME.apply(); });
 // Word search: Bible verses, story scenes and people; references still work first.
     await visit('#/search/shepherd','.word-hit');
     assert.equal(await page.locator('.word-hit mark').first().innerText().then(t=>/shepherd/i.test(t)),true,'Search word is highlighted');

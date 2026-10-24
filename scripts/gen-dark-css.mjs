@@ -10,7 +10,9 @@ const fromHsl = ([h, s, l]) => { const f = n => { const k = (n + h * 12) % 12, a
 const out = (rgb, a) => '#' + rgb.map(v => v.toString(16).padStart(2, '0')).join('') + (a !== undefined ? a.toString(16).padStart(2, '0') : '');
 const lum = ([r, g, b]) => (0.3 * r + 0.59 * g + 0.11 * b) / 255;
 function parse(c) { if (c === 'white' || c === '#fff' || c === '#ffffff') return [255, 255, 255]; if (/^#[0-9a-f]{3,8}$/i.test(c)) return hex(c); return null; }
-function mapBg(c) { const v = parse(c); if (!v || lum(v) < .6) return null; const [h, s, l] = toHsl(v); const nl = .09 + (1 - l) * .9; return out(fromHsl([h, Math.min(s, .15), Math.min(nl, .26)]), v[3]); }
+// Surfaces share the dark body's green-neutral hue so warm light colours don't turn brown in dark mode.
+const NEUTRAL_HUE = toHsl([20, 26, 23])[0];
+function mapBg(c) { const v = parse(c); if (!v || lum(v) < .6) return null; const [h, s, l] = toHsl(v); const nl = .09 + (1 - l) * .9; return out(fromHsl([NEUTRAL_HUE, Math.min(s, .05), Math.min(nl, .26)]), v[3]); }
 function mapText(c) { const v = parse(c); if (!v || lum(v) > .55) return null; const [h, s, l] = toHsl(v); return out(fromHsl([h, Math.min(s, .35), Math.min(.93, .72 + (.5 - Math.min(l, .5)) * .45)]), v[3]); }
 function mapBorder(c) { const v = parse(c); if (!v || lum(v) < .6) return null; const [h, s] = toHsl(v); return out(fromHsl([h, Math.min(s, .2), .3]), v[3]); }
 const rules = [];
