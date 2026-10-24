@@ -426,17 +426,15 @@ await page.evaluate(() => { localStorage.removeItem('scripture-for-life.theme');
 await page.goto(base + '#/study/119/1'); await page.waitForSelector('#psalm-switch-select', { state: 'attached' });
 const dd = await page.evaluate(() => { const s = document.querySelector('#psalm-switch-select'); return { w: s.getBoundingClientRect().width, longest: Math.max(...[...s.options].map(o => o.textContent.length)), full: [...s.options].every(o => o.title.startsWith(o.textContent.replace(/…$/, ''))) }; });
 assert(dd.w > 150 && dd.longest <= 24 && dd.full, 'Psalm dropdown labels must fit on phones: ' + JSON.stringify(dd));
-// Favorites: heart a verse, see it on the Favorites page after reload, remove it there.
-await page.evaluate(() => localStorage.removeItem('scripture-for-life.favorites'));
-await page.goto(base + '#/help/fear'); await page.reload(); await page.waitForSelector('.topic-layout .verse-card [data-action="favorite"]');
-const favRef = await page.locator('.topic-layout .verse-card [data-action="favorite"]').first().getAttribute('data-ref');
-await page.locator('.topic-layout .verse-card [data-action="favorite"]').first().click();
-assert.equal(await page.locator('.topic-layout .verse-card [data-action="favorite"]').first().getAttribute('aria-pressed'), 'true', 'Heart toggles on');
-await page.goto(base + '#/'); await page.waitForSelector('.gen-home-quick a[href="#/favorites"]');
-await page.goto(base + '#/favorites'); await page.reload(); await page.waitForSelector('.favorites-list .verse-card');
-assert.equal(await page.locator('.favorites-list .verse-ref').first().innerText().then(t => t.replace(/BSB/, '').trim()), favRef, 'Favorite listed');
-await page.locator('.favorites-list [data-action="favorite"]').first().click(); await page.waitForSelector('.empty h2');
-await page.goto(base + '#/study/1/1'); await page.waitForSelector('[data-action="favorite"][data-ref="Psalm 1:1"]', { state: 'attached' });
+// Favorites and Saved are one collection: old favorites migrate into saved without losing existing saved verses.
+await page.evaluate(() => { localStorage.setItem('scripture-for-life.saved', JSON.stringify({ 'Psalm 23:1': { text: 'The LORD is my shepherd; I shall not want.', note: 'keep' } })); localStorage.setItem('scripture-for-life.favorites', JSON.stringify({ 'Psalm 1:1': { text: 'Blessed is the man', at: 1 } })); });
+await page.goto(base + '#/favorites'); await page.reload(); await page.waitForSelector('.saved-list');
+const merged = await page.evaluate(() => ({ s: JSON.parse(localStorage.getItem('scripture-for-life.saved')), f: localStorage.getItem('scripture-for-life.favorites') }));
+assert(merged.s['Psalm 23:1'].note === 'keep' && merged.s['Psalm 1:1'] && merged.f === null, 'Favorites merged into saved without data loss');
+assert.equal(await page.locator('#main [data-action="favorite"]').count(), 0, 'No duplicate heart/bookmark buttons');
+await page.goto(base + '#/help/fear'); await page.waitForSelector('.topic-layout .verse-card [data-action="save"]');
+assert.equal(await page.locator('.topic-layout .verse-card').first().locator('[data-action="save"],[data-action="favorite"]').count(), 1, 'One heart per verse');
+await page.evaluate(() => localStorage.removeItem('scripture-for-life.saved')); await page.reload();
 // Reading streak: consecutive local days the app was opened.
 await page.goto(base + '#/'); await page.waitForSelector('.hero .streak-line');
 assert(/^\d+-day streak$/.test(await page.locator('.streak-line').innerText()), 'Home shows the streak line');
