@@ -11,7 +11,8 @@ export const EXTRA_FILES = ['index.html', 'sw.js'];
 // Copied whole (every file inside, by pattern) so new data/*.json and art need no list edits.
 export const ASSET_DIRS = ['assets', 'data', 'psalms-text'];
 // Paths never shipped (relative to the repo root). Add here rather than editing lists elsewhere.
-export const EXCLUDES = [];
+// The raw BSB source text is only used by standalone.html and the verify scripts, not the app.
+export const EXCLUDES = ['data/Berean-Standard-Bible-original.txt'];
 
 // Local files referenced by <script src> and <link href> in index.html, in page order.
 export function indexRefs(base = root) {

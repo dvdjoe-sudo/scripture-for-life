@@ -394,6 +394,10 @@ try {
     assert.equal(await page.evaluate(()=>document.documentElement.dataset.theme),'light','Saved choice beats the device setting');
     await page.evaluate(()=>localStorage.removeItem('scripture-for-life.theme'));
     await page.emulateMedia({colorScheme:'light'});
+    // Smaller app: verse watercolors ship at 832px wide (sharp on phones, keeps the APK well under 100 MB).
+    await visit('#/study/22/1','img[data-verse-study-art]');
+    await page.waitForFunction(()=>document.querySelector('img[data-verse-study-art]').naturalWidth>0);
+    assert.equal(await page.locator('img[data-verse-study-art]').first().evaluate(i=>i.naturalWidth),832,'Verse watercolors are 832px wide');
     // Word search: Bible verses, story scenes and people; references still work first.
     await visit('#/search/shepherd','.word-hit');
     assert.equal(await page.locator('.word-hit mark').first().innerText().then(t=>/shepherd/i.test(t)),true,'Search word is highlighted');

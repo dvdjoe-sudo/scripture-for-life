@@ -23,7 +23,7 @@ for(let n=1;n<=12;n++){
  assert.equal((html.match(/role="tab"/g)||[]).length,4);assert.equal((html.match(/>Verse \d+ of \d+<\/option>/g)||[]).length,12);assert.equal((html.match(/data-verse-study-art=/g)||[]).length,1);
  assert(html.includes(n<12?'href="#/study/30/'+(n+1)+'"':'href="#/psalms/31"'));assert.equal(e.link('Psalm 30:'+n),'#/study/30/'+n);
  assert(v.meaning.length>300&&v.context.length>140&&v.reflect.length>50);assert(v.explore.length>=2&&v.explore.every(x=>x[1].length>50));v.related.forEach(refCheck);
- assert.equal(bytes.subarray(8,12).toString(),'WEBP');assert(bytes.length>50000);assert(bytes.equals(fs.readFileSync('www/'+v.art)));assert(sw.includes(v.art));hashes.add(crypto.createHash('sha256').update(bytes).digest('hex'));
+ assert.equal(bytes.subarray(8,12).toString(),'WEBP');assert(bytes.length>20000);assert(bytes.equals(fs.readFileSync('www/'+v.art)));assert(sw.includes(v.art));hashes.add(crypto.createHash('sha256').update(bytes).digest('hex'));
  assert.equal(p.production,v.art);assert.equal(p.status,'generated and visually inspected');assert(p.prompt.length>500);originals.add(p.generatedOriginal);
 }
 assert.equal(hashes.size,12);assert.equal(originals.size,12);
