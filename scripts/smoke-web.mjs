@@ -437,6 +437,10 @@ await page.goto(base + '#/favorites'); await page.reload(); await page.waitForSe
 assert.equal(await page.locator('.favorites-list .verse-ref').first().innerText().then(t => t.replace(/BSB/, '').trim()), favRef, 'Favorite listed');
 await page.locator('.favorites-list [data-action="favorite"]').first().click(); await page.waitForSelector('.empty h2');
 await page.goto(base + '#/study/1/1'); await page.waitForSelector('[data-action="favorite"][data-ref="Psalm 1:1"]', { state: 'attached' });
+// Reading streak: consecutive local days the app was opened.
+await page.goto(base + '#/'); await page.waitForSelector('.hero .streak-line');
+assert(/^\d+-day streak$/.test(await page.locator('.streak-line').innerText()), 'Home shows the streak line');
+assert.deepEqual(await page.evaluate(() => { const u = window.APP_TEST.updateStreak; return [u(new Date(2026,0,5,9), null).count, u(new Date(2026,0,5,22), {last:'2026-01-05',count:3}).count, u(new Date(2026,0,6,0,5), {last:'2026-01-05',count:3}).count, u(new Date(2026,0,8), {last:'2026-01-05',count:3}).count]; }), [1, 3, 4, 1], 'Streak counts consecutive days and resets after a gap');
 // Word search: Bible verses, story scenes and people; references still work first.
     await visit('#/search/shepherd','.word-hit');
     assert.equal(await page.locator('.word-hit mark').first().innerText().then(t=>/shepherd/i.test(t)),true,'Search word is highlighted');

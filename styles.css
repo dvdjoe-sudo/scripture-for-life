@@ -46,3 +46,4 @@ html.sfl-large-text .reader-verse{font-size:26px}html.sfl-large-text .verse-text
 .fav-btn.is-fav{color:#b4474f}.fav-btn.is-fav svg{fill:currentColor}
 html[data-theme=dark] .fav-btn.is-fav{color:#e58b92}
 .verse-tools{display:inline-flex;align-items:center;gap:2px;flex:0 0 auto}
+.streak-line{margin:.4rem 0 0;font-size:.85rem;color:var(--muted,#6b6f68);letter-spacing:.02em}
