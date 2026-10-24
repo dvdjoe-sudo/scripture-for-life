@@ -382,6 +382,7 @@ try {
     await page.evaluate(()=>localStorage.removeItem('scripture-for-life.theme'));
     await page.emulateMedia({colorScheme:'dark'});
     await visit('#/psalms/23','.psalm-chapter-verse .verse-text');
+    await page.reload({waitUntil:'domcontentloaded'});await page.locator('.psalm-chapter-verse .verse-text').first().waitFor();
     assert.equal(await page.evaluate(()=>document.documentElement.dataset.theme),'dark','Dark mode follows the device');
     const bgDark=await page.evaluate(()=>getComputedStyle(document.body).backgroundColor);
     assert.ok(bgDark.match(/\d+/g).slice(0,3).every(n=>+n<60),'Dark page background: '+bgDark);
