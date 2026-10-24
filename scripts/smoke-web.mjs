@@ -218,11 +218,11 @@ try {
     assert.match(await page.locator('.gen-narrative').innerText(),/Chronicles does not open with a scene\./,'Chronicles scene shows the retelling');
     await visit('#/chronicles/14/5','.gen-narrative');
     assert.equal(await page.locator('a[href="#/ezra"]').count(),1,'Last Chronicles scene continues to Ezra stories');
-    await visit('#/chronicles/9/1','.gen-narrative');
+    await visit('#/chronicles/9/1','.gen-narrative a[href="#/people/jehoshaphat"]');
     assert.equal(await page.locator('a[href="#/people/jehoshaphat"]').count(),1,'Chronicles scene links Jehoshaphat inline');
-    await visit('#/chronicles/11/3','.gen-narrative');
+    await visit('#/chronicles/11/3','.gen-narrative a[href="#/people/jehoiada"]');
     assert.equal(await page.locator('a[href="#/people/jehoiada"]').count(),1,'Chronicles scene links Jehoiada inline');
-    await visit('#/daniel/4/2','.gen-narrative');
+    await visit('#/daniel/4/2','.gen-narrative a[href="#/people/nebuchadnezzar"]');
     assert.equal(await page.locator('a[href="#/people/nebuchadnezzar"]').count(),1,'Daniel scene links Nebuchadnezzar inline');
     assert.equal(await page.locator('a[href="#/people/three-friends"]').count(),1,'Daniel scene links the three friends inline');
     // Ezra story book: library link, ten episodes, Chronicles leads on to it, and the last scene continues to Esther stories.
