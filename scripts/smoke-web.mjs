@@ -259,14 +259,22 @@ try {
     assert.equal(await page.locator('a[href="#/people/nehemiah"]').count(),1,'Nehemiah scene links Nehemiah inline');
     await visit('#/nehemiah/12/5','.gen-narrative');
     assert.equal(await page.locator('a[href="#/job"]').count(),1,'Last Nehemiah scene continues to Job stories');
-    // Job story book: library link, nineteen episodes, Nehemiah leads on to it, and the last scene continues to Psalm 1.
+    // Job story book: library link, nineteen episodes, Nehemiah leads on to it, and the last scene continues to Proverbs stories.
     await visit('#/books','.gen-cta-actions a[href="#/job"]');
     await visit('#/job','.gen-episode-tile');
     assert.equal(await page.locator('.gen-episode-tile').count(),19,'Job has nineteen episodes');
     await visit('#/job/1/2','.gen-narrative');
     assert.equal(await page.locator('a[href="#/people/job"]').count(),1,'Job scene links Job inline');
     await visit('#/job/19/5','.gen-narrative');
-    assert.equal(await page.locator('a[href="#/read/19/1"]').count(),1,'Last Job scene continues to Psalm 1');
+    assert.equal(await page.locator('a[href="#/proverbs"]').count(),1,'Last Job scene continues to Proverbs stories');
+    // Proverbs story book: library link, thirteen episodes, Job leads on to it, a scene links Solomon inline, and the last scene continues to Ecclesiastes 1.
+    await visit('#/books','.gen-cta-actions a[href="#/proverbs"]');
+    await visit('#/proverbs','.gen-episode-tile');
+    assert.equal(await page.locator('.gen-episode-tile').count(),13,'Proverbs has thirteen episodes');
+    await visit('#/proverbs/11/1','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/solomon"]').count(),1,'Proverbs scene links Solomon inline');
+    await visit('#/proverbs/13/5','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/read/21/1"]').count(),1,'Last Proverbs scene continues to Ecclesiastes 1');
     // Whole-episode Listen on every story book's full-episode page, chunked for speech synthesis.
     for(const route of ['#/stories/2/full','#/zechariah/1/full','#/joel/1/full','#/kings1/1/full']){
       await visit(route,'.gen-full .ep-listen [data-action="ep-listen"]');
