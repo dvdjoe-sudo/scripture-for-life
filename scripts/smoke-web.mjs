@@ -411,6 +411,10 @@ await page.evaluate(() => { localStorage.setItem('scripture-for-life.theme', 'da
 const rowBg = await page.evaluate(() => getComputedStyle(document.querySelector('.topic-layout .verse-card:nth-child(2)')).backgroundColor.match(/\d+/g).map(Number));
 assert(Math.abs(rowBg[0] - rowBg[2]) <= 4 && rowBg[0] < 60, 'Dark topic rows must be neutral, not brown: ' + rowBg);
 await page.evaluate(() => { localStorage.removeItem('scripture-for-life.theme'); window.SFL_THEME.apply(); });
+// Psalm dropdown labels fit on phones: short labels, full-width select.
+await page.goto(base + '#/study/119/1'); await page.waitForSelector('#psalm-switch-select', { state: 'attached' });
+const dd = await page.evaluate(() => { const s = document.querySelector('#psalm-switch-select'); return { w: s.getBoundingClientRect().width, longest: Math.max(...[...s.options].map(o => o.textContent.length)), full: [...s.options].every(o => o.title.startsWith(o.textContent.replace(/…$/, ''))) }; });
+assert(dd.w > 150 && dd.longest <= 24 && dd.full, 'Psalm dropdown labels must fit on phones: ' + JSON.stringify(dd));
 // Word search: Bible verses, story scenes and people; references still work first.
     await visit('#/search/shepherd','.word-hit');
     assert.equal(await page.locator('.word-hit mark').first().innerText().then(t=>/shepherd/i.test(t)),true,'Search word is highlighted');
