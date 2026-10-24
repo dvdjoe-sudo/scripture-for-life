@@ -42,3 +42,7 @@ html.sfl-large-text .reader-verse{font-size:26px}html.sfl-large-text .verse-text
 .votd-art{flex:0 0 auto;width:96px;height:64px;object-fit:cover;border-radius:10px}
 @media(max-width:420px){.votd{padding:12px 14px;gap:10px}.votd-art{width:72px;height:56px}}
 .votd .verse-actions .icon-btn{padding-inline:6px}
+/* Favorites heart */
+.fav-btn.is-fav{color:#b4474f}.fav-btn.is-fav svg{fill:currentColor}
+html[data-theme=dark] .fav-btn.is-fav{color:#e58b92}
+.verse-tools{display:inline-flex;align-items:center;gap:2px;flex:0 0 auto}
