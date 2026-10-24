@@ -92,6 +92,10 @@ try {
     assert.match(await page.locator('h1').innerText(),/Shadrach/,'Three friends profile renders');
     await visit('#/people/ezra','.story-step');
     assert.match(await page.locator('h1').innerText(),/Ezra/,'Ezra profile renders');
+    await visit('#/people/esther','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Esther/,'Esther profile renders');
+    await visit('#/people/mordecai','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Mordecai/,'Mordecai profile renders');
     await visit('#/study/23/1','.study-landscape .landscape');
     assert.equal(await page.locator('.study-explainer [role="tab"]').count(),4,'Original four-tab Psalm study preserved');
     await page.locator('[data-psalm-verse-select]').selectOption('3');
@@ -217,7 +221,7 @@ try {
     await visit('#/daniel/4/2','.gen-narrative');
     assert.equal(await page.locator('a[href="#/people/nebuchadnezzar"]').count(),1,'Daniel scene links Nebuchadnezzar inline');
     assert.equal(await page.locator('a[href="#/people/three-friends"]').count(),1,'Daniel scene links the three friends inline');
-    // Ezra story book: library link, ten episodes, Chronicles leads on to it, and the last scene continues to Esther 1.
+    // Ezra story book: library link, ten episodes, Chronicles leads on to it, and the last scene continues to Esther stories.
     await visit('#/books','.gen-cta-actions a[href="#/ezra"]');
     await visit('#/ezra','.gen-episode-tile');
     assert.equal(await page.locator('.gen-episode-tile').count(),10,'Ezra has ten episodes');
@@ -229,7 +233,16 @@ try {
     await visit('#/ezra/7/1','.gen-narrative');
     assert.equal(await page.locator('a[href="#/people/ezra"]').count(),1,'Ezra scene links Ezra inline');
     await visit('#/ezra/10/5','.gen-narrative');
-    assert.equal(await page.locator('a[href="#/read/17/1"]').count(),1,'Last Ezra scene continues to Esther 1');
+    assert.equal(await page.locator('a[href="#/esther"]').count(),1,'Last Ezra scene continues to Esther stories');
+    // Esther story book: library link, nine episodes, Ezra leads on to it, and the last scene continues to Nehemiah 1.
+    await visit('#/books','.gen-cta-actions a[href="#/esther"]');
+    await visit('#/esther','.gen-episode-tile');
+    assert.equal(await page.locator('.gen-episode-tile').count(),9,'Esther has nine episodes');
+    await visit('#/esther/2/2','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/mordecai"]').count(),1,'Esther scene links Mordecai inline');
+    assert.equal(await page.locator('a[href="#/people/esther"]').count(),1,'Esther scene links Esther inline');
+    await visit('#/esther/9/5','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/read/16/1"]').count(),1,'Last Esther scene continues to Nehemiah 1');
     // Whole-episode Listen on every story book's full-episode page, chunked for speech synthesis.
     for(const route of ['#/stories/2/full','#/zechariah/1/full','#/joel/1/full','#/kings1/1/full']){
       await visit(route,'.gen-full .ep-listen [data-action="ep-listen"]');

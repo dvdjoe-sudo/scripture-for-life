@@ -1,0 +1,438 @@
+{
+ "1": [
+  {
+   "id": "1",
+   "start": 0,
+   "end": 0,
+   "title": "The King of 127 Provinces",
+   "passage": "Esther 1:1–4",
+   "anchor": "Esther 1:1",
+   "context": "The citadel of Susa was the winter capital of the Persian Empire. Xerxes is the name the BSB prints for the king older translations call Ahasuerus.",
+   "question": "The book opens with 180 days of display. What do you make of a story about a hidden deliverance that begins with an empire showing off?"
+  },
+  {
+   "id": "2",
+   "start": 1,
+   "end": 1,
+   "title": "The Seven-Day Feast",
+   "passage": "Esther 1:5–9",
+   "anchor": "Esther 1:7",
+   "question": "The book opens with 180 days of display. What do you make of a story about a hidden deliverance that begins with an empire showing off?"
+  },
+  {
+   "id": "3",
+   "start": 2,
+   "end": 2,
+   "title": "The Queen Who Would Not Come",
+   "passage": "Esther 1:10–12",
+   "anchor": "Esther 1:12",
+   "context": "The book gives no reason for Vashti’s refusal and records no words from her. Retellings across the centuries have supplied motives the text itself does not.",
+   "question": "The book opens with 180 days of display. What do you make of a story about a hidden deliverance that begins with an empire showing off?"
+  },
+  {
+   "id": "4",
+   "start": 3,
+   "end": 3,
+   "title": "Memucan's Counsel",
+   "passage": "Esther 1:13–19",
+   "anchor": "Esther 1:16",
+   "question": "The book opens with 180 days of display. What do you make of a story about a hidden deliverance that begins with an empire showing off?"
+  },
+  {
+   "id": "5",
+   "start": 4,
+   "end": 4,
+   "title": "Master of His Own Household",
+   "passage": "Esther 1:20–22",
+   "anchor": "Esther 1:22",
+   "question": "The book opens with 180 days of display. What do you make of a story about a hidden deliverance that begins with an empire showing off?"
+  }
+ ],
+ "2": [
+  {
+   "id": "1",
+   "start": 0,
+   "end": 0,
+   "title": "A Search for a Queen",
+   "passage": "Esther 2:1–4",
+   "anchor": "Esther 2:2",
+   "question": "Esther’s first strategy was silence about who she was. When is keeping your identity quiet wisdom, and when does it become the thing that must end?"
+  },
+  {
+   "id": "2",
+   "start": 1,
+   "end": 1,
+   "title": "Mordecai and Hadassah",
+   "passage": "Esther 2:5–7",
+   "anchor": "Esther 2:5",
+   "context": "Mordecai’s line runs through Kish and Shimei, names from Saul’s Benjaminite world in 1 Samuel. Whether the echoes are genealogy or resonance, the narrator makes no claim beyond the names.",
+   "question": "Esther’s first strategy was silence about who she was. When is keeping your identity quiet wisdom, and when does it become the thing that must end?"
+  },
+  {
+   "id": "3",
+   "start": 2,
+   "end": 2,
+   "title": "Favor in the Harem",
+   "passage": "Esther 2:8–11",
+   "anchor": "Esther 2:10",
+   "question": "Esther’s first strategy was silence about who she was. When is keeping your identity quiet wisdom, and when does it become the thing that must end?"
+  },
+  {
+   "id": "4",
+   "start": 3,
+   "end": 3,
+   "title": "The Year of Waiting and the Crown",
+   "passage": "Esther 2:12–18",
+   "anchor": "Esther 2:17",
+   "context": "The harem year and the one-night summons are told as the text prints them. Esther’s one recorded choice inside the system is to ask only for what Hegai advised.",
+   "question": "Esther’s first strategy was silence about who she was. When is keeping your identity quiet wisdom, and when does it become the thing that must end?"
+  },
+  {
+   "id": "5",
+   "start": 4,
+   "end": 4,
+   "title": "The Plot at the Gate",
+   "passage": "Esther 2:19–23",
+   "anchor": "Esther 2:23",
+   "question": "Esther’s first strategy was silence about who she was. When is keeping your identity quiet wisdom, and when does it become the thing that must end?"
+  }
+ ],
+ "3": [
+  {
+   "id": "1",
+   "start": 0,
+   "end": 0,
+   "title": "The Knee That Would Not Bend",
+   "passage": "Esther 3:1–4",
+   "anchor": "Esther 3:2",
+   "question": "Haman’s rage at one man became a plan against a whole people. Where have you seen a private grudge widen like that?"
+  },
+  {
+   "id": "2",
+   "start": 1,
+   "end": 1,
+   "title": "From One Man to a People",
+   "passage": "Esther 3:5–7",
+   "anchor": "Esther 3:7",
+   "context": "The Pur was a lot, likely dice or marked stones, cast to choose an auspicious day. It fell eleven months out, which is why the story has a year to breathe.",
+   "question": "Haman’s rage at one man became a plan against a whole people. Where have you seen a private grudge widen like that?"
+  },
+  {
+   "id": "3",
+   "start": 2,
+   "end": 2,
+   "title": "A Certain People",
+   "passage": "Esther 3:8–9",
+   "anchor": "Esther 3:8",
+   "context": "Haman is called the Agagite, a name that recalls Agag, the Amalekite king of 1 Samuel 15. The text states the name and lets it stand without explanation.",
+   "question": "Haman’s rage at one man became a plan against a whole people. Where have you seen a private grudge widen like that?"
+  },
+  {
+   "id": "4",
+   "start": 3,
+   "end": 3,
+   "title": "The Ring Changes Hands",
+   "passage": "Esther 3:10–13",
+   "anchor": "Esther 3:10",
+   "question": "Haman’s rage at one man became a plan against a whole people. Where have you seen a private grudge widen like that?"
+  },
+  {
+   "id": "5",
+   "start": 4,
+   "end": 4,
+   "title": "The City in Confusion",
+   "passage": "Esther 3:14–15",
+   "anchor": "Esther 3:15",
+   "question": "Haman’s rage at one man became a plan against a whole people. Where have you seen a private grudge widen like that?"
+  }
+ ],
+ "4": [
+  {
+   "id": "1",
+   "start": 0,
+   "end": 0,
+   "title": "Sackcloth at the Gate",
+   "passage": "Esther 4:1–3",
+   "anchor": "Esther 4:1",
+   "question": "Mordecai told Esther deliverance would arise even if she stayed silent. What does that confidence do to the pressure of his question about her place and time?"
+  },
+  {
+   "id": "2",
+   "start": 1,
+   "end": 1,
+   "title": "Clothes Refused, Decree Delivered",
+   "passage": "Esther 4:4–8",
+   "anchor": "Esther 4:8",
+   "question": "Mordecai told Esther deliverance would arise even if she stayed silent. What does that confidence do to the pressure of his question about her place and time?"
+  },
+  {
+   "id": "3",
+   "start": 2,
+   "end": 2,
+   "title": "The Law of the Inner Court",
+   "passage": "Esther 4:9–11",
+   "anchor": "Esther 4:11",
+   "question": "Mordecai told Esther deliverance would arise even if she stayed silent. What does that confidence do to the pressure of his question about her place and time?"
+  },
+  {
+   "id": "4",
+   "start": 3,
+   "end": 3,
+   "title": "From Another Place",
+   "passage": "Esther 4:12–14",
+   "anchor": "Esther 4:14",
+   "context": "Mordecai’s “another place” is as close as this book comes to naming where deliverance comes from. It is quoted as his words and left exactly there.",
+   "question": "Mordecai told Esther deliverance would arise even if she stayed silent. What does that confidence do to the pressure of his question about her place and time?"
+  },
+  {
+   "id": "5",
+   "start": 4,
+   "end": 4,
+   "title": "The Fast and the Resolve",
+   "passage": "Esther 4:15–17",
+   "anchor": "Esther 4:16",
+   "question": "Mordecai told Esther deliverance would arise even if she stayed silent. What does that confidence do to the pressure of his question about her place and time?"
+  }
+ ],
+ "5": [
+  {
+   "id": "1",
+   "start": 0,
+   "end": 0,
+   "title": "The Scepter Extended",
+   "passage": "Esther 5:1–3",
+   "anchor": "Esther 5:2",
+   "question": "Esther risked the court, then asked only for dinner. What might patience after courage make possible that a single bold moment could not?"
+  },
+  {
+   "id": "2",
+   "start": 1,
+   "end": 1,
+   "title": "The Request Deferred",
+   "passage": "Esther 5:4–8",
+   "anchor": "Esther 5:8",
+   "context": "The text never says why Esther deferred her petition a day. The delay, whatever lay behind it, is what put the sleepless night between the two banquets.",
+   "question": "Esther risked the court, then asked only for dinner. What might patience after courage make possible that a single bold moment could not?"
+  },
+  {
+   "id": "3",
+   "start": 2,
+   "end": 2,
+   "title": "The Flaw in Haman's Day",
+   "passage": "Esther 5:9–10",
+   "anchor": "Esther 5:9",
+   "question": "Esther risked the court, then asked only for dinner. What might patience after courage make possible that a single bold moment could not?"
+  },
+  {
+   "id": "4",
+   "start": 3,
+   "end": 3,
+   "title": "The Inventory of Greatness",
+   "passage": "Esther 5:11–13",
+   "anchor": "Esther 5:13",
+   "question": "Esther risked the court, then asked only for dinner. What might patience after courage make possible that a single bold moment could not?"
+  },
+  {
+   "id": "5",
+   "start": 4,
+   "end": 4,
+   "title": "Fifty Cubits",
+   "passage": "Esther 5:14",
+   "anchor": "Esther 5:14",
+   "question": "Esther risked the court, then asked only for dinner. What might patience after courage make possible that a single bold moment could not?"
+  }
+ ],
+ "6": [
+  {
+   "id": "1",
+   "start": 0,
+   "end": 0,
+   "title": "The Book Read at Night",
+   "passage": "Esther 6:1–2",
+   "anchor": "Esther 6:1",
+   "context": "The Book of Records was the court chronicle read in Episode 2, where Mordecai’s deed was entered. The king’s insomnia is stated as a fact; the book assigns it no cause.",
+   "question": "A book nobody had opened for five years changed everything in one night. What recorded kindness or forgotten deed might your own story be carrying?"
+  },
+  {
+   "id": "2",
+   "start": 1,
+   "end": 1,
+   "title": "Nothing Has Been Done for Him",
+   "passage": "Esther 6:3–6",
+   "anchor": "Esther 6:3",
+   "question": "A book nobody had opened for five years changed everything in one night. What recorded kindness or forgotten deed might your own story be carrying?"
+  },
+  {
+   "id": "3",
+   "start": 2,
+   "end": 2,
+   "title": "Designing His Own Honor",
+   "passage": "Esther 6:7–9",
+   "anchor": "Esther 6:9",
+   "question": "A book nobody had opened for five years changed everything in one night. What recorded kindness or forgotten deed might your own story be carrying?"
+  },
+  {
+   "id": "4",
+   "start": 3,
+   "end": 3,
+   "title": "Do Not Neglect Anything",
+   "passage": "Esther 6:10–11",
+   "anchor": "Esther 6:10",
+   "question": "A book nobody had opened for five years changed everything in one night. What recorded kindness or forgotten deed might your own story be carrying?"
+  },
+  {
+   "id": "5",
+   "start": 4,
+   "end": 4,
+   "title": "Your Downfall Has Begun",
+   "passage": "Esther 6:12–14",
+   "anchor": "Esther 6:13",
+   "question": "A book nobody had opened for five years changed everything in one night. What recorded kindness or forgotten deed might your own story be carrying?"
+  }
+ ],
+ "7": [
+  {
+   "id": "1",
+   "start": 0,
+   "end": 0,
+   "title": "The Third Asking",
+   "passage": "Esther 7:1–2",
+   "anchor": "Esther 7:2",
+   "question": "Esther named the enemy at her own table. What does it cost to say the true name of a threat in the room where it sits?"
+  },
+  {
+   "id": "2",
+   "start": 1,
+   "end": 1,
+   "title": "Grant Me My Life",
+   "passage": "Esther 7:3–4",
+   "anchor": "Esther 7:3",
+   "question": "Esther named the enemy at her own table. What does it cost to say the true name of a threat in the room where it sits?"
+  },
+  {
+   "id": "3",
+   "start": 2,
+   "end": 2,
+   "title": "This Wicked Man",
+   "passage": "Esther 7:5–6",
+   "anchor": "Esther 7:6",
+   "context": "The BSB’s sentence breaks at a dash: “this wicked man—Haman.” The telling splits the quote at the dash rather than smoothing it over.",
+   "question": "Esther named the enemy at her own table. What does it cost to say the true name of a threat in the room where it sits?"
+  },
+  {
+   "id": "4",
+   "start": 3,
+   "end": 3,
+   "title": "The Garden and the Couch",
+   "passage": "Esther 7:7–8",
+   "anchor": "Esther 7:8",
+   "question": "Esther named the enemy at her own table. What does it cost to say the true name of a threat in the room where it sits?"
+  },
+  {
+   "id": "5",
+   "start": 4,
+   "end": 4,
+   "title": "Hang Him on It",
+   "passage": "Esther 7:9–10",
+   "anchor": "Esther 7:10",
+   "question": "Esther named the enemy at her own table. What does it cost to say the true name of a threat in the room where it sits?"
+  }
+ ],
+ "8": [
+  {
+   "id": "1",
+   "start": 0,
+   "end": 0,
+   "title": "The Ring on Another Finger",
+   "passage": "Esther 8:1–2",
+   "anchor": "Esther 8:2",
+   "question": "The second decree did not erase the first; it answered it. Where in your life does rescue look like an answer alongside a problem rather than its removal?"
+  },
+  {
+   "id": "2",
+   "start": 1,
+   "end": 1,
+   "title": "Weeping at the King's Feet",
+   "passage": "Esther 8:3–6",
+   "anchor": "Esther 8:6",
+   "question": "The second decree did not erase the first; it answered it. Where in your life does rescue look like an answer alongside a problem rather than its removal?"
+  },
+  {
+   "id": "3",
+   "start": 2,
+   "end": 2,
+   "title": "What Cannot Be Revoked",
+   "passage": "Esther 8:7–8",
+   "anchor": "Esther 8:8",
+   "context": "A decree sealed with the king’s ring could not be revoked, even by the king. Deliverance had to come as a second decree standing beside the first, not as a repeal.",
+   "question": "The second decree did not erase the first; it answered it. Where in your life does rescue look like an answer alongside a problem rather than its removal?"
+  },
+  {
+   "id": "4",
+   "start": 3,
+   "end": 3,
+   "title": "The Second Decree Rides",
+   "passage": "Esther 8:9–14",
+   "anchor": "Esther 8:11",
+   "question": "The second decree did not erase the first; it answered it. Where in your life does rescue look like an answer alongside a problem rather than its removal?"
+  },
+  {
+   "id": "5",
+   "start": 4,
+   "end": 4,
+   "title": "Light and Gladness",
+   "passage": "Esther 8:15–17",
+   "anchor": "Esther 8:16",
+   "question": "The second decree did not erase the first; it answered it. Where in your life does rescue look like an answer alongside a problem rather than its removal?"
+  }
+ ],
+ "9": [
+  {
+   "id": "1",
+   "start": 0,
+   "end": 0,
+   "title": "The Day Overturned",
+   "passage": "Esther 9:1–5",
+   "anchor": "Esther 9:1",
+   "question": "The Jews refused the plunder three times. What does refusing the spoils say about what the fighting was for?"
+  },
+  {
+   "id": "2",
+   "start": 1,
+   "end": 1,
+   "title": "They Did Not Lay a Hand on the Plunder",
+   "passage": "Esther 9:6–10",
+   "anchor": "Esther 9:10",
+   "context": "Both edicts permitted the Jews’ enemies and then the Jews themselves to take plunder. The record’s threefold refusal is the text’s own emphasis, repeated at 9:10, 9:15, and 9:16.",
+   "question": "The Jews refused the plunder three times. What does refusing the spoils say about what the fighting was for?"
+  },
+  {
+   "id": "3",
+   "start": 2,
+   "end": 2,
+   "title": "The Second Day",
+   "passage": "Esther 9:11–19",
+   "anchor": "Esther 9:16",
+   "question": "The Jews refused the plunder three times. What does refusing the spoils say about what the fighting was for?"
+  },
+  {
+   "id": "4",
+   "start": 3,
+   "end": 3,
+   "title": "Purim Established",
+   "passage": "Esther 9:20–28",
+   "anchor": "Esther 9:22",
+   "context": "Purim is still kept: two days of feasting, gifts exchanged, and gifts to the poor, in Adar, the twelfth month. Rural communities kept the fourteenth, walled Susa the fifteenth, and the letters bound both.",
+   "question": "The Jews refused the plunder three times. What does refusing the spoils say about what the fighting was for?"
+  },
+  {
+   "id": "5",
+   "start": 4,
+   "end": 4,
+   "title": "Words of Peace and Truth",
+   "passage": "Esther 9:29–10:3",
+   "anchor": "Esther 10:3",
+   "question": "The Jews refused the plunder three times. What does refusing the spoils say about what the fighting was for?"
+  }
+ ]
+}
