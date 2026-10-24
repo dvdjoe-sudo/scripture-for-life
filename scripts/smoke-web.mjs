@@ -441,6 +441,12 @@ await page.goto(base + '#/study/1/1'); await page.waitForSelector('[data-action=
 await page.goto(base + '#/'); await page.waitForSelector('.hero .streak-line');
 assert(/^\d+-day streak$/.test(await page.locator('.streak-line').innerText()), 'Home shows the streak line');
 assert.deepEqual(await page.evaluate(() => { const u = window.APP_TEST.updateStreak; return [u(new Date(2026,0,5,9), null).count, u(new Date(2026,0,5,22), {last:'2026-01-05',count:3}).count, u(new Date(2026,0,6,0,5), {last:'2026-01-05',count:3}).count, u(new Date(2026,0,8), {last:'2026-01-05',count:3}).count]; }), [1, 3, 4, 1], 'Streak counts consecutive days and resets after a gap');
+// Listen and Share buttons are at least 44x44 on phones, on every page that has them.
+for (const r of ['#/', '#/help/fear', '#/study/1/1', '#/psalms/23', '#/stories/1/1']) {
+  await page.goto(base + r); await page.waitForSelector('#main [data-action="listen-verse"], #main [data-action="share-scene"]', { state: 'attached' });
+  const small = await page.evaluate(() => [...document.querySelectorAll('#main [data-action="listen-verse"], #main [data-action="share-verse"], #main [data-action="share-scene"]')].filter(e => e.offsetParent).map(e => e.getBoundingClientRect()).filter(b => b.width < 44 || b.height < 44).length);
+  assert.equal(small, 0, 'Listen/Share tap targets under 44px on ' + r);
+}
 // Word search: Bible verses, story scenes and people; references still work first.
     await visit('#/search/shepherd','.word-hit');
     assert.equal(await page.locator('.word-hit mark').first().innerText().then(t=>/shepherd/i.test(t)),true,'Search word is highlighted');
