@@ -82,6 +82,8 @@ try {
     assert.match(await page.locator('h1').innerText(),/Joel/,'Joel profile renders');
     await visit('#/people/malachi','.story-step');
     assert.match(await page.locator('h1').innerText(),/Malachi/,'Malachi profile renders');
+    for(const [pid,nm] of [['nadab-abihu',/Nadab and Abihu/],['caleb',/Caleb/],['balaam',/Balaam/]]){await visit('#/people/'+pid,'.story-step');assert.match(await page.locator('h1').innerText(),nm,pid+' profile renders');}
+    await visit('#/numbers/4/1','a[href="#/people/joshua"]');
     await visit('#/people/jehoshaphat','.story-step');
     assert.match(await page.locator('h1').innerText(),/Jehoshaphat/,'Jehoshaphat profile renders');
     await visit('#/people/jehoiada','.story-step');
@@ -216,11 +218,11 @@ try {
     assert.match(await page.locator('.gen-narrative').innerText(),/Chronicles does not open with a scene\./,'Chronicles scene shows the retelling');
     await visit('#/chronicles/14/5','.gen-narrative');
     assert.equal(await page.locator('a[href="#/ezra"]').count(),1,'Last Chronicles scene continues to Ezra stories');
-    await visit('#/chronicles/9/1','.gen-narrative');
+    await visit('#/chronicles/9/1','.gen-narrative a[href="#/people/jehoshaphat"]');
     assert.equal(await page.locator('a[href="#/people/jehoshaphat"]').count(),1,'Chronicles scene links Jehoshaphat inline');
-    await visit('#/chronicles/11/3','.gen-narrative');
+    await visit('#/chronicles/11/3','.gen-narrative a[href="#/people/jehoiada"]');
     assert.equal(await page.locator('a[href="#/people/jehoiada"]').count(),1,'Chronicles scene links Jehoiada inline');
-    await visit('#/daniel/4/2','.gen-narrative');
+    await visit('#/daniel/4/2','.gen-narrative a[href="#/people/nebuchadnezzar"]');
     assert.equal(await page.locator('a[href="#/people/nebuchadnezzar"]').count(),1,'Daniel scene links Nebuchadnezzar inline');
     assert.equal(await page.locator('a[href="#/people/three-friends"]').count(),1,'Daniel scene links the three friends inline');
     // Ezra story book: library link, ten episodes, Chronicles leads on to it, and the last scene continues to Esther stories.
