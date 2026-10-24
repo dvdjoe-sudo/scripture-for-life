@@ -367,6 +367,21 @@ try {
     await page.locator('[data-action="text-size"]').click();
     assert.equal(await page.evaluate(()=>localStorage.getItem('scripture-for-life.text-size')),'normal','Turning it off is saved too');
     assert.equal(await page.locator('.reading.read-size-large').count(),0,'Reader returns to the standard size');
+    // Dark mode: follows the device setting, a remembered toggle sits beside Text size, watercolors are never inverted.
+    await page.evaluate(()=>localStorage.removeItem('scripture-for-life.theme'));
+    await page.emulateMedia({colorScheme:'dark'});
+    await visit('#/psalms/23','.psalm-chapter-verse .verse-text');
+    assert.equal(await page.evaluate(()=>document.documentElement.dataset.theme),'dark','Dark mode follows the device');
+    const bgDark=await page.evaluate(()=>getComputedStyle(document.body).backgroundColor);
+    assert.ok(bgDark.match(/\d+/g).slice(0,3).every(n=>+n<60),'Dark page background: '+bgDark);
+    assert.equal(await page.locator('img').evaluateAll(els=>els.filter(e=>getComputedStyle(e).filter!=='none').length),0,'Images are not filtered or inverted');
+    await visit('#/zechariah/1/3','.gen-reading-controls [data-action="theme"]');
+    await page.locator('.gen-reading-controls [data-action="theme"]').click();
+    assert.equal(await page.evaluate(()=>localStorage.getItem('scripture-for-life.theme')),'light','Theme choice is saved');
+    await page.reload({waitUntil:'domcontentloaded'});
+    assert.equal(await page.evaluate(()=>document.documentElement.dataset.theme),'light','Saved choice beats the device setting');
+    await page.evaluate(()=>localStorage.removeItem('scripture-for-life.theme'));
+    await page.emulateMedia({colorScheme:'light'});
     // Word search: Bible verses, story scenes and people; references still work first.
     await visit('#/search/shepherd','.word-hit');
     assert.equal(await page.locator('.word-hit mark').first().innerText().then(t=>/shepherd/i.test(t)),true,'Search word is highlighted');
