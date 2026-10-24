@@ -313,9 +313,12 @@ try {
     assert.equal(await page.locator('.episode-done').count(),1,'Only the finished episode shows ✓');
     // Verse of the day: a topic verse chosen by date, tappable to the verse popup.
     assert.equal(await page.evaluate(()=>{const A=window.APP_TEST,a=A.heroVerse(new Date(2026,0,5,0,5)).ref,b=A.heroVerse(new Date(2026,0,5,23,55)).ref,c=A.heroVerse(new Date(2026,0,6,12)).ref,topicRefs=new Set(window.BIBLE_DATA.topics.flatMap(t=>t.refs));return a===b&&a!==c&&topicRefs.has(a)&&A.dailyVersePool().every(r=>topicRefs.has(r));}),true,'Verse of the day is a topic verse, the same all day and different the next day');
-    await visit('#/','.hero-art .daily-verse');
+    await visit('#/','.votd [data-action="listen-verse"]');
+    assert.equal(await page.locator('.votd').getAttribute('data-votd-ref'),await page.evaluate(()=>window.APP_TEST.heroVerse().ref),'Home verse-of-the-day card shows today\'s verse');
+    assert.equal(await page.locator('.votd [data-action="share-verse"]').count(),1,'Verse of the day can be shared');
+    await page.waitForSelector('.hero-art .daily-verse');
     const dailyRef=await page.locator('.daily-verse').getAttribute('data-ref');
-    assert.equal(dailyRef,await page.evaluate(()=>window.APP_TEST.heroVerse().ref),'Home caption shows today\'s verse');
+    assert.equal(dailyRef,'Psalm 23:1','Home art caption shows the Psalm 23 verse it illustrates');
     await page.locator('.daily-verse').click();
     await page.locator('#verse-dialog[open]').waitFor();
     assert.equal(await page.locator('#dialog-title').innerText(),dailyRef,'Caption opens the verse popup');
