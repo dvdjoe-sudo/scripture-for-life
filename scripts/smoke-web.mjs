@@ -82,6 +82,8 @@ try {
     assert.match(await page.locator('h1').innerText(),/Joel/,'Joel profile renders');
     await visit('#/people/malachi','.story-step');
     assert.match(await page.locator('h1').innerText(),/Malachi/,'Malachi profile renders');
+    for(const [pid,nm] of [['nadab-abihu',/Nadab and Abihu/],['caleb',/Caleb/],['balaam',/Balaam/]]){await visit('#/people/'+pid,'.story-step');assert.match(await page.locator('h1').innerText(),nm,pid+' profile renders');}
+    await visit('#/numbers/4/1','a[href="#/people/joshua"]');
     await visit('#/people/jehoshaphat','.story-step');
     assert.match(await page.locator('h1').innerText(),/Jehoshaphat/,'Jehoshaphat profile renders');
     await visit('#/people/jehoiada','.story-step');
