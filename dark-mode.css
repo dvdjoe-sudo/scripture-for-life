@@ -41,7 +41,7 @@ html[data-theme=dark] .translation{color:#b7bcb5}
 html[data-theme=dark] .verse-text{color:#ccded5}
 html[data-theme=dark] .icon-btn{color:#bec8bb}
 html[data-theme=dark] .icon-btn:hover{background:#262b28}
-html[data-theme=dark] .icon-btn.is-saved svg{color:#c3d9ca}
+html[data-theme=dark] .icon-btn.is-saved svg{color:#d1a0a3}
 html[data-theme=dark] .side-note{background:#272b29}
 html[data-theme=dark] .side-note p{color:#bdc8bc}
 html[data-theme=dark] .study-heading>span{color:#bec5c0}
@@ -104,7 +104,6 @@ html[data-theme=dark] .topic-layout .verse-card:nth-child(even){background:#272b
 html[data-theme=dark] .word-hit mark{background:#2f3431}
 html[data-theme=dark] .episode-done{color:#cbe6e0}
 html[data-theme=dark] .votd{border:1px solid var(--line,#5b543e)}
-html[data-theme=dark] .fav-btn.is-fav{color:#d1a0a3}
 html[data-theme=dark] .gen-kicker{color:#bec6c0}
 html[data-theme=dark] .gen-content h1{color:#cbe6e0}
 html[data-theme=dark] .gen-content h2,html[data-theme=dark] .gen-cta h2{color:#cbe6e0}
