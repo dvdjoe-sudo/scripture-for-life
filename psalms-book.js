@@ -48,6 +48,7 @@ const valid=n=>Number.isInteger(n)&&n>=1&&n<=150;
 function entryURL(n){return window.SFL_VERSE_STUDIES?.has(n)?`#/study/${n}/${window.SFL_VERSE_STUDIES.progress(n)}`:n===23?`#/study/23/${window.SFL_PSALM_ART.progress()}`:n===46?`#/study/46/${window.SFL_PSALM46.progress()}`:`#/psalms/${n}`;}
 function cover(n,loading='eager'){
  if(window.SFL_VERSE_STUDIES?.studies[n]?.verses[(window.SFL_VERSE_STUDIES.studies[n].coverVerse||1)-1]?.art)return window.SFL_VERSE_STUDIES.image(n,window.SFL_VERSE_STUDIES.studies[n].coverVerse||1,{escapeHTML:E},{className:'psalm-chapter-art',lazy:loading==='lazy'});
+ const ci=window.SFL_VERSE_STUDIES?.coverIndex?.[n];if(ci)return `<img class="psalm-chapter-art" data-verse-study-art="${n}-${ci.verse}" src="${ci.src}" width="1280" height="853" alt="${E(ci.alt)}" ${loading==='lazy'?'loading="lazy" ':''}decoding="async">`;
  const c=chapters[n-1];if(!c)throw Error('That psalm could not be found.');const [src,alt]=art[c.art];
  return `<img class="psalm-chapter-art" src="${src}" width="1280" height="853" alt="${E(alt)}" loading="${loading}" decoding="async">`;
 }

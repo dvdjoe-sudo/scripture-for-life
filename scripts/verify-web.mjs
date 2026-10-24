@@ -68,6 +68,8 @@ for (const match of html.matchAll(/<(?:script|link)\b[^>]*(?:src|href)=["']([^"'
 const scriptSources = Array.from(html.matchAll(/<script\b[^>]*src=["']([^"']+)["']/g), m => m[1].split(/[?#]/)[0]);
 for (const file of fs.readdirSync(root).filter(name => name.endsWith('.js'))) {
   if (!read(root, file).includes('window.SFL_VERSE_STUDIES.register(')) continue;
+  const lazyPsalms = JSON.parse((html.match(/<script id="sfl-lazy-psalms" type="application\/json">([\s\S]*?)<\/script>/) || [, '[]'])[1]);
+  if (lazyPsalms.includes(file)) { assert(read(root, 'psalm-study-index.js').includes('"' + file + '"'), 'Lazy verse study missing from psalm-study-index.js: ' + file); continue; }
   const position = scriptSources.indexOf(file);
   assert(position !== -1, 'Completed verse study is not loaded by index.html: ' + file);
   assert(position > scriptSources.indexOf('psalm-verse-study.js') && position < scriptSources.indexOf('app.js'),

@@ -398,7 +398,13 @@ try {
     await visit('#/study/22/1','img[data-verse-study-art]');
     await page.waitForFunction(()=>document.querySelector('img[data-verse-study-art]').naturalWidth>0);
     assert.equal(await page.locator('img[data-verse-study-art]').first().evaluate(i=>i.naturalWidth),832,'Verse watercolors are 832px wide');
-    // Word search: Bible verses, story scenes and people; references still work first.
+    // Psalms 1-36 studies load on demand; the picker covers come from psalm-study-index.js.
+await page.goto(base + '#/'); await page.reload(); await page.waitForFunction(() => window.SFL_VERSE_STUDIES && window.SFL_VERSE_STUDIES.coverIndex[1]);
+assert(await page.evaluate(() => window.SFL_VERSE_STUDIES.has(1) && /psalm1\//.test(window.SFL_VERSE_STUDIES.coverIndex[1].src)), 'Psalm 1 cover comes from the lightweight index');
+assert(!(await page.evaluate(() => Boolean(window.SFL_VERSE_STUDIES.studies[1]) || [...document.scripts].some(s => /\/psalm1\.js$/.test(s.src)))), 'Psalm 1 study must not load before it is opened');
+await page.goto(base + '#/study/2/1'); await page.waitForSelector('img[data-verse-study-art="2-1"]', { state: 'attached' });
+assert(await page.evaluate(() => Boolean(window.SFL_VERSE_STUDIES.studies[2] && window.SFL_VERSE_STUDIES.studies[3])), 'Opening Psalm 2 loads its shared study script');
+// Word search: Bible verses, story scenes and people; references still work first.
     await visit('#/search/shepherd','.word-hit');
     assert.equal(await page.locator('.word-hit mark').first().innerText().then(t=>/shepherd/i.test(t)),true,'Search word is highlighted');
     assert.equal(await page.locator('.word-story, .word-section .person-card').count()>0,true,'Word search finds a story or person for shepherd');

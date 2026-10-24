@@ -56,6 +56,6 @@ assert.throws(()=>engine.render(21,0,renderTools));assert.throws(()=>engine.rend
 assert.equal(engine.progress(21),13);assert.equal(engine.progress(20),8);assert.equal(values.get('scripture-for-life.notes'),'keep existing reflections');
 const prev=engine.render(20,9,{...renderTools,chapter:Object.fromEntries(bible[18].chapters[19])});
 assert(prev.includes('href="#/study/21/1"'),'20→21 transition');
-assert.equal(fs.readFileSync('psalm21.js','utf8'),fs.readFileSync('www/psalm21.js','utf8'));assert(sw.includes('./psalm21.js'));assert(fs.readFileSync('index.html','utf8').includes('src="psalm21.js"'));
+assert.equal(fs.readFileSync('psalm21.js','utf8'),fs.readFileSync('www/psalm21.js','utf8'));assert(sw.includes('./psalm21.js'));assert(fs.readFileSync('index.html','utf8').includes('"psalm21.js"'));
 ctx.localStorage.getItem=()=>{throw Error('blocked');};assert.equal(engine.progress(21),1);
 console.log('PASS — Psalm 21: 13 exact BSB verses, heading/Selah, individual reviewed notes/art, royal life and judgment context, references/people/needs, resume, offline and Android web-bundle parity.');

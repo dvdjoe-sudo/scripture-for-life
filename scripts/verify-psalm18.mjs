@@ -51,6 +51,6 @@ assert.throws(()=>engine.render(18,0,renderTools));assert.throws(()=>engine.rend
 assert.equal(engine.progress(18),50);assert.equal(engine.progress(17),8);assert.equal(values.get('scripture-for-life.notes'),'keep existing reflections');
 const prev=engine.render(17,15,{...renderTools,chapter:Object.fromEntries(bible[18].chapters[16])});
 assert(prev.includes('href="#/study/18/1"'),'17→18 transition');
-assert.equal(fs.readFileSync('psalm18.js','utf8'),fs.readFileSync('www/psalm18.js','utf8'));assert(sw.includes('./psalm18.js'));assert(fs.readFileSync('index.html','utf8').includes('src="psalm18.js"'));
+assert.equal(fs.readFileSync('psalm18.js','utf8'),fs.readFileSync('www/psalm18.js','utf8'));assert(sw.includes('./psalm18.js'));assert(fs.readFileSync('index.html','utf8').includes('"psalm18.js"'));
 ctx.localStorage.getItem=()=>{throw Error('blocked');};assert.equal(engine.progress(18),1);
 console.log('PASS — Psalm 18: 50 exact BSB verses and heading, individual reviewed notes and paintings, sentence continuations, context-sensitive references, people/needs links, independent resume, offline and Android web-bundle parity.');

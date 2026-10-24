@@ -31,6 +31,6 @@ for(const[id,refs]of Object.entries(d.topicPlan))for(const r of refs){assert(c.w
 assert.deepEqual(Array.from(s.people,p=>p.id),['david']);for(const p of s.people){refCheck(p.ref);assert(c.window.PEOPLE.some(x=>x.id===p.id));}
 assert.throws(()=>e.render(28,0,tools));assert.throws(()=>e.render(28,10,tools));assert.equal(e.link('Psalm 28:10'),'');assert.equal(e.progress(28),9);assert.equal(e.progress(27),6);assert.equal(values.get('scripture-for-life.notes'),'preserve notes');
 assert(e.render(27,14,{...tools,chapter:Object.fromEntries(b[18].chapters[26])}).includes('href="#/study/28/1"'));
-assert.equal(fs.readFileSync('psalm28.js','utf8'),fs.readFileSync('www/psalm28.js','utf8'));assert(sw.includes('./psalm28.js'));assert(fs.readFileSync('index.html','utf8').includes('src="psalm28.js"'));
+assert.equal(fs.readFileSync('psalm28.js','utf8'),fs.readFileSync('www/psalm28.js','utf8'));assert(sw.includes('./psalm28.js'));assert(fs.readFileSync('index.html','utf8').includes('"psalm28.js"'));
 c.localStorage.getItem=()=>{throw Error('blocked');};assert.equal(e.progress(28),1);
 console.log('PASS — Psalm 28: nine exact BSB verses and heading; individual notes and inspected paintings; references, David, needs, independent resume, 27→28→29 navigation, offline and Android parity.');

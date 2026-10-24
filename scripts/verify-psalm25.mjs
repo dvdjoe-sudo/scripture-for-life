@@ -34,6 +34,6 @@ for(const[id,refs]of Object.entries(draft.topicPlan))for(const ref of refs){asse
 assert.deepEqual(Array.from(study.people,p=>p.id),['david']);for(const p of study.people){checkRef(p.ref);assert(ctx.window.PEOPLE.some(x=>x.id===p.id));}
 assert.throws(()=>engine.render(25,0,tools));assert.throws(()=>engine.render(25,23,tools));assert.equal(engine.link('Psalm 25:23'),'');assert.equal(engine.progress(25),22);assert.equal(engine.progress(24),7);assert.equal(values.get('scripture-for-life.notes'),'preserve reflections');
 assert(engine.render(24,10,{...tools,chapter:Object.fromEntries(bible[18].chapters[23])}).includes('href="#/study/25/1"'));
-assert.equal(fs.readFileSync('psalm25.js','utf8'),fs.readFileSync('www/psalm25.js','utf8'));assert(sw.includes('./psalm25.js'));assert(fs.readFileSync('index.html','utf8').includes('src="psalm25.js"'));
+assert.equal(fs.readFileSync('psalm25.js','utf8'),fs.readFileSync('www/psalm25.js','utf8'));assert(sw.includes('./psalm25.js'));assert(fs.readFileSync('index.html','utf8').includes('"psalm25.js"'));
 ctx.localStorage.getItem=()=>{throw Error('blocked');};assert.equal(engine.progress(25),1);
 console.log('PASS — Psalm 25: 22 exact BSB verses, heading and opening continuation; individual notes/art, contextual references, David, needs links, independent resume, forward transitions, offline and Android web-bundle parity.');

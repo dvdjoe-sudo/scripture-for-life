@@ -50,6 +50,6 @@ assert.throws(()=>engine.render(19,0,renderTools));assert.throws(()=>engine.rend
 assert.equal(engine.progress(19),14);assert.equal(engine.progress(18),35);assert.equal(values.get('scripture-for-life.notes'),'keep existing reflections');
 const prev=engine.render(18,50,{...renderTools,chapter:Object.fromEntries(bible[18].chapters[17])});
 assert(prev.includes('href="#/study/19/1"'),'18→19 transition');
-assert.equal(fs.readFileSync('psalm19.js','utf8'),fs.readFileSync('www/psalm19.js','utf8'));assert(sw.includes('./psalm19.js'));assert(fs.readFileSync('index.html','utf8').includes('src="psalm19.js"'));
+assert.equal(fs.readFileSync('psalm19.js','utf8'),fs.readFileSync('www/psalm19.js','utf8'));assert(sw.includes('./psalm19.js'));assert(fs.readFileSync('index.html','utf8').includes('"psalm19.js"'));
 ctx.localStorage.getItem=()=>{throw Error('blocked');};assert.equal(engine.progress(19),1);
 console.log('PASS — Psalm 19: 14 exact BSB verses and heading, individual reviewed notes and paintings, sentence continuations, context-sensitive references, people/needs links, independent resume, offline and Android web-bundle parity.');
