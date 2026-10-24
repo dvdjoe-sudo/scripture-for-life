@@ -449,6 +449,15 @@ for (const r of ['#/', '#/help/fear', '#/study/1/1', '#/psalms/23', '#/stories/1
   const small = await page.evaluate(() => [...document.querySelectorAll('#main [data-action="listen-verse"], #main [data-action="share-verse"], #main [data-action="share-scene"]')].filter(e => e.offsetParent).map(e => e.getBoundingClientRect()).filter(b => b.width < 44 || b.height < 44).length);
   assert.equal(small, 0, 'Listen/Share tap targets under 44px on ' + r);
 }
+// Remember where you left off: Read the Bible reopens the last chapter; topics reopen at the last scroll position.
+await page.goto(base + '#/read/43/3'); await page.waitForSelector('#main .reader-pager', { state: 'attached' });
+await page.goto(base + '#/'); await page.waitForSelector('.votd');
+await page.goto(base + '#/read'); await page.waitForFunction(() => window.APP_TEST && document.title.includes('John 3'));
+await page.goto(base + '#/help/fear'); await page.waitForSelector('.topic-layout .verse-card'); await page.evaluate(() => window.scrollTo(0, 700)); await page.waitForTimeout(500);
+await page.goto(base + '#/'); await page.waitForSelector('.votd'); await page.goto(base + '#/help/fear'); await page.waitForSelector('.topic-layout .verse-card'); await page.waitForTimeout(200);
+assert(Math.abs(await page.evaluate(() => window.scrollY) - 700) < 40, 'Topic reopens at last position');
+assert.equal(await page.evaluate(() => window.APP_TEST.lastPlace().kind), 'topic', 'Continue card includes topics');
+await page.evaluate(() => { localStorage.removeItem('scripture-for-life.topic-scroll'); window.scrollTo(0, 0); });
 // Word search: Bible verses, story scenes and people; references still work first.
     await visit('#/search/shepherd','.word-hit');
     assert.equal(await page.locator('.word-hit mark').first().innerText().then(t=>/shepherd/i.test(t)),true,'Search word is highlighted');
