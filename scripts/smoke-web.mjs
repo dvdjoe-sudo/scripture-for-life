@@ -101,6 +101,8 @@ try {
     assert.match(await page.locator('h1').innerText(),/Mordecai/,'Mordecai profile renders');
     await visit('#/people/nehemiah','.story-step');
     assert.match(await page.locator('h1').innerText(),/Nehemiah/,'Nehemiah profile renders');
+    await visit('#/people/job','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Job/,'Job profile renders');
     await visit('#/study/23/1','.study-landscape .landscape');
     assert.equal(await page.locator('.study-explainer [role="tab"]').count(),4,'Original four-tab Psalm study preserved');
     await page.locator('[data-psalm-verse-select]').selectOption('3');
@@ -248,7 +250,7 @@ try {
     assert.equal(await page.locator('a[href="#/people/esther"]').count(),1,'Esther scene links Esther inline');
     await visit('#/esther/9/5','.gen-narrative');
     assert.equal(await page.locator('a[href="#/nehemiah"]').count(),1,'Last Esther scene continues to Nehemiah stories');
-    // Nehemiah story book: library link, twelve episodes, Esther leads on to it, and the last scene continues to Job 1.
+    // Nehemiah story book: library link, twelve episodes, Esther leads on to it, and the last scene continues to Job stories.
     await visit('#/books','.gen-cta-actions a[href="#/nehemiah"]');
     await visit('#/nehemiah','.gen-episode-tile');
     assert.equal(await page.locator('.gen-episode-tile').count(),12,'Nehemiah has twelve episodes');
@@ -256,7 +258,15 @@ try {
     assert.equal(await page.locator('a[href="#/people/ezra"]').count(),1,'Nehemiah scene links Ezra inline');
     assert.equal(await page.locator('a[href="#/people/nehemiah"]').count(),1,'Nehemiah scene links Nehemiah inline');
     await visit('#/nehemiah/12/5','.gen-narrative');
-    assert.equal(await page.locator('a[href="#/read/18/1"]').count(),1,'Last Nehemiah scene continues to Job 1');
+    assert.equal(await page.locator('a[href="#/job"]').count(),1,'Last Nehemiah scene continues to Job stories');
+    // Job story book: library link, nineteen episodes, Nehemiah leads on to it, and the last scene continues to Psalm 1.
+    await visit('#/books','.gen-cta-actions a[href="#/job"]');
+    await visit('#/job','.gen-episode-tile');
+    assert.equal(await page.locator('.gen-episode-tile').count(),19,'Job has nineteen episodes');
+    await visit('#/job/1/2','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/job"]').count(),1,'Job scene links Job inline');
+    await visit('#/job/19/5','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/read/19/1"]').count(),1,'Last Job scene continues to Psalm 1');
     // Whole-episode Listen on every story book's full-episode page, chunked for speech synthesis.
     for(const route of ['#/stories/2/full','#/zechariah/1/full','#/joel/1/full','#/kings1/1/full']){
       await visit(route,'.gen-full .ep-listen [data-action="ep-listen"]');
