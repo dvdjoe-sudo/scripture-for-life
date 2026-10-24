@@ -43,6 +43,7 @@ try {
     }
     await visit('#/','.hero-art .landscape');
     assert.match(await page.locator('h1').first().innerText(),/Find help in/);
+    assert.equal(await page.evaluate(()=>performance.getEntriesByType('resource').filter(r=>/\/(genesis|exodus|nehemiah|daniel)\.js/.test(r.name)).length),0,'Story scripts are not loaded on the home page (they load when their route opens)');
     assert.equal(await page.locator('.topic-grid .topic-card').count(),8,'All eight everyday needs remain on main home');
     assert.equal(await page.locator('.gen-home-quick a[href="#/books"]').count(),1,'Main home links to the Stories landing');
     assert.equal(await page.locator('.gen-home-quick a[href="#/journey"]').count(),1,'Main home links to the Bible Journey');

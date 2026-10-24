@@ -22,6 +22,9 @@ export function indexRefs(base = root) {
     if (!uri || /^(?:[a-z]+:|\/\/)/i.test(uri)) continue;
     if (!refs.includes(uri)) refs.push(uri);
   }
+  // Story scripts that app.js loads only when their route opens (still shipped and precached).
+  const lazy = html.match(/<script id="sfl-lazy-books" type="application\/json">([\s\S]*?)<\/script>/);
+  if (lazy) for (const f of Object.values(JSON.parse(lazy[1]))) if (!refs.includes(f)) refs.push(f);
   return refs;
 }
 
