@@ -436,7 +436,11 @@ await page.goto(base + '#/help/fear'); await page.waitForSelector('.topic-layout
 assert.equal(await page.locator('.topic-layout .verse-card').first().locator('[data-action="save"],[data-action="favorite"]').count(), 1, 'One heart per verse');
 await page.evaluate(() => localStorage.removeItem('scripture-for-life.saved')); await page.reload();
 // Reading streak: consecutive local days the app was opened.
-await page.goto(base + '#/'); await page.waitForSelector('.hero .streak-line');
+await page.goto(base + '#/'); await page.waitForSelector('.votd .streak-line');
+await page.setViewportSize({ width: 360, height: 800 });
+const quickLines = await page.evaluate(() => { const q = document.querySelector('.gen-home-quick'), a = [...q.querySelectorAll('a')].map(x => x.getBoundingClientRect()); return { tops: new Set(a.map(r => Math.round(r.top))).size, overflow: q.scrollWidth > q.clientWidth + 1 }; });
+await page.setViewportSize({ width: 390, height: 844 });
+assert.deepEqual(quickLines, { tops: 1, overflow: false }, 'Home quick links fit on one line at 360px');
 assert(/^\d+-day streak$/.test(await page.locator('.streak-line').innerText()), 'Home shows the streak line');
 assert.deepEqual(await page.evaluate(() => { const u = window.APP_TEST.updateStreak; return [u(new Date(2026,0,5,9), null).count, u(new Date(2026,0,5,22), {last:'2026-01-05',count:3}).count, u(new Date(2026,0,6,0,5), {last:'2026-01-05',count:3}).count, u(new Date(2026,0,8), {last:'2026-01-05',count:3}).count]; }), [1, 3, 4, 1], 'Streak counts consecutive days and resets after a gap');
 // Listen and Share buttons are at least 44x44 on phones, on every page that has them.
