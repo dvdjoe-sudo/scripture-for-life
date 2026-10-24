@@ -26,6 +26,9 @@ export function indexRefs(base = root) {
   // Story scripts that app.js loads only when their route opens (still shipped and precached).
   const lazy = html.match(/<script id="sfl-lazy-books" type="application\/json">([\s\S]*?)<\/script>/);
   if (lazy) for (const f of Object.values(JSON.parse(lazy[1]))) if (!refs.includes(f)) refs.push(f);
+  // Psalms 1-36 verse-study scripts, loaded on demand by psalm-study-index.js (still shipped and precached).
+  const ps = html.match(/<script id="sfl-lazy-psalms" type="application\/json">([\s\S]*?)<\/script>/);
+  if (ps) for (const f of JSON.parse(ps[1])) if (!refs.includes(f)) refs.push(f);
   return refs;
 }
 

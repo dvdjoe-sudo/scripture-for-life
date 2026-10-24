@@ -53,6 +53,6 @@ assert.throws(()=>engine.render(20,0,renderTools));assert.throws(()=>engine.rend
 assert.equal(engine.progress(20),9);assert.equal(engine.progress(19),8);assert.equal(values.get('scripture-for-life.notes'),'keep existing reflections');
 const prev=engine.render(19,14,{...renderTools,chapter:Object.fromEntries(bible[18].chapters[18])});
 assert(prev.includes('href="#/study/20/1"'),'19→20 transition');
-assert.equal(fs.readFileSync('psalm20.js','utf8'),fs.readFileSync('www/psalm20.js','utf8'));assert(sw.includes('./psalm20.js'));assert(fs.readFileSync('index.html','utf8').includes('src="psalm20.js"'));
+assert.equal(fs.readFileSync('psalm20.js','utf8'),fs.readFileSync('www/psalm20.js','utf8'));assert(sw.includes('./psalm20.js'));assert(fs.readFileSync('index.html','utf8').includes('"psalm20.js"'));
 ctx.localStorage.getItem=()=>{throw Error('blocked');};assert.equal(engine.progress(20),1);
 console.log('PASS — Psalm 20: 9 exact BSB verses and heading, individual reviewed notes and paintings, Selah and communal royal voices, context-sensitive references, people/needs links, independent resume, offline and Android web-bundle parity.');

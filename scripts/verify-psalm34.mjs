@@ -29,5 +29,5 @@ for(const[id,refs]of Object.entries(d.topicPlan))for(const r of refs){assert(c.w
 assert.deepEqual(Array.from(s.people,p=>p.id),["david"]);for(const p of s.people){refCheck(p.ref);assert(c.window.PEOPLE.some(x=>x.id===p.id));}
 assert.throws(()=>e.render(34,0,tools));assert.throws(()=>e.render(34,N+1,tools));assert.equal(e.link('Psalm 34:'+(N+1)),'');
 const prev=b[18].chapters[32];assert(e.render(33,prev.length,{...tools,chapter:Object.fromEntries(prev)}).includes('href="#/study/34/1"'));
-assert.equal(fs.readFileSync('psalm34.js','utf8'),fs.readFileSync('www/psalm34.js','utf8'));assert(sw.includes('./psalm34.js'));assert(fs.readFileSync('index.html','utf8').includes('src="psalm34.js"'));
+assert.equal(fs.readFileSync('psalm34.js','utf8'),fs.readFileSync('www/psalm34.js','utf8'));assert(sw.includes('./psalm34.js'));assert(fs.readFileSync('index.html','utf8').includes('"psalm34.js"'));
 console.log('PASS — Psalm 34: '+N+' exact BSB verses; individual notes and inspected paintings; references, people, needs, 33→34→35 navigation, offline and Android parity.');

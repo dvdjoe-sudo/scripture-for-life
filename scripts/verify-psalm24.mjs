@@ -31,6 +31,6 @@ assert.equal(hashes.size,10);assert.equal(originals.size,10);
 for(const[id,refs]of Object.entries(draft.topicPlan))for(const ref of refs){assert(ctx.window.BIBLE_DATA.topics.find(t=>t.id===id).refs.includes(ref));assert.equal(ctx.window.BIBLE_DATA.verses[ref],chapter[+ref.split(':')[1]]);assert(ctx.window.SFL_CONNECTIONS.related({ref}).includes('href="#/help/'+id+'"'));}
 assert.deepEqual(Array.from(study.people,p=>p.id),['david','jacob']);for(const p of study.people){checkRef(p.ref);assert(ctx.window.PEOPLE.some(x=>x.id===p.id));}
 assert.throws(()=>engine.render(24,0,tools));assert.throws(()=>engine.render(24,11,tools));assert.equal(engine.link('Psalm 24:11'),'');assert.equal(engine.progress(24),10);assert.equal(engine.progress(22),24);assert.equal(values.get('scripture-for-life.notes'),'preserve reflections');
-assert.equal(fs.readFileSync('psalm24.js','utf8'),fs.readFileSync('www/psalm24.js','utf8'));assert(sw.includes('./psalm24.js'));assert(fs.readFileSync('index.html','utf8').includes('src="psalm24.js"'));
+assert.equal(fs.readFileSync('psalm24.js','utf8'),fs.readFileSync('www/psalm24.js','utf8'));assert(sw.includes('./psalm24.js'));assert(fs.readFileSync('index.html','utf8').includes('"psalm24.js"'));
 ctx.localStorage.getItem=()=>{throw Error('blocked');};assert.equal(engine.progress(24),1);
 console.log('PASS — Psalm 24: 10 exact BSB verses, heading and both Selah markers; individual notes/art, contextual references, David/Jacob, needs links, independent resume, forward transitions, offline and Android web-bundle parity.');

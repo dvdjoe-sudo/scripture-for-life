@@ -30,6 +30,6 @@ assert.deepEqual(Array.from(s.people,p=>p.id),["david"]);for(const p of s.people
 assert.throws(()=>e.render(36,0,tools));assert.throws(()=>e.render(36,N+1,tools));assert.equal(e.link('Psalm 36:'+(N+1)),'');
 assert.equal(e.progress(35),6);
 const prev=b[18].chapters[34];assert(e.render(35,prev.length,{...tools,chapter:Object.fromEntries(prev)}).includes('href="#/study/36/1"'));
-assert.equal(fs.readFileSync('psalm36.js','utf8'),fs.readFileSync('www/psalm36.js','utf8'));assert(sw.includes('./psalm36.js'));assert(fs.readFileSync('index.html','utf8').includes('src="psalm36.js"'));
+assert.equal(fs.readFileSync('psalm36.js','utf8'),fs.readFileSync('www/psalm36.js','utf8'));assert(sw.includes('./psalm36.js'));assert(fs.readFileSync('index.html','utf8').includes('"psalm36.js"'));
 assert(chapter[1].startsWith('For the choirmaster. A Psalm of David, the servant of the LORD.'));assert(chapter[9].includes('in Your light we see light'));assert.equal(e.progress(36),12);assert.equal(e.progress(35),28);assert.equal(values.get('scripture-for-life.notes'),'preserve notes');c.localStorage.getItem=()=>{throw Error('blocked');};assert.equal(e.progress(36),1);
 console.log('PASS — Psalm 36: '+N+' exact BSB verses; individual notes and inspected paintings; references, people, needs, 35→36→37 navigation, offline and Android parity.');
