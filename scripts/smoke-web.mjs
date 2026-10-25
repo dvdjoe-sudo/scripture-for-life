@@ -170,6 +170,9 @@ try {
     const actionRows=await page.locator('.verse-card .verse-actions').evaluateAll(rows=>rows.map(r=>{const t=[...r.children].filter(c=>c.offsetWidth).map(c=>Math.round(c.getBoundingClientRect().top+c.offsetHeight/2));return Math.max(...t)-Math.min(...t);}));
     assert.ok(actionRows.length&&actionRows.every(d=>d<=4),'Topic card actions on one row: '+actionRows);
     assert.ok((!AUDIO||await page.getByRole('button',{name:'Listen',exact:true}).count()>0)&&await page.getByRole('button',{name:'Reflect',exact:true}).count()>0,'Listen/Reflect keep accessible names');
+    assert.ok(await page.locator('.verse-card .verse-actions [data-action="share-verse"]').count()>0,'Topic verse cards offer Share');
+    for(const w of [360,390]){await page.setViewportSize({width:w,height:800});const d=await page.locator('.verse-card .verse-actions').first().evaluate(r=>{const t=[...r.children].filter(c=>c.offsetWidth).map(c=>c.getBoundingClientRect());return [Math.max(...t.map(b=>b.top+b.height/2))-Math.min(...t.map(b=>b.top+b.height/2)),Math.max(...t.map(b=>b.right))<=r.getBoundingClientRect().right+1,Math.min(...t.filter(b=>b.width<200).map(b=>Math.min(b.width,b.height)))];});assert.ok(d[0]<=4&&d[1],'Topic actions with Share on one row at '+w+': '+d);}
+    await page.setViewportSize({width:390,height:844});
     // No repeated links to the same place (scene progress dots are a separate step indicator).
     for(const [route,sel] of [['#/study/46/1','.study-verse'],['#/study/23/1','.study-verse'],['#/study/91/4','.study-verse'],['#/psalms/91','.psalm-chapter-verse'],['#/people/moses','.story-step'],['#/joel/1/full','.gen-narrative p']]){
       await visit(route,sel);
