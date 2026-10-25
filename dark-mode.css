@@ -104,6 +104,8 @@ html[data-theme=dark] .topic-layout .verse-card:nth-child(even){background:#272b
 html[data-theme=dark] .word-hit mark{background:#2f3431}
 html[data-theme=dark] .episode-done{color:#cbe6e0}
 html[data-theme=dark] .votd{border:1px solid var(--line,#5b543e)}
+html[data-theme=dark] .result-list{border-top:1px solid var(--line,#5b543e)}
+html[data-theme=dark] .result-list a{border-bottom:1px solid var(--line,#5b543e)}
 html[data-theme=dark] .gen-kicker{color:#bec6c0}
 html[data-theme=dark] .gen-content h1{color:#cbe6e0}
 html[data-theme=dark] .gen-content h2,html[data-theme=dark] .gen-cta h2{color:#cbe6e0}
