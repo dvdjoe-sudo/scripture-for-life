@@ -106,6 +106,8 @@ html[data-theme=dark] .episode-done{color:#cbe6e0}
 html[data-theme=dark] .votd{border:1px solid var(--line,#5b543e)}
 html[data-theme=dark] .result-list{border-top:1px solid var(--line,#5b543e)}
 html[data-theme=dark] .result-list a{border-bottom:1px solid var(--line,#5b543e)}
+html[data-theme=dark] .home-more{border-top:1px solid #555742}
+html[data-theme=dark] .home-more>summary{color:#bec5c0}
 html[data-theme=dark] .gen-kicker{color:#bec6c0}
 html[data-theme=dark] .gen-content h1{color:#cbe6e0}
 html[data-theme=dark] .gen-content h2,html[data-theme=dark] .gen-cta h2{color:#cbe6e0}

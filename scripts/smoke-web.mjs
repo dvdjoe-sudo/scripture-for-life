@@ -42,7 +42,7 @@ try {
       const overflow=await page.evaluate(()=>document.documentElement.scrollWidth-window.innerWidth);
       assert.ok(overflow<=2,loc.label+' '+route+' horizontal overflow: '+overflow+'px');
     }
-    await visit('#/','.hero-art .landscape');
+    await visit('#/','.home-more');assert.equal(await page.locator('.home-more').evaluate(d=>d.open),false,'Home More starts collapsed');await page.evaluate(()=>document.querySelector('.home-more').open=true);await page.waitForSelector('.hero-art .landscape');
     assert.match(await page.locator('h1').first().innerText(),/Find help in/);
     assert.equal(await page.evaluate(()=>performance.getEntriesByType('resource').filter(r=>/\/(genesis|exodus|nehemiah|daniel)\.js/.test(r.name)).length),0,'Story scripts are not loaded on the home page (they load when their route opens)');
     assert.equal(await page.locator('.topic-grid .topic-card').count(),8,'All eight everyday needs remain on main home');
@@ -142,7 +142,7 @@ try {
     assert.equal(await page.locator('.psalm-find-hit').count(),1);
     await page.locator('.psalm-find-hit').click();await page.locator('.ps46-page .psalm-picker [data-psalm-verse-select]').waitFor();
     // Back from the resumed psalm returns to where you were, not to a redirect.
-    await visit('#/','.hero-art .landscape');
+    await visit('#/','.home-more');assert.equal(await page.locator('.home-more').evaluate(d=>d.open),false,'Home More starts collapsed');await page.evaluate(()=>document.querySelector('.home-more').open=true);await page.waitForSelector('.hero-art .landscape');
     await page.locator('.site-header a[data-nav="psalms"]').click();
     await page.waitForFunction(()=>location.hash.startsWith('#/study/46/'));await page.locator('.ps46-page').waitFor();
     await page.goBack();await page.waitForFunction(()=>location.hash==='#/');
@@ -307,6 +307,7 @@ try {
     // Continue where you left off: one home card for the most recent story scene or psalm verse; ✓ on finished episodes.
     await page.evaluate(()=>{localStorage.removeItem('scripture-for-life.last-place');localStorage.removeItem('scripture-for-life.episodes-done');localStorage.removeItem('scripture-for-life.haggai-progress');});
     await visit('#/','.hero');
+    { const fold=await page.evaluate(()=>['.votd','.home-hero form','.gen-home-quick'].map(q=>document.querySelector(q)?.getBoundingClientRect().bottom||9999)); assert.ok(fold.every(y=>y<844),'Home essentials in the first screen: '+fold); assert.ok(await page.evaluate(()=>document.documentElement.scrollHeight)<1400,'Home page stays short'); }
     assert.equal(await page.locator('.continue-card').count(),0,'No continue card before reading anything');
     await visit('#/zechariah/1/3','.gen-narrative');
     await visit('#/','.continue-card');
@@ -328,6 +329,7 @@ try {
     await visit('#/','.votd [data-action="share-verse"]');
     assert.equal(await page.locator('.votd').getAttribute('data-votd-ref'),await page.evaluate(()=>window.APP_TEST.heroVerse().ref),'Home verse-of-the-day card shows today\'s verse');
     assert.equal(await page.locator('.votd [data-action="share-verse"]').count(),1,'Verse of the day can be shared');
+    await page.evaluate(()=>document.querySelector('.home-more').open=true);
     await page.waitForSelector('.hero-art .daily-verse');
     const dailyRef=await page.locator('.daily-verse').getAttribute('data-ref');
     assert.equal(dailyRef,'Psalm 23:1','Home art caption shows the Psalm 23 verse it illustrates');
@@ -428,7 +430,7 @@ assert(!(await page.evaluate(() => Boolean(window.SFL_VERSE_STUDIES.studies[1]) 
 await page.goto(base + '#/study/2/1'); await page.waitForSelector('img[data-verse-study-art="2-1"]', { state: 'attached' });
 assert(await page.evaluate(() => Boolean(window.SFL_VERSE_STUDIES.studies[2] && window.SFL_VERSE_STUDIES.studies[3])), 'Opening Psalm 2 loads its shared study script');
 // Dark-mode toggle on Home and Psalms; topic rows stay neutral in dark mode.
-await page.goto(base + '#/'); await page.waitForSelector('.hero [data-action="theme"]', { state: 'attached' });
+await page.goto(base + '#/'); await page.waitForSelector('.home-more [data-action="theme"]', { state: 'attached' });
 await page.goto(base + '#/study/1/1'); await page.waitForSelector('.psalm-picker + .theme-toggle-row [data-action="theme"], .theme-toggle-row [data-action="theme"]', { state: 'attached' });
 await page.evaluate(() => { localStorage.setItem('scripture-for-life.theme', 'dark'); window.SFL_THEME.apply(); }); await page.goto(base + '#/help/fear'); await page.waitForSelector('.topic-layout .verse-card:nth-child(2)', { state: 'attached' });
 const rowBg = await page.evaluate(() => getComputedStyle(document.querySelector('.topic-layout .verse-card:nth-child(2)')).backgroundColor.match(/\d+/g).map(Number));
