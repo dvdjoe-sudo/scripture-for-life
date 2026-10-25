@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
 import { spawn } from 'node:child_process';
+const AUDIO = /const AUDIO_ENABLED=true/.test(fs.readFileSync(new URL('../app.js', import.meta.url), 'utf8')); // spoken-narration tests run only when audio is on
 import { fileURLToPath } from 'node:url';
 import { chromium } from 'playwright';
 
@@ -159,7 +160,7 @@ try {
       await page.locator('.gen-reading-controls [data-action="share-scene"]').waitFor();
       await page.locator('.gen-reading-controls [data-action="text-size"]').waitFor();
       const tops=await page.locator('.gen-reading-controls > :is(button,label):visible').evaluateAll(els=>els.map(e=>Math.round(e.getBoundingClientRect().top)));
-      assert.ok(tops.length>=4&&Math.max(...tops)-Math.min(...tops)<=4,route+' story controls on one row: '+tops);
+      assert.ok(tops.length>=(AUDIO?4:3)&&Math.max(...tops)-Math.min(...tops)<=4,route+' story controls on one row: '+tops);
       assert.equal(await page.getByRole('button',{name:'Share this scene'}).count(),1,route+' Share keeps its full accessible name');
       const textTop=(await page.locator('.gen-narrative p').first().boundingBox()).y;
       assert.ok(textTop<700,route+' story text starts in the first screen: '+textTop);
@@ -168,7 +169,7 @@ try {
     await visit('#/help/fear','.verse-card .verse-actions');
     const actionRows=await page.locator('.verse-card .verse-actions').evaluateAll(rows=>rows.map(r=>{const t=[...r.children].filter(c=>c.offsetWidth).map(c=>Math.round(c.getBoundingClientRect().top+c.offsetHeight/2));return Math.max(...t)-Math.min(...t);}));
     assert.ok(actionRows.length&&actionRows.every(d=>d<=4),'Topic card actions on one row: '+actionRows);
-    assert.ok(await page.getByRole('button',{name:'Listen',exact:true}).count()>0&&await page.getByRole('button',{name:'Reflect',exact:true}).count()>0,'Listen/Reflect keep accessible names');
+    assert.ok((!AUDIO||await page.getByRole('button',{name:'Listen',exact:true}).count()>0)&&await page.getByRole('button',{name:'Reflect',exact:true}).count()>0,'Listen/Reflect keep accessible names');
     // No repeated links to the same place (scene progress dots are a separate step indicator).
     for(const [route,sel] of [['#/study/46/1','.study-verse'],['#/study/23/1','.study-verse'],['#/study/91/4','.study-verse'],['#/psalms/91','.psalm-chapter-verse'],['#/people/moses','.story-step'],['#/joel/1/full','.gen-narrative p']]){
       await visit(route,sel);
@@ -281,6 +282,7 @@ try {
     assert.equal(await page.locator('.gen-episode-tile').count(),8,'Ecclesiastes has eight episodes');
     await visit('#/ecclesiastes/8/5','.gen-narrative');
     assert.equal(await page.locator('a[href="#/read/22/1"]').count(),1,'Last Ecclesiastes scene continues to Song of Songs 1');
+    if(AUDIO){
     // Whole-episode Listen on every story book's full-episode page, chunked for speech synthesis.
     for(const route of ['#/stories/2/full','#/zechariah/1/full','#/joel/1/full','#/kings1/1/full']){
       await visit(route,'.gen-full .ep-listen [data-action="ep-listen"]');
@@ -298,6 +300,7 @@ try {
     assert.equal(await page.evaluate(()=>window.__spoken.length),2,'Narration continues to the next chunk');
     await page.locator('[data-action="ep-stop"]').click();
     assert.equal(await page.locator('[data-action="ep-listen"]').isVisible(),true,'Stop returns to the Listen button');
+    }
     // Continue where you left off: one home card for the most recent story scene or psalm verse; ✓ on finished episodes.
     await page.evaluate(()=>{localStorage.removeItem('scripture-for-life.last-place');localStorage.removeItem('scripture-for-life.episodes-done');localStorage.removeItem('scripture-for-life.haggai-progress');});
     await visit('#/','.hero');
@@ -319,7 +322,7 @@ try {
     assert.equal(await page.locator('.episode-done').count(),1,'Only the finished episode shows ✓');
     // Verse of the day: a topic verse chosen by date, tappable to the verse popup.
     assert.equal(await page.evaluate(()=>{const A=window.APP_TEST,a=A.heroVerse(new Date(2026,0,5,0,5)).ref,b=A.heroVerse(new Date(2026,0,5,23,55)).ref,c=A.heroVerse(new Date(2026,0,6,12)).ref,topicRefs=new Set(window.BIBLE_DATA.topics.flatMap(t=>t.refs));return a===b&&a!==c&&topicRefs.has(a)&&A.dailyVersePool().every(r=>topicRefs.has(r));}),true,'Verse of the day is a topic verse, the same all day and different the next day');
-    await visit('#/','.votd [data-action="listen-verse"]');
+    await visit('#/','.votd [data-action="share-verse"]');
     assert.equal(await page.locator('.votd').getAttribute('data-votd-ref'),await page.evaluate(()=>window.APP_TEST.heroVerse().ref),'Home verse-of-the-day card shows today\'s verse');
     assert.equal(await page.locator('.votd [data-action="share-verse"]').count(),1,'Verse of the day can be shared');
     await page.waitForSelector('.hero-art .daily-verse');
@@ -328,7 +331,7 @@ try {
     await page.locator('.daily-verse').click();
     await page.locator('#verse-dialog[open]').waitFor();
     assert.equal(await page.locator('#dialog-title').innerText(),dailyRef,'Caption opens the verse popup');
-    for(const action of ['save','copy-verse','listen-verse','save-note'])assert.equal(await page.locator('#dialog-content [data-action="'+action+'"]').count()>0,true,'Verse popup offers '+action);
+    for(const action of ['save','copy-verse',...(AUDIO?['listen-verse']:[]),'save-note'])assert.equal(await page.locator('#dialog-content [data-action="'+action+'"]').count()>0,true,'Verse popup offers '+action);
     assert.equal(await page.locator('#dialog-content textarea').count(),1,'Verse popup offers a reflection');
     await page.locator('[data-action="close-dialog"]').first().click();
     // Share: navigator.share with text, BSB reference and link; falls back to Copy with a "Copied" toast.
@@ -477,6 +480,14 @@ await page.goto(base + '#/search/moses'); await page.waitForSelector('.result-gr
 assert(await page.locator('.result-group[data-group="people"] a[href="#/people/moses"]').count() === 1, 'Search finds people');
 assert(/^#\/[a-z0-9]+\/\d+\/1$/.test(await page.locator('.result-group[data-group="stories"] li a').first().getAttribute('href')), 'Search finds story episodes');
 await page.waitForSelector('#word-results *', { state: 'attached' });
+// Audio off: no spoken-narration controls are visible anywhere; the recorded Genesis 1 mp3 player stays.
+if (!AUDIO) for (const r of ['#/', '#/help/fear', '#/study/1/2', '#/psalms/23', '#/read/43/3', '#/stories/1/1', '#/stories/1/full', '#/exodus/1/full']) {
+  await page.goto(base + r); await page.waitForSelector('#main .container, #main section', { state: 'attached' }); await page.waitForTimeout(150);
+  const vis = await page.evaluate(() => [...document.querySelectorAll('[data-action^="listen-"],[data-action^="ep-"],[data-gen="listen"],[data-gen="stop"],#gen-speed,#ep-speed,[data-action="toggle-autoplay"],[data-action="stop-audio"],#audio-bar')].filter(e => e.getClientRects().length).length);
+  assert.equal(vis, 0, 'No Listen controls visible on ' + r);
+  if (r === '#/stories/1/full') assert.equal(await page.locator('.gen-full audio[src$=".mp3"]').isVisible(), true, 'Recorded Genesis 1 player stays');
+}
+if (AUDIO) {
 // Auto-play next: on by default, toggle persists, next verse/episode routes are found, stop control present.
 await page.goto(base + '#/study/1/2'); await page.waitForSelector('[data-verse-study="1"]');
 assert.equal(await page.evaluate(() => window.APP_TEST.nextStudyVerse()), '#/study/1/3', 'Next study verse');
@@ -490,6 +501,7 @@ await page.locator('.ep-autoplay [data-action="toggle-autoplay"]').click();
 assert.equal(await page.evaluate(() => localStorage.getItem('scripture-for-life.autoplay')), 'false', 'Auto-play toggle persists');
 assert.equal(await page.locator('#audio-bar [data-action="toggle-autoplay"]').getAttribute('aria-pressed'), 'false', 'Toggles stay in sync');
 await page.evaluate(() => localStorage.removeItem('scripture-for-life.autoplay'));
+}
 // Word search: Bible verses, story scenes and people; references still work first.
     await visit('#/search/shepherd','.word-hit');
     assert.equal(await page.locator('.word-hit mark').first().innerText().then(t=>/shepherd/i.test(t)),true,'Search word is highlighted');
