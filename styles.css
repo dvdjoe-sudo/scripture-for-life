@@ -58,3 +58,8 @@ html[data-theme=dark] .icon-btn.is-saved svg{color:#e58b92}
 .result-list{list-style:none;margin:0;padding:0;border-top:1px solid var(--line,#e3e0d6)}
 .result-list a{display:block;padding:10px 2px;min-height:44px;border-bottom:1px solid var(--line,#e3e0d6);text-decoration:none;color:inherit}
 .result-list strong{display:block}.result-list span{display:block;font-size:.88rem;color:var(--muted,#6b6f68);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+/* Auto-play next toggle + clear stop */
+.audio-bar{flex-wrap:wrap}.audio-bar #audio-status{flex:1 1 140px;min-width:0}
+.audio-bar .autoplay-toggle{margin-left:auto;min-height:44px;border:1px solid #6f8a72;border-radius:10px;padding:0 10px}
+.audio-bar [data-action="stop-audio"]{margin-left:0;min-height:44px;font-size:13px;font-weight:600}
+.audio-bar button span{margin-left:6px}

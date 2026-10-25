@@ -471,6 +471,19 @@ await page.goto(base + '#/search/moses'); await page.waitForSelector('.result-gr
 assert(await page.locator('.result-group[data-group="people"] a[href="#/people/moses"]').count() === 1, 'Search finds people');
 assert(/^#\/[a-z0-9]+\/\d+\/1$/.test(await page.locator('.result-group[data-group="stories"] li a').first().getAttribute('href')), 'Search finds story episodes');
 await page.waitForSelector('#word-results *', { state: 'attached' });
+// Auto-play next: on by default, toggle persists, next verse/episode routes are found, stop control present.
+await page.goto(base + '#/study/1/2'); await page.waitForSelector('[data-verse-study="1"]');
+assert.equal(await page.evaluate(() => window.APP_TEST.nextStudyVerse()), '#/study/1/3', 'Next study verse');
+await page.goto(base + '#/study/1/6'); await page.waitForSelector('[data-verse-study="1"]');
+assert.equal(await page.evaluate(() => window.APP_TEST.nextStudyVerse()), '', 'Last verse stops');
+assert.equal(await page.locator('#audio-bar [data-action="toggle-autoplay"]').getAttribute('aria-pressed'), 'true', 'Auto-play defaults on');
+assert.equal(await page.locator('#audio-bar [data-action="stop-audio"]').count(), 1, 'Clear stop control');
+await page.goto(base + '#/exodus/1/full'); await page.waitForSelector('.ep-listen [data-action="toggle-autoplay"]');
+assert.equal(await page.evaluate(() => window.APP_TEST.nextEpisodeRoute()), '#/exodus/2/full', 'Next episode route');
+await page.locator('.ep-listen [data-action="toggle-autoplay"]').click();
+assert.equal(await page.evaluate(() => localStorage.getItem('scripture-for-life.autoplay')), 'false', 'Auto-play toggle persists');
+assert.equal(await page.locator('#audio-bar [data-action="toggle-autoplay"]').getAttribute('aria-pressed'), 'false', 'Toggles stay in sync');
+await page.evaluate(() => localStorage.removeItem('scripture-for-life.autoplay'));
 // Word search: Bible verses, story scenes and people; references still work first.
     await visit('#/search/shepherd','.word-hit');
     assert.equal(await page.locator('.word-hit mark').first().innerText().then(t=>/shepherd/i.test(t)),true,'Search word is highlighted');
