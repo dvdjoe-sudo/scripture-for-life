@@ -207,6 +207,8 @@ try {
       assert.ok(xs.size===2&&ws.size===1&&g.every(b=>b.height>=44),'Book grid is two even columns at '+w+': '+[...ws]+' / '+[...xs]);
       assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true,'Stories library fits at '+w);}
     await page.setViewportSize({width:390,height:844});
+    { assert.equal(await page.locator('.page-head .stories-intro').innerText(),'The Bible told as stories, book by book, each episode linked to the Scripture it retells.','Stories intro is one short line');
+      assert.match(await page.locator('.page-head .eyebrow').textContent(),/^Stories of the Bible$/i);assert.equal(await page.locator('.page-head h1').innerText(),'Follow the stories, book by book.'); }
     assert.equal(await page.locator('.book-grid a',{hasText:'stories'}).count(),0,'Book buttons show just the book name');
     assert.equal(await page.locator('.book-grid a[href="#/journey"]').count(),0,'Journey is not in the book grid');
     assert.equal(await page.locator('.books-journey a[href="#/journey"]').count(),1,'Journey is a text link under the grid');
