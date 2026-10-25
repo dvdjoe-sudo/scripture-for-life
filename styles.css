@@ -63,3 +63,4 @@ html[data-theme=dark] .icon-btn.is-saved svg{color:#e58b92}
 .audio-bar .autoplay-toggle{margin-left:auto;min-height:44px;border:1px solid #6f8a72;border-radius:10px;padding:0 10px}
 .audio-bar [data-action="stop-audio"]{margin-left:0;min-height:44px;font-size:13px;font-weight:600}
 .audio-bar button span{margin-left:6px}
+.ep-autoplay{margin:-6px 0 18px}.ep-autoplay .autoplay-toggle{min-height:44px}
