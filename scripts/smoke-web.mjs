@@ -458,6 +458,14 @@ await page.goto(base + '#/'); await page.waitForSelector('.votd'); await page.go
 assert(Math.abs(await page.evaluate(() => window.scrollY) - 700) < 40, 'Topic reopens at last position');
 assert.equal(await page.evaluate(() => window.APP_TEST.lastPlace().kind), 'topic', 'Continue card includes topics');
 await page.evaluate(() => { localStorage.removeItem('scripture-for-life.topic-scroll'); window.scrollTo(0, 0); });
+// Swipe between verses (psalm studies) and chapters (reader); vertical drags do nothing.
+async function swipe(dx, dy = 0) { await page.evaluate(([dx, dy]) => { const mk = (x, y) => new Touch({ identifier: 1, target: document.body, clientX: x, clientY: y }); document.body.dispatchEvent(new TouchEvent('touchstart', { bubbles: true, touches: [mk(200, 400)], changedTouches: [mk(200, 400)] })); document.body.dispatchEvent(new TouchEvent('touchend', { bubbles: true, touches: [], changedTouches: [mk(200 + dx, 400 + dy)] })); }, [dx, dy]); }
+await page.goto(base + '#/study/1/1'); await page.waitForSelector('[data-verse-study="1"]');
+await swipe(-150); await page.waitForFunction(() => location.hash === '#/study/1/2');
+await swipe(150); await page.waitForFunction(() => location.hash === '#/study/1/1');
+await swipe(-40, 300); await page.waitForTimeout(200); assert.equal(await page.evaluate(() => location.hash), '#/study/1/1', 'Vertical drag does not navigate');
+await page.goto(base + '#/read/43/3'); await page.waitForSelector('#main [data-swipe="next"]');
+await swipe(-150); await page.waitForFunction(() => location.hash === '#/read/43/4');
 // Word search: Bible verses, story scenes and people; references still work first.
     await visit('#/search/shepherd','.word-hit');
     assert.equal(await page.locator('.word-hit mark').first().innerText().then(t=>/shepherd/i.test(t)),true,'Search word is highlighted');
