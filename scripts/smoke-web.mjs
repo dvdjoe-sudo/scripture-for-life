@@ -466,6 +466,11 @@ await swipe(150); await page.waitForFunction(() => location.hash === '#/study/1/
 await swipe(-40, 300); await page.waitForTimeout(200); assert.equal(await page.evaluate(() => location.hash), '#/study/1/1', 'Vertical drag does not navigate');
 await page.goto(base + '#/read/43/3'); await page.waitForSelector('#main [data-swipe="next"]');
 await swipe(-150); await page.waitForFunction(() => location.hash === '#/read/43/4');
+// One search for everything: people and stories are grouped with topics and verse matches.
+await page.goto(base + '#/search/moses'); await page.waitForSelector('.result-group[data-group="stories"] li a');
+assert(await page.locator('.result-group[data-group="people"] a[href="#/people/moses"]').count() === 1, 'Search finds people');
+assert(/^#\/[a-z0-9]+\/\d+\/1$/.test(await page.locator('.result-group[data-group="stories"] li a').first().getAttribute('href')), 'Search finds story episodes');
+await page.waitForSelector('#word-results *', { state: 'attached' });
 // Word search: Bible verses, story scenes and people; references still work first.
     await visit('#/search/shepherd','.word-hit');
     assert.equal(await page.locator('.word-hit mark').first().innerText().then(t=>/shepherd/i.test(t)),true,'Search word is highlighted');

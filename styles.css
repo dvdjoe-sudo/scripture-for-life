@@ -53,3 +53,8 @@ html[data-theme=dark] .icon-btn.is-saved svg{color:#e58b92}
 .gen-home-quick{white-space:nowrap}.gen-home-quick a{white-space:nowrap}
 .votd-top{display:flex;justify-content:space-between;align-items:baseline;gap:8px;margin-bottom:4px}.votd-top .eyebrow{margin:0;white-space:nowrap}.votd-top .streak-line{margin:0;font-size:.78rem;white-space:nowrap}
 @media(max-width:380px){.gen-home-quick{font-size:.9rem}}
+/* Unified search groups */
+.result-group{margin:22px 0 6px}.result-heading{font-size:1.05rem;margin:0 0 8px}
+.result-list{list-style:none;margin:0;padding:0;border-top:1px solid var(--line,#e3e0d6)}
+.result-list a{display:block;padding:10px 2px;min-height:44px;border-bottom:1px solid var(--line,#e3e0d6);text-decoration:none;color:inherit}
+.result-list strong{display:block}.result-list span{display:block;font-size:.88rem;color:var(--muted,#6b6f68);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
