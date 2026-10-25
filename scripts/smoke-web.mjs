@@ -200,6 +200,20 @@ try {
     await visit('#/read/19/23','.reader-verse');
     assert.equal(await page.locator('a[href="#/study/23/1"]').count()>0,true,'Psalm 23 Bible reader links to original study');
     // Joel story book: library link, episode list and a scene with Joseph's text and the BSB passage.
+    // Stories library: even two-column grid of book names with counts, Journey as a text link under it, ✓ on finished books.
+    await page.evaluate(()=>localStorage.setItem('scripture-for-life.episodes-done',JSON.stringify({jonah:['1','2'],amos:['1']})));
+    for(const w of [360,390]){await page.setViewportSize({width:w,height:844});await visit('#/books','.book-grid a[href="#/jonah"] .book-count');
+      const g=await page.locator('.book-grid > a').evaluateAll(as=>as.map(a=>a.getBoundingClientRect()));const ws=new Set(g.map(b=>Math.round(b.width)));const xs=new Set(g.map(b=>Math.round(b.left)));
+      assert.ok(xs.size===2&&ws.size===1&&g.every(b=>b.height>=44),'Book grid is two even columns at '+w+': '+[...ws]+' / '+[...xs]);
+      assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true,'Stories library fits at '+w);}
+    await page.setViewportSize({width:390,height:844});
+    assert.equal(await page.locator('.book-grid a',{hasText:'stories'}).count(),0,'Book buttons show just the book name');
+    assert.equal(await page.locator('.book-grid a[href="#/journey"]').count(),0,'Journey is not in the book grid');
+    assert.equal(await page.locator('.books-journey a[href="#/journey"]').count(),1,'Journey is a text link under the grid');
+    const jonahN=await page.evaluate(()=>fetch('data/story-index.json').then(r=>r.json()).then(x=>x.filter(e=>e.r.startsWith('#/jonah/')).length));
+    assert.equal(await page.locator('.book-grid a[href="#/jonah"] .book-done').count(),jonahN===2?1:0,'Finished book shows ✓');
+    assert.equal(await page.locator('.book-grid .book-done').count(),jonahN===2?1:0,'Only finished books show ✓');
+    await page.evaluate(()=>localStorage.removeItem('scripture-for-life.episodes-done'));
     await visit('#/books','.gen-cta-actions a[href="#/joel"]');
     await visit('#/joel','.gen-episode-tile');
     assert.equal(await page.locator('.gen-episode-tile').count(),5,'Joel has five episodes');
