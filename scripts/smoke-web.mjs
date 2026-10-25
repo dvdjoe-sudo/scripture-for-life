@@ -478,9 +478,9 @@ await page.goto(base + '#/study/1/6'); await page.waitForSelector('[data-verse-s
 assert.equal(await page.evaluate(() => window.APP_TEST.nextStudyVerse()), '', 'Last verse stops');
 assert.equal(await page.locator('#audio-bar [data-action="toggle-autoplay"]').getAttribute('aria-pressed'), 'true', 'Auto-play defaults on');
 assert.equal(await page.locator('#audio-bar [data-action="stop-audio"]').count(), 1, 'Clear stop control');
-await page.goto(base + '#/exodus/1/full'); await page.waitForSelector('.ep-listen [data-action="toggle-autoplay"]');
+await page.goto(base + '#/exodus/1/full'); await page.waitForSelector('.ep-autoplay [data-action="toggle-autoplay"]');
 assert.equal(await page.evaluate(() => window.APP_TEST.nextEpisodeRoute()), '#/exodus/2/full', 'Next episode route');
-await page.locator('.ep-listen [data-action="toggle-autoplay"]').click();
+await page.locator('.ep-autoplay [data-action="toggle-autoplay"]').click();
 assert.equal(await page.evaluate(() => localStorage.getItem('scripture-for-life.autoplay')), 'false', 'Auto-play toggle persists');
 assert.equal(await page.locator('#audio-bar [data-action="toggle-autoplay"]').getAttribute('aria-pressed'), 'false', 'Toggles stay in sync');
 await page.evaluate(() => localStorage.removeItem('scripture-for-life.autoplay'));
