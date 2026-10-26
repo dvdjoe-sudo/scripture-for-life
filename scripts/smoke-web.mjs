@@ -104,6 +104,12 @@ try {
     assert.match(await page.locator('h1').innerText(),/Nehemiah/,'Nehemiah profile renders');
     await visit('#/people/job','.story-step');
     assert.match(await page.locator('h1').innerText(),/Job/,'Job profile renders');
+    await visit('#/people/john-the-baptist','.story-step');
+    assert.match(await page.locator('h1').innerText(),/John the Baptist/,'John the Baptist profile renders');
+    await visit('#/people/joseph-of-nazareth','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Joseph of Nazareth/,'Joseph of Nazareth profile renders');
+    await visit('#/people/mary','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Mary/,'Mary profile renders');
     await visit('#/study/23/1','.study-landscape .landscape');
     assert.equal(await page.locator('.study-explainer [role="tab"]').count(),4,'Original four-tab Psalm study preserved');
     await page.locator('[data-psalm-verse-select]').selectOption('3');
@@ -301,12 +307,27 @@ try {
     assert.equal(await page.locator('.gen-episode-tile').count(),8,'Ecclesiastes has eight episodes');
     await visit('#/ecclesiastes/8/5','.gen-narrative');
     assert.equal(await page.locator('a[href="#/songofsongs"]').count(),1,'Last Ecclesiastes scene continues to Song of Songs stories');
-    // Song of Songs story book: library link, seven episodes, Ecclesiastes leads on to it, and the last scene continues to Matthew 1.
+    // Song of Songs story book: library link, seven episodes, Ecclesiastes leads on to it, and the last scene continues to Matthew stories.
     await visit('#/books','.gen-cta-actions a[href="#/songofsongs"]');
     await visit('#/songofsongs','.gen-episode-tile');
     assert.equal(await page.locator('.gen-episode-tile').count(),7,'Song of Songs has seven episodes');
     await visit('#/songofsongs/7/5','.gen-narrative');
-    assert.equal(await page.locator('a[href="#/read/40/1"]').count(),1,'Last Song of Songs scene continues to Matthew 1');
+    assert.equal(await page.locator('a[href="#/matthew"]').count(),1,'Last Song of Songs scene continues to Matthew stories');
+    // Matthew story book: library link, thirty episodes, Song of Songs leads on to it, a scene links Jesus and Peter inline, and the last scene continues to Mark 1.
+    await visit('#/books','.gen-cta-actions a[href="#/matthew"]');
+    await visit('#/matthew','.gen-episode-tile');
+    assert.equal(await page.locator('.gen-episode-tile').count(),30,'Matthew has thirty episodes');
+    await visit('#/matthew/17/2','.gen-narrative');
+    assert.equal(await page.locator('.gen-passage').innerText(),'Matthew 16:13–16 · BSB','Matthew episode 17 scene 2 passage');
+    assert.equal(await page.locator('a[href="#/people/jesus"]').count(),1,'Matthew scene links Jesus inline');
+    assert.equal(await page.locator('a[href="#/people/peter"]').count(),1,'Matthew scene links Peter inline');
+    await visit('#/matthew/3/1','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/john-the-baptist"]').count(),1,'Matthew scene links John the Baptist inline');
+    await visit('#/matthew/1/3','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/joseph-of-nazareth"]').count(),1,'Matthew scene links Joseph inline');
+    assert.equal(await page.locator('a[href="#/people/mary"]').count(),1,'Matthew scene links Mary inline');
+    await visit('#/matthew/30/4','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/read/41/1"]').count(),1,'Last Matthew scene continues to Mark 1');
     if(AUDIO){
     // Whole-episode Listen on every story book's full-episode page, chunked for speech synthesis.
     for(const route of ['#/stories/2/full','#/zechariah/1/full','#/joel/1/full','#/kings1/1/full']){
