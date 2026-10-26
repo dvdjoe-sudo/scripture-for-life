@@ -327,7 +327,18 @@ try {
     assert.equal(await page.locator('a[href="#/people/joseph-of-nazareth"]').count(),1,'Matthew scene links Joseph inline');
     assert.equal(await page.locator('a[href="#/people/mary"]').count(),1,'Matthew scene links Mary inline');
     await visit('#/matthew/30/4','.gen-narrative');
-    assert.equal(await page.locator('a[href="#/read/41/1"]').count(),1,'Last Matthew scene continues to Mark 1');
+    assert.equal(await page.locator('a[href="#/mark"]').count(),1,'Last Matthew scene continues to Mark stories');
+    // Mark story book: library link, twenty episodes, Matthew leads on to it, scenes link Jesus, Peter, and John the Baptist inline, and the last scene continues to Luke 1.
+    await visit('#/books','.gen-cta-actions a[href="#/mark"]');
+    await visit('#/mark','.gen-episode-tile');
+    assert.equal(await page.locator('.gen-episode-tile').count(),20,'Mark has twenty episodes');
+    await visit('#/mark/11/1','.gen-narrative');
+    assert.equal(await page.locator('.gen-passage').innerText(),'Mark 8:27\u201330 \u00b7 BSB','Mark episode 11 scene 1 passage');
+    assert.equal(await page.locator('a[href="#/people/peter"]').count(),1,'Mark scene links Peter inline');
+    await visit('#/mark/1/2','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/john-the-baptist"]').count(),1,'Mark scene links John the Baptist inline');
+    await visit('#/mark/20/5','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/read/42/1"]').count(),1,'Last Mark scene continues to Luke 1');
     if(AUDIO){
     // Whole-episode Listen on every story book's full-episode page, chunked for speech synthesis.
     for(const route of ['#/stories/2/full','#/zechariah/1/full','#/joel/1/full','#/kings1/1/full']){
