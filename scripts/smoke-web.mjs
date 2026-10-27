@@ -466,7 +466,7 @@ try {
     await visit('#/thessalonians2/3/4','.gen-narrative');
     assert.equal(await page.locator('a[href="#/people/paul"]').count(),1,'Second Thessalonians scene links Paul by name inline');
     await visit('#/thessalonians2/6/5','.gen-narrative');
-    assert.equal(await page.locator('a[href="#/read/54/1"]').count(),1,'Last Second Thessalonians scene continues to First Corinthians 1');
+    assert.equal(await page.locator('a[href="#/read/54/1"]').count(),1,'Last Second Thessalonians scene continues to First Timothy 1');
     if(AUDIO){
     // Whole-episode Listen on every story book's full-episode page, chunked for speech synthesis.
     for(const route of ['#/stories/2/full','#/zechariah/1/full','#/joel/1/full','#/kings1/1/full']){
