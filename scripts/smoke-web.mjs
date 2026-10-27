@@ -120,6 +120,22 @@ try {
     assert.match(await page.locator('h1').innerText(),/Anna/,'Anna profile renders');
     await visit('#/people/zacchaeus','.story-step');
     assert.match(await page.locator('h1').innerText(),/Zacchaeus/,'Zacchaeus profile renders');
+    await visit('#/people/nicodemus','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Nicodemus/,'Nicodemus profile renders');
+    await visit('#/people/nathanael','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Nathanael/,'Nathanael profile renders');
+    await visit('#/people/samaritan-woman','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Samaritan/,'Samaritan Woman profile renders');
+    await visit('#/people/martha','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Martha/,'Martha profile renders');
+    await visit('#/people/mary-of-bethany','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Mary of Bethany/,'Mary of Bethany profile renders');
+    await visit('#/people/lazarus','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Lazarus/,'Lazarus profile renders');
+    await visit('#/people/thomas','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Thomas/,'Thomas profile renders');
+    await visit('#/people/mary-magdalene','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Mary Magdalene/,'Mary Magdalene profile renders');
     await visit('#/study/23/1','.study-landscape .landscape');
     assert.equal(await page.locator('.study-explainer [role="tab"]').count(),4,'Original four-tab Psalm study preserved');
     await page.locator('[data-psalm-verse-select]').selectOption('3');
@@ -349,7 +365,7 @@ try {
     assert.equal(await page.locator('a[href="#/people/john-the-baptist"]').count(),1,'Mark scene links John the Baptist inline');
     await visit('#/mark/20/5','.gen-narrative');
     assert.equal(await page.locator('a[href="#/luke"]').count(),1,'Last Mark scene continues to Luke stories');
-    // Luke story book: library link, thirty-nine episodes, Mark leads on to it, scenes link the new profiles inline, and the last scene continues to John 1.
+    // Luke story book: library link, thirty-nine episodes, Mark leads on to it, scenes link the new profiles inline, and the last scene continues to John stories.
     await visit('#/books','.gen-cta-actions a[href="#/luke"]');
     await visit('#/luke','.gen-episode-tile');
     assert.equal(await page.locator('.gen-episode-tile').count(),39,'Luke has thirty-nine episodes');
@@ -362,7 +378,21 @@ try {
     await visit('#/luke/30/1','.gen-narrative');
     assert.equal(await page.locator('a[href="#/people/zacchaeus"]').count(),1,'Luke scene links Zacchaeus inline');
     await visit('#/luke/39/4','.gen-narrative');
-    assert.equal(await page.locator('a[href="#/read/43/1"]').count(),1,'Last Luke scene continues to John 1');
+    assert.equal(await page.locator('a[href="#/john"]').count(),1,'Last Luke scene continues to John stories');
+    // John story book: library link, thirty-five episodes, Luke leads on to it, scenes link the new profiles inline, and the last scene continues to Acts 1.
+    await visit('#/books','.gen-cta-actions a[href="#/john"]');
+    await visit('#/john','.gen-episode-tile');
+    assert.equal(await page.locator('.gen-episode-tile').count(),35,'John has thirty-five episodes');
+    await visit('#/john/1/1','.gen-narrative');
+    assert.equal(await page.locator('.gen-passage').innerText(),'John 1:1\u20135 \u00b7 BSB','John episode 1 scene 1 passage');
+    await visit('#/john/6/1','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/nicodemus"]').count(),1,'John scene links Nicodemus inline');
+    await visit('#/john/8/1','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/samaritan-woman"]').count(),1,'John scene links the Samaritan woman inline');
+    await visit('#/john/34/6','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/thomas"]').count(),1,'John scene links Thomas inline');
+    await visit('#/john/35/6','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/read/44/1"]').count(),1,'Last John scene continues to Acts 1');
     if(AUDIO){
     // Whole-episode Listen on every story book's full-episode page, chunked for speech synthesis.
     for(const route of ['#/stories/2/full','#/zechariah/1/full','#/joel/1/full','#/kings1/1/full']){
