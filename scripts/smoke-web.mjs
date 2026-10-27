@@ -415,7 +415,7 @@ try {
     assert.equal(await page.locator('a[href="#/people/thomas"]').count(),1,'John scene links Thomas inline');
     await visit('#/john/35/6','.gen-narrative');
     assert.equal(await page.locator('a[href="#/acts"]').count(),1,'Last John scene continues to Acts stories');
-    // Acts story book: library link, forty-two episodes, John leads on to it, scenes link the new profiles inline, and the last scene continues to Romans 1.
+    // Acts story book: library link, forty-two episodes, John leads on to it, scenes link the new profiles inline, and the last scene continues to Galatians stories.
     await visit('#/books','.gen-cta-actions a[href="#/acts"]');
     await visit('#/acts','.gen-episode-tile');
     assert.equal(await page.locator('.gen-episode-tile').count(),42,'Acts has forty-two episodes');
@@ -430,7 +430,20 @@ try {
     await visit('#/acts/28/4','.gen-narrative');
     assert.equal(await page.locator('a[href="#/people/lydia"]').count(),1,'Acts scene links Lydia inline');
     await visit('#/acts/42/5','.gen-narrative');
-    assert.equal(await page.locator('a[href="#/read/45/1"]').count(),1,'Last Acts scene continues to Romans 1');
+    assert.equal(await page.locator('a[href="#/galatians"]').count(),1,'Last Acts scene continues to Galatians stories');
+    // Galatians story book: library link, eight episodes, Acts leads on to it, scenes link people inline, and the last scene continues to Ephesians 1.
+    await visit('#/books','.gen-cta-actions a[href="#/galatians"]');
+    await visit('#/galatians','.gen-episode-tile');
+    assert.equal(await page.locator('.gen-episode-tile').count(),8,'Galatians has eight episodes');
+    await visit('#/galatians/1/1','.gen-narrative');
+    assert.equal(await page.locator('.gen-passage').innerText(),'Galatians 1:1\u20132 \u00b7 BSB','Galatians episode 1 scene 1 passage');
+    assert.equal(await page.locator('a[href="#/people/paul"]').count(),1,'Galatians scene links Paul inline');
+    await visit('#/galatians/3/4','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/james-the-lords-brother"]').count(),1,'Galatians scene links James inline');
+    await visit('#/galatians/3/5','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/peter"]').count(),1,'Galatians scene links Peter inline');
+    await visit('#/galatians/8/5','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/read/49/1"]').count(),1,'Last Galatians scene continues to Ephesians 1');
     if(AUDIO){
     // Whole-episode Listen on every story book's full-episode page, chunked for speech synthesis.
     for(const route of ['#/stories/2/full','#/zechariah/1/full','#/joel/1/full','#/kings1/1/full']){
