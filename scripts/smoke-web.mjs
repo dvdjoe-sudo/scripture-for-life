@@ -431,7 +431,7 @@ try {
     assert.equal(await page.locator('a[href="#/people/lydia"]').count(),1,'Acts scene links Lydia inline');
     await visit('#/acts/42/5','.gen-narrative');
     assert.equal(await page.locator('a[href="#/galatians"]').count(),1,'Last Acts scene continues to Galatians stories');
-    // Galatians story book: library link, eight episodes, Acts leads on to it, scenes link people inline, and the last scene continues to Ephesians 1.
+    // Galatians story book: library link, eight episodes, Acts leads on to it, scenes link people inline, and the last scene continues to 1 Thessalonians stories.
     await visit('#/books','.gen-cta-actions a[href="#/galatians"]');
     await visit('#/galatians','.gen-episode-tile');
     assert.equal(await page.locator('.gen-episode-tile').count(),8,'Galatians has eight episodes');
@@ -443,7 +443,18 @@ try {
     await visit('#/galatians/3/5','.gen-narrative');
     assert.equal(await page.locator('a[href="#/people/peter"]').count(),1,'Galatians scene links Peter inline');
     await visit('#/galatians/8/5','.gen-narrative');
-    assert.equal(await page.locator('a[href="#/read/49/1"]').count(),1,'Last Galatians scene continues to Ephesians 1');
+    assert.equal(await page.locator('a[href="#/thessalonians1"]').count(),1,'Last Galatians scene continues to 1 Thessalonians stories');
+    // 1 Thessalonians story book: library link, eight episodes, Galatians leads on to it, scenes link people inline, and the last scene continues to 2 Thessalonians 1.
+    await visit('#/books','.gen-cta-actions a[href="#/thessalonians1"]');
+    await visit('#/thessalonians1','.gen-episode-tile');
+    assert.equal(await page.locator('.gen-episode-tile').count(),8,'First Thessalonians has eight episodes');
+    await visit('#/thessalonians1/1/1','.gen-narrative');
+    assert.equal(await page.locator('.gen-passage').innerText(),'1 Thessalonians 1:1 \u00b7 BSB','First Thessalonians episode 1 scene 1 passage');
+    assert.equal(await page.locator('a[href="#/people/paul"]').count(),1,'First Thessalonians scene links Paul inline');
+    await visit('#/thessalonians1/4/1','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/timothy"]').count(),1,'First Thessalonians scene links Timothy inline');
+    await visit('#/thessalonians1/8/4','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/read/53/1"]').count(),1,'Last First Thessalonians scene continues to Second Thessalonians 1');
     if(AUDIO){
     // Whole-episode Listen on every story book's full-episode page, chunked for speech synthesis.
     for(const route of ['#/stories/2/full','#/zechariah/1/full','#/joel/1/full','#/kings1/1/full']){
