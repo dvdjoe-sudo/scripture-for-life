@@ -455,7 +455,7 @@ try {
     assert.equal(await page.locator('a[href="#/people/timothy"]').count(),1,'First Thessalonians scene links Timothy inline');
     await visit('#/thessalonians1/8/4','.gen-narrative');
     assert.equal(await page.locator('a[href="#/thessalonians2"]').count(),1,'Last First Thessalonians scene continues to Second Thessalonians stories');
-    // 2 Thessalonians story book: library link, six episodes, 1 Thessalonians leads on to it, scenes link people inline, and the last scene continues to 1 Corinthians 1.
+    // 2 Thessalonians story book: library link, six episodes, 1 Thessalonians leads on to it, scenes link people inline, and the last scene continues to 1 Corinthians stories.
     await visit('#/books','.gen-cta-actions a[href="#/thessalonians2"]');
     await visit('#/thessalonians2','.gen-episode-tile');
     assert.equal(await page.locator('.gen-episode-tile').count(),6,'Second Thessalonians has six episodes');
@@ -466,7 +466,24 @@ try {
     await visit('#/thessalonians2/3/4','.gen-narrative');
     assert.equal(await page.locator('a[href="#/people/paul"]').count(),1,'Second Thessalonians scene links Paul by name inline');
     await visit('#/thessalonians2/6/5','.gen-narrative');
-    assert.equal(await page.locator('a[href="#/read/54/1"]').count(),1,'Last Second Thessalonians scene continues to First Timothy 1');
+    assert.equal(await page.locator('a[href="#/corinthians1"]').count(),1,'Last Second Thessalonians scene continues to First Corinthians stories');
+    // 1 Corinthians story book: library link, eighteen episodes, 2 Thessalonians leads on to it, scenes link people inline, and the last scene continues to 2 Corinthians 1.
+    await visit('#/books','.gen-cta-actions a[href="#/corinthians1"]');
+    await visit('#/corinthians1','.gen-episode-tile');
+    assert.equal(await page.locator('.gen-episode-tile').count(),18,'First Corinthians has eighteen episodes');
+    await visit('#/corinthians1/1/1','.gen-narrative');
+    assert.equal(await page.locator('.gen-passage').innerText(),'1 Corinthians 1:1\u20132 \u00b7 BSB','First Corinthians episode 1 scene 1 passage');
+    assert.equal(await page.locator('a[href="#/people/paul"]').count(),1,'First Corinthians scene links Paul inline');
+    await visit('#/corinthians1/5/6','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/timothy"]').count(),1,'First Corinthians scene links Timothy inline');
+    await visit('#/corinthians1/8/3','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/jesus"]').count(),1,'First Corinthians scene links Jesus inline');
+    await visit('#/corinthians1/18/3','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/apollos"]').count(),1,'First Corinthians scene links Apollos inline');
+    await visit('#/corinthians1/18/6','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/read/47/1"]').count(),1,'Last First Corinthians scene continues to Second Corinthians 1');
+    await visit('#/people/sosthenes','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Sosthenes/,'Sosthenes profile renders');
     if(AUDIO){
     // Whole-episode Listen on every story book's full-episode page, chunked for speech synthesis.
     for(const route of ['#/stories/2/full','#/zechariah/1/full','#/joel/1/full','#/kings1/1/full']){
