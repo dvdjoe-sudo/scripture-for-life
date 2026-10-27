@@ -110,6 +110,16 @@ try {
     assert.match(await page.locator('h1').innerText(),/Joseph of Nazareth/,'Joseph of Nazareth profile renders');
     await visit('#/people/mary','.story-step');
     assert.match(await page.locator('h1').innerText(),/Mary/,'Mary profile renders');
+    await visit('#/people/zechariah-the-priest','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Zechariah/,'Zechariah the priest profile renders');
+    await visit('#/people/elizabeth','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Elizabeth/,'Elizabeth profile renders');
+    await visit('#/people/simeon','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Simeon/,'Simeon profile renders');
+    await visit('#/people/anna','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Anna/,'Anna profile renders');
+    await visit('#/people/zacchaeus','.story-step');
+    assert.match(await page.locator('h1').innerText(),/Zacchaeus/,'Zacchaeus profile renders');
     await visit('#/study/23/1','.study-landscape .landscape');
     assert.equal(await page.locator('.study-explainer [role="tab"]').count(),4,'Original four-tab Psalm study preserved');
     await page.locator('[data-psalm-verse-select]').selectOption('3');
@@ -328,7 +338,7 @@ try {
     assert.equal(await page.locator('a[href="#/people/mary"]').count(),1,'Matthew scene links Mary inline');
     await visit('#/matthew/30/4','.gen-narrative');
     assert.equal(await page.locator('a[href="#/mark"]').count(),1,'Last Matthew scene continues to Mark stories');
-    // Mark story book: library link, twenty episodes, Matthew leads on to it, scenes link Jesus, Peter, and John the Baptist inline, and the last scene continues to Luke 1.
+    // Mark story book: library link, twenty episodes, Matthew leads on to it, scenes link Jesus, Peter, and John the Baptist inline, and the last scene continues to Luke stories.
     await visit('#/books','.gen-cta-actions a[href="#/mark"]');
     await visit('#/mark','.gen-episode-tile');
     assert.equal(await page.locator('.gen-episode-tile').count(),20,'Mark has twenty episodes');
@@ -338,7 +348,21 @@ try {
     await visit('#/mark/1/2','.gen-narrative');
     assert.equal(await page.locator('a[href="#/people/john-the-baptist"]').count(),1,'Mark scene links John the Baptist inline');
     await visit('#/mark/20/5','.gen-narrative');
-    assert.equal(await page.locator('a[href="#/read/42/1"]').count(),1,'Last Mark scene continues to Luke 1');
+    assert.equal(await page.locator('a[href="#/luke"]').count(),1,'Last Mark scene continues to Luke stories');
+    // Luke story book: library link, thirty-nine episodes, Mark leads on to it, scenes link the new profiles inline, and the last scene continues to John 1.
+    await visit('#/books','.gen-cta-actions a[href="#/luke"]');
+    await visit('#/luke','.gen-episode-tile');
+    assert.equal(await page.locator('.gen-episode-tile').count(),39,'Luke has thirty-nine episodes');
+    await visit('#/luke/26/1','.gen-narrative');
+    assert.equal(await page.locator('.gen-passage').innerText(),'Luke 15:1\u20137 \u00b7 BSB','Luke episode 26 scene 1 passage');
+    await visit('#/luke/1/3','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/zechariah-the-priest"]').count(),1,'Luke scene links Zechariah inline');
+    await visit('#/luke/5/2','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/simeon"]').count(),1,'Luke scene links Simeon inline');
+    await visit('#/luke/30/1','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/zacchaeus"]').count(),1,'Luke scene links Zacchaeus inline');
+    await visit('#/luke/39/4','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/read/43/1"]').count(),1,'Last Luke scene continues to John 1');
     if(AUDIO){
     // Whole-episode Listen on every story book's full-episode page, chunked for speech synthesis.
     for(const route of ['#/stories/2/full','#/zechariah/1/full','#/joel/1/full','#/kings1/1/full']){
