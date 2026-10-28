@@ -510,7 +510,17 @@ try {
     await visit('#/romans/16/2','.gen-narrative');
     assert.equal(await page.locator('a[href="#/people/moses"]').count(),1,'Romans Ep 16 scene 2 links Moses inline');
     await visit('#/romans/23/7','.gen-narrative');
-    assert.equal(await page.locator('a[href="#/read/46/1"]').count(),1,'Last Romans scene continues to First Corinthians 1');
+    assert.equal(await page.locator('a[href="#/ephesians"]').count(),1,'Last Romans scene continues to Ephesians stories');
+
+    await visit('#/ephesians','.gen-episode-tile');
+    assert.equal(await page.locator('.gen-episode-tile').count(),11,'Ephesians exposes eleven episodes');
+    await visit('#/ephesians/1/1','.gen-narrative');
+    assert.equal((await page.locator('.gen-passage').innerText()).trim(),'Ephesians 1:1\u20132 \u00b7 BSB','Ephesians first scene passage label comes from its scenes data');
+    assert.equal(await page.locator('a[href="#/people/paul"]').count(),1,'Ephesians first scene links Paul inline');
+    await visit('#/people/tychicus','.story-step');
+    assert.equal((await page.locator('h1').innerText()).trim(),'Tychicus','Tychicus profile renders');
+    await visit('#/ephesians/11/5','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/read/50/1"]').count(),1,'Last Ephesians scene continues to Philippians 1');
     await visit('#/people/sosthenes','.story-step');
     assert.match(await page.locator('h1').innerText(),/Sosthenes/,'Sosthenes profile renders');
     if(AUDIO){
