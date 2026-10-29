@@ -540,7 +540,24 @@ try {
     assert.equal((await page.locator('h1').innerText()).trim(),'Syntyche','Syntyche profile renders');
     await visit('#/philippians/9/5','.gen-narrative');
     assert.equal(await page.locator('a[href="#/people/lydia"]').count(),1,'Philippians last scene links Lydia inline');
-    assert.equal(await page.locator('a[href="#/read/51/1"]').count(),1,'Last Philippians scene continues to Colossians 1');
+    assert.equal(await page.locator('a[href="#/colossians"]').count(),1,'Last Philippians scene continues to Colossians stories');
+
+    await visit('#/colossians','.gen-episode-tile');
+    assert.equal(await page.locator('.gen-episode-tile').count(),9,'Colossians exposes nine episodes');
+    await visit('#/colossians/1/1','.gen-narrative');
+    assert.equal((await page.locator('.gen-passage').innerText()).trim(),'Colossians 1:1\u20132 \u00b7 BSB','Colossians first scene passage label comes from its scenes data');
+    assert.equal(await page.locator('a[href="#/people/paul"]').count(),1,'Colossians first scene links Paul inline');
+    await visit('#/colossians/1/5','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/epaphras"]').count(),1,'Colossians Epaphras scene links Epaphras inline');
+    await visit('#/colossians/9/2','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/tychicus"]').count(),1,'Colossians carrier scene links Tychicus inline');
+    assert.equal(await page.locator('a[href="#/people/onesimus"]').count(),1,'Colossians carrier scene links Onesimus inline');
+    await visit('#/people/epaphras','.story-step');
+    assert.equal((await page.locator('h1').innerText()).trim(),'Epaphras','Epaphras profile renders');
+    await visit('#/people/onesimus','.story-step');
+    assert.equal((await page.locator('h1').innerText()).trim(),'Onesimus','Onesimus profile renders');
+    await visit('#/colossians/9/5','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/read/52/1"]').count(),1,'Last Colossians scene continues to 1 Thessalonians 1');
     await visit('#/people/sosthenes','.story-step');
     assert.match(await page.locator('h1').innerText(),/Sosthenes/,'Sosthenes profile renders');
     if(AUDIO){
