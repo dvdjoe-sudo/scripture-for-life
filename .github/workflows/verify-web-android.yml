@@ -36,6 +36,17 @@ jobs:
           fi
       - name: Smoke-test source website and packaged Android webview
         run: npm run smoke:web
+      - name: Phone screenshots (390px, light and dark)
+        if: always()
+        run: npm run screenshots
+      - name: Upload phone screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: phone-screenshots
+          path: screenshots/
+          retention-days: 14
+          if-no-files-found: warn
       - name: Create Android project from the same web bundle
         run: |
           npx cap add android
