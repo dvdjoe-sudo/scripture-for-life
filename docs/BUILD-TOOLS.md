@@ -35,3 +35,18 @@ psalm watercolors), so offline behavior is unchanged. What changed is how `VERSI
   build, **not used by any UI yet**. They make a future opt-in "verse of the day" reminder possible
   (Preferences stores the chosen time; LocalNotifications schedules a daily notification offline).
   Adding that needs a settings toggle and the Android 13+ notification permission prompt.
+
+## Google Play upload: Gradle Play Publisher (inactive until set up)
+`scripts/android-play-publisher.mjs` adds Gradle Play Publisher plus release signing to the CI-generated
+`android/` project. The **Publish to Google Play** workflow runs only when started by hand and uploads a
+signed `.aab` as a **draft** on the chosen track (internal by default). Until the secrets exist it stops
+with a clear error. The test APK workflow is unaffected.
+
+What Joseph needs to supply (repo Settings > Secrets and variables > Actions):
+1. A Google Play Console developer account with the app created (package `com.scriptureforlife.bible`).
+   The first ever upload must be done by hand in Play Console; after that this workflow can upload.
+2. `PLAY_SERVICE_ACCOUNT_JSON`: JSON key for a Google Cloud service account with the Google Play
+   Android Developer API enabled, invited in Play Console > Users and permissions with release rights.
+3. An upload keystore: `UPLOAD_KEYSTORE_BASE64` (`base64 -w0 upload.jks`), `UPLOAD_KEYSTORE_PASSWORD`,
+   `UPLOAD_KEY_ALIAS`, `UPLOAD_KEY_PASSWORD`. Keep a safe backup of the keystore.
+`versionCode` is the workflow run number, so each upload is higher than the last.
