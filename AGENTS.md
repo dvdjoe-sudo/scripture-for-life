@@ -80,7 +80,7 @@ Warm, plain and reverent. About an 8th-grade reading level. Use consistent tense
 `index.html` is the one place to register a book. To add one:
 1. Add the book's files: `<book>.js` (plus `<book>-people.js` if any) in the repo root, and `data/<book>-episodes.json` and `data/<book>-scenes.json`.
 2. Add a `<script src="...">` tag for each JS file (and `<link rel="stylesheet" href="...">` for any CSS) to `index.html`.
-3. Add the same files to the `CORE` list in `sw.js` and bump `VERSION`. `npm run check` fails with the exact lines to paste if any `index.html` script/stylesheet or `data/<book>-*.json` is missing from `CORE` (`scripts/verify-sw-precache.mjs`). Psalm art stays in `LAZY_ART`, not `CORE`.
+3. Add the same files to the `CORE` list in `sw.js`. Do not hand-bump `VERSION`: it is computed from the precached files (`scripts/update-sw-version.mjs`, Workbox) and updated automatically on main. `npm run check` fails with the exact lines to paste if any `index.html` script/stylesheet or `data/<book>-*.json` is missing from `CORE` (`scripts/verify-sw-precache.mjs`). Psalm art stays in `LAZY_ART`, not `CORE`.
 4. Run `npm run check` and `npm run build`.
 
 Do not keep a hand list in `scripts/build-web.mjs`: it derives the Android/Capacitor bundle (`www/`) from the `<script src>` and `<link href>` tags in `index.html`, plus everything under `assets/`, `data/` and `psalms-text/`. Shared settings (extra files, asset folders, excludes) live in `scripts/site-files.mjs`. `verify-web.mjs` (run by `npm run build`) fails if anything `index.html` references is missing from `www/`.

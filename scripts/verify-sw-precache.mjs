@@ -16,7 +16,7 @@ const stale = [...core].filter(f => f && !fs.existsSync(path.join(root, f)));
 
 const problems = [];
 if (missing.length) problems.push('sw.js CORE precache is missing ' + missing.length + ' file(s) the site needs offline.\n' +
-  'Add these lines to the CORE list in sw.js (and bump VERSION):\n' + missing.map(f => "  './" + f + "',").join('\n'));
+  'Add these lines to the CORE list in sw.js (VERSION updates itself on main):\n' + missing.map(f => "  './" + f + "',").join('\n'));
 if (stale.length) problems.push('sw.js CORE lists file(s) that do not exist (install would fail):\n' + stale.map(f => '  ./' + f).join('\n'));
 if (problems.length) {
   console.error('FAIL — ' + problems.join('\n\n'));
