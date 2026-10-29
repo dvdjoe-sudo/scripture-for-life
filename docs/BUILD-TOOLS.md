@@ -11,3 +11,9 @@ Existing WebP files are not re-encoded: it saves only ~3% and adds generational 
 - `npm run smoke:web` runs the full smoke suite at a 390px phone viewport against the site and the Android web bundle (CI runs it on every PR and push).
 - `npm run screenshots` saves 390x844 light and dark screenshots of key pages to `screenshots/`. CI uploads them as the
   **phone-screenshots** artifact on each run (Actions run page -> Artifacts), kept 14 days.
+
+## Lighthouse CI (warn only)
+`.github/workflows/lighthouse.yml` runs Lighthouse on every PR at a 390px phone size for Home, Stories and Psalm 23
+(config in `lighthouserc.json`). Scores below the targets only **warn**; the job is `continue-on-error` and is not a
+required check, so it never blocks a merge. Scores appear in the run's Summary; full HTML reports are in the
+**lighthouse-report** artifact. Run locally with `npx @lhci/cli autorun`.

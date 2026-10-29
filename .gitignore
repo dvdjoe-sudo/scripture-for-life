@@ -6,3 +6,5 @@ android/
 .env.*
 !.env.example
 screenshots/
+lighthouse-report/
+.lighthouseci/
