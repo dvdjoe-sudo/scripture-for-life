@@ -10,7 +10,8 @@
     "android:sync": "npm run build && npx cap sync android",
     "android:open": "npx cap open android",
     "smoke:web": "node scripts/smoke-web.mjs",
-    "art:optimize": "node scripts/optimize-art.mjs"
+    "art:optimize": "node scripts/optimize-art.mjs",
+    "screenshots": "node scripts/screenshots.mjs"
   },
   "dependencies": {
     "@capacitor/android": "^7.0.0",
