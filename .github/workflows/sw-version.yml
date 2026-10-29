@@ -1,0 +1,40 @@
+name: Update service worker version
+# Recomputes sw.js VERSION from the content of the precached files (Workbox manifest revisions)
+# after every push to main and commits it if it changed, then asks GitHub Pages to rebuild.
+# Replaces hand-bumping VERSION in each PR.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: sw-version
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install --no-audit --no-fund --ignore-scripts workbox-build@7 --no-save
+      - name: Compute VERSION
+        run: node scripts/update-sw-version.mjs
+      - name: Commit if changed and rebuild Pages
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if git diff --quiet -- sw.js; then echo "VERSION already current"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update sw.js VERSION from precache content [skip ci]" -- sw.js
+          for i in 1 2 3; do
+            if git push; then break; fi
+            git pull --rebase && node scripts/update-sw-version.mjs && git commit --amend --no-edit -- sw.js || true
+          done
+          # Pushes made with GITHUB_TOKEN do not start a Pages build on their own.
+          gh api -X POST "repos/${{ github.repository }}/pages/builds" || echo "Pages build request failed; the next push will deploy it"

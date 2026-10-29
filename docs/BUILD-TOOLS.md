@@ -17,3 +17,13 @@ Existing WebP files are not re-encoded: it saves only ~3% and adds generational 
 (config in `lighthouserc.json`). Scores below the targets only **warn**; the job is `continue-on-error` and is not a
 required check, so it never blocks a merge. Scores appear in the run's Summary; full HTML reports are in the
 **lighthouse-report** artifact. Run locally with `npx @lhci/cli autorun`.
+
+## Service worker VERSION: Workbox (automatic)
+`sw.js` keeps its hand-written caching logic (precache `CORE` at install, network-first pages, cache-first
+psalm watercolors), so offline behavior is unchanged. What changed is how `VERSION` is set:
+- `scripts/update-sw-version.mjs` uses **workbox-build** `getManifest` to get a content revision for every
+  file in `CORE`, hashes those plus `sw.js` itself, and writes `VERSION = 'scripture-for-life-shell-v-<hash>'`.
+- The **Update service worker version** workflow runs it on every push to `main`, commits `sw.js` if the
+  VERSION changed, and requests a GitHub Pages build.
+- **Do not hand-bump VERSION in PRs.** Still add new files to `CORE` (`npm run check` tells you which).
+- Optional locally: `npm run sw:version` (rewrite) or `node scripts/update-sw-version.mjs --check`.
