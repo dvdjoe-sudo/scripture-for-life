@@ -8,3 +8,5 @@ android/
 screenshots/
 lighthouse-report/
 .lighthouseci/
+narration/
+.piper-voices/

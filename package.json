@@ -12,7 +12,8 @@
     "smoke:web": "node scripts/smoke-web.mjs",
     "art:optimize": "node scripts/optimize-art.mjs",
     "screenshots": "node scripts/screenshots.mjs",
-    "sw:version": "node scripts/update-sw-version.mjs"
+    "sw:version": "node scripts/update-sw-version.mjs",
+    "narration": "node scripts/piper-narration.mjs"
   },
   "dependencies": {
     "@capacitor/android": "^7.0.0",
