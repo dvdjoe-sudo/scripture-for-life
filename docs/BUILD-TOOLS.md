@@ -50,3 +50,10 @@ What Joseph needs to supply (repo Settings > Secrets and variables > Actions):
 3. An upload keystore: `UPLOAD_KEYSTORE_BASE64` (`base64 -w0 upload.jks`), `UPLOAD_KEYSTORE_PASSWORD`,
    `UPLOAD_KEY_ALIAS`, `UPLOAD_KEY_PASSWORD`. Keep a safe backup of the keystore.
 `versionCode` is the workflow run number, so each upload is higher than the last.
+
+## Narration mp3s: Piper TTS (offline, not used by the app yet)
+`scripts/piper-narration.mjs` turns `stories/*.md` episodes into mp3 files in `narration/` (gitignored),
+fully offline, with a free Piper voice. Setup and usage are at the top of the script; e.g.
+`npm run narration -- --only amos-episode-1`. Roughly 0.5 MB per spoken minute at 64 kbps mono
+(Amos episode 1: 5.6 min, 2.7 MB), so all episodes would add a lot to the APK; host them or pick a few.
+The app is unchanged: `AUDIO_ENABLED` stays `false` and no player UI was added.
