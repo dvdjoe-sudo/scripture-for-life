@@ -520,7 +520,27 @@ try {
     await visit('#/people/tychicus','.story-step');
     assert.equal((await page.locator('h1').innerText()).trim(),'Tychicus','Tychicus profile renders');
     await visit('#/ephesians/11/5','.gen-narrative');
-    assert.equal(await page.locator('a[href="#/read/50/1"]').count(),1,'Last Ephesians scene continues to Philippians 1');
+    assert.equal(await page.locator('a[href="#/philippians"]').count(),1,'Last Ephesians scene continues to Philippians stories');
+
+    await visit('#/philippians','.gen-episode-tile');
+    assert.equal(await page.locator('.gen-episode-tile').count(),9,'Philippians exposes nine episodes');
+    await visit('#/philippians/1/1','.gen-narrative');
+    assert.equal((await page.locator('.gen-passage').innerText()).trim(),'Philippians 1:1\u20132 \u00b7 BSB','Philippians first scene passage label comes from its scenes data');
+    assert.equal(await page.locator('a[href="#/people/paul"]').count(),1,'Philippians first scene links Paul inline');
+    assert.equal(await page.locator('a[href="#/people/lydia"]').count(),1,'Philippians first scene links Lydia inline');
+    await visit('#/philippians/5/1','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/timothy"]').count(),1,'Philippians Timothy scene links Timothy inline');
+    await visit('#/philippians/5/3','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/epaphroditus"]').count(),1,'Philippians Epaphroditus scene links Epaphroditus inline');
+    await visit('#/people/epaphroditus','.story-step');
+    assert.equal((await page.locator('h1').innerText()).trim(),'Epaphroditus','Epaphroditus profile renders');
+    await visit('#/people/euodia','.story-step');
+    assert.equal((await page.locator('h1').innerText()).trim(),'Euodia','Euodia profile renders');
+    await visit('#/people/syntyche','.story-step');
+    assert.equal((await page.locator('h1').innerText()).trim(),'Syntyche','Syntyche profile renders');
+    await visit('#/philippians/9/5','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/lydia"]').count(),1,'Philippians last scene links Lydia inline');
+    assert.equal(await page.locator('a[href="#/read/51/1"]').count(),1,'Last Philippians scene continues to Colossians 1');
     await visit('#/people/sosthenes','.story-step');
     assert.match(await page.locator('h1').innerText(),/Sosthenes/,'Sosthenes profile renders');
     if(AUDIO){
