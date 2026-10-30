@@ -558,6 +558,18 @@ try {
     assert.equal((await page.locator('h1').innerText()).trim(),'Onesimus','Onesimus profile renders');
     await visit('#/colossians/9/5','.gen-narrative');
     assert.equal(await page.locator('a[href="#/read/52/1"]').count(),1,'Last Colossians scene continues to 1 Thessalonians 1');
+    await visit('#/colossians/9/3','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/mark"]').count(),1,'Colossians greeting scene links Mark inline after the people audit');
+    await visit('#/people/mark','.story-step');
+    assert.equal((await page.locator('h1').innerText()).trim(),'Mark','Mark profile renders');
+    await visit('#/people/luke','.story-step');
+    assert.equal((await page.locator('h1').innerText()).trim(),'Luke','Luke profile renders');
+    await visit('#/people/noah','.story-step');
+    assert.equal((await page.locator('h1').innerText()).trim(),'Noah','Noah profile renders');
+    await visit('#/people/eve','.story-step');
+    assert.equal((await page.locator('h1').innerText()).trim(),'Eve','Eve profile renders');
+    await visit('#/people/judas-iscariot','.story-step');
+    assert.equal((await page.locator('h1').innerText()).trim(),'Judas Iscariot','Judas Iscariot profile renders');
     await visit('#/people/sosthenes','.story-step');
     assert.match(await page.locator('h1').innerText(),/Sosthenes/,'Sosthenes profile renders');
     if(AUDIO){
