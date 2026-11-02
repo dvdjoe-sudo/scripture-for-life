@@ -643,7 +643,17 @@ try {
     await visit('#/people/cain','.story-step');
     assert.match(await page.locator('h1').innerText(),/Cain/,'Cain profile renders');
     await visit('#/john1/14/5','.gen-narrative');
-    assert.equal(await page.locator('a[href="#/read/63/1"]').count(),1,'Last 1 John scene continues to 2 John 1');
+    assert.equal(await page.locator('a[href="#/john2"]').count(),1,'Last 1 John scene continues to 2 John stories');
+    await visit('#/john2','.gen-episode-tile');
+    assert.equal(await page.locator('.gen-episode-tile').count(),3,'2 John book exposes three episode tiles');
+    await visit('#/john2/1/1','.gen-narrative');
+    assert.equal((await page.locator('.gen-passage').innerText()).trim(),'2 John 1:1 · BSB','2 John episode 1 scene 1 passage label renders');
+    await visit('#/john2/1/3','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/jesus"]').count(),1,'2 John greeting scene links Jesus inline');
+    await visit('#/john2/3/1','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/jesus"]').count(),1,'2 John deceivers scene links Jesus inline');
+    await visit('#/john2/3/5','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/read/64/1"]').count(),1,'Last 2 John scene continues to 3 John 1');
     await visit('#/people/mark','.story-step');
     assert.equal((await page.locator('h1').innerText()).trim(),'Mark','Mark profile renders');
     await visit('#/people/luke','.story-step');
