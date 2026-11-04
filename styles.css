@@ -96,7 +96,7 @@ html[data-theme=dark] .icon-btn.is-saved svg{color:#e58b92}
 .home-page .continue-card .topic-icon{margin:0;flex:none;width:30px;height:30px}
 .home-page .continue-card .eyebrow{display:inline;margin:0;font-size:10px}
 .home-page .continue-card h3{display:inline;margin:0;font-size:14px}
-.home-page .continue-card p{display:none}
+.home-page .continue-card p{display:block;margin:0;font-size:11px;color:var(--muted)}
 .home-page .continue-card .arrow{position:static;margin-left:auto;transform:none}
 .home-page .continue-card .continue-text{display:flex;flex-direction:column;gap:1px;min-width:0}
 .book-group{grid-column:1/-1;margin:14px 0 2px;font-family:var(--serif)}
