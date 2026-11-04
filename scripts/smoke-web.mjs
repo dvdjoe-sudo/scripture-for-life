@@ -687,7 +687,17 @@ try {
     await visit('#/people/michael','.story-step');
     assert.match(await page.locator('h1').innerText(),/Michael/,'Michael profile renders');
     await visit('#/jude/7/4','.gen-narrative');
-    assert.equal(await page.locator('a[href="#/read/54/1"]').count(),1,'Last Jude scene continues to 1 Timothy 1');
+    assert.equal(await page.locator('a[href="#/timothy1"]').count(),1,'Last Jude scene continues to 1 Timothy stories');
+    await visit('#/timothy1','.gen-episode-tile');
+    assert.equal(await page.locator('.gen-episode-tile').count(),17,'1 Timothy book exposes seventeen episode tiles');
+    await visit('#/timothy1/1/1','.gen-narrative');
+    assert.equal((await page.locator('.gen-passage').innerText()).trim(),'1 Timothy 1:1 · BSB','1 Timothy episode 1 scene 1 passage label renders');
+    await visit('#/timothy1/2/1','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/timothy"]').count(),1,'1 Timothy charge scene links Timothy inline');
+    await visit('#/timothy1/16/3','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/people/pilate"]').count(),1,'1 Timothy confession scene links Pilate inline');
+    await visit('#/timothy1/17/4','.gen-narrative');
+    assert.equal(await page.locator('a[href="#/read/55/1"]').count(),1,'Last 1 Timothy scene continues to 2 Timothy 1');
     await visit('#/people/mark','.story-step');
     assert.equal((await page.locator('h1').innerText()).trim(),'Mark','Mark profile renders');
     await visit('#/people/luke','.story-step');
