@@ -32,41 +32,62 @@
   <main id="main" class="privacy">
     <p class="eyebrow">Scripture for Life</p>
     <h1>Privacy Policy</h1>
-    <p class="meta">Effective date: November 4, 2026 (America/Los_Angeles). Applies to the website at
+    <p class="meta">Effective date: November 4, 2026 (America/Los_Angeles). Updated the same day for the 0.6.0 Android APK audit and user-controlled backup. Applies to the website at
       <a href="https://dvdjoe-sudo.github.io/scripture-for-life/">dvdjoe-sudo.github.io/scripture-for-life</a>
       and the Android app <strong>Scripture for Life</strong> (package <code>com.scriptureforlife.bible</code>).</p>
 
     <h2>Summary</h2>
-    <p>Scripture for Life is a Bible reading and study app. It does <strong>not</strong> require an account,
-      does <strong>not</strong> sell personal information, and does <strong>not</strong> operate its own analytics,
-      advertising, or user-tracking backend. Notes and bookmarks stay on your device.</p>
+    <p><strong>Scripture for Life is completely free.</strong> There are <strong>no ads</strong>,
+      <strong>no data tracking or analytics</strong>, and <strong>no sign-in or accounts</strong>.
+      Notes, bookmarks, and preferences stay <strong>on your device only</strong> unless
+      <em>you</em> choose to export a backup file somewhere you pick. The project does not sell personal
+      information and does not operate its own analytics, advertising, or user-tracking backend.</p>
 
     <h2>Information stored on your device</h2>
-    <p>The app and website store the following in <strong>local browser / WebView storage</strong> on your device only:</p>
+    <p>The app and website store the following in <strong>local browser / WebView storage</strong>
+      (<code>localStorage</code> keys prefixed with <code>scripture-for-life.</code>) on your device:</p>
     <ul>
-      <li>Saved verses (bookmarks) and optional personal reflection notes</li>
+      <li>Saved verses (bookmarks / favorites) and optional personal reflection notes</li>
+      <li>Story-scene reflection notes and episode progress markers</li>
       <li>Reading place / resume markers (for example last reader chapter or story scene)</li>
       <li>Theme preference (light / dark) and text-size preference</li>
-      <li>Simple reading streak or progress markers used in the interface</li>
+      <li>Simple reading streak, autoplay, topic-scroll, and related UI preferences</li>
     </ul>
     <p>This data is <strong>not uploaded</strong> to Scripture for Life servers. The project does not provide
       cloud sync or accounts. Clearing site or app storage, uninstalling the app, or using another device
       removes or isolates that data. Other people who use the same browser profile or device may be able
       to see locally stored notes.</p>
+    <p>On Android, the app allows the system <strong>Auto Backup</strong> flag
+      (<code>android:allowBackup="true"</code>). If you have device backup enabled, Android may include app
+      WebView / local storage in your personal device backups (for example to your Google account). That is
+      controlled by the operating system and your backup settings, not by a Scripture for Life server.</p>
+
+    <h2>User-controlled backup (export / import)</h2>
+    <p>From About, you can <strong>Export backup</strong> to create a JSON file of all
+      <code>scripture-for-life.*</code> local data, then use your device’s share sheet or file save to store
+      it in Google Drive, Dropbox, email, Files, or another place <strong>you</strong> choose.
+      Scripture for Life does <strong>not</strong> provide a built-in cloud backup service and does not
+      receive that file. <strong>Import backup</strong> restores from a file you select, after validation
+      and your confirmation that existing local data may be replaced. Only backups that match this app’s
+      format are accepted.</p>
 
     <h2>Internet use</h2>
-    <p>Based on the current code:</p>
+    <p>Based on an audit of the 0.6.0 Android web bundle and website code (no third-party CDN fonts,
+      analytics SDKs, ads, or tracking pixels are loaded by this project):</p>
     <ul>
       <li><strong>First-party content:</strong> Bible text, stories, art, and scripts are packaged with the
         website or Android web bundle. Opening chapters loads bundled <code>data/bible.json</code> (and related
         assets) from the app or site itself—not from a third-party Bible API.</li>
-      <li><strong>Optional outbound links:</strong> Some About and study pages link to public sources such as
-        berean.bible or biblehub.com. Following those links leaves this app and is governed by those sites’
-        policies.</li>
-      <li><strong>Sharing:</strong> If you use Share, the Android system share sheet may send content you choose
-        to another app you pick. Scripture for Life does not receive that share.</li>
+      <li><strong>Optional outbound links:</strong> Some About, reader, and study pages link to public sources
+        including <code>berean.bible</code>, <code>bereanbible.com</code>, and <code>biblehub.com</code>.
+        Following those links leaves this app and is governed by those sites’ policies.</li>
+      <li><strong>Sharing:</strong> If you use Share (verses or a backup), the Android Capacitor Share plugin
+        or system share sheet may send content you choose to another app you pick. Verse shares may include
+        a public website URL (<code>https://dvdjoe-sudo.github.io/scripture-for-life/</code>).
+        Scripture for Life does not receive that share.</li>
       <li><strong>Service worker / GitHub Pages (website):</strong> The public website is hosted on GitHub Pages.
-        Loading or updating the site uses GitHub’s hosting infrastructure under GitHub’s terms.</li>
+        Loading or updating the site uses GitHub’s hosting infrastructure under GitHub’s terms.
+        The Android WebView does not register the service worker on its local Capacitor host.</li>
     </ul>
 
     <h2>Text-to-speech (Listen)</h2>
@@ -76,10 +97,14 @@
       Life server. You can read all text without using Listen.</p>
 
     <h2>Permissions (Android)</h2>
-    <p>The Android app requests <strong>Internet</strong> so the WebView can load packaged assets and so that
-      optional system TTS or outbound links can work when the device needs network access. The app does
-      <strong>not</strong> use a local-notifications plugin and does not schedule push or daily reminder
-      notifications in the current code.</p>
+    <p>The merged 0.6.0 APK declares <strong>Internet</strong>
+      (<code>android.permission.INTERNET</code>) so the WebView can load packaged assets and so that
+      optional system TTS or outbound links can work when the device needs network access.
+      Build tooling may also add a package-private signature permission used only by the app itself
+      (<code>…DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</code>); it is not a user-facing access grant.
+      The app does <strong>not</strong> include a local-notifications plugin and does not schedule push
+      or daily reminder notifications in the current code. There are no camera, microphone, location,
+      contacts, or storage-access permissions in the merged manifest.</p>
 
     <h2>Children</h2>
     <p>The app is a general audience Bible reader. It does not knowingly collect personal information from
