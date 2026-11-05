@@ -31,10 +31,8 @@ psalm watercolors), so offline behavior is unchanged. What changed is how `VERSI
 ## Capacitor plugins (Android app)
 - **@capacitor/share**: the existing Share buttons call the native Android share sheet in the app
   (`nativeShare()` in `app.js`), then fall back to `navigator.share`, then copy to clipboard on the web.
-- **@capacitor/local-notifications** and **@capacitor/preferences**: installed and synced into the Android
-  build, **not used by any UI yet**. They make a future opt-in "verse of the day" reminder possible
-  (Preferences stores the chosen time; LocalNotifications schedules a daily notification offline).
-  Adding that needs a settings toggle and the Android 13+ notification permission prompt.
+- **@capacitor/preferences** and **@capacitor/share**: synced by `npx cap sync`. Share is used for the native share sheet. **local-notifications was removed** (unused; avoids notification/boot permissions).
+
 
 ## Google Play upload: Gradle Play Publisher (inactive until set up)
 `scripts/android-play-publisher.mjs` adds Gradle Play Publisher plus release signing to the CI-generated

@@ -1,0 +1,26 @@
+# Google Play listing copy — Scripture for Life
+# Short description MUST be ≤ 80 characters (Play Console limit).
+
+SHORT_DESCRIPTION (78 chars):
+Bible help for everyday needs—read BSB Scripture, stories, Psalms, and people.
+
+FULL_DESCRIPTION:
+Scripture for Life is a quiet place to meet God’s Word.
+
+Find encouragement for everyday needs—fear, grief, strength, forgiveness, and more—through curated Berean Standard Bible (BSB) passages. Read the complete 66-book BSB in a simple chapter reader. Explore illustrated Psalms, story journeys, and Bible people profiles that link straight to the verses they summarize.
+
+Features
+• Eight “everyday needs” topic guides with Scripture in context
+• Full BSB reader (public-domain Berean Standard Bible)
+• Illustrated Psalms chapters and selected verse studies
+• Story journeys (including Genesis and other books as available)
+• People profiles with step-by-step scripture links
+• Save verses and write private reflections on your device
+• Dark mode and larger text
+• Listen with your device’s text-to-speech when available
+
+Your notes stay on your device. No account is required. Scripture for Life does not sell your data or run its own ads or analytics backend.
+
+Bible text: Berean Standard Bible (BSB), public domain. Study notes and artwork are original editorial additions, separate from Scripture.
+
+Privacy: https://dvdjoe-sudo.github.io/scripture-for-life/privacy.html
