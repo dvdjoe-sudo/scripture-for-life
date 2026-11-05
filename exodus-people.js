@@ -82,6 +82,7 @@ window.PEOPLE.push(...[
     "intro": "Exodus 15 names Miriam as a prophet and Aaron’s sister. She leads the women with timbrels and dancing after the crossing, giving the rescue a shared voice of remembrance. She appears again in Numbers, in a hard chapter of complaint and intercession, and dies at Kadesh.",
     "reflection": "What would you like to remember with others through gratitude, music, or a shared story?",
     "steps": [
+      ["The sister who watched", "A sister stands at a distance to watch over the basket on the Nile, then steps forward to offer Pharaoh’s daughter a Hebrew nurse, the baby’s own mother. Exodus 2 does not name her; Numbers names Miriam as the sister of Moses and Aaron.", "Exodus 2:4"],
       [
         "A named prophet",
         "Miriam is introduced by name and role as she takes a timbrel. The women follow her with instruments and dancing.",
@@ -96,7 +97,8 @@ window.PEOPLE.push(...[
         "The complaint at Hazeroth",
         "Miriam and Aaron speak against Moses, and Miriam is struck with a skin disease white as snow. Moses cries out for her healing, and all Israel waits seven days until she is restored.",
         "Numbers 12:10"
-      ]
+      ],
+      ["Her death at Kadesh", "Miriam dies at Kadesh and is buried there, near the end of the wilderness years. Micah later names her alongside Moses and Aaron as one of the leaders God sent ahead of Israel.", "Numbers 20:1"]
     ]
   },
   {
@@ -119,7 +121,8 @@ window.PEOPLE.push(...[
         "At the lodging place",
         "Zipporah acts with a flint knife in a terse and troubling encounter. Read Exodus 4:24–26 directly and retain the questions the passage leaves unexplained.",
         "Exodus 4:24"
-      ]
+      ],
+      ["Brought back to the wilderness", "After the exodus, Jethro brings Zipporah and her two sons out to Moses in the wilderness, returning her to the story she had been sent back from.", "Exodus 18:5"]
     ]
   },
   {
@@ -142,7 +145,9 @@ window.PEOPLE.push(...[
         "The boys are allowed to live",
         "The text connects their refusal with fearing God. Pharaoh’s later widened order shows that one act of courage does not remove every danger.",
         "Exodus 1:17"
-      ]
+      ],
+      ["Called back to answer", "Pharaoh calls the midwives in again and demands to know why the boys are living. They answer that the Hebrew women give birth before a midwife can reach them, and Pharaoh does not punish them.", "Exodus 1:18"],
+      ["God deals well with them", "The account says God dealt well with the midwives and gave them families of their own, because they feared God rather than the king.", "Exodus 1:20"]
     ]
   }
 ]);
