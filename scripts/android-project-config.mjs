@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 // Patches the generated android/ project (created by `npx cap add android`) so
-// committed version + SDK targets apply. android/ is gitignored.
+// committed version + SDK targets + launcher icons apply. android/ is gitignored.
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
+import { spawnSync } from 'node:child_process';
 
 const VERSION_NAME = '0.6.0';
 const VERSION_CODE = 2;
@@ -31,3 +32,6 @@ app = app.replace(/versionName\s+"[^"]+"/, `versionName "${VERSION_NAME}"`);
 writeFileSync(appPath, app);
 
 console.log(`Android project configured: compile/targetSdk ${SDK}, versionName ${VERSION_NAME}, versionCode ${VERSION_CODE}`);
+
+const icons = spawnSync(process.execPath, ['scripts/apply-android-icons.mjs'], { stdio: 'inherit' });
+if (icons.status) process.exit(icons.status);

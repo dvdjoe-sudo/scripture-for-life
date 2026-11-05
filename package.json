@@ -15,12 +15,13 @@
     "sw:version": "node scripts/update-sw-version.mjs",
     "narration": "node scripts/piper-narration.mjs",
     "android:config": "node scripts/android-project-config.mjs",
-    "test:readiness": "node scripts/verify-apk-readiness.mjs"
+    "test:readiness": "node scripts/verify-apk-readiness.mjs",
+    "icons:android": "node scripts/generate-android-icons.mjs",
+    "android:icons": "node scripts/apply-android-icons.mjs"
   },
   "dependencies": {
     "@capacitor/android": "^7.0.0",
     "@capacitor/core": "^7.0.0",
-    "@capacitor/local-notifications": "^7.0.7",
     "@capacitor/preferences": "^7.0.4",
     "@capacitor/share": "^7.0.4"
   },
