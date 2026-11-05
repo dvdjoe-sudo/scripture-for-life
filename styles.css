@@ -105,3 +105,13 @@ html[data-theme=dark] .icon-btn.is-saved svg{color:#e58b92}
 .book-group-art .landscape{width:100%;height:100%;display:block}
 .book-group-title{font-size:19px;color:var(--green);border-bottom:2px solid #c9a86a;padding-bottom:3px}
 @media(max-width:760px){.book-group-art{height:84px}}
+
+/* Phone spacing tightening for Psalm verse study (Joe, 2026-11-04: reduce wasted space in the Psalms text; phone first). */
+@media(max-width:760px){
+.study-top{padding-bottom:20px}
+.study-verse .verse-text{font-size:25px;line-height:1.55}
+.study-body{gap:18px;padding-bottom:20px}
+.study-explainer{padding:18px 16px}
+.study-explainer .tab-panel p{line-height:1.7}
+.study-context{padding:20px 0 28px}
+}
