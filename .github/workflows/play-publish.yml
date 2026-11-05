@@ -44,12 +44,13 @@ jobs:
       - uses: android-actions/setup-android@v3
         with:
           packages: 'platform-tools'
-      - run: sdkmanager "platforms;android-35" "build-tools;35.0.0"
+      - run: sdkmanager "platforms;android-36" "build-tools;36.0.0"
       - name: Create Android project and add Play Publisher
         run: |
           npm install --no-audit --no-fund
           npx cap add android
           npm run android:sync
+          npm run android:config
           node scripts/android-play-publisher.mjs
       - name: Check the Play Publisher config loads (no upload)
         if: github.event_name == 'pull_request'

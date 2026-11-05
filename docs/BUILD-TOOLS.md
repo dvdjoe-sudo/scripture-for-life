@@ -57,3 +57,8 @@ fully offline, with a free Piper voice. Setup and usage are at the top of the sc
 `npm run narration -- --only amos-episode-1`. Roughly 0.5 MB per spoken minute at 64 kbps mono
 (Amos episode 1: 5.6 min, 2.7 MB), so all episodes would add a lot to the APK; host them or pick a few.
 The app is unchanged: `AUDIO_ENABLED` stays `false` and no player UI was added.
+
+
+## Android SDK and app version (committed)
+
+`android/` is gitignored and recreated by `npx cap add android`. After sync, run `npm run android:config` (`scripts/android-project-config.mjs`) to set `compileSdkVersion`/`targetSdkVersion` to **36**, `versionName` to the `package.json` release (currently **0.6.0**), and `versionCode` to **2**. The test APK and Play workflows call this automatically. Do not change notification plugin or signing setup here.
