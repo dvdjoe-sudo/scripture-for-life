@@ -1,25 +1,27 @@
 # Google Play listing copy — Scripture for Life
 # Short description MUST be ≤ 80 characters (Play Console limit).
 
-SHORT_DESCRIPTION (78 chars):
-Bible help for everyday needs—read BSB Scripture, stories, Psalms, and people.
+SHORT_DESCRIPTION (74 chars):
+Free Bible app—no ads, no tracking, no account. Notes stay on your device.
 
 FULL_DESCRIPTION:
-Scripture for Life is a quiet place to meet God’s Word.
+Scripture for Life is completely free. There are no ads, no data tracking or analytics, and no sign-in or accounts. Your notes, bookmarks, and preferences stay on your device only.
 
-Find encouragement for everyday needs—fear, grief, strength, forgiveness, and more—through curated Berean Standard Bible (BSB) passages. Read the complete 66-book BSB in a simple chapter reader. Explore illustrated Psalms, story journeys, and Bible people profiles that link straight to the verses they summarize.
+It is a quiet place to meet God’s Word. Find encouragement for everyday needs—fear, grief, strength, forgiveness, and more—through curated Berean Standard Bible (BSB) passages. Read the complete 66-book BSB in a simple chapter reader. Explore illustrated Psalms, story journeys, and Bible people profiles that link straight to the verses they summarize.
 
 Features
+• Completely free — no ads, no tracking, no account
 • Eight “everyday needs” topic guides with Scripture in context
 • Full BSB reader (public-domain Berean Standard Bible)
 • Illustrated Psalms chapters and selected verse studies
 • Story journeys (including Genesis and other books as available)
 • People profiles with step-by-step scripture links
 • Save verses and write private reflections on your device
+• Export / import a JSON backup you save where you choose (Drive, Files, email, etc.) — no built-in cloud service
 • Dark mode and larger text
 • Listen with your device’s text-to-speech when available
 
-Your notes stay on your device. No account is required. Scripture for Life does not sell your data or run its own ads or analytics backend.
+Your data stays on your device unless you export a backup yourself. Scripture for Life does not sell your data.
 
 Bible text: Berean Standard Bible (BSB), public domain. Study notes and artwork are original editorial additions, separate from Scripture.
 

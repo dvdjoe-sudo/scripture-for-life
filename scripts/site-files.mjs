@@ -7,7 +7,7 @@ import { fileURLToPath } from 'node:url';
 export const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
 // Always shipped, even though index.html does not reference them by <script>/<link>.
-export const EXTRA_FILES = ['index.html', 'sw.js'];
+export const EXTRA_FILES = ['index.html', 'sw.js', 'privacy.html'];
 // Copied whole (every file inside, by pattern) so new data/*.json and art need no list edits.
 export const ASSET_DIRS = ['assets', 'data', 'psalms-text'];
 // Paths never shipped (relative to the repo root). Add here rather than editing lists elsewhere.
