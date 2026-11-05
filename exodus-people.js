@@ -65,9 +65,14 @@ window.PEOPLE.push(...[
         "Exodus 12:1"
       ],
       [
-        "The calf, and the consecration",
-        "While Moses is on the mountain, Aaron gives the people the golden calf they demand. He is still consecrated as Israel’s first high priest, and serves at the altar until his death on Mount Hor.",
+        "The golden calf",
+        "While Moses is on the mountain, the people gather against Aaron and demand gods to go before them. Aaron collects their gold earrings, fashions a calf, builds an altar, and proclaims a feast: the lowest moment of his story.",
         "Exodus 32:4"
+      ],
+      [
+        "Consecrated to serve",
+        "Aaron is still consecrated as Israel’s first high priest, clothed and anointed for service at the altar. He serves through the wilderness years and dies on Mount Hor, where his garments pass to his son Eleazar.",
+        "Exodus 28:1"
       ]
     ]
   },
