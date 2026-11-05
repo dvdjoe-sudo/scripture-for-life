@@ -281,6 +281,7 @@ function speakRefs(refs,opts={}){if(!AUDIO_ENABLED)return;stopAudio();if(!('spee
 }
 const SITE_URL='https://dvdjoe-sudo.github.io/scripture-for-life/';
 function shareBase(){return location.protocol==='https:'&&location.hostname!=='localhost'?location.origin+location.pathname:SITE_URL;}
+function nativeBackButton(){const cap=window.Capacitor;if(!cap||typeof cap.isNativePlatform!=='function'||!cap.isNativePlatform())return;const app=cap.Plugins&&cap.Plugins.App;if(!app||typeof app.addListener!=='function')return;app.addListener('backButton',()=>{const open=document.querySelector('dialog[open]');if(open){open.close();return;}const h=(location.hash||'#/');if(h==='#/'||h==='#'||h===''){app.exitApp();}else{history.back();}});}
 function nativeShare(){const cap=window.Capacitor;if(!cap||typeof cap.isNativePlatform!=='function'||!cap.isNativePlatform())return null;const plugin=cap.Plugins&&cap.Plugins.Share;return plugin&&typeof plugin.share==='function'?plugin:null;}
 async function shareContent(title,text,hash){const url=shareBase()+hash,full=`${text}\n\n${url}`;const native=nativeShare();if(native){try{await native.share({title,text,url,dialogTitle:'Share'});return 'shared';}catch(e){if(/cancel/i.test(String(e&&(e.message||e.code)||'')))return 'cancelled';}}if(typeof navigator.share==='function'){try{await navigator.share({title,text,url});return 'shared';}catch(e){if(e&&e.name==='AbortError')return 'cancelled';}}try{await navigator.clipboard.writeText(full);notify('Copied');return 'copied';}catch{const dialog=$('#verse-dialog');$('#dialog-content').innerHTML='<h2 id="dialog-title">Copy to share</h2><p class="small">Select and copy the text below.</p><textarea id="copy-passage" class="note-input" readonly></textarea>';$('#copy-passage').value=full;if(!dialog.open)dialog.showModal();$('#copy-passage').select();return 'manual';}}
 function shareVerse(ref){const text=textFor(ref);if(!text)return;return shareContent(`${ref} (BSB)`,`“${text}”\n— ${ref}, Berean Standard Bible (BSB)`,studyLink(ref)||refURL(ref));}
@@ -321,6 +322,7 @@ document.addEventListener('change',e=>{if(e.target.id==='reader-book')location.h
 document.addEventListener('keydown',e=>{if(e.target.matches('[role="tab"]')&&['ArrowLeft','ArrowRight','Home','End'].includes(e.key)){e.preventDefault();const tabs=[...document.querySelectorAll('[role="tab"]')],i=tabs.indexOf(e.target),next=e.key==='Home'?0:e.key==='End'?tabs.length-1:(i+(e.key==='ArrowRight'?1:-1)+tabs.length)%tabs.length;tabs[next].focus();tabs[next].click();}});
 $('#verse-dialog').addEventListener('close',()=>{stopAudio();if(location.hash==='#/saved')render();});
 window.addEventListener('hashchange',render);
+nativeBackButton();
 window.addEventListener('pagehide',stopAudio);
 window.APP_TEST={AUDIO_ENABLED,nextStudyVerse,nextEpisodeRoute,swipeTarget,updateStreak,shareContent,shareBase,heroVerse,dailyVersePool,episodeChunks,lastPlace,timeAgo,parseReference,resolveBookName,searchTopics,refURL,escapeHTML,home,helpPage,studyPage,studyPanel,readerPage,peoplePage,personPage,savedPage,storyReflections,searchPage,wordSearch,aboutPage,textFor,loadBook};
 render();
