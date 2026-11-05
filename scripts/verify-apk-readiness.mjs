@@ -22,7 +22,7 @@ async function checkAsync(label, fn) {
 
 const bible = JSON.parse(fs.readFileSync(path.join(root, 'data/bible.json'), 'utf8'));
 const pkg = JSON.parse(fs.readFileSync(path.join(root, 'package.json'), 'utf8'));
-check('package.json version is 0.6.0', () => assert.equal(pkg.version, '0.6.0'));
+check('package.json version is 0.7.0', () => assert.equal(pkg.version, '0.7.0'));
 check('android:config script exists', () => assert.ok(fs.existsSync(path.join(root, 'scripts/android-project-config.mjs'))));
 const apkWf = fs.readFileSync(path.join(root, '.github/workflows/android-apk.yml'), 'utf8');
 check('android-apk runs on main', () => assert.match(apkWf, /branches:[\s\S]*main/));
