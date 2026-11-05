@@ -4,8 +4,8 @@
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { spawnSync } from 'node:child_process';
 
-const VERSION_NAME = '0.6.0';
-const VERSION_CODE = 2;
+const VERSION_NAME = '0.7.0';
+const VERSION_CODE = 3;
 const SDK = 36;
 
 const varsPath = 'android/variables.gradle';
