@@ -1,0 +1,357 @@
+{
+  "chapter": 37,
+  "source": "data/bible.json",
+  "status": "writing-only review for verses 21–24; art pending; not a completion checkpoint",
+  "scripture": [
+    [
+      21,
+      "The wicked borrow and do not repay, but the righteous are gracious and giving."
+    ],
+    [
+      22,
+      "Surely those He blesses will inherit the land, but the cursed will be destroyed."
+    ],
+    [
+      23,
+      "The steps of a man are ordered by the LORD who takes delight in his journey."
+    ],
+    [
+      24,
+      "Though he falls, he will not be overwhelmed, for the LORD is holding his hand."
+    ]
+  ],
+  "references": [
+    {
+      "ref": "2 Corinthians 9:7",
+      "usedByVerses": [
+        21
+      ],
+      "context": [
+        [
+          5,
+          "So I thought it necessary to urge the brothers to visit you beforehand and make arrangements for the generous gift you had promised. This way, your gift will be prepared generously and not begrudgingly."
+        ],
+        [
+          6,
+          "Remember this: Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously."
+        ],
+        [
+          7,
+          "Each one should give what he has decided in his heart to give, not out of regret or compulsion. For God loves a cheerful giver."
+        ],
+        [
+          8,
+          "And God is able to make all grace abound to you, so that in all things, at all times, having all that you need, you will abound in every good work."
+        ],
+        [
+          9,
+          "As it is written: “He has scattered abroad His gifts to the poor; His righteousness endures forever.”"
+        ]
+      ]
+    },
+    {
+      "ref": "Proverbs 11:25",
+      "usedByVerses": [
+        21
+      ],
+      "context": [
+        [
+          23,
+          "The desire of the righteous leads only to good, but the hope of the wicked brings wrath."
+        ],
+        [
+          24,
+          "One gives freely, yet gains even more; another withholds what is right, only to become poor."
+        ],
+        [
+          25,
+          "A generous soul will prosper, and he who refreshes others will himself be refreshed."
+        ],
+        [
+          26,
+          "The people will curse the hoarder of grain, but blessing will crown the one who sells it."
+        ],
+        [
+          27,
+          "He who searches out good finds favor, but evil will come to him who seeks it."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 112:5",
+      "usedByVerses": [
+        21
+      ],
+      "context": [
+        [
+          3,
+          "Wealth and riches are in his house, and his righteousness endures forever."
+        ],
+        [
+          4,
+          "Light dawns in the darkness for the upright—for the gracious, compassionate, and righteous."
+        ],
+        [
+          5,
+          "It is well with the man who is generous and lends freely, whose affairs are guided by justice."
+        ],
+        [
+          6,
+          "Surely he will never be shaken; the righteous man will be remembered forever."
+        ],
+        [
+          7,
+          "He does not fear bad news; his heart is steadfast, trusting in the LORD."
+        ]
+      ]
+    },
+    {
+      "ref": "Deuteronomy 30:19",
+      "usedByVerses": [
+        22
+      ],
+      "context": [
+        [
+          17,
+          "But if your heart turns away and you do not listen, but are drawn away to bow down to other gods and worship them,"
+        ],
+        [
+          18,
+          "I declare to you today that you will surely perish; you shall not prolong your days in the land that you are crossing the Jordan to possess."
+        ],
+        [
+          19,
+          "I call heaven and earth as witnesses against you today that I have set before you life and death, blessing and cursing. Therefore choose life, so that you and your descendants may live,"
+        ],
+        [
+          20,
+          "and that you may love the LORD your God, obey Him, and hold fast to Him. For He is your life, and He will prolong your life in the land that the LORD swore to give to your fathers, to Abraham, Isaac, and Jacob.”"
+        ]
+      ]
+    },
+    {
+      "ref": "Galatians 3:13",
+      "usedByVerses": [
+        22
+      ],
+      "context": [
+        [
+          11,
+          "Now it is clear that no one is justified before God by the law, because, “The righteous will live by faith.”"
+        ],
+        [
+          12,
+          "The law, however, is not based on faith; on the contrary, “The man who does these things will live by them.”"
+        ],
+        [
+          13,
+          "Christ redeemed us from the curse of the law by becoming a curse for us. For it is written: “Cursed is everyone who is hung on a tree.”"
+        ],
+        [
+          14,
+          "He redeemed us in order that the blessing promised to Abraham would come to the Gentiles in Christ Jesus, so that by faith we might receive the promise of the Spirit."
+        ],
+        [
+          15,
+          "Brothers, let me put this in human terms. Even a human covenant, once it is ratified, cannot be canceled or amended."
+        ]
+      ]
+    },
+    {
+      "ref": "Proverbs 3:33",
+      "usedByVerses": [
+        22
+      ],
+      "context": [
+        [
+          31,
+          "Do not envy a violent man or choose any of his ways;"
+        ],
+        [
+          32,
+          "for the LORD detests the perverse, but He is a friend to the upright."
+        ],
+        [
+          33,
+          "The curse of the LORD is on the house of the wicked, but He blesses the home of the righteous."
+        ],
+        [
+          34,
+          "He mocks the mockers, but gives grace to the humble."
+        ],
+        [
+          35,
+          "The wise will inherit honor, but fools are held up to shame."
+        ]
+      ]
+    },
+    {
+      "ref": "Proverbs 16:9",
+      "usedByVerses": [
+        23
+      ],
+      "context": [
+        [
+          7,
+          "When a man’s ways please the LORD, He makes even the man’s enemies live at peace with him."
+        ],
+        [
+          8,
+          "Better a little with righteousness than great gain with injustice."
+        ],
+        [
+          9,
+          "A man’s heart plans his course, but the LORD determines his steps."
+        ],
+        [
+          10,
+          "A divine verdict is on the lips of a king; his mouth must not betray justice."
+        ],
+        [
+          11,
+          "Honest scales and balances are from the LORD; all the weights in the bag are His concern."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 119:133",
+      "usedByVerses": [
+        23
+      ],
+      "context": [
+        [
+          131,
+          "I open my mouth and pant, longing for Your commandments."
+        ],
+        [
+          132,
+          "Turn to me and show me mercy, as You do to those who love Your name."
+        ],
+        [
+          133,
+          "Order my steps in Your word; let no sin rule over me."
+        ],
+        [
+          134,
+          "Redeem me from the oppression of man, that I may keep Your precepts."
+        ],
+        [
+          135,
+          "Make Your face shine upon Your servant, and teach me Your statutes."
+        ]
+      ]
+    },
+    {
+      "ref": "Jeremiah 10:23",
+      "usedByVerses": [
+        23
+      ],
+      "context": [
+        [
+          21,
+          "For the shepherds have become senseless; they do not seek the LORD. Therefore they have not prospered, and all their flock is scattered."
+        ],
+        [
+          22,
+          "Listen! The sound of a report is coming—a great commotion from the land to the north. It will make the cities of Judah a desolation, a haunt for jackals."
+        ],
+        [
+          23,
+          "I know, O LORD, that a man’s way is not his own; no one who walks directs his own steps."
+        ],
+        [
+          24,
+          "Correct me, O LORD, but only with justice—not in Your anger, or You will bring me to nothing."
+        ],
+        [
+          25,
+          "Pour out Your wrath on the nations that do not acknowledge You, and on the families that do not call on Your name. For they have devoured Jacob; they have consumed him and finished him off; they have devastated his homeland."
+        ]
+      ]
+    },
+    {
+      "ref": "Isaiah 41:13",
+      "usedByVerses": [
+        24
+      ],
+      "context": [
+        [
+          11,
+          "Behold, all who rage against you will be ashamed and disgraced; those who contend with you will be reduced to nothing and will perish."
+        ],
+        [
+          12,
+          "You will seek them but will not find them. Those who wage war against you will come to nothing."
+        ],
+        [
+          13,
+          "For I am the LORD your God, who takes hold of your right hand and tells you: Do not fear, I will help you."
+        ],
+        [
+          14,
+          "Do not fear, O Jacob, you worm, O few men of Israel. I will help you,” declares the LORD. “Your Redeemer is the Holy One of Israel."
+        ],
+        [
+          15,
+          "Behold, I will make you into a threshing sledge, new and sharp, with many teeth. You will thresh the mountains and crush them, and reduce the hills to chaff."
+        ]
+      ]
+    },
+    {
+      "ref": "Proverbs 24:16",
+      "usedByVerses": [
+        24
+      ],
+      "context": [
+        [
+          14,
+          "Know therefore that wisdom is sweet to your soul. If you find it, there is a future for you, and your hope will never be cut off."
+        ],
+        [
+          15,
+          "Do not lie in wait, O wicked man, near the dwelling of the righteous; do not destroy his resting place."
+        ],
+        [
+          16,
+          "For though a righteous man may fall seven times, he still gets up; but the wicked stumble in bad times."
+        ],
+        [
+          17,
+          "Do not gloat when your enemy falls, and do not let your heart rejoice when he stumbles,"
+        ],
+        [
+          18,
+          "or the LORD will see and disapprove, and turn His wrath away from him."
+        ]
+      ]
+    },
+    {
+      "ref": "Psalm 145:14",
+      "usedByVerses": [
+        24
+      ],
+      "context": [
+        [
+          12,
+          "to make known to men Your mighty acts and the glorious splendor of Your kingdom."
+        ],
+        [
+          13,
+          "Your kingdom is an everlasting kingdom, and Your dominion endures through all generations. The LORD is faithful in all His words and kind in all His actions."
+        ],
+        [
+          14,
+          "The LORD upholds all who fall and lifts up all who are bowed down."
+        ],
+        [
+          15,
+          "The eyes of all look to You, and You give them their food in season."
+        ],
+        [
+          16,
+          "You open Your hand and satisfy the desire of every living thing."
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chapter": 37,
+  "status": "partial unpublished illustration checkpoint; published text unchanged",
+  "completedThrough": 20,
+  "totalVerses": 40,
+  "groups": [
+    {
+      "file": "verses-1-8.json",
+      "from": 1,
+      "through": 8,
+      "status": "editorial and individual art reviewed"
+    },
+    {
+      "file": "verses-9-12.json",
+      "from": 9,
+      "through": 12,
+      "status": "editorial and individual art reviewed"
+    },
+    {
+      "file": "verses-13-16.json",
+      "from": 13,
+      "through": 16,
+      "status": "editorial and individual art reviewed"
+    },
+    {
+      "file": "verses-17-20.json",
+      "from": 17,
+      "through": 20,
+      "status": "editorial and individual art reviewed"
+    }
+  ],
+  "nextVerse": 21
+}
+
