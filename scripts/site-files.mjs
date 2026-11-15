@@ -7,7 +7,7 @@ import { fileURLToPath } from 'node:url';
 export const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
 // Always shipped, even though index.html does not reference them by <script>/<link>.
-export const EXTRA_FILES = ['index.html', 'sw.js', 'icon-192.png', 'icon-512.png', 'icon-maskable-512.png'];
+export const EXTRA_FILES = ['index.html', 'sw.js', 'icon-192.png', 'icon-512.png', 'icon-maskable-512.png', 'people-cards.js', 'exodus-people.js', 'judges-people.js', 'genesis-people.js', 'joshua-people.js', 'ruth-people.js', 'samuel1-people.js', 'samuel2-people.js', 'kings1-people.js', 'kings2-people.js', 'jonah-people.js', 'amos-people.js', 'hosea-people.js', 'isaiah-people.js', 'micah-people.js', 'nahum-people.js', 'zephaniah-people.js', 'jeremiah-people.js', 'habakkuk-people.js', 'obadiah-people.js', 'ezekiel-people.js', 'daniel-people.js', 'haggai-people.js', 'zechariah-people.js', 'joel-people.js', 'malachi-people.js', 'chronicles-people.js', 'ezra-people.js', 'esther-people.js', 'nehemiah-people.js', 'job-people.js', 'matthew-people.js', 'luke-people.js', 'john-people.js', 'acts-people.js', 'corinthians1-people.js', 'corinthians2-people.js', 'romans-people.js', 'ephesians-people.js', 'philippians-people.js', 'colossians-people.js', 'philemon-people.js', 'hebrews-people.js', 'peter2-people.js', 'john1-people.js', 'john3-people.js', 'jude-people.js', 'timothy2-people.js', 'revelation-people.js', 'audit-people.js', 'leviticus-people.js', 'numbers-people.js'];
 // Copied whole (every file inside, by pattern) so new data/*.json and art need no list edits.
 export const ASSET_DIRS = ['assets', 'data', 'psalms-text'];
 // Paths never shipped (relative to the repo root). Add here rather than editing lists elsewhere.

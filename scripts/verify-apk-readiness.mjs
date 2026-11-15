@@ -116,6 +116,15 @@ try {
     assert.ok(titles.length >= 1, JSON.stringify(titles));
   });
 
+  // People profiles load lazily: pull every file the card registry names, then inventory.
+  await checkAsync('all people files load on demand (51 files, 132 profiles)', async () => {
+    const files = await page.evaluate(() => [...new Set((window.PEOPLE_CARDS || []).map(c => c.file))]);
+    assert.equal(files.length, 51, 'expected 51 people files in the card registry, got ' + files.length);
+    for (const f of files) {
+      await page.evaluate(src => new Promise((resolve, reject) => { const el = document.createElement('script'); el.src = src; el.onload = resolve; el.onerror = () => reject(new Error('failed to load ' + src)); document.head.appendChild(el); }), f);
+    }
+  });
+
   // All people step refs
   const peopleRefs = await page.evaluate(() => {
     const out = [];
@@ -127,6 +136,12 @@ try {
     return out;
   });
   check(`people ref inventory (${peopleRefs.length})`, () => assert.ok(peopleRefs.length >= 500, `expected ~575, got ${peopleRefs.length}`));
+  const stepCounts = await page.evaluate(() => { const out = {}; for (const p of window.PEOPLE) { const n = (p.steps || []).length; if (n > (out[p.id] || 0)) out[p.id] = n; } return out; });
+  const fixture = JSON.parse(fs.readFileSync(path.join(root, 'scripts', 'people-step-counts.json'), 'utf8'));
+  check('people step counts match the pre-lazy fixture (132 profiles, 586 steps)', () => {
+    assert.equal(Object.keys(stepCounts).length, 132, 'expected 132 profiles, got ' + Object.keys(stepCounts).length);
+    for (const [id, n] of Object.entries(fixture)) assert.equal(stepCounts[id], n, id + ' has ' + stepCounts[id] + ' steps, fixture says ' + n);
+  });
   let peopleFail = 0;
   const peopleFailSamples = [];
   for (const { person, ref } of peopleRefs) {
