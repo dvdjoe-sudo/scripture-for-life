@@ -782,7 +782,6 @@ try {
     await page.locator('#verse-dialog[open]').waitFor();
     await page.keyboard.press('Escape');
     await page.waitForFunction(()=>!document.querySelector('#verse-dialog').open);
-    await page.waitForTimeout(500);
     await page.goBack();
     await page.waitForFunction(()=>location.hash!=='#/read/19/23');
     await visit('#/read/19/23','.reader-verse');
