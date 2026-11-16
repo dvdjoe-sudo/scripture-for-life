@@ -765,6 +765,36 @@ try {
     for(const action of ['save','copy-verse',...(AUDIO?['listen-verse']:[]),'save-note'])assert.equal(await page.locator('#dialog-content [data-action="'+action+'"]').count()>0,true,'Verse popup offers '+action);
     assert.equal(await page.locator('#dialog-content textarea').count(),1,'Verse popup offers a reflection');
     await page.locator('[data-action="close-dialog"]').first().click();
+    // Verse dialog Back behavior: Back closes the dialog in place; dismissal closes leave no phantom step.
+    await visit('#/read/19/23','.reader-verse');
+    await page.evaluate(()=>window.scrollTo(0,300));
+    const readerScroll=await page.evaluate(()=>window.scrollY);
+    await page.locator('.reader-verse').first().click();
+    await page.locator('#verse-dialog[open]').waitFor();
+    await page.goBack();
+    await page.waitForFunction(()=>!document.querySelector('#verse-dialog').open);
+    assert.equal(await page.evaluate(()=>location.hash),'#/read/19/23','Back closes the verse dialog without leaving the reader');
+    assert.equal(await page.evaluate(()=>window.scrollY),readerScroll,'Back-close keeps the reader scroll position');
+    await page.goBack();
+    await page.waitForFunction(()=>location.hash!=='#/read/19/23');
+    await visit('#/read/19/23','.reader-verse');
+    await page.locator('.reader-verse').first().click();
+    await page.locator('#verse-dialog[open]').waitFor();
+    await page.keyboard.press('Escape');
+    await page.waitForFunction(()=>!document.querySelector('#verse-dialog').open);
+    await page.goBack();
+    await page.waitForFunction(()=>location.hash!=='#/read/19/23');
+    await visit('#/read/19/23','.reader-verse');
+    await page.locator('.reader-verse').first().click();
+    await page.locator('#verse-dialog[open]').waitFor();
+    await page.locator('[data-action="close-dialog"]').first().click();
+    await page.locator('.reader-verse').nth(1).click();
+    await page.locator('#verse-dialog[open]').waitFor();
+    await page.waitForTimeout(700);
+    assert.equal(await page.locator('#verse-dialog[open]').count(),1,'Reopened verse dialog survives the pending consume step');
+    await page.goBack();
+    await page.waitForFunction(()=>!document.querySelector('#verse-dialog').open);
+    assert.equal(await page.evaluate(()=>location.hash),'#/read/19/23','Back closes the reopened dialog without leaving the reader');
     // Share: navigator.share with text, BSB reference and link; falls back to Copy with a "Copied" toast.
     await page.evaluate(()=>{window.__shared=[];window.__clip=[];navigator.share=async d=>{window.__shared.push(d);};Object.defineProperty(navigator,'clipboard',{configurable:true,value:{writeText:async t=>{window.__clip.push(t);}}});});
     await page.evaluate(()=>{location.hash='#/study/23/1';});
